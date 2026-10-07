@@ -1,0 +1,22 @@
+{
+  "stage": "SUB51D_FULL_TEXT_APPLY",
+  "source_sub50_sha256": "5a750d02fc701c110106711dedfc3e19b34b32f1833ccbef811f3d55441f87b9",
+  "final_iso_size": 1215064064,
+  "final_iso_sha256": "7138f8c35bacaafab85ff50c12daf0620030cb9b44e7b7bf242168c20c91e845",
+  "chatgpt_translations": 1140,
+  "boot_occurrences_patched": 1223,
+  "tbl_occurrences_patched": 32,
+  "tbl_resources_rebuilt": 18,
+  "existing_mapping_chars": 711,
+  "new_mapping_chars": 106,
+  "combined_mapping_chars": 817,
+  "strict_safe_slots_available_before": 394,
+  "non_target_primary_preserved": 626,
+  "pmf_movies_preserved": 24,
+  "translation_engine": "ChatGPT",
+  "bc250_used": false,
+  "local_llm_used": false,
+  "game_text_static_qa": "PASS",
+  "runtime_qa": "DEFERRED_UNTIL_UI_IMAGE_SWEEP_COMPLETE",
+  "note": "All 1140 ChatGPT-translated candidates applied. U+00B7 separator is emitted as ASCII slash to avoid any CP932 donor-glyph collision."
+}

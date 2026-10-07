@@ -1,0 +1,14 @@
+﻿texture	japanese	korean	uv	font_size
+TEX_yellow_ko	メニュー	메뉴	0,0,96,18	15.0
+TEX_yellow_ko	ステータス	상태	0,18,96,18	15.0
+TEX_yellow_ko	アイテム	아이템	0,36,96,18	15.0
+TEX_yellow_ko	スキル	스킬	0,54,96,18	15.0
+TEX_yellow_ko	誰に使う？	누구에게 사용?	0,72,96,18	13.5
+TEX_yellow_ko	どれに変更？	무엇으로 변경?	0,90,114,18	15.0
+TEX_yellow_ko	隊長能力	대장 능력	0,110,96,18	15.0
+TEX_yellow_ko	隊長	대장	96,0,78,18	15.0
+TEX_yellow_ko	隊員	대원	96,18,78,18	15.0
+TEX_yellow_ko	小隊	소대	96,36,78,18	15.0
+TEX_yellow_ko	小隊編成	소대 편성	96,54,78,18	15.0
+TEX_yellow_ko	行動選択	행동 선택	96,72,78,18	15.0
+TEX_name_ko	自／綱	지라이야·츠나데	228,48,72,24	9.25

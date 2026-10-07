@@ -1,0 +1,173 @@
+﻿# Naruto PSP MOV05B wrapper - build + smoke ISO + PPSSPP auto-launch
+$ErrorActionPreference="Stop"
+Set-StrictMode -Version 2.0
+
+$Utf8NoBom=New-Object System.Text.UTF8Encoding($false)
+[Console]::InputEncoding=$Utf8NoBom
+[Console]::OutputEncoding=$Utf8NoBom
+$OutputEncoding=$Utf8NoBom
+try { & chcp.com 65001 | Out-Null } catch {}
+
+$Root="D:\narutimate portable"
+$StageDir=Join-Path $Root "analysis\mov\mov05b_dk101_stage37_final"
+$LogsDir=Join-Path $Root "logs"
+$OldRoot=Join-Path $LogsDir "old"
+$Stamp=Get-Date -Format "yyyyMMdd_HHmmss"
+
+$Base="naruto_mov05b_dk101_stage37_final"
+$Transcript=Join-Path $LogsDir ($Base+"_"+$Stamp+".log")
+$FailTranscript=Join-Path $LogsDir ("fail_"+$Base+"_"+$Stamp+".log")
+$UploadZip=Join-Path $LogsDir ($Base+"_upload.zip")
+$FailZip=Join-Path $LogsDir ("fail_"+$Base+"_upload.zip")
+$ArchiveDir=Join-Path (Join-Path $OldRoot $Stamp) "mov05b"
+
+$PyScript=Join-Path $Root "run_naruto_mov05b_dk101_stage37_final.py"
+$FinalIso=Join-Path $StageDir "output\Naruto_KR_MOV05B_dk101_stage37_smoketest.iso"
+
+function Find-PPSSPP {
+    foreach($pn in @("PPSSPPWindows64","PPSSPPWindows")) {
+        try {
+            $proc=Get-Process -Name $pn -ErrorAction SilentlyContinue | Select-Object -First 1
+            if($proc -and $proc.Path -and (Test-Path $proc.Path)){return $proc.Path}
+        } catch {}
+    }
+    foreach($n in @("PPSSPPWindows64.exe","PPSSPPWindows.exe")) {
+        $cmd=Get-Command $n -ErrorAction SilentlyContinue
+        if($cmd -and $cmd.Source -and (Test-Path $cmd.Source)){return $cmd.Source}
+    }
+    try {
+        $p=Get-ChildItem -LiteralPath $Root -File -Recurse -ErrorAction SilentlyContinue |
+            Where-Object { $_.Name -in @("PPSSPPWindows64.exe","PPSSPPWindows.exe") } |
+            Select-Object -First 1
+        if($p){return $p.FullName}
+    } catch {}
+    return $null
+}
+
+function Start-PPSSPPIso([string]$IsoPath) {
+    $exe=Find-PPSSPP
+    if(-not $exe){
+        Write-Warning "PPSSPP not found. ISO build remains PASS."
+        return
+    }
+    try {
+        Write-Host ""
+        Write-Host "Auto-launching PPSSPP:"
+        Write-Host "  $exe"
+        Write-Host "  $IsoPath"
+        Start-Process -FilePath $exe -ArgumentList @("`"$IsoPath`"")
+    } catch {
+        Write-Warning ("PPSSPP launch failed, ISO remains PASS: "+$_.Exception.Message)
+    }
+}
+
+New-Item -ItemType Directory -Force -Path $StageDir,$LogsDir,$OldRoot|Out-Null
+foreach($stale in @((Join-Path $StageDir "FAILURE.txt"),(Join-Path $StageDir "FAILURE_WRAPPER.txt"))){
+    Remove-Item $stale -Force -ErrorAction SilentlyContinue
+}
+
+Start-Transcript -Path $Transcript -Force|Out-Null
+$Success=$false
+
+try{
+    Write-Host "================================================================================"
+    Write-Host " Naruto PSP MOV05B - Stage37 Koreanized dk101 sample"
+    Write-Host "================================================================================"
+
+    if(-not(Test-Path $PyScript)){throw "Missing script: $PyScript"}
+
+    $launcher=Get-Command py.exe -ErrorAction SilentlyContinue
+    if($launcher){
+        & $launcher.Source -3 $PyScript 2>&1 | Out-Host
+        $rc=$LASTEXITCODE
+    }else{
+        $p=Get-Command python.exe -ErrorAction SilentlyContinue
+        if(-not $p){$p=Get-Command python -ErrorAction SilentlyContinue}
+        if(-not $p){throw "Python 3 not found."}
+        & $p.Source $PyScript 2>&1 | Out-Host
+        $rc=$LASTEXITCODE
+    }
+
+    if([int]$rc -ne 0){throw "MOV05B Python exited with code $rc"}
+    if(-not(Test-Path $FinalIso)){throw "MOV05B smoke ISO missing"}
+    $Success=$true
+}catch{
+    Write-Host ""
+    Write-Host "!!!!!!!! MOV05B FAILED !!!!!!!!"
+    Write-Host $_.Exception.Message
+    @("MOV05B FAILED","",$_.Exception.Message,"",($_|Out-String)) |
+      Set-Content (Join-Path $StageDir "FAILURE_WRAPPER.txt") -Encoding UTF8
+}finally{
+    try{Stop-Transcript|Out-Null}catch{}
+
+    if(-not $Success -and (Test-Path $Transcript)){
+        Move-Item $Transcript $FailTranscript -Force
+        $Transcript=$FailTranscript
+    }
+
+    $Pkg=Join-Path $StageDir "_upload_package"
+    if(Test-Path $Pkg){Remove-Item $Pkg -Recurse -Force}
+    New-Item -ItemType Directory -Force -Path $Pkg|Out-Null
+
+    foreach($n in @(
+      "SUMMARY.txt","FAILURE.txt","FAILURE_WRAPPER.txt",
+      "mov05b_result.tsv","local_audio_anchors.tsv"
+    )){
+        $p=Join-Path $StageDir $n
+        if(Test-Path $p){Copy-Item $p $Pkg -Force}
+    }
+
+    $OutDir=Join-Path $StageDir "output"
+    if(Test-Path $OutDir){
+        Get-ChildItem $OutDir -File -ErrorAction SilentlyContinue |
+          Where-Object { $_.Extension -ne ".iso" } |
+          Select-Object Name,Length,LastWriteTime |
+          Format-Table -AutoSize | Out-String |
+          Set-Content (Join-Path $Pkg "LOCAL_OUTPUT_MANIFEST.txt") -Encoding UTF8
+        Get-ChildItem $OutDir -Filter "review_*.jpg" -File -ErrorAction SilentlyContinue |
+          ForEach-Object { Copy-Item $_.FullName $Pkg -Force }
+    }
+
+    $SL=Join-Path $StageDir "logs"
+    if(Test-Path $SL){
+        Get-ChildItem $SL -File -ErrorAction SilentlyContinue |
+          Where-Object { $_.Name -match "09_reflection|10_Mps2Pmf|12_decode|13_probe" } |
+          ForEach-Object { Copy-Item $_.FullName $Pkg -Force }
+    }
+
+    if(Test-Path $Transcript){Copy-Item $Transcript $Pkg -Force}
+    foreach($s in @(
+      $PyScript,
+      (Join-Path $Root "mov05b_proven_movie_core.py"),
+      (Join-Path $Root "invoke_naruto_mov05b_raw_mux.ps1"),
+      (Join-Path $Root "run_naruto_mov05b_dk101_stage37_final.ps1")
+    )){
+        if(Test-Path $s){Copy-Item $s $Pkg -Force}
+    }
+
+    if($Success){
+        if(Test-Path $UploadZip){
+            New-Item -ItemType Directory -Force -Path $ArchiveDir|Out-Null
+            Copy-Item $UploadZip (Join-Path $ArchiveDir ($Base+"_upload.zip")) -Force
+        }
+        Compress-Archive -Path (Join-Path $Pkg "*") -DestinationPath $UploadZip -Force
+        Write-Host ""
+        Write-Host "MOV05B SUCCESS"
+        Write-Host "Smoke ISO:"
+        Write-Host "  $FinalIso"
+        Write-Host "Upload ZIP:"
+        Write-Host "  $UploadZip"
+        Start-PPSSPPIso $FinalIso
+    }else{
+        Compress-Archive -Path (Join-Path $Pkg "*") -DestinationPath $FailZip -Force
+        Write-Host ""
+        Write-Host "MOV05B FAILED"
+        Write-Host "Failure ZIP:"
+        Write-Host "  $FailZip"
+    }
+
+    Remove-Item $Pkg -Recurse -Force -ErrorAction SilentlyContinue
+}
+
+if(-not $Success){exit 1}
+exit 0

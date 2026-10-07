@@ -1,0 +1,18 @@
+{
+  "version": "v0.1.0",
+  "build": "SUB51P_FIX13_FULL_ATLAS",
+  "source_name": "Naruto - Narutimate Portable - Muhwanseongui Gwon (Korea).iso",
+  "source_size": 634257408,
+  "source_sha256": "6510ad253aed3e4a20c87e36844ce5db8794e4daeca0c2e6ba38081dd26745a7",
+  "target_size": 1621979136,
+  "target_sha256": "1029c34956e23d4eee229a40e995f502fa8a2f249487f16de7fb72869d210cdb",
+  "game_id": "ULKS46086",
+  "user_status": "1차 작업 완료 (2026-10-07)",
+  "static_qa": "PASS",
+  "full_playthrough_qa": "NOT_RECORDED",
+  "latest_runtime_qa": "PENDING_IN_BUILD_REPORT",
+  "patch_name": "naruto-korean-v0.1.0.xdelta",
+  "patch_size": 724850977,
+  "patch_sha256": "56c5d99e2d3c0ea13fb88931d1fd7503148ce0c8d6151154914532779041b306",
+  "patch_roundtrip_qa": "PASS"
+}

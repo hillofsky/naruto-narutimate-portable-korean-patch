@@ -1,0 +1,33 @@
+﻿candidate_id	scope	offset	source	korean	old_bytes	new_bytes	status
+C00001	event002.tbl	0x941	「<RED>日向ヒナタ<BLACK>」が仲間に入りました！	「<RED>휴우가 히나타<BLACK>」가 동료가 되었습니다!	46	50	PATCHED
+C00002	event003.tbl	0x124d	「<RED>春野サクラ<BLACK>」が仲間に入りました！	「<RED>하루노 사쿠라<BLACK>」가 동료가 되었습니다!	46	50	PATCHED
+C00003	event003.tbl	0x12a1	「<RED>奈良シカマル<BLACK>」が仲間に入りました！	「<RED>나라 시카마루<BLACK>」가 동료가 되었습니다!	48	50	PATCHED
+C00004	event005.tbl	0xf26	「<RED>犬塚キバ<BLACK>」が仲間に入りました！	「<RED>이누즈카 키바<BLACK>」가 동료가 되었습니다!	44	50	PATCHED
+C00005	event006.tbl	0x631	サクラの指差した先に、一人の女性と<br>それを囲む兵士と侍女らしき姿が見える…。	사쿠라가 가리킨 곳에 한 여성과<br>그녀를 둘러싼 병사와 시녀로 보이는 모습이 보인다….	78	85	PATCHED
+C00006	event006.tbl	0x1beb	「<RED>油女シノ<BLACK>」が仲間に入りました！	「<RED>아부라메 시노<BLACK>」가 동료가 되었습니다!	44	50	PATCHED
+C00007	event008.tbl	0x12f6	「<RED>秋道チョウジ<BLACK>」が仲間に入りました！	「<RED>아키미치 쵸지<BLACK>」가 동료가 되었습니다!	48	50	PATCHED
+C00008	event008.tbl	0x134c	「<RED>山中いの<BLACK>」が仲間に入りました！	「<RED>야마나카 이노<BLACK>」가 동료가 되었습니다!	44	50	PATCHED
+C00009	event009.tbl	0x84e	ナルトたちは無幻城と霧姫のことを<br>ネジとリーに説明した…。	나루토 일행은 무환성과 키리히메에 대해<br>네지와 리에게 설명했다….	60	67	PATCHED
+C00010	event009.tbl	0xd64	「<RED>日向ネジ<BLACK>」が仲間に入りました！	「<RED>휴우가 네지<BLACK>」가 동료가 되었습니다!	44	48	PATCHED
+C00011	event009.tbl	0xdb6	「<RED>ロック・リー<BLACK>」が仲間に入りました！	「<RED>록 리<BLACK>」가 동료가 되었습니다!	48	42	PATCHED
+C00012	event010.tbl	0x54a	ナルトたちの視線の先に<br>花澄姫と幼い女の子が見える…。	나루토 일행의 시선 끝에<br>카스미 공주와 어린 여자아이가 보인다….	56	66	PATCHED
+C00013	event010.tbl	0x2629	仲間の体力とチャクラが全回復した！	동료의 체력과 차크라가 모두 회복되었다!	34	39	PATCHED
+C00014	event010.tbl	0x2a06	「<RED>はたけカカシ<BLACK>」が仲間に入りました！	「<RED>하타케 카카시<BLACK>」가 동료가 되었습니다!	48	50	PATCHED
+C00015	event011.tbl	0x56e	花澄が振り返ると、そこには兵士長と侍女、<br>そして女の子が立っていた。	카스미가 뒤돌아보자 그곳에는 병사장과 시녀,<br>그리고 여자아이가 서 있었다.	70	75	PATCHED
+C00016	event012.tbl	0x7f2	ナルトたちはガイとテンテンに<br>今までのいきさつを説明した…。	나루토 일행은 가이와 텐텐에게<br>지금까지의 사정을 설명했다….	62	62	PATCHED
+C00017	event012.tbl	0x121c	「<RED>はたけカカシ<BLACK>」が仲間から外れました。	「<RED>하타케 카카시<BLACK>」가 동료에서 이탈했습니다.	50	54	PATCHED
+C00018	event012.tbl	0x1274	「<RED>マイト・ガイ<BLACK>」が仲間に入りました！	「<RED>마이트 가이<BLACK>」가 동료가 되었습니다!	48	48	PATCHED
+C00019	event012.tbl	0x12ca	「<RED>テンテン<BLACK>」が仲間に入りました！	「<RED>텐텐<BLACK>」이 동료가 되었습니다!	44	41	PATCHED
+C00020	event014.tbl	0x20b2	「<RED>はたけカカシ<BLACK>」が仲間に復帰しました！	「<RED>하타케 카카시<BLACK>」가 동료로 복귀했습니다!	50	52	PATCHED
+C00021	event016.tbl	0x71a	「<BLUE>おまもり<BLACK>」を入手しました。	「<BLUE>부적<BLACK>」을 입수했습니다.	41	37	PATCHED
+C00022	event017.tbl	0x4cf	「<BLUE>リボン<BLACK>」を入手しました。	「<BLUE>리본<BLACK>」을 입수했습니다.	39	37	PATCHED
+C00023	event019.tbl	0x462	「<BLUE>オルゴール<BLACK>」を入手しました。	「<BLUE>오르골<BLACK>」을 입수했습니다.	43	39	PATCHED
+C00024	event021.tbl	0x29e8	「<RED>うずまきナルト<BLACK>」が仲間から外れました。	「<RED>우즈마키 나루토<BLACK>」가 동료에서 이탈했습니다.	52	56	PATCHED
+C00017	event021.tbl	0x2a42	「<RED>はたけカカシ<BLACK>」が仲間から外れました。	「<RED>하타케 카카시<BLACK>」가 동료에서 이탈했습니다.	50	54	PATCHED
+C00025	event021.tbl	0x2abc	「<RED>砂瀑の我愛羅<BLACK>」が仲間に入りました！	「<RED>사폭의 가아라<BLACK>」가 동료가 되었습니다!	48	50	PATCHED
+C00026	event022.tbl	0x6f8	「<BLUE>心力封印の巻物<BLACK>」を手に入れた。	「<BLUE>심력 봉인의 두루마리<BLACK>」를 손에 넣었다.	45	52	PATCHED
+C00027	event022.tbl	0x185b	「<RED>うずまきナルト<BLACK>」が仲間に復帰しました！	「<RED>우즈마키 나루토<BLACK>」가 동료로 복귀했습니다!	52	54	PATCHED
+C00020	event022.tbl	0x18b5	「<RED>はたけカカシ<BLACK>」が仲間に復帰しました！	「<RED>하타케 카카시<BLACK>」가 동료로 복귀했습니다!	50	52	PATCHED
+C00014	event102.tbl	0xbe6	「<RED>はたけカカシ<BLACK>」が仲間に入りました！	「<RED>하타케 카카시<BLACK>」가 동료가 되었습니다!	48	50	PATCHED
+C00028	event104.tbl	0x15d	カカシは上階で会った霧姫や<br>夕霧城のことについて説明した…。	카카시는 위층에서 만난 키리히메와<br>유우기리성에 대해 설명했다….	62	66	PATCHED
+C00017	event105.tbl	0x14da	「<RED>はたけカカシ<BLACK>」が仲間から外れました。	「<RED>하타케 카카시<BLACK>」가 동료에서 이탈했습니다.	50	54	PATCHED

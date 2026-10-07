@@ -1,0 +1,19 @@
+{
+  "stage": "SUB51P_FIX13_FULL_ATLAS",
+  "source_sub51n_sha256": "8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081",
+  "final_iso_size": 1621979136,
+  "final_iso_sha256": "1029c34956e23d4eee229a40e995f502fa8a2f249487f16de7fb72869d210cdb",
+  "resources_changed": [
+    "gauge.ccs"
+  ],
+  "textures_changed": 3,
+  "textures": [
+    "gauge.ccs/TEX_red",
+    "gauge.ccs/TEX_white",
+    "gauge.ccs/TEX_xpanel"
+  ],
+  "pmf_movies_preserved": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "PENDING",
+  "external_python_packages_required": false
+}

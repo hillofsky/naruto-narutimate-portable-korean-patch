@@ -1,0 +1,1224 @@
+﻿candidate_id	offset	source	korean	max_bytes	new_bytes	status
+C00045	0x2bcca0	お<ruby色気|いろけ>の<ruby術|じゅつ>	색기술	36	6	PATCHED
+C00046	0x2bcce8	<ruby風魔特攻弾|ふうまとっこうだん>	풍마특공탄	35	10	PATCHED
+C00047	0x2bcd4c	うずまき<ruby昇竜|しょうりゅう>	우즈마키 승룡	31	13	PATCHED
+C00048	0x2bcd7c	うずまき<ruby独楽|ごま>	우즈마키 팽이	23	13	PATCHED
+C00049	0x2bcda4	<ruby脳天割|のうてんわ>り	정수리 깨기	25	11	PATCHED
+C00050	0x2bcdd0	<ruby超激打|ちょうげきだ>	초격타	25	6	PATCHED
+C00051	0x2bce0c	<ruby手鞠蹴|てまりげ>り	테마리 차기	23	11	PATCHED
+C00052	0x2bce44	<ruby急降下爆撃|きゅうこうかばくげき>	급강하 폭격	37	11	PATCHED
+C00053	0x2bce8c	<ruby爆裂弾|ばくれつだん>	폭렬탄	25	6	PATCHED
+C00054	0x2bcec8	<ruby分身|ぶんしん>コンボ	분신 콤보	25	9	PATCHED
+C00055	0x2bcf14	<ruby大車輪|だいしゃりん>	대차륜	25	6	PATCHED
+C00056	0x2bcf60	<ruby大風車|だいふうしゃ>	대풍차	25	6	PATCHED
+C00057	0x2bcf9c	<ruby大蹴激|だいしゅうげき>	대축격	27	6	PATCHED
+C00058	0x2bcfe8	<ruby竹蜻蛉|たけとんぼ>	대나무 잠자리	23	13	PATCHED
+C00059	0x2bd0b0	<ruby分身|ぶんしん>	분신	19	4	PATCHED
+C00060	0x2bd0d4	<ruby口寄|くちよ>せ	소환	19	4	PATCHED
+C00061	0x2bd0f8	朱い螺旋丸	붉은나선환	10	10	PATCHED
+C00062	0x2bd104	ナルト	나루토	6	6	PATCHED
+C00063	0x2bd960	<ruby火遁|かとん>　<ruby豪火球|ごうかきゅう>の<ruby術|じゅつ>	화둔 호화구의 술	61	16	PATCHED
+C00064	0x2bd9c0	<ruby無双疾風陣|むそうしっぷうじん>	무쌍질풍진	35	10	PATCHED
+C00065	0x2bda24	<ruby昇火脚|しょうかきゃく>	승화각	27	6	PATCHED
+C00066	0x2bda50	<ruby火砕突|かさいとつ>	화쇄돌	23	6	PATCHED
+C00067	0x2bda78	<ruby旋炎脚|せんえんきゃく>	선염각	27	6	PATCHED
+C00068	0x2bdaa4	<ruby炎連弾|えんれんだん>	염연탄	25	6	PATCHED
+C00069	0x2bdae0	<ruby炎華脚|えんがきゃく>	염화각	25	6	PATCHED
+C00070	0x2bdb1c	<ruby滑背脚|こうはいきゃく>	활배각	27	6	PATCHED
+C00071	0x2bdb58	<ruby跳火蹴|とびひげ>り	도화 차기	23	9	PATCHED
+C00072	0x2bdb90	<ruby背負|せお>い<ruby投|な>げ	업어치기	30	8	PATCHED
+C00073	0x2bdbe0	<ruby火塵乱舞|かじんらんぶ>	화진란무	27	8	PATCHED
+C00074	0x2bdc2c	<ruby烈火乱舞|れっからんぶ>	열화란무	27	8	PATCHED
+C00075	0x2bdc68	<ruby隼落|はやぶさお>とし	매 떨구기	25	9	PATCHED
+C00076	0x2bdcb4	<ruby迸火乱舞|へいからんぶ>	병화란무	27	8	PATCHED
+C00077	0x2bdd80	<ruby連弾|れんだん>	연탄	19	4	PATCHED
+C00078	0x2bdda4	<ruby呪印|じゅいん>	주인	19	4	PATCHED
+C00079	0x2bddc8	黒い千鳥	흑치도리	8	8	PATCHED
+C00080	0x2bddd4	サスケ	사스케	6	6	PATCHED
+C00081	0x2be56c	<ruby木|こ>ノ<ruby葉|は><ruby烈風|れっぷう>	나뭇잎열풍	43	10	PATCHED
+C00082	0x2be5b8	<ruby木|こ>ノ<ruby葉|は><ruby旋風|せんぷう>	나뭇잎선풍	43	10	PATCHED
+C00083	0x2be624	<ruby碧|あお>い<ruby閃光|せんこう>	푸른 섬광	34	9	PATCHED
+C00084	0x2be658	<ruby剛肩突破|ごうけんとっぱ>	강견돌파	29	8	PATCHED
+C00085	0x2be688	<ruby三連剛脚|さんれんごうきゃく>	삼연강각	33	8	PATCHED
+C00086	0x2be6bc	<ruby八仙連弾|はっせんれんだん>	팔선연탄	31	8	PATCHED
+C00087	0x2be6fc	<ruby落葉天舞|らくようてんぶ>	낙엽천무	29	8	PATCHED
+C00088	0x2be73c	<ruby旋風烈破|せんぷうれっぱ>	선풍열파	29	8	PATCHED
+C00089	0x2be77c	<ruby練気拳|れんきけん>	연기권	23	6	PATCHED
+C00090	0x2be7b4	<ruby碧|あお>い<ruby咆哮|ほうこう>	푸른 포효	34	9	PATCHED
+C00091	0x2be808	<ruby碧|あお>い<ruby突風|とっぷう>	푸른 돌풍	34	9	PATCHED
+C00092	0x2be85c	<ruby碧|あお>い<ruby烈風|れっぷう>	푸른 열풍	34	9	PATCHED
+C00093	0x2be8a0	<ruby碧|あお>い<ruby旋風|せんぷう>	푸른 선풍	34	9	PATCHED
+C00094	0x2be8f4	<ruby碧|あお>い<ruby疾風|しっぷう>	푸른 질풍	34	9	PATCHED
+C00095	0x2be9c8	<ruby体術|たいじゅつ>	체술	21	4	PATCHED
+C00096	0x2be9f0	<ruby禁|きん>じ<ruby手体術|てたいじゅつ>	금단 체술	40	9	PATCHED
+C00097	0x2bea34	リー	리	4	2	PATCHED
+C00098	0x2bf1f4	<ruby呪怨砂塵|じゅおんさじん>　<ruby破|は>	주원사진 파	42	11	PATCHED
+C00099	0x2bf240	<ruby呪怨砂塵|じゅおんさじん>　<ruby裂|れつ>	주원사진 열	44	11	PATCHED
+C00100	0x2bf2a0	<ruby翔陣砂|しょうじんさ>	상진사	25	6	PATCHED
+C00101	0x2bf2cc	<ruby波追砂|はついさ>	파추사	21	6	PATCHED
+C00102	0x2bf2f4	<ruby流壁砂|りゅうへきさ>	유벽사	25	6	PATCHED
+C00103	0x2bf330	<ruby縛落砂|ばくらくさ>	박낙사	23	6	PATCHED
+C00104	0x2bf368	<ruby噴塵砂|ふんじんさ>	분진사	23	6	PATCHED
+C00105	0x2bf3a0	<ruby握砂|あくさ>	악사	17	4	PATCHED
+C00106	0x2bf3d4	<ruby瀑流砂|ばくりゅうさ>	폭유사	25	6	PATCHED
+C00107	0x2bf410	<ruby瀑縛砂|ばくばくさ>	폭박사	23	6	PATCHED
+C00108	0x2bf448	<ruby昇瀑砂|しょうばくさ>	승폭사	25	6	PATCHED
+C00109	0x2bf484	<ruby落瀑砂|らくばくさ>	낙폭사	23	6	PATCHED
+C00110	0x2bf4bc	<ruby縛跳砂|ばくちょうさ>	박도사	25	6	PATCHED
+C00111	0x2bf4f8	<ruby空瀑砂|くうばくさ>	공폭사	23	6	PATCHED
+C00112	0x2bf5c0	<ruby砂|すな>	사	13	2	PATCHED
+C00113	0x2bf5e0	<ruby仲間|なかま>	동료	17	4	PATCHED
+C00114	0x2bff48	<ruby影真似|かげまね>　<ruby爆弾|ばくだん>	그림자 흉내 폭탄	42	16	PATCHED
+C00115	0x2bff94	<ruby影真似|かげまね>　クナイ	그림자 흉내 쿠나이	29	18	PATCHED
+C00116	0x2bffe4	<ruby鹿跳|かちょう>	녹도	19	4	PATCHED
+C00117	0x2c0008	<ruby鹿旋|かせん>	녹선	17	4	PATCHED
+C00118	0x2c002c	<ruby鹿落|からく>	녹낙	17	4	PATCHED
+C00119	0x2c0060	<ruby後影拾|ごかげひろ>い	후영 건지기	25	11	PATCHED
+C00120	0x2c009c	<ruby当|あ>て<ruby身|み>	받아치기	24	8	PATCHED
+C00121	0x2c00c8	<ruby待影払|まちかげはら>い	대영 쓸어치기	27	13	PATCHED
+C00122	0x2c0104	<ruby影刈|かがり>	그림자 베기	17	11	PATCHED
+C00123	0x2c0138	<ruby鹿突|かとつ>	녹돌	17	4	PATCHED
+C00124	0x2c016c	<ruby後影|ごかげ>すくい	후영 퍼올리기	23	13	PATCHED
+C00125	0x2c01b4	<ruby昇影|しょうえい>	승영	21	4	PATCHED
+C00126	0x2c01fc	<ruby落影|らくえい>	낙영	19	4	PATCHED
+C00127	0x2c0230	<ruby後影落|ごかげお>とし	후영 떨구기	25	11	PATCHED
+C00128	0x2c027c	<ruby飛影|ひえい>	비영	17	4	PATCHED
+C00129	0x2c0340	チョウジ	쵸지	8	4	PATCHED
+C00130	0x2c035c	<ruby影真似|かげまね>	그림자 흉내	21	11	PATCHED
+C00131	0x2c0384	影首縛りの術	영수박술	12	8	PATCHED
+C00132	0x2c0394	シカマル	시카마루	8	8	PATCHED
+C00133	0x2c0b10	<ruby柔拳乱打|じゅうけんらんだ>	유권란타	31	8	PATCHED
+C00134	0x2c0b50	<ruby回天|かいてん>	회천	19	4	PATCHED
+C00135	0x2c0ba4	<ruby旋昇脚|せんしょうきゃく>	선승각	29	6	PATCHED
+C00136	0x2c0bd4	<ruby小突掌|しょうとつしょう>	소돌장	29	6	PATCHED
+C00137	0x2c0c04	<ruby天降脚|てんこうきゃく>	천강각	27	6	PATCHED
+C00138	0x2c0c30	<ruby旋掌打|せんしょうだ>	선장타	25	6	PATCHED
+C00139	0x2c0c6c	<ruby天昇掌|てんしょうしょう>	천승장	29	6	PATCHED
+C00140	0x2c0cac	<ruby旋落脚|せんらくきゃく>	선낙각	27	6	PATCHED
+C00141	0x2c0ce8	<ruby大突掌|だいとつしょう>	대돌장	27	6	PATCHED
+C00142	0x2c0d24	<ruby経烈撃|けいれつげき>	경열격	25	6	PATCHED
+C00143	0x2c0d60	<ruby天蹴乱舞|てんしゅうらんぶ>	천축란무	31	8	PATCHED
+C00144	0x2c0da0	<ruby天拳乱舞|てんけんらんぶ>	천권란무	29	8	PATCHED
+C00145	0x2c0de0	<ruby衝背双脚|しょうはいそうきゃく>	충배쌍각	35	8	PATCHED
+C00146	0x2c0e24	<ruby天掌乱舞|てんしょうらんぶ>	천장란무	31	8	PATCHED
+C00147	0x2c0f04	<ruby白眼|びゃくがん>	백안	21	4	PATCHED
+C00148	0x2c0f3c	ネジ	네지	4	4	PATCHED
+C00149	0x2c1764	メルヘンゲット	메르헨 겟	14	9	PATCHED
+C00150	0x2c1794	しゃーんなろー！	샤아안나로!	16	11	PATCHED
+C00151	0x2c17e8	<ruby痴漢撃退|ちかんげきたい>コンボ	치한 격퇴 콤보	35	14	PATCHED
+C00152	0x2c181c	<ruby折檻|せっかん>コンボ	절함 콤보	25	9	PATCHED
+C00153	0x2c1848	<ruby断裂|だんれつ>コンボ	단열 콤보	25	9	PATCHED
+C00154	0x2c1874	<ruby乙女|おとめ>の<ruby怒|いか>り	소녀의 분노	34	11	PATCHED
+C00155	0x2c18b8	<ruby乙女|おとめ>の<ruby底力|そこぢから>	소녀의 저력	40	11	PATCHED
+C00156	0x2c1904	<ruby足蹴|あしげ>コンボ	발차기 콤보	23	11	PATCHED
+C00157	0x2c193c	ウザイ<ruby奴撲殺術|やつぼくさつじゅつ>	성가신 놈 박살술	39	16	PATCHED
+C00158	0x2c1984	<ruby悪漢撃退術|あっかんげきたいじゅつ>	악한 격퇴술	39	11	PATCHED
+C00159	0x2c19dc	<ruby空中殺法|くうちゅうさっぽう>　<ruby上|じょう>	공중살법 상	50	11	PATCHED
+C00160	0x2c1a40	<ruby空中殺法|くうちゅうさっぽう>　<ruby下|げ>	공중살법 하	46	11	PATCHED
+C00161	0x2c1a90	<ruby回転殺法|かいてんさっぽう>	회전살법	31	8	PATCHED
+C00162	0x2c1ae0	<ruby空中殺法|くうちゅうさっぽう>　<ruby中|ちゅう>	공중살법 중	50	11	PATCHED
+C00163	0x2c1bc4	ブービートラップ	부비 트랩	16	9	PATCHED
+C00164	0x2c1be8	<ruby内|うち>なるサクラ	내면의 사쿠라	23	13	PATCHED
+C00165	0x2c1c10	乙女の怒り	소녀분노	10	8	PATCHED
+C00166	0x2c1c1c	サクラ	사쿠라	6	6	PATCHED
+C00167	0x2c23f4	<ruby千年殺|せんねんごろ>し	천년 죽이기	27	11	PATCHED
+C00168	0x2c2430	<ruby土遁|どとん>　<ruby追牙|ついが>の<ruby術|じゅつ>	토둔 추아의 술	53	14	PATCHED
+C00169	0x2c24a8	<ruby裂空|れっくう>	열공	19	4	PATCHED
+C00170	0x2c24cc	<ruby旋刃|せんじん>	선인	19	4	PATCHED
+C00171	0x2c24f0	<ruby滑脚|かっきゃく>	활각	21	4	PATCHED
+C00172	0x2c2518	<ruby素突|そとつ>	소돌	17	4	PATCHED
+C00173	0x2c254c	<ruby刹那斬|せつなざん>	찰나참	23	6	PATCHED
+C00174	0x2c2584	<ruby下旋脚|かせんきゃく>	하선각	25	6	PATCHED
+C00175	0x2c25c0	<ruby地這|じば>い	땅 기기	17	7	PATCHED
+C00176	0x2c25f4	<ruby髄殺|ずいさつ>	수살	19	4	PATCHED
+C00177	0x2c2638	<ruby昇燕|のぼりつばめ>	승연	23	4	PATCHED
+C00178	0x2c2680	<ruby降燕|おりつばめ>	강연	21	4	PATCHED
+C00179	0x2c26b8	<ruby空巴|そらともえ>	공파	21	4	PATCHED
+C00180	0x2c2700	<ruby飛燕|ひえん>	비연	17	4	PATCHED
+C00181	0x2c27c4	<ruby忍|しのび>の<ruby心得|こころえ>	닌자의 마음가짐	36	15	PATCHED
+C00182	0x2c2814	カカシ	카카시	6	6	PATCHED
+C00183	0x2c3020	<ruby剣|つるぎ>の<ruby舞|まい>	검의 춤	30	7	PATCHED
+C00184	0x2c3060	<ruby風塵烈波|ふうじんれっぱ>	풍진열파	29	8	PATCHED
+C00185	0x2c30c0	<ruby滅殺刀|めっさつとう>	멸살도	25	6	PATCHED
+C00186	0x2c30ec	<ruby双闇|そうあん>	쌍암	19	4	PATCHED
+C00187	0x2c3110	<ruby闇回|あんかい>	암회	19	4	PATCHED
+C00188	0x2c3134	<ruby蛇踊旋|じゃようせん>	사용선	25	6	PATCHED
+C00189	0x2c3170	<ruby闇天舞|やみてんぶ>	암천무	23	6	PATCHED
+C00190	0x2c31a8	<ruby闇神楽|やみかぐら>	암신악	23	6	PATCHED
+C00191	0x2c31e0	<ruby躯食|むくろは>み	시체 먹기	21	9	PATCHED
+C00192	0x2c3218	<ruby潜影蛇手|せんえいじゃしゅ>	잠영사수	31	8	PATCHED
+C00193	0x2c3268	<ruby殺刃|さつじん>	살인	19	4	PATCHED
+C00194	0x2c32ac	<ruby裂刃|れつじん>	열인	19	4	PATCHED
+C00195	0x2c32e0	<ruby蛇撫|じゃぶ>	사무	17	4	PATCHED
+C00196	0x2c3324	<ruby割刃|かつじん>	할인	19	4	PATCHED
+C00197	0x2c33e8	<ruby音|おと>の<ruby四人衆|よにんしゅう>	소리의 4인방	40	12	PATCHED
+C00198	0x2c3424	<ruby殺気|さっき>	살기	17	4	PATCHED
+C00199	0x2c3bfc	<ruby千殺水翔|せんさつすいしょう>	천살수상	33	8	PATCHED
+C00200	0x2c3c40	<ruby千閃斬舞|せんせんざんぶ>	천섬참무	29	8	PATCHED
+C00201	0x2c3ca0	<ruby穿弓腿|せんきゅうたい>	천궁퇴	27	6	PATCHED
+C00202	0x2c3ccc	<ruby鏡割|かがみわ>り	거울 깨기	21	9	PATCHED
+C00203	0x2c3cf4	<ruby氷演舞|ひょうえんぶ>	빙연무	25	6	PATCHED
+C00204	0x2c3d20	<ruby翔旋千本|しょうせんせんぼん>	상선천본	33	8	PATCHED
+C00205	0x2c3d64	<ruby天駆脚|てんくきゃく>	천구각	25	6	PATCHED
+C00206	0x2c3da0	<ruby閃回脚|せんかいきゃく>	섬회각	27	6	PATCHED
+C00207	0x2c3ddc	<ruby旋抉斬|せんかいざん>	선결참	25	6	PATCHED
+C00208	0x2c3e18	<ruby廻天斬|かいてんざん>	회천참	25	6	PATCHED
+C00209	0x2c3e54	<ruby昇閃舞|しょうせんぶ>	승섬무	25	6	PATCHED
+C00210	0x2c3e90	<ruby落爪舞|らくそうぶ>	낙조무	23	6	PATCHED
+C00211	0x2c3ec8	<ruby翔飛脚|しょうひきゃく>	상비각	27	6	PATCHED
+C00212	0x2c3f04	<ruby空旋舞|くうせんぶ>	공선무	23	6	PATCHED
+C00213	0x2c3fcc	<ruby氷術|ひょうじゅつ>	빙술	23	4	PATCHED
+C00214	0x2c3ff4	<ruby片手印|かたていん>	편수인	23	6	PATCHED
+C00215	0x2c401c	<ruby血継限界|けっけいげんかい>	혈계한계	31	8	PATCHED
+C00216	0x2c4a10	<ruby水遁|すいとん>　<ruby水龍弾|すいりゅうだん>の<ruby術|じゅつ>	수둔 수룡탄의 술	65	16	PATCHED
+C00217	0x2c4a74	<ruby水牢|すいろう>の<ruby術|じゅつ>	수뢰의 술	36	9	PATCHED
+C00218	0x2c4adc	<ruby骨抉剣|こっけつけん>	골결검	25	6	PATCHED
+C00219	0x2c4b08	<ruby転背斬|てんはいざん>	전배참	25	6	PATCHED
+C00220	0x2c4b34	<ruby散裂斬|さんれつざん>	산열참	25	6	PATCHED
+C00221	0x2c4b60	<ruby飛旋剣|ひせんけん>	비선검	23	6	PATCHED
+C00222	0x2c4b98	<ruby波烈斬|はれつざん>	파열참	23	6	PATCHED
+C00223	0x2c4bd0	<ruby鞭腕撃|べんわんげき>	편완격	25	6	PATCHED
+C00224	0x2c4c0c	<ruby龍尾脚|りゅうびきゃく>	용미각	27	6	PATCHED
+C00225	0x2c4c48	<ruby投捨|とうしゃ>	투사	19	4	PATCHED
+C00226	0x2c4c8c	<ruby霞連撃|かすみれんげき>	하연격	27	6	PATCHED
+C00227	0x2c4cc8	<ruby頭蓋穿|ずがいせん>	두개천	23	6	PATCHED
+C00228	0x2c4d00	<ruby斬捨|ざんしゃ>	참사	19	4	PATCHED
+C00229	0x2c4d44	<ruby霧隱連撃|きりがくれれんげき>	안개은신연격	33	12	PATCHED
+C00230	0x2c4e28	<ruby霧隠|きりがく>れ<ruby忍法|にんぽう>	안개 은신 인법	40	14	PATCHED
+C00231	0x2c4e64	<ruby水遁|すいとん>	수둔	19	4	PATCHED
+C00232	0x2c5674	<ruby超回復薬|ちょうかいふくやく>	초회복약	33	8	PATCHED
+C00233	0x2c56d8	<ruby旋掌撃|せんしょうげき>	선장격	27	6	PATCHED
+C00234	0x2c5704	<ruby両突撃|りょうとつげき>	량돌격	27	6	PATCHED
+C00235	0x2c5730	<ruby掌双打|しょうそうだ>	장쌍타	25	6	PATCHED
+C00236	0x2c575c	<ruby旋掌連舞|せんしょうれんぶ>	선장연무	31	8	PATCHED
+C00237	0x2c579c	<ruby天掌|てんしょう>	천장	21	4	PATCHED
+C00238	0x2c57d4	<ruby旋落掌|せんらくしょう>	선낙장	27	6	PATCHED
+C00239	0x2c5810	<ruby旋通背掌|せんつうはいしょう>	선통배장	33	8	PATCHED
+C00240	0x2c5854	<ruby旋膝撃|せんしつげき>	선슬격	25	6	PATCHED
+C00241	0x2c5890	<ruby跳昇突|ちょうしょうとつ>	도승돌	29	6	PATCHED
+C00242	0x2c58d0	<ruby踏空脚|しゅうくうきゃく>	답공각	29	6	PATCHED
+C00243	0x2c5910	<ruby転背掌|てんはいしょう>	전배장	27	6	PATCHED
+C00244	0x2c594c	<ruby双掌空撃|そうしょうくうげき>	쌍장공격	33	8	PATCHED
+C00245	0x2c5a54	ヒナタ	히나타	6	6	PATCHED
+C00246	0x2c629c	<ruby忍具|にんぐ><ruby口寄|くちよ>せ	닌구 소환	36	9	PATCHED
+C00247	0x2c62e4	<ruby神楽手裏剣|かぐらしゅりけん>	신악수리검	33	10	PATCHED
+C00248	0x2c6348	<ruby暗器術|あんきじゅつ>　<ruby翔斬|しょうざん>	암기술 상참	48	11	PATCHED
+C00249	0x2c638c	<ruby暗器術|あんきじゅつ>　<ruby通弾|つうだん>	암기술 통탄	46	11	PATCHED
+C00250	0x2c63cc	<ruby暗器術|あんきじゅつ>　<ruby衝鋼|しょうこう>	암기술 충강	48	11	PATCHED
+C00251	0x2c6410	<ruby暗器術|あんきじゅつ>　<ruby荊|いばら>	암기술 형	42	9	PATCHED
+C00252	0x2c645c	<ruby暗器術|あんきじゅつ>　<ruby飛翔|ひしょう>	암기술 비상	46	11	PATCHED
+C00253	0x2c64ac	<ruby降砕脚|こうさいきゃく>	강쇄각	27	6	PATCHED
+C00254	0x2c64e8	<ruby暗器術|あんきじゅつ>　<ruby斬突|ざんとつ>	암기술 참돌	46	11	PATCHED
+C00255	0x2c6538	<ruby延髄撃|えんずいげき>	연수격	25	6	PATCHED
+C00256	0x2c6584	<ruby暗器術|あんきじゅつ>　<ruby斬空|ざんくう>	암기술 참공	46	11	PATCHED
+C00257	0x2c65e4	<ruby暗器術|あんきじゅつ>　<ruby鋼振|こうしん>	암기술 강진	46	11	PATCHED
+C00258	0x2c6634	<ruby暗器術|あんきじゅつ>　<ruby風縛|ふうばく>	암기술 풍박	46	11	PATCHED
+C00259	0x2c6694	<ruby暗器術|あんきじゅつ>　<ruby直鋼|ちょっこう>	암기술 직강	48	11	PATCHED
+C00260	0x2c67a8	テンテン	텐텐	8	4	PATCHED
+C00261	0x2c714c	<ruby肉弾戦車|にくだんせんしゃ>	육탄전차	31	8	PATCHED
+C00262	0x2c718c	<ruby肉弾針戦車|にくだんはりせんしゃ>	육탄침전차	37	10	PATCHED
+C00263	0x2c71e4	ちゃぶ<ruby台|だい>がえし	밥상 뒤집기	25	11	PATCHED
+C00264	0x2c7210	<ruby俵崩|たわらくず>し	가마니 무너뜨리기	23	17	PATCHED
+C00265	0x2c7238	たらい<ruby落|お>とし	대야 떨구기	21	11	PATCHED
+C00266	0x2c7260	<ruby餅突|もちつ>き	떡메치기	19	8	PATCHED
+C00267	0x2c7294	<ruby肉弾子|にくだんご>	육탄자	23	6	PATCHED
+C00268	0x2c72cc	<ruby浮来|ふらい>	후라이	17	6	PATCHED
+C00269	0x2c7300	<ruby空揚|からあげ>	가라아게	19	8	PATCHED
+C00270	0x2c7334	<ruby天怖羅|てんぷら>	텐푸라	21	6	PATCHED
+C00271	0x2c736c	<ruby遁足|とんそく>	둔족	19	4	PATCHED
+C00272	0x2c73a0	<ruby大棍|だいこん>	대곤	19	4	PATCHED
+C00273	0x2c73d4	<ruby落下星|らっかせい>	낙하성	23	6	PATCHED
+C00274	0x2c740c	<ruby海老転|えびてん>	에비텐	21	6	PATCHED
+C00275	0x2c74d4	いの	이노	4	4	PATCHED
+C00276	0x2c74fc	超倍化の術	초배화술	10	8	PATCHED
+C00277	0x2c7d64	１６<ruby連|れん>コンボ	16연 콤보	23	9	PATCHED
+C00278	0x2c7d9c	<ruby忍花鳥兜|しのびばなとりかぶと>	인화조두	35	8	PATCHED
+C00279	0x2c7df0	<ruby風|かぜ>に<ruby舞|ま>うカトレア	바람에 춤추는 카틀레야	36	22	PATCHED
+C00280	0x2c7e28	ユーカリの<ruby風|かぜ>	유칼립투스의 바람	23	17	PATCHED
+C00281	0x2c7e50	アマリリスの<ruby踊|おど>り	아마릴리스의 춤	27	15	PATCHED
+C00282	0x2c7e8c	アキレアのステップ	아킬레아의 스텝	18	15	PATCHED
+C00283	0x2c7ec0	ホウセンカの<ruby拒絶|きょぜつ>	봉선화의 거절	31	13	PATCHED
+C00284	0x2c7ef0	リアトリスの<ruby想|おも>い	리아트리스의 마음	27	17	PATCHED
+C00285	0x2c7f2c	<ruby踊|おどる>るヒメユリ	춤추는 히메유리	25	15	PATCHED
+C00286	0x2c7f68	バラの<ruby一撃|いちげき>	장미의 일격	25	11	PATCHED
+C00287	0x2c7fa4	クローバーの<ruby約束|やくそく>	클로버의 약속	31	13	PATCHED
+C00288	0x2c7ff4	カスミソウの<ruby飛翔|ひしょう>	안개꽃의 비상	31	13	PATCHED
+C00289	0x2c8044	<ruby悲|かな>しみのキンセンカ	슬픔의 금잔화	29	13	PATCHED
+C00290	0x2c8084	シクラメンの<ruby香|かお>り	시클라멘의 향기	27	15	PATCHED
+C00291	0x2c80d0	<ruby風|かぜ>に<ruby乗|の>るネリネ	바람을 타는 네리네	34	18	PATCHED
+C00292	0x2c8ac0	ダイナミックマーキング	다이내믹 마킹	22	13	PATCHED
+C00293	0x2c8af8	<ruby獣人分身|じゅうじんぶんしん>	수인 분신	33	9	PATCHED
+C00294	0x2c8b5c	<ruby翔牙|しょうが>	상아	19	4	PATCHED
+C00295	0x2c8b80	<ruby連爪|れんそう>	연조	19	4	PATCHED
+C00296	0x2c8ba4	<ruby疾脚|しっきゃく>	질각	21	4	PATCHED
+C00297	0x2c8bcc	<ruby赤丸連撃|あかまるれんげき>	적환연격	31	8	PATCHED
+C00298	0x2c8c0c	<ruby疾爪|しっそう>	질조	19	4	PATCHED
+C00299	0x2c8c40	<ruby爪牙|そうが>	조아	17	4	PATCHED
+C00300	0x2c8c74	<ruby獣電|じゅうでん>	수전	21	4	PATCHED
+C00301	0x2c8cac	<ruby昇双脚|しょうそうきゃく>	승쌍각	29	6	PATCHED
+C00302	0x2c8cfc	<ruby天裂爪|てんれつそう>	천열조	25	6	PATCHED
+C00303	0x2c8d48	<ruby戯獣脚|ぎじゅうきゃく>	희수각	27	6	PATCHED
+C00304	0x2c8d84	<ruby転双脚|てんそうきゃく>	전쌍각	27	6	PATCHED
+C00305	0x2c8dd0	<ruby獣蹴激|じゅうそうげき>	수축격	27	6	PATCHED
+C00306	0x2c8eac	シノ	시노	4	4	PATCHED
+C00307	0x2c8ecc	キバ	키바	4	4	PATCHED
+C00308	0x2c972c	<ruby蟲縛|むししば>りの<ruby術|じゅつ>	충박술	38	6	PATCHED
+C00309	0x2c9774	<ruby蟲柱|むしばしら>の<ruby術|じゅつ>	충주술	38	6	PATCHED
+C00310	0x2c97dc	<ruby旋円蟲|せんえんちゅう>	선엔충	27	6	PATCHED
+C00311	0x2c9808	<ruby衝突蟲|しょうとつちゅう>	충돌충	29	6	PATCHED
+C00312	0x2c9838	<ruby蟲旋脚|ちゅうせんきゃく>	충선각	29	6	PATCHED
+C00313	0x2c9868	<ruby蟲波拳|ちゅうはけん>	충파권	25	6	PATCHED
+C00314	0x2c98a4	<ruby天蟲殺|てんちゅうさつ>	천충살	27	6	PATCHED
+C00315	0x2c98e0	<ruby這面蟲|はいめんちゅう>	저면충	27	6	PATCHED
+C00316	0x2c991c	<ruby蟲拳打|ちゅうけんだ>	충권타	25	6	PATCHED
+C00317	0x2c9958	<ruby瞬蟲撃|しゅんちゅうげき>	순충격	29	6	PATCHED
+C00318	0x2c99a8	<ruby天翔蟲|てんしょうちゅう>	천상충	29	6	PATCHED
+C00319	0x2c99f8	<ruby蟲降脚|ちゅうこうきゃく>	충강각	29	6	PATCHED
+C00320	0x2c9a38	<ruby襲降蟲|しゅうこうちゅう>	습강충	29	6	PATCHED
+C00321	0x2c9a88	<ruby震振蟲|しんしんちゅう>	진진충	27	6	PATCHED
+C00322	0x2ca67c	<ruby傀儡|くぐつ>　<ruby卍砲|まんじほう>	꼭두각시 만포	40	13	PATCHED
+C00323	0x2ca6c8	<ruby傀儡|くぐつ>　<ruby闇縛|やみしばり>	꼭두각시 암박	40	13	PATCHED
+C00324	0x2ca724	<ruby傀儡|くぐつ>　<ruby風穴|かざあな>	꼭두각시 풍혈	38	13	PATCHED
+C00325	0x2ca75c	<ruby傀儡|くぐつ>　<ruby噴弾|ふんだん>	꼭두각시 분탄	38	13	PATCHED
+C00326	0x2ca794	<ruby傀儡|くぐつ>　<ruby朧独楽|おぼろごま>	꼭두각시 롱독악	42	15	PATCHED
+C00327	0x2ca7e0	<ruby傀儡|くぐつ>　<ruby懺悔|ざんげ>	꼭두각시 참회	36	13	PATCHED
+C00328	0x2ca828	<ruby傀儡|くぐつ>　<ruby霞独楽|かすみごま>	꼭두각시 하독악	42	15	PATCHED
+C00329	0x2ca874	<ruby傀儡|くぐつ>　<ruby裁|さばき>	꼭두각시 재	34	11	PATCHED
+C00330	0x2ca8a8	<ruby傀儡|くぐつ>　<ruby流刃|りゅうじん>	꼭두각시 유인	40	13	PATCHED
+C00331	0x2ca8f4	<ruby傀儡|くぐつ>　<ruby逆手車|さかてぐるま>	꼭두각시 역수차	44	15	PATCHED
+C00332	0x2ca944	<ruby傀儡|くぐつ>　<ruby無斬|むざん>	꼭두각시 무참	36	13	PATCHED
+C00333	0x2ca97c	<ruby傀儡|くぐつ>　<ruby堕羅繰|だらくり>	꼭두각시 타나조	40	15	PATCHED
+C00334	0x2ca9c8	<ruby傀儡|くぐつ>　<ruby逆手飛車|さかてびしゃ>	꼭두각시 역수비차	46	17	PATCHED
+C00335	0x2caa18	<ruby傀儡|くぐつ>　<ruby双哭|そうこく>	꼭두각시 쌍곡	38	13	PATCHED
+C00336	0x2caaf0	テマリ	테마리	6	6	PATCHED
+C00337	0x2cab08	<ruby我愛羅|ガアラ>	가아라	19	6	PATCHED
+C00338	0x2cab2c	<ruby傀儡|くぐつ>の<ruby術|じゅつ>	꼭두각시술	34	10	PATCHED
+C00339	0x2cab50	カンクロウ	칸쿠로	10	6	PATCHED
+C00340	0x2cb608	<ruby扇風轟壁|せんぷうごうへき>	선풍굉벽	31	8	PATCHED
+C00341	0x2cb648	カマイタチの<ruby術|じゅつ>	카마이타치의 술	27	15	PATCHED
+C00342	0x2cb694	<ruby風神|ふうじん>の<ruby舞|まい>	풍신의 춤	34	9	PATCHED
+C00343	0x2cb6c8	<ruby扇旋風|せんせんぷう>	선선풍	25	6	PATCHED
+C00344	0x2cb6f4	<ruby地龍|ちりゅう>の<ruby息|いき>	지룡의 숨결	34	11	PATCHED
+C00345	0x2cb728	<ruby回扇刃|かいせんじん>	회선인	25	6	PATCHED
+C00346	0x2cb764	<ruby暴風昇壁|ぼうふうしょうへき>	폭풍승벽	33	8	PATCHED
+C00347	0x2cb7a8	<ruby斧扇降|ふせんこう>	부선강	23	6	PATCHED
+C00348	0x2cb7d0	<ruby疾風刃|しっぷうじん>	질풍인	25	6	PATCHED
+C00349	0x2cb80c	<ruby夢扇舞|むせんまい>	몽선무	23	6	PATCHED
+C00350	0x2cb854	<ruby転身扇刃|てんしんせんじん>	전신선인	31	8	PATCHED
+C00351	0x2cb8a4	<ruby斧扇兜割|ふせんとうかつ>	부선두할	29	8	PATCHED
+C00352	0x2cb8e4	<ruby幻扇舞|げんせんまい>	환선무	25	6	PATCHED
+C00353	0x2cb930	<ruby扇一閃　|おおぎいっせん>	선일섬	29	6	PATCHED
+C00354	0x2cc1dc	ダイナミックエントリー	다이내믹 엔트리	22	15	PATCHED
+C00355	0x2cc214	<ruby表蓮華|おもてれんげ>	표연화	25	6	PATCHED
+C00356	0x2cc270	<ruby昇天|しょうてん>アッパー	승천 어퍼	29	9	PATCHED
+C00357	0x2cc2a0	<ruby熱血|ねっけつ>ストレート	열혈 스트레이트	29	15	PATCHED
+C00358	0x2cc2d0	<ruby鋼鉄|こうてつ>キック	강철 킥	25	7	PATCHED
+C00359	0x2cc2fc	<ruby入魂|にゅうこん>ボディーブロー	혼신 보디블로	35	13	PATCHED
+C00360	0x2cc340	<ruby昇天|しょうてん>キック	승천 킥	27	7	PATCHED
+C00361	0x2cc37c	<ruby鋼鉄|こうてつ>チョップ	강철 촙	27	7	PATCHED
+C00362	0x2cc3b8	<ruby熱血|ねっけつ>キック	열혈 킥	25	7	PATCHED
+C00363	0x2cc3f4	<ruby一本足打法|いっぽんあしだほう>	외다리 타법	35	11	PATCHED
+C00364	0x2cc448	ローリング・シュート	롤링 슛	20	7	PATCHED
+C00365	0x2cc490	バーニング・ビート	버닝 비트	18	9	PATCHED
+C00366	0x2cc4c4	ローリング・スロー	롤링 스로	18	9	PATCHED
+C00367	0x2cc508	グレイティスト・ヒット	그레이티스트 히트	22	17	PATCHED
+C00368	0x2cc5e0	ガイ<ruby流体術|りゅうたいじゅつ>	가이류 체술	33	11	PATCHED
+C00369	0x2cc620	ガイ	가이	4	4	PATCHED
+C00370	0x2cce08	<ruby忍法|にんぽう>　<ruby針地蔵|はりじぞう>	인법 바늘 지장	44	14	PATCHED
+C00371	0x2cce58	<ruby口寄|くちよ>せ　<ruby屋台崩|やたいくず>し	소환 포장마차 무너뜨리기	46	24	PATCHED
+C00372	0x2ccec8	<ruby陽明閃|ようめいせん>	양명섬	25	6	PATCHED
+C00373	0x2ccef4	<ruby螺旋掌|らせんしょう>	나선장	25	6	PATCHED
+C00374	0x2ccf20	<ruby仙襲落|せんしゅうらく>	선습낙	27	6	PATCHED
+C00375	0x2ccf4c	<ruby悠猛歌|ゆうもうか>	유맹가	23	6	PATCHED
+C00376	0x2ccf84	<ruby獅子舞踊|ししぶよう>	사자무용	25	8	PATCHED
+C00377	0x2ccfc0	<ruby和風堂々|わふうどうどう>	화풍당당	29	8	PATCHED
+C00378	0x2cd000	<ruby虜惚猛進|ろこつもうしん>	노홀맹진	29	8	PATCHED
+C00379	0x2cd040	<ruby彗叩|すいこう>	혜고	19	4	PATCHED
+C00380	0x2cd084	<ruby筍掻突|しゅんそうとつ>	순소돌	27	6	PATCHED
+C00381	0x2cd0d0	<ruby落葉槌|らくようつい>	낙엽퇴	25	6	PATCHED
+C00382	0x2cd10c	<ruby雷底|らいてい>	뇌저	19	4	PATCHED
+C00383	0x2cd150	<ruby歳流掌|さいりゅうしょう>	세유장	29	6	PATCHED
+C00384	0x2cd230	<ruby黄泉沼|よみぬま>	황천소	21	6	PATCHED
+C00385	0x2cdc40	<ruby火遁|かとん>　<ruby火龍炎弾|かりゅうえんだん>	화둔 화용염탄	50	13	PATCHED
+C00386	0x2cdc94	<ruby土遁|どとん>　<ruby土流壁|どりゅうへき>	토둔 토유벽	44	11	PATCHED
+C00387	0x2cdd04	<ruby金剛術|こんごうじゅつ>　<ruby乱|みだ>れ<ruby打|う>ち	금강술 난타	57	11	PATCHED
+C00388	0x2cdd50	<ruby伸身如意|しんしんにょい>	신신여의	29	8	PATCHED
+C00389	0x2cdd80	<ruby遊猿脚|ゆうえんきゃく>	유원각	27	6	PATCHED
+C00390	0x2cddac	<ruby旋猿脚|せんえんきゃく>	선원각	27	6	PATCHED
+C00391	0x2cdde8	<ruby顎割|あぎとわ>り	턱 깨기	21	7	PATCHED
+C00392	0x2cde20	<ruby金剛術|こんごうじゅつ>　<ruby大地割|だいちわ>り	금강술 대지가르기	52	17	PATCHED
+C00393	0x2cde88	<ruby猿王|えんおう>の<ruby牙|きば>	원왕의 송곳니	34	13	PATCHED
+C00394	0x2cdecc	<ruby金剛術|こんごうじゅつ>　<ruby一本釣|いっぽんづ>り	금강술 한줄낚기	54	15	PATCHED
+C00395	0x2cdf34	<ruby金剛術|こんごうじゅつ>　<ruby大打上|おおうちあ>げ	금강술 올려치기	54	15	PATCHED
+C00396	0x2cdf9c	<ruby金剛術|こんごうじゅつ>　<ruby頭蓋砕|ずがいくだ>き	금강술 두개골부수기	54	19	PATCHED
+C00397	0x2cdff4	<ruby金剛術|こんごうじゅつ>　<ruby大打降|おおうちおろ>し	금강술 내려치기	56	15	PATCHED
+C00398	0x2ce060	<ruby金剛術|こんごうじゅつ>　<ruby裏突|うらづ>き	금강술 뒤찌르기	48	15	PATCHED
+C00399	0x2ce144	<ruby忍具|にんぐ><ruby操術|そうじゅつ>	닌구조술	38	8	PATCHED
+C00400	0x2cea84	<ruby影分身|かげぶんしん>　<ruby朧|おぼろ>	그림자 분신 롱	42	14	PATCHED
+C00401	0x2ceaf0	<ruby昇穿|しょうせん>	승천	21	4	PATCHED
+C00402	0x2ceb18	<ruby瞬突|しゅんとつ>	순돌	21	4	PATCHED
+C00403	0x2ceb40	<ruby降刈|こうがい>	강예	19	4	PATCHED
+C00404	0x2ceb64	<ruby双月|そうげつ>	쌍월	19	4	PATCHED
+C00405	0x2ceb98	<ruby浮月|ふげつ>	부월	17	4	PATCHED
+C00406	0x2cebcc	<ruby臥月|がげつ>	와월	17	4	PATCHED
+C00407	0x2cec10	<ruby転蹴|てんしゅう>	전축	21	4	PATCHED
+C00408	0x2cec48	<ruby翻隼|ほんしゅん>	번준	21	4	PATCHED
+C00409	0x2cec90	<ruby旋斬|せんざん>	선참	19	4	PATCHED
+C00410	0x2cecd4	<ruby転斬|てんざん>	전참	19	4	PATCHED
+C00411	0x2ced08	<ruby落隼|らくしゅん>	낙준	21	4	PATCHED
+C00412	0x2ced50	<ruby舞蹴|むしゅう>	무축	19	4	PATCHED
+C00413	0x2cee14	<ruby高速忍術|こうそくにんじゅつ>	고속인술	33	8	PATCHED
+C00414	0x2cee48	<ruby月読|つくよみ>	월독	19	4	PATCHED
+C00415	0x2cee78	イタチ	이타치	6	6	PATCHED
+C00416	0x2cf7f0	<ruby水遁|すいとん>　<ruby水鮫突破|すいこうとっぱ>	수둔 수교돌파	50	13	PATCHED
+C00417	0x2cf844	<ruby削滅乱舞|さくめつらんぶ>	삭멸란무	29	8	PATCHED
+C00418	0x2cf8a4	<ruby一貫斬|いっかんぎ>り	일관 베기	25	9	PATCHED
+C00419	0x2cf8d0	<ruby裏轟打|りごうう>ち	이면 굉타	23	9	PATCHED
+C00420	0x2cf8f8	<ruby蹴込|けこ>み	밀어차기	17	8	PATCHED
+C00421	0x2cf91c	<ruby大矩|おおがね>おろし	대구 내려치기	25	13	PATCHED
+C00422	0x2cf958	<ruby要削|かなめけず>り	급소 깎기	23	9	PATCHED
+C00423	0x2cf990	<ruby恕貫|どっかん>おろし	노관 내려치기	25	13	PATCHED
+C00424	0x2cf9cc	<ruby蹴滑|けすべ>り	미끄러져 차기	19	13	PATCHED
+C00425	0x2cfa00	<ruby背斬|せぎ>り	등 베기	17	7	PATCHED
+C00426	0x2cfa34	<ruby逆茂斬|さかもぎ>り	역모 베기	23	9	PATCHED
+C00427	0x2cfa6c	<ruby落掛|おとしが>け	떨어뜨려 걸기	21	13	PATCHED
+C00428	0x2cfaa4	<ruby捨打|すてう>ち	버림타	19	6	PATCHED
+C00429	0x2cfad8	<ruby大舞斬|おおまいぎ>り	대무 베기	25	9	PATCHED
+C00430	0x2cfbb4	<ruby鮫肌|さめはだ>	교기	19	4	PATCHED
+C00431	0x2cfbd8	水遁　水鮫弾の術	수둔 수교탄의 술	16	16	PATCHED
+C00432	0x2d03bc	<ruby博打撃|ばくちう>ち	도박치기	23	8	PATCHED
+C00433	0x2d0414	<ruby萩猪|はぎい>	추저	17	4	PATCHED
+C00434	0x2d0438	<ruby牡丹蝶|ぼたんちょう>	모단접	25	6	PATCHED
+C00435	0x2d0464	<ruby薄月|うすづき>	박월	19	4	PATCHED
+C00436	0x2d0488	<ruby紅葉鹿|こうようか>	홍엽녹	23	6	PATCHED
+C00437	0x2d04c0	<ruby松鶴|しょうかく>	송학	21	4	PATCHED
+C00438	0x2d04f8	<ruby菊盃|きくさかずき>	국배	23	4	PATCHED
+C00439	0x2d0520	<ruby桐笥籠|きりけご>	동사농	21	6	PATCHED
+C00440	0x2d0558	<ruby紅菖蒲|べにしょうぶ>	홍창포	25	6	PATCHED
+C00441	0x2d0594	<ruby梅鶯|おうよう>	매앵	19	4	PATCHED
+C00442	0x2d05c8	<ruby柳燕|りゅうえん>	유연	21	4	PATCHED
+C00443	0x2d0600	<ruby藤杜鵑|とうとけん>	등두견	23	6	PATCHED
+C00444	0x2d0638	<ruby桜幕|さくらまく>	앵막	21	4	PATCHED
+C00445	0x2d0700	<ruby馬鹿力|ばかぢから>	괴력	23	4	PATCHED
+C00446	0x2d0728	<ruby医療忍術|いりょうにんじゅつ>	의요인술	33	8	PATCHED
+C00447	0x2d10e4	<ruby氷遁|ひょうとん>　<ruby黒龍暴風雪|こくりゅうぼうふうせつ>	빙둔 흑용폭풍설	62	15	PATCHED
+C00448	0x2d1144	<ruby氷遁|ひょうとん>　<ruby双龍暴風雪|そうりゅうぼうふうせつ>	빙둔 쌍용폭풍설	62	15	PATCHED
+C00449	0x2d11b4	<ruby天仰翔雅|てんようしょうが>	천앙상아	31	8	PATCHED
+C00450	0x2d11e4	<ruby花烈蹴覇|かれつしゅうは>	화열축패	29	8	PATCHED
+C00451	0x2d1214	<ruby瓔珞踏覇|らくようとうは>	영낙답패	29	8	PATCHED
+C00452	0x2d1244	<ruby双蹴覇|そうしゅうは>	쌍축패	25	6	PATCHED
+C00453	0x2d1280	<ruby怒涛雅|どとうが>	노도아	21	6	PATCHED
+C00454	0x2d12b8	<ruby閃蹴覇|せんしゅうは>	섬축패	25	6	PATCHED
+C00455	0x2d12f4	<ruby永久機関|えいきゅうきかん>	영구기관	31	8	PATCHED
+C00456	0x2d1334	<ruby威風花|いふうか>	위카자하나	21	10	PATCHED
+C00457	0x2d136c	<ruby煌典雅|こうてんが>	황전아	23	6	PATCHED
+C00458	0x2d13a4	<ruby華天落|げてんらく>	화천낙	23	6	PATCHED
+C00459	0x2d13dc	<ruby耀輝飛|ようきひ>	요휘비	21	6	PATCHED
+C00460	0x2d1414	<ruby雅昇覇|がしょうは>	아승패	23	6	PATCHED
+C00461	0x2d14dc	ミゾレ	미조레	6	6	PATCHED
+C00462	0x2d14f4	フブキ	후부키	6	6	PATCHED
+C00463	0x2d150c	ナダレ	나다레	6	6	PATCHED
+C00464	0x2d1514	ドトウ	도토우	6	6	PATCHED
+C00465	0x2d1e7c	<ruby豚遁|とんとん>　トントン	돈둔 톤톤	29	9	PATCHED
+C00466	0x2d1ebc	<ruby忍法|にんぽう>　<ruby毒霧|どくきり>	인법 독무	40	9	PATCHED
+C00467	0x2d1f28	<ruby掌波|しょうは>	장파	19	4	PATCHED
+C00468	0x2d1f4c	<ruby連刃|れんば>	연인	17	4	PATCHED
+C00469	0x2d1f70	<ruby刺脚|しきゃく>	자각	19	4	PATCHED
+C00470	0x2d1f94	<ruby凛針|りんしん>	린침	19	4	PATCHED
+C00471	0x2d1fc8	<ruby受劈|じゅへき>	수벽	19	4	PATCHED
+C00472	0x2d1fec	<ruby心脚|しんきゃく>	심각	21	4	PATCHED
+C00473	0x2d2024	<ruby流刃|りゅうじん>	유인	21	4	PATCHED
+C00474	0x2d205c	<ruby昇刃|しょうば>	승인	19	4	PATCHED
+C00475	0x2d20c0	<ruby掌尖|しょうせん>	장첨	21	4	PATCHED
+C00476	0x2d2108	<ruby輪落|りんらく>	윤낙	19	4	PATCHED
+C00477	0x2d213c	<ruby棄刺|きざし>	기자	17	4	PATCHED
+C00478	0x2d2230	<ruby解陽術|かいようじゅつ>　<ruby一式|いっしき>	해양술 일식	48	11	PATCHED
+C00479	0x2d2274	<ruby解陽術|かいようじゅつ>　<ruby二式|にしき>	해양술 이식	46	11	PATCHED
+C00480	0x2d22c0	シズネ	시즈네	6	6	PATCHED
+C00481	0x2d29f0	<ruby涅槃精舎|ねはんしょうじゃ>の<ruby術|じゅつ>	열반정사의 술	48	13	PATCHED
+C00482	0x2d2a44	チャクラ<ruby解剖刀|メス>	차크라해부도	25	12	PATCHED
+C00483	0x2d2aa0	<ruby痲錘|ますい>	마추	17	4	PATCHED
+C00484	0x2d2ac4	<ruby穿刺|せんし>	천자	17	4	PATCHED
+C00485	0x2d2ae8	<ruby臨蹴|りんじゅう>	임축	21	4	PATCHED
+C00486	0x2d2b10	<ruby心刹|しんさつ>	심찰	19	4	PATCHED
+C00487	0x2d2b44	<ruby冴侵|ごしん>	호침	17	4	PATCHED
+C00488	0x2d2b78	<ruby陀撲|だぼく>	타박	17	4	PATCHED
+C00489	0x2d2bac	<ruby骨刹|こっせつ>	골찰	19	4	PATCHED
+C00490	0x2d2be0	<ruby棄涜|きとく>	기독	17	4	PATCHED
+C00491	0x2d2c14	<ruby回亡|かいぼう>	회망	19	4	PATCHED
+C00492	0x2d2c48	<ruby葬戯|そうぎ>	장희	17	4	PATCHED
+C00493	0x2d2c7c	<ruby決刹|けっさつ>	결찰	19	4	PATCHED
+C00494	0x2d2cb0	<ruby切葬|けっそう>	절장	19	4	PATCHED
+C00495	0x2d2d74	<ruby解陰術|かいいんじゅつ>　<ruby一式|いっしき>	해음술 일식	48	11	PATCHED
+C00496	0x2d2db8	<ruby解陰術|かいいんじゅつ>　<ruby二式|にしき>	해음술 이식	46	11	PATCHED
+C00497	0x2d2e0c	カブト	카부토	6	6	PATCHED
+C00498	0x2d36e4	<ruby舌蛇吸咽|ぜつだきゅういん>	설사흡열	31	8	PATCHED
+C00499	0x2d3724	マンダ　<ruby黄泉駆|よみが>け	만다 황천질주	29	13	PATCHED
+C00500	0x2d3774	<ruby鬼哭|きこく>の<ruby刃|じん>	귀곡의 칼날	32	11	PATCHED
+C00501	0x2d37a8	<ruby亡者|もうじゃ>の<ruby剣|つるぎ>	망자의 검	36	9	PATCHED
+C00502	0x2d37e0	<ruby屍薙|からなぎ>	시치	19	4	PATCHED
+C00503	0x2d3814	<ruby怨鬼|えんき>の<ruby柵|しがらみ>	원귀의 굴레	36	11	PATCHED
+C00504	0x2d387c	<ruby奈落|ならく>の<ruby蛇舌|じゃぜつ>	나락의 뱀혀	38	11	PATCHED
+C00505	0x2d38c4	<ruby冥府|めいふ>の<ruby刃|じん>	명부의 칼날	32	11	PATCHED
+C00506	0x2d3918	<ruby蛇綱|だこう>	사강	17	4	PATCHED
+C00507	0x2d394c	<ruby軟|なん>の<ruby頸投|けいとう>	연경투	34	6	PATCHED
+C00508	0x2d39a0	<ruby恩讐|おんしゅう>の<ruby刃|じん>	은수의 칼날	36	11	PATCHED
+C00509	0x2d39f8	<ruby怨痕|えんこん>の<ruby刃|じん>	원흔의 칼날	34	11	PATCHED
+C00510	0x2d3a3c	<ruby蛇來|だらい>	사내	17	4	PATCHED
+C00511	0x2d3a80	<ruby眩回|げんかい>	현회	19	4	PATCHED
+C00512	0x2d3b44	<ruby練気開放|れんきかいほう>　<ruby壱段|いちだん>	연기개방 일단	50	13	PATCHED
+C00513	0x2d3b88	<ruby練気開放|れんきかいほう>　<ruby弐段|にだん>	연기개방 이단	48	13	PATCHED
+C00514	0x2d3bcc	<ruby練気開放|れんきかいほう>　<ruby参段|さんだん>	연기개방 참단	50	13	PATCHED
+C00515	0x2d4578	<ruby若|わか>き<ruby雷|いかずち>	젊은 번개	32	9	PATCHED
+C00516	0x2d45bc	<ruby若|わか>き<ruby牙|きば>	젊은 송곳니	28	11	PATCHED
+C00517	0x2d461c	<ruby斬二連|ざんにれん>	참이연	23	6	PATCHED
+C00518	0x2d4644	<ruby突甲穿|とっこうせん>	돌갑천	25	6	PATCHED
+C00519	0x2d4670	<ruby斬円閃|ざんえんせん>	참엔섬	25	6	PATCHED
+C00520	0x2d469c	<ruby薙二連|なぎにれん>	치이련	23	6	PATCHED
+C00521	0x2d46d4	<ruby蹴刃撃|しゅうじんげき>	축인격	27	6	PATCHED
+C00522	0x2d4710	<ruby双刃撃|そうじんげき>	쌍인격	25	6	PATCHED
+C00523	0x2d474c	<ruby滑蹴|かつしゅう>	활축	21	4	PATCHED
+C00524	0x2d4784	<ruby翻蹴|はんしゅう>	번축	21	4	PATCHED
+C00525	0x2d47cc	<ruby連蹴|れんしゅう>	연축	21	4	PATCHED
+C00526	0x2d4814	<ruby落蹴|らくしゅう>	낙축	21	4	PATCHED
+C00527	0x2d484c	<ruby空回|くうかい>	공회	19	4	PATCHED
+C00528	0x2d4890	<ruby回刃撃|かいじんげき>	회인격	25	6	PATCHED
+C00529	0x2d495c	<ruby甲式|こうしき>　<ruby覚醒術|かくせいじゅつ>	갑식 각성술	48	11	PATCHED
+C00530	0x2d49a0	<ruby乙式|おつしき>　<ruby覚醒術|かくせいじゅつ>	을식 각성술	48	11	PATCHED
+C00531	0x2d49e4	<ruby丙式|へいしき>　<ruby覚醒術|かくせいじゅつ>	병식 각성술	48	11	PATCHED
+C00532	0x2d5194	<ruby超重圧|ちょうじゅうあつ>	초중압	29	6	PATCHED
+C00533	0x2d51d4	<ruby野獣|やじゅう>の<ruby本能|ほんのう>	야수의 본능	40	11	PATCHED
+C00534	0x2d5240	<ruby無心蹴|むしんげ>り	무심 차기	23	9	PATCHED
+C00535	0x2d5308	<ruby大鉄拳|だいてっけん>	대철권	25	6	PATCHED
+C00536	0x2d53a4	<ruby大剛脚|だいごうきゃく>	대강각	27	6	PATCHED
+C00537	0x2d54c0	<ruby九尾|きゅうび>	구미	19	4	PATCHED
+C00538	0x2d54d4	ナルトＸ	나루토X	8	7	PATCHED
+C00539	0x2d5c00	ナルティメットエントリー	나루티밋 엔트리	24	15	PATCHED
+C00540	0x2d5c3c	ナルト<ruby蓮華|れんげ>	나루토연화	23	10	PATCHED
+C00541	0x2d5cb4	<ruby鉄拳連打|てっけんれんだ>	철권연타	29	8	PATCHED
+C00542	0x2d5ce4	<ruby碧|あお>い<ruby衝撃|しょうげき>	푸른 충격	36	9	PATCHED
+C00543	0x2d5d6c	<ruby撃突拳|げきとつけん>	격돌권	25	6	PATCHED
+C00544	0x2d5f08	<ruby勇気|ゆうき>の<ruby一発|いっぱつ>！	용기의 일격!	40	12	PATCHED
+C00545	0x2d5f44	<ruby気合|きあい>の<ruby一発|いっぱつ>！	기합의 일격!	40	12	PATCHED
+C00546	0x2d5f80	<ruby根性|こんじょう>の<ruby一発|いっぱつ>！	근성의 일격!	44	12	PATCHED
+C00547	0x2d5fb0	ナルトＺ	나루토Z	8	7	PATCHED
+C00548	0x2d671c	<ruby八卦六十四掌|はっけろくじゅうよんしょう>	팔괘육십사장	45	12	PATCHED
+C00549	0x2d67ac	<ruby旋昇打|せんしょうだ>	선승타	25	6	PATCHED
+C00550	0x2d67e8	<ruby旋連脚|せんれんきゃく>	선연각	27	6	PATCHED
+C00551	0x2d6854	<ruby地刈掌|じがいしょう>	지예장	25	6	PATCHED
+C00552	0x2d6910	<ruby肘墜打|ちゅうついだ>	주추타	25	6	PATCHED
+C00553	0x2d69fc	<ruby壮経|そうけい>　<ruby壱|いち>の<ruby態|たい>	장경 일의 태	49	12	PATCHED
+C00554	0x2d6a40	<ruby壮経|そうけい>　<ruby弐|に>の<ruby態|たい>	장경 이의 태	47	12	PATCHED
+C00555	0x2d6a80	<ruby壮経|そうけい>　<ruby参|さん>の<ruby態|たい>	장경 참의 태	49	12	PATCHED
+C00556	0x2d6ab4	ヒナタＸ	히나타X	8	7	PATCHED
+C00557	0x2d6b54	眠り	수면	4	4	PATCHED
+C00558	0x2d6b5c	痺れ	마비	4	4	PATCHED
+C00559	0x2d6bb4	自動変わり身	자동교체	12	8	PATCHED
+C00560	0x2d6bc4	チャクラ封印	차크라 봉인	12	11	PATCHED
+C00561	0x2d6bd4	チャクラ全開	차크라 전개	12	11	PATCHED
+C00562	0x2d6be4	ジャンプ力ＵＰ	점프력 UP	14	9	PATCHED
+C00563	0x2d6bf4	ナルト九尾	나루토구미	10	10	PATCHED
+C00564	0x2d6c00	サスケ呪印	사스케주인	10	10	PATCHED
+C00565	0x2d6c0c	サスケ写輪眼	사스케사륜안	12	12	PATCHED
+C00566	0x2d6c1c	リー開門	리 개문	8	7	PATCHED
+C00567	0x2d6c28	ネジ白眼	네지백안	8	8	PATCHED
+C00568	0x2d6c34	カカシ写輪眼	카카시사륜안	12	12	PATCHED
+C00569	0x2d6c44	ヒナタ白眼	히나타백안	10	10	PATCHED
+C00570	0x2d6c50	チョウジ倍化	쵸지 배화	12	9	PATCHED
+C00571	0x2d6c60	キバ兵糧丸	키바병량환	10	10	PATCHED
+C00572	0x2d6c6c	ガイ開門	가이개문	8	8	PATCHED
+C00573	0x2d6c84	イタチ月読	이타치월독	10	10	PATCHED
+C00574	0x2d6cb8	シズネＡ	시즈네A	8	7	PATCHED
+C00575	0x2d6cc4	シズネＢ	시즈네B	8	7	PATCHED
+C00576	0x2d6cd0	シズネＣ	시즈네C	8	7	PATCHED
+C00577	0x2d6cdc	カブトＡ	카부토A	8	7	PATCHED
+C00578	0x2d6ce8	カブトＢ	카부토B	8	7	PATCHED
+C00579	0x2d6cf4	カブトＣ	카부토C	8	7	PATCHED
+C00580	0x2d6d48	ナルトＺＡ	나루토ZA	10	8	PATCHED
+C00581	0x2d6d54	ナルトＺＢ	나루토ZB	10	8	PATCHED
+C00582	0x2d6d60	ナルトＺＣ	나루토ZC	10	8	PATCHED
+C00583	0x2d6d6c	ヒナタＸＡ	히나타XA	10	8	PATCHED
+C00584	0x2d6d78	ヒナタＸＢ	히나타XB	10	8	PATCHED
+C00585	0x2d6d84	ヒナタＸＣ	히나타XC	10	8	PATCHED
+C00591	0x2daae0	根性のおもり	근성의 추	12	9	PATCHED
+C00592	0x2daaf0	瞬身の巻物	순신서	10	6	PATCHED
+C00593	0x2daafc	起爆クナイ	기폭쿠나이	10	10	PATCHED
+C00594	0x2dab10	撒き菱	마름쇠	6	6	PATCHED
+C00595	0x2dab20	呪札　鎧崩し	주찰갑옷붕괴	12	12	PATCHED
+C00596	0x2dab48	上忍の靴	상닌화	8	6	PATCHED
+C00597	0x2dab5c	雲隠れの巻物	구름은신서	12	10	PATCHED
+C00598	0x2dab6c	カカシ人形	카카시인형	10	10	PATCHED
+C00599	0x2dabd0	<ruby影分身|かげぶんしん>の<ruby術|じゅつ>	그림자 분신술	42	13	PATCHED
+C00600	0x2dac0c	ナルト<ruby連弾|れんだん>	나루토 연탄	25	11	PATCHED
+C00601	0x2dac38	ハーレムの<ruby術|じゅつ>	하렘술	25	6	PATCHED
+C00602	0x2dac7c	おたまじゃくし<ruby登場|とうじょう>	올챙이 등장	35	11	PATCHED
+C00603	0x2dacb0	ガマ<ruby吉|きち><ruby登場|とうじょう>	가마키치 등장	38	13	PATCHED
+C00604	0x2dace8	ガマブン<ruby太|た><ruby登場|とうじょう>	가마분타 등장	40	13	PATCHED
+C00605	0x2dad24	<ruby謎|なぞ>の<ruby助|すけ>っ<ruby人|と><ruby参上|さんじょう>	수수께끼 조력자 등장	62	20	PATCHED
+C00606	0x2dad94	<ruby螺旋丸|らせんがん>	나선환	23	6	PATCHED
+C00607	0x2dadbc	<ruby紅蓮螺旋丸|ぐれんらせんがん>	홍련 나선환	33	11	PATCHED
+C00608	0x2dae00	<ruby瞬息斬|しゅんそくざん>	순식참	27	6	PATCHED
+C00609	0x2dae2c	<ruby媒鳥旋|ばいちょうせん>	매조선	27	6	PATCHED
+C00610	0x2dae58	<ruby獅子連弾|ししれんだん>	사자연탄	27	8	PATCHED
+C00611	0x2dae9c	<ruby写輪眼|しゃりんがん>　<ruby発動|はつどう>	사륜안 발동	46	11	PATCHED
+C00612	0x2daedc	<ruby操風車|そうふうしゃ>　<ruby三|さん>ノ<ruby大刀|たち>	조풍차 삼노대도	57	15	PATCHED
+C00613	0x2daf28	<ruby火遁|かとん><ruby龍火|りゅうか>の<ruby術|じゅつ>	화둔 용화의 술	53	14	PATCHED
+C00614	0x2daf70	<ruby呪印|じゅいん><ruby発動|はつどう>	주인발동	38	8	PATCHED
+C00615	0x2dafc8	<ruby千鳥|ちどり>	치도리	17	6	PATCHED
+C00616	0x2dafec	<ruby千鳥|ちどり>　<ruby二発目|にはつめ>	치도리 2발째	40	12	PATCHED
+C00617	0x2db028	<ruby禁断|きんだん>の<ruby三発目|さんぱつめ>	금단의 3발째	44	12	PATCHED
+C00618	0x2db068	<ruby呪|のろ>いの<ruby四発目|よんはつめ>	저주의 4발째	40	12	PATCHED
+C00081	0x2db0c4	<ruby木|こ>ノ<ruby葉|は><ruby烈風|れっぷう>	나뭇잎열풍	43	10	PATCHED
+C00082	0x2db100	<ruby木|こ>ノ<ruby葉|は><ruby旋風|せんぷう>	나뭇잎선풍	43	10	PATCHED
+C00619	0x2db13c	<ruby木|こ>ノ<ruby葉|は><ruby剛力旋風|ごうりきせんぷう>	나뭇잎 강력선풍	55	15	PATCHED
+C00620	0x2db19c	ウェイト<ruby解除|かいじょ>	웨이트 해제	27	11	PATCHED
+C00355	0x2db1c8	<ruby表蓮華|おもてれんげ>	표연화	25	6	PATCHED
+C00621	0x2db204	<ruby裏蓮華|うられんげ><ruby開始|かいし>	리연화개시	40	10	PATCHED
+C00622	0x2db240	<ruby裏蓮華|うられんげ>	리연화	23	6	PATCHED
+C00623	0x2db268	<ruby真|しん><ruby裏蓮華|うられんげ>！！	진 리연화!!	40	11	PATCHED
+C00624	0x2db2a4	<ruby無限乱舞|むげんらんぶ>	무한란무	27	8	PATCHED
+C00625	0x2db2f0	<ruby砂分身|すなぶんしん>	모래 분신	25	9	PATCHED
+C00626	0x2db31c	<ruby砂瀑送葬|さばくそうそう>	사폭송장	29	8	PATCHED
+C00627	0x2db34c	<ruby真|しん>　<ruby砂瀑送葬|さばくそうそう>	진 사폭송장	44	11	PATCHED
+C00628	0x2db3a4	カンクロウ<ruby登場|とうじょう>	칸쿠로 등장	31	11	PATCHED
+C00629	0x2db3d4	テマリ<ruby登場|とうじょう>	테마리 등장	27	11	PATCHED
+C00630	0x2db410	<ruby風遁|ふうとん>　<ruby無限砂塵大突破|むげんさじんだいとっぱ>	풍둔 무한사진대돌파	64	19	PATCHED
+C00631	0x2db464	<ruby砂手裏剣|すなしゅりけん>	모래 수리검	29	11	PATCHED
+C00632	0x2db494	<ruby完全体|かんぜんたい>　<ruby風遁|ふうとん>　<ruby練空弾|れんくうだん>	완전체 풍둔 연공탄	73	18	PATCHED
+C00261	0x2db51c	<ruby肉弾戦車|にくだんせんしゃ>	육탄전차	31	8	PATCHED
+C00633	0x2db54c	<ruby肉弾大戦車|にくだんだいせんしゃ>	육탄대전차	37	10	PATCHED
+C00634	0x2db594	<ruby影真似|かげまね>の<ruby術|じゅつ>	그림자 흉내의 술	38	16	PATCHED
+C00635	0x2db5cc	まだまだいくぜ！	아직 멀었어!	16	12	PATCHED
+C00636	0x2db5f0	<ruby真|しん><ruby影拘|かげくく>りの<ruby術|じゅつ>！	진 그림자 구속술!	53	17	PATCHED
+C00637	0x2db638	<ruby影擬人|かげぎじん>の<ruby術|じゅつ>	그림자 의인술	40	13	PATCHED
+C00638	0x2db694	<ruby瞬目殺|しゅんぼくさつ>	순목살	27	6	PATCHED
+C00639	0x2db6c0	チャクラ<ruby振動刃|しんどうじん>	차크라진동인	33	12	PATCHED
+C00640	0x2db704	<ruby八卦掌回天|はっけしょうかいてん>	팔괘장회천	37	10	PATCHED
+C00641	0x2db73c	<ruby八卦掌大回天|はっけしょうだいかいてん>	팔괘장대회천	43	12	PATCHED
+C00642	0x2db788	<ruby日向流体術|ひゅうがりゅうたいじゅつ>	휴우가유체술	41	12	PATCHED
+C00643	0x2db7c4	<ruby点穴|てんけつ><ruby掌打|しょうだ>	점혈장타	38	8	PATCHED
+C00548	0x2db80c	<ruby八卦六十四掌|はっけろくじゅうよんしょう>	팔괘육십사장	45	12	PATCHED
+C00644	0x2db84c	<ruby八卦百二十八掌|はっけひゃくにじゅうはっしょう>	팔괘백이십팔장	51	14	PATCHED
+C00645	0x2db890	<ruby絶招|ぜっしょう> <ruby八門崩撃|はちもんほうげき>	절초 팔문붕격	53	13	PATCHED
+C00646	0x2db8f0	<ruby丸太落|まるたお>とし	통나무 떨구기	25	13	PATCHED
+C00647	0x2db91c	<ruby落石|らくせき><ruby注意|ちゅうい>	낙석주의	38	8	PATCHED
+C00648	0x2db964	<ruby負|ま>けるもんですか！	질 수 없지!	27	11	PATCHED
+C00649	0x2db990	<ruby愛|あい>は<ruby勝|か>つ！	사랑은 이긴다!	30	14	PATCHED
+C00650	0x2db9d0	<ruby樹縛殺|じゅばくさつ>	수박살	25	6	PATCHED
+C00651	0x2db9fc	<ruby大|おお>いなるサクラ	위대한 사쿠라	25	13	PATCHED
+C00167	0x2dba38	<ruby千年殺|せんねんごろ>し	천년 죽이기	27	11	PATCHED
+C00652	0x2dba64	<ruby土遁|どとん>　<ruby心中斬首|しんじゅうざんしゅ>の<ruby術|じゅつ>	토둔 심중참수의 술	69	18	PATCHED
+C00653	0x2dbacc	<ruby忍犬|にんけん><ruby召喚|しょうかん>	닌견소환	40	8	PATCHED
+C00168	0x2dbb08	<ruby土遁|どとん>　<ruby追牙|ついが>の<ruby術|じゅつ>	토둔 추아의 술	53	14	PATCHED
+C00654	0x2dbb60	<ruby雷切|らいきり>	뇌절	19	4	PATCHED
+C00655	0x2dbb84	その<ruby名|な>の<ruby由来|ゆらい>	그 이름의 유래	34	14	PATCHED
+C00656	0x2dbbb8	<ruby雷切弐連突|らいきりにれんとつ>	뇌절이연돌	35	10	PATCHED
+C00657	0x2dbc04	<ruby南門東門|なんもんとうもん>	남문동문	31	8	PATCHED
+C00658	0x2dbc34	<ruby西門北門|せいもんほくもん>	서문북문	31	8	PATCHED
+C00659	0x2dbc74	<ruby殺意|さつい>の<ruby刃|やいば>	살의의 칼날	34	11	PATCHED
+C00660	0x2dbca8	<ruby死|し>の<ruby刃|やいば>	사의 칼날	28	9	PATCHED
+C00661	0x2dbce8	<ruby二代目|にだいめ> <ruby水龍弾|すいりゅうだん>の<ruby術|じゅつ>	2대 수룡탄의 술	66	15	PATCHED
+C00662	0x2dbd3c	<ruby初代|しょだい> <ruby樹界降誕|じゅかいこうたん>	초대 수계강탄	51	13	PATCHED
+C00663	0x2dbd90	<ruby爆砕氷晶|ばくさいひょうしょう>	폭쇄빙정	35	8	PATCHED
+C00664	0x2dbdc4	<ruby必殺氷槍|ひっさつひょうそう>	필살빙창	33	8	PATCHED
+C00199	0x2dbe08	<ruby千殺水翔|せんさつすいしょう>	천살수상	33	8	PATCHED
+C00665	0x2dbe3c	<ruby滅殺水翔|めっさつすいしょう>	멸살수상	33	8	PATCHED
+C00666	0x2dbe80	<ruby魔鏡氷晶|まきょうひょうしょう>	마경빙정	35	8	PATCHED
+C00667	0x2dbeb4	<ruby魔鏡氷殺|まきょうひょうさつ>	마경빙살	33	8	PATCHED
+C00668	0x2dbf0c	<ruby叩撃|こうげき>	고격	19	4	PATCHED
+C00669	0x2dbf30	<ruby斬林|きりん>	참임	17	4	PATCHED
+C00670	0x2dbf68	<ruby霧隠|きりがく>れの<ruby術|じゅつ>	안개 은신술	38	11	PATCHED
+C00671	0x2dbfa0	<ruby水分身|みずぶんしん>の<ruby術|じゅつ>	물 분신술	42	9	PATCHED
+C00216	0x2dbfec	<ruby水遁|すいとん>　<ruby水龍弾|すいりゅうだん>の<ruby術|じゅつ>	수둔 수룡탄의 술	65	16	PATCHED
+C00672	0x2dc040	<ruby水遁|すいとん>　<ruby大瀑布|だいばくふ>の<ruby術|じゅつ>	수둔 대폭포의 술	61	16	PATCHED
+C00673	0x2dc0a0	キバ<ruby登場|とうじょう>	키바 등장	25	9	PATCHED
+C00674	0x2dc0cc	シノ<ruby登場|とうじょう>	시노 등장	25	9	PATCHED
+C00675	0x2dc0f8	<ruby宗家|そうけ>の<ruby力|ちから>	종가의 힘	34	9	PATCHED
+C00676	0x2dc154	<ruby経絡撃|けいらくげき>	경락격	25	6	PATCHED
+C00677	0x2dc190	<ruby柔拳乱舞|じゅうけんらんぶ>	유권란무	31	8	PATCHED
+C00678	0x2dc1c0	<ruby百烈掌|ひゃくれつしょう>	백열장	29	6	PATCHED
+C00679	0x2dc260	<ruby操具|そうぐ> <ruby襲千刃|しゅうせんじん>	조구 습천인	45	11	PATCHED
+C00680	0x2dc2a0	<ruby操具|そうぐ> <ruby死球撃|しきゅうげき>	조구 사구격	43	11	PATCHED
+C00681	0x2dc2ec	<ruby忍法|にんぽう>　<ruby百花繚乱|ひゃっかりょうらん>	인법 백화료란	54	13	PATCHED
+C00682	0x2dc334	<ruby心乱身|しんらんしん>の<ruby術|じゅつ>	심란신술	42	8	PATCHED
+C00683	0x2dc3b0	<ruby超|ちょう>ハエたたき	초 파리채	25	9	PATCHED
+C00684	0x2dc3dc	ポッチャリダイブ	통통 다이브	16	11	PATCHED
+C00685	0x2dc4d0	<ruby寄壊蟲|きかいちゅう>　<ruby簇|やじり>	기괴충 족	42	9	PATCHED
+C00686	0x2dc50c	<ruby寄壊蟲|きかいちゅう>　<ruby颶|つむじ>	기괴충 구	42	9	PATCHED
+C00687	0x2dc558	<ruby牙通牙|がつうが>	아통아	21	6	PATCHED
+C00688	0x2dc580	<ruby牙斬牙|がざんが>	아참아	21	6	PATCHED
+C00689	0x2dc618	<ruby寄壊蟲|きかいちゅう> <ruby簇|やじり>	기괴충 족	41	9	PATCHED
+C00690	0x2dc654	<ruby寄壊蟲|きかいちゅう> <ruby颶|つむじ>	기괴충 구	41	9	PATCHED
+C00691	0x2dc6a0	<ruby乱|みだ>れ<ruby扇舞|せんぶ>	난선무	32	6	PATCHED
+C00692	0x2dc6d4	<ruby最大風力|さいだいふうりょく>	최대 풍력	33	9	PATCHED
+C00693	0x2dc748	<ruby傀儡|くぐつ>　<ruby無尽爆刃|むじんばくじん>	꼭두각시 무진폭인	48	17	PATCHED
+C00694	0x2dc78c	<ruby傀儡|くぐつ>　<ruby廻刃天穿|かいじんてんせん>	꼭두각시 회인천천	50	17	PATCHED
+C00695	0x2dc870	<ruby木|こ>ノ<ruby葉|は>　<ruby豪放磊落|ごうほうらいらく>	나뭇잎 호방뇌낙	57	15	PATCHED
+C00696	0x2dc8bc	<ruby表蓮華|おもてれんげ>ガイ<rubyVer|バージョン>.	표연화 가이 Ver.	50	16	PATCHED
+C00697	0x2dc910	<ruby忍亀回転撃|にんがめかいてんげき>	인구회전격	37	10	PATCHED
+C00698	0x2dc948	<ruby自分|じぶん>ルール	자기 규칙	23	9	PATCHED
+C00699	0x2dc990	<ruby究極|きゅうきょく>　<ruby裏蓮華|うられんげ>	궁극 리연화	48	11	PATCHED
+C00700	0x2dc9e4	<ruby蝦蟇|がま>ドス<ruby斬|ざん>	두꺼비 단도 베기	32	16	PATCHED
+C00701	0x2dca18	<ruby火遁|かとん>　<ruby蝦蟇油炎弾|がまゆえんだん>	화둔 하마유염탄	50	15	PATCHED
+C00702	0x2dca6c	<ruby土遁|どとん>　<ruby黄泉沼|よみぬま>	토둔 황천소	40	11	PATCHED
+C00703	0x2dcaa8	<ruby黄泉蝦蟇踊|よみがまおど>り	황천 두꺼비 춤	31	14	PATCHED
+C00704	0x2dcae8	<ruby忍法|にんぽう>　<ruby蝦蟇口縛|がまぐちしば>り	인법 두꺼비 입 구속	50	19	PATCHED
+C00705	0x2dcb2c	<ruby四代目|よんだいめ>の<ruby遺|のこ>した<ruby術|じゅつ>	4대가 남긴 술법	57	15	PATCHED
+C00706	0x2dcb88	<ruby手裏剣影分身|しゅりけんかげぶんしん>の<ruby術|じゅつ>	수리검 그림자 분신술	58	20	PATCHED
+C00707	0x2dcbd4	<ruby手裏剣巨身|しゅりけんきょしん>の<ruby術|じゅつ>	수리검 거대화술	52	15	PATCHED
+C00708	0x2dcc2c	<ruby猿猴王|えんこうおう>　<ruby猿魔|えんま>	원후왕 원마	44	11	PATCHED
+C00709	0x2dcc6c	<ruby如意金剛縛|にょいこんごうばく>	여의금강박	35	10	PATCHED
+C00710	0x2dccb0	<ruby魂魄斬|こんぱくざん>	혼백참	25	6	PATCHED
+C00711	0x2dccdc	<ruby魂魄両断|こんぱくりょうだん>	혼백량단	33	8	PATCHED
+C00712	0x2dcd20	<ruby迅水|しんすい>	신수	19	4	PATCHED
+C00713	0x2dcd44	<ruby朧月|ろうげつ>	롱월	19	4	PATCHED
+C00714	0x2dcd78	<ruby夢幻|むげん>	몽환	17	4	PATCHED
+C00715	0x2dcd9c	<ruby黒夢|くろゆめ>	흑몽	19	4	PATCHED
+C00716	0x2dcdd0	<ruby禍焔|かえん>	화염	17	4	PATCHED
+C00717	0x2dcdf4	<ruby旭日|きょくじつ>	욱일	21	4	PATCHED
+C00718	0x2dce5c	<ruby削|きさ>ぎ<ruby斬|ぎ>り	삭참	28	4	PATCHED
+C00719	0x2dce8c	<ruby喰気斬|くろきぎ>り	식기참	23	6	PATCHED
+C00720	0x2dcec4	<ruby水遁|すいとん>　<ruby水鮫弾|すいこうだん>の<ruby術|じゅつ>	수둔 수교탄의 술	63	16	PATCHED
+C00721	0x2dcf34	1000<rubyＭ|メートル>パンチ	1000m 펀치	27	10	PATCHED
+C00722	0x2dcf60	<ruby超|ちょう>デコピン	초 딱밤	23	7	PATCHED
+C00482	0x2dcf98	チャクラ<ruby解剖刀|メス>	차크라해부도	25	12	PATCHED
+C00723	0x2dcfc4	<ruby神経混乱|しんけいこんらん>	신경혼란	31	8	PATCHED
+C00724	0x2dd004	カツユ<ruby召喚|しょうかん>	카츠유 소환	27	11	PATCHED
+C00725	0x2dd030	<ruby舌歯粘酸|ぜっしねんさん>	설치점산	29	8	PATCHED
+C00726	0x2dd070	<ruby爆走豪力氷打|ばくそうごうりきひょうだ>	폭주호역빙타	43	12	PATCHED
+C00727	0x2dd0ac	<ruby爆裂氷山崩|ばくれつひょうざんくず>し	폭렬빙산붕괴	41	12	PATCHED
+C00728	0x2dd0f8	ツバメ<ruby吹雪|ふぶき>	제비 눈보라	23	11	PATCHED
+C00729	0x2dd120	<ruby氷牢|ひょうろう>の<ruby術|じゅつ>	얼음 감옥술	38	11	PATCHED
+C00730	0x2dd168	<ruby氷遁|ひょうとん>　<ruby破龍猛虎|はりゅうもうこ>	빙둔 파용맹호	52	13	PATCHED
+C00731	0x2dd1b0	<ruby氷遁|ひょうとん>　<ruby一角白鯨|いっかくはくげい>	빙둔 일각하쿠경	54	15	PATCHED
+C00732	0x2dd50c	<ruby赤|あか>いチャクラ<ruby解放|かいほう>！	붉은 차크라 해방!	44	17	PATCHED
+C00733	0x2dd54c	<ruby赤|あか>いチャクラ<ruby炸裂|さくれつ>！	붉은 차크라 작렬!	44	17	PATCHED
+C00059	0x2dd59c	<ruby分身|ぶんしん>	분신	19	4	PATCHED
+C00060	0x2dd5c0	<ruby口寄|くちよ>せ	소환	19	4	PATCHED
+C00734	0x2dd5e4	<ruby新必殺技|しんひっさつわざ>！	신필살기!	33	9	PATCHED
+C00077	0x2dd618	<ruby連弾|れんだん>	연탄	19	4	PATCHED
+C00078	0x2dd63c	<ruby呪印|じゅいん>	주인	19	4	PATCHED
+C00095	0x2dd670	<ruby体術|たいじゅつ>	체술	21	4	PATCHED
+C00096	0x2dd698	<ruby禁|きん>じ<ruby手体術|てたいじゅつ>	금단 체술	40	9	PATCHED
+C00735	0x2dd6d4	<ruby八門遁甲|はちもんとんこう>	팔문둔갑	31	8	PATCHED
+C00112	0x2dd704	<ruby砂|すな>	사	13	2	PATCHED
+C00113	0x2dd724	<ruby仲間|なかま>	동료	17	4	PATCHED
+C00736	0x2dd748	<ruby憑依体|ひょういたい>	빙의체	25	6	PATCHED
+C00129	0x2dd774	チョウジ	쵸지	8	4	PATCHED
+C00130	0x2dd790	<ruby影真似|かげまね>	그림자 흉내	21	11	PATCHED
+C00737	0x2dd7b8	アスマ	아스마	6	6	PATCHED
+C00134	0x2dd7d0	<ruby回天|かいてん>	회천	19	4	PATCHED
+C00147	0x2dd7f4	<ruby白眼|びゃくがん>	백안	21	4	PATCHED
+C00738	0x2dd81c	<ruby八卦|はっけ>	팔괘	17	4	PATCHED
+C00163	0x2dd840	ブービートラップ	부비 트랩	16	9	PATCHED
+C00164	0x2dd864	<ruby内|うち>なるサクラ	내면의 사쿠라	23	13	PATCHED
+C00739	0x2dd88c	<ruby幻術|げんじゅつ>	환술	21	4	PATCHED
+C00181	0x2dd8b4	<ruby忍|しのび>の<ruby心得|こころえ>	닌자의 마음가짐	36	15	PATCHED
+C00740	0x2dd8fc	オリジナル<ruby技|わざ>	오리지널 기술	23	13	PATCHED
+C00197	0x2dd924	<ruby音|おと>の<ruby四人衆|よにんしゅう>	소리의 4인방	40	12	PATCHED
+C00198	0x2dd960	<ruby殺気|さっき>	살기	17	4	PATCHED
+C00741	0x2dd984	<ruby穢土転生|えどてんせい>	예토전생	27	8	PATCHED
+C00213	0x2dd9b0	<ruby氷術|ひょうじゅつ>	빙술	23	4	PATCHED
+C00214	0x2dd9d8	<ruby片手印|かたていん>	편수인	23	6	PATCHED
+C00215	0x2dda00	<ruby血継限界|けっけいげんかい>	혈계한계	31	8	PATCHED
+C00230	0x2dda40	<ruby霧隠|きりがく>れ<ruby忍法|にんぽう>	안개 은신 인법	40	14	PATCHED
+C00231	0x2dda7c	<ruby水遁|すいとん>	수둔	19	4	PATCHED
+C00742	0x2ddac0	<ruby柔拳|じゅうけん>	유권	21	4	PATCHED
+C00097	0x2ddae8	リー	리	4	2	PATCHED
+C00148	0x2ddb00	ネジ	네지	4	4	PATCHED
+C00246	0x2ddb18	<ruby忍具|にんぐ><ruby口寄|くちよ>せ	닌구 소환	36	9	PATCHED
+C00275	0x2ddb50	いの	이노	4	4	PATCHED
+C00132	0x2ddb68	シカマル	시카마루	8	8	PATCHED
+C00743	0x2ddb84	<ruby倍化|ばいか>の<ruby術|じゅつ>	배화술	34	6	PATCHED
+C00744	0x2ddbd8	<ruby山中一族秘術|やまなかいちぞくひじゅつ>	야마나카 일족 비술	43	18	PATCHED
+C00245	0x2ddc14	ヒナタ	히나타	6	6	PATCHED
+C00306	0x2ddc2c	シノ	시노	4	4	PATCHED
+C00745	0x2ddc44	<ruby獣人体術|じゅうじんたいじゅつ>	수인체술	35	8	PATCHED
+C00307	0x2ddc88	キバ	키바	4	4	PATCHED
+C00746	0x2ddca0	<ruby寄壊蟲|きかいちゅう>の<ruby術|じゅつ>	기괴충술	42	8	PATCHED
+C00336	0x2ddcdc	テマリ	테마리	6	6	PATCHED
+C00337	0x2ddcf4	<ruby我愛羅|ガアラ>	가아라	19	6	PATCHED
+C00338	0x2ddd18	<ruby傀儡|くぐつ>の<ruby術|じゅつ>	꼭두각시술	34	10	PATCHED
+C00339	0x2ddd4c	カンクロウ	칸쿠로	10	6	PATCHED
+C00341	0x2ddd78	カマイタチの<ruby術|じゅつ>	카마이타치의 술	27	15	PATCHED
+C00368	0x2dddb4	ガイ<ruby流体術|りゅうたいじゅつ>	가이류 체술	33	11	PATCHED
+C00384	0x2dde08	<ruby黄泉沼|よみぬま>	황천소	21	6	PATCHED
+C00747	0x2dde30	<ruby三忍|さんにん>の<ruby力|ちから>	3닌의 힘	36	8	PATCHED
+C00399	0x2dde68	<ruby忍具|にんぐ><ruby操術|そうじゅつ>	닌구조술	38	8	PATCHED
+C00748	0x2ddeb0	<ruby屍鬼封尽|しきふうじん>	시귀봉진	27	8	PATCHED
+C00413	0x2ddedc	<ruby高速忍術|こうそくにんじゅつ>	고속인술	33	8	PATCHED
+C00414	0x2ddf10	<ruby月読|つくよみ>	월독	19	4	PATCHED
+C00749	0x2ddf34	<ruby瞳術|どうじゅつ>	동술	21	4	PATCHED
+C00430	0x2ddf6c	<ruby鮫肌|さめはだ>	교기	19	4	PATCHED
+C00445	0x2ddfa0	<ruby馬鹿力|ばかぢから>	괴력	23	4	PATCHED
+C00446	0x2ddfc8	<ruby医療忍術|いりょうにんじゅつ>	의요인술	33	8	PATCHED
+C00461	0x2de00c	ミゾレ	미조레	6	6	PATCHED
+C00462	0x2de024	フブキ	후부키	6	6	PATCHED
+C00463	0x2de03c	ナダレ	나다레	6	6	PATCHED
+C00537	0x2de134	<ruby九尾|きゅうび>	구미	19	4	PATCHED
+C00753	0x2df6ec	うずまき	우즈마키	8	8	PATCHED
+C00062	0x2df6f8	ナルト	나루토	6	6	PATCHED
+C00754	0x2df700	うずまきナルト	우즈마키나루토	14	14	PATCHED
+C00755	0x2df718	うちは	우치하	6	6	PATCHED
+C00080	0x2df720	サスケ	사스케	6	6	PATCHED
+C00756	0x2df728	うちはサスケ	우치하사스케	12	12	PATCHED
+C00757	0x2df740	ロック・	록 	8	3	PATCHED
+C00097	0x2df74c	リー	리	4	2	PATCHED
+C00758	0x2df754	ロック・リー	록 리	12	5	PATCHED
+C00759	0x2df768	<ruby砂瀑|さばく>の	사폭의 	19	7	PATCHED
+C00337	0x2df77c	<ruby我愛羅|ガアラ>	가아라	19	6	PATCHED
+C00760	0x2df790	<ruby砂瀑|さばく>の<ruby我愛羅|ガアラ>	사폭의 가아라	38	13	PATCHED
+C00761	0x2df7c0	<ruby奈良|なら>	나라	15	4	PATCHED
+C00132	0x2df7d0	シカマル	시카마루	8	8	PATCHED
+C00762	0x2df7dc	<ruby奈良|なら>シカマル	나라 시카마루	23	13	PATCHED
+C00763	0x2df800	<ruby日向|ひゅうが>	휴우가	19	6	PATCHED
+C00148	0x2df814	ネジ	네지	4	4	PATCHED
+C00764	0x2df81c	<ruby日向|ひゅうが>ネジ	휴우가 네지	23	11	PATCHED
+C00765	0x2df83c	<ruby春野|はるの>	하루노	17	6	PATCHED
+C00166	0x2df850	サクラ	사쿠라	6	6	PATCHED
+C00766	0x2df858	<ruby春野|はるの>サクラ	하루노 사쿠라	23	13	PATCHED
+C00767	0x2df878	はたけ	하타케	6	6	PATCHED
+C00182	0x2df880	カカシ	카카시	6	6	PATCHED
+C00768	0x2df888	はたけカカシ	하타케카카시	12	12	PATCHED
+C00769	0x2df8a0	<ruby大蛇丸|オロチまる>	오로치마루	23	10	PATCHED
+C00770	0x2df8c4	<ruby白|ハク>	하쿠	13	4	PATCHED
+C00771	0x2df8dc	<ruby桃地|ももち>	모모치	17	6	PATCHED
+C00772	0x2df8f0	<ruby再不斬|ザブザ>	자부자	19	6	PATCHED
+C00773	0x2df904	<ruby桃地|ももち><ruby再不斬|ザブザ>	모모치 자부자	36	13	PATCHED
+C00245	0x2df934	ヒナタ	히나타	6	6	PATCHED
+C00774	0x2df93c	<ruby日向|ひゅうが>ヒナタ	휴우가 히나타	25	13	PATCHED
+C00260	0x2df960	テンテン	텐텐	8	4	PATCHED
+C00775	0x2df974	<ruby秋道|あきみち>	아키미치	19	8	PATCHED
+C00129	0x2df988	チョウジ	쵸지	8	4	PATCHED
+C00776	0x2df994	<ruby秋道|あきみち>チョウジ	아키미치 쵸지	27	13	PATCHED
+C00777	0x2df9b8	<ruby山中|やまなか>	야마나카	19	8	PATCHED
+C00275	0x2df9cc	いの	이노	4	4	PATCHED
+C00778	0x2df9d4	<ruby山中|やまなか>いの	야마나카 이노	23	13	PATCHED
+C00779	0x2df9f0	<ruby犬塚|いぬづか>	이누즈카	19	8	PATCHED
+C00307	0x2dfa04	キバ	키바	4	4	PATCHED
+C00780	0x2dfa0c	<ruby犬塚|いぬづか>キバ	이누즈카 키바	23	13	PATCHED
+C00781	0x2dfa2c	<ruby油女|あぶらめ>	아부라메	19	8	PATCHED
+C00306	0x2dfa40	シノ	시노	4	4	PATCHED
+C00782	0x2dfa48	<ruby油女|あぶらめ>シノ	아부라메 시노	23	13	PATCHED
+C00339	0x2dfa68	カンクロウ	칸쿠로	10	6	PATCHED
+C00336	0x2dfa80	テマリ	테마리	6	6	PATCHED
+C00783	0x2dfa90	マイト	마이트	6	6	PATCHED
+C00369	0x2dfa98	ガイ	가이	4	4	PATCHED
+C00784	0x2dfaa0	マイト・ガイ	마이트 가이	12	11	PATCHED
+C00785	0x2dfab4	<ruby自来也|じらいや>	지라이야	21	8	PATCHED
+C00786	0x2dfad4	<ruby三代目火影|さんだいめほかげ>	3대 호카게	33	10	PATCHED
+C00415	0x2dfb00	イタチ	이타치	6	6	PATCHED
+C00787	0x2dfb08	うちはイタチ	우치하이타치	12	12	PATCHED
+C00788	0x2dfb20	<ruby干柿|ほしがき>	호시가키	19	8	PATCHED
+C00789	0x2dfb34	<ruby鬼鮫|キサメ>	키사메	17	6	PATCHED
+C00790	0x2dfb48	<ruby干柿鬼鮫|ほしがきキサメ>	호시가키 키사메	29	15	PATCHED
+C00791	0x2dfb70	<ruby綱手|ツナデ>	츠나데	17	6	PATCHED
+C00792	0x2dfb8c	<ruby風花|かざはな>	카자하나	19	8	PATCHED
+C00464	0x2dfba0	ドトウ	도토우	6	6	PATCHED
+C00793	0x2dfba8	<ruby風花|かざはな>ドトウ	카자하나 도토우	25	15	PATCHED
+C00480	0x2dfbcc	シズネ	시즈네	6	6	PATCHED
+C00794	0x2dfbdc	<ruby薬師|やくし>	야쿠시	17	6	PATCHED
+C00497	0x2dfbf0	カブト	카부토	6	6	PATCHED
+C00795	0x2dfbf8	<ruby薬師|やくし>カブト	야쿠시 카부토	23	13	PATCHED
+C00796	0x2dfc18	<ruby封印|ふういん>された<ruby大蛇丸|オロチまる>	봉인된 오로치마루	48	17	PATCHED
+C00797	0x2dfc4c	<ruby暗部|あんぶ>のカカシ	암부의 카카시	25	13	PATCHED
+C00798	0x2dfc68	<ruby九尾|きゅうび>のナルト	구미의 나루토	27	13	PATCHED
+C00799	0x2dfc90	<ruby碧|あお>い<ruby魔獣|まじゅう>うずまきナルト	푸른 마수 우즈마키 나루토	48	25	PATCHED
+C00800	0x2dfcd0	<ruby宗家|そうけ>の<ruby血|ち>に<ruby目覚|めざ>めたヒナタ	종가의 피에 눈뜬 히나타	57	23	PATCHED
+C00801	0x2dff38	<ruby封印|ふういん><ruby大蛇丸|オロチまる>	봉인 오로치마루	42	15	PATCHED
+C00802	0x2dff64	<ruby碧|あお>い<ruby魔獣|まじゅう>	푸른 마수	34	9	PATCHED
+C00803	0x2dff88	<ruby宗家|そうけ>ヒナタ	종가 히나타	23	11	PATCHED
+C00804	0x2dffa0	イルカ	이루카	6	6	PATCHED
+C00805	0x2dffa8	<ruby猿飛|さるとび>アスマ	사루토비 아스마	25	15	PATCHED
+C00806	0x2dffc4	<ruby狼牙|ろうが>ナダレ	로우가 나다레	23	13	PATCHED
+C00807	0x2dffdc	<ruby左近|サコン>	사콘	17	4	PATCHED
+C00808	0x2dfff0	<ruby多由也|タユヤ>	타유야	19	6	PATCHED
+C00809	0x2e0004	<ruby次郎坊|ジロウボウ>	지로보	23	6	PATCHED
+C00810	0x2e001c	<ruby鬼童丸|キドウマル>	키도마루	23	8	PATCHED
+C00811	0x2e0478	ラーメン<ruby一楽|いちらく>	라멘 일락	27	9	PATCHED
+C00812	0x2e0494	<ruby歴代|れきだい><ruby火影|ほかげ>の<ruby顔岩|かおいわ>	역대 호카게 얼굴바위	57	20	PATCHED
+C00813	0x2e04d0	<ruby中忍|ちゅうにん><ruby選抜|せんばつ><ruby試験|しけん><ruby会場|かいじょう>	중닌 선발 시험장	78	16	PATCHED
+C00814	0x2e0520	<ruby物見|ものみ>やぐら	망루	23	4	PATCHED
+C00815	0x2e0538	<ruby第|だい>４４<ruby演習場|えんしゅうじょう><ruby死|し>の<ruby森|もり>	제44 연습장 죽음의 숲	72	21	PATCHED
+C00816	0x2e0584	<ruby桔梗城|ききょうじょう><ruby天守閣|てんしゅかく>	키쿄성 천수각	52	13	PATCHED
+C00817	0x2e05bc	ナルト<ruby大橋|おおはし>	나루토 대교	25	11	PATCHED
+C00818	0x2e05d8	<ruby再不斬|ザブザ>の<ruby隠|かく>れ<ruby家|が>	자부자의 은신처	47	15	PATCHED
+C00819	0x2e0608	<ruby砂肝亭|すなぎもてい>と<ruby仏像|ぶつぞう>	스나기모정과 불상	46	17	PATCHED
+C00820	0x2e0638	<ruby風影|かぜかげ>の<ruby屋敷|やしき>	카제카게 저택	38	13	PATCHED
+C00821	0x2e0660	サバイバル<ruby演習場|えんしゅうじょう>	서바이벌 연습장	39	15	PATCHED
+C00822	0x2e0688	<ruby英雄|えいゆう>の<ruby慰霊碑|いれいひ>	영웅의 위령비	42	13	PATCHED
+C00823	0x2e06b4	<ruby木|こ>ノ<ruby葉|は><ruby温泉|おんせん>	나뭇잎 온천	43	11	PATCHED
+C00824	0x2e06e0	<ruby木|こ>ノ<ruby葉|は>の<ruby森|もり>	나뭇잎 숲	39	9	PATCHED
+C00825	0x2e0708	<ruby短冊街|たんざくがい>	탄자쿠 거리	25	11	PATCHED
+C00826	0x2e0724	<ruby短冊街|たんざくがい>のはずれ	탄자쿠 거리 외곽	33	16	PATCHED
+C00827	0x2e0748	<ruby雪原|せつげん>	설원	19	4	PATCHED
+C00828	0x2e075c	<ruby虹|にじ>の<ruby氷壁|ひょうへき>	무지개 얼음벽	36	13	PATCHED
+C00829	0x2e08c8	（ジャンプ中）	(점프 중)	14	9	PATCHED
+C00830	0x2e08d8	（相手の前で）	(상대 앞에서)	14	13	PATCHED
+C00831	0x2e08e8	後側方向キー	뒤쪽 방향키	12	11	PATCHED
+C00832	0x2e08f8	（攻撃された瞬間）	(공격받는 순간)	18	15	PATCHED
+C00833	0x2e090c	（投げられた時、叩き付けられる瞬間）	(던져져 바닥에 내리꽂히는 순간)	36	31	PATCHED
+C00834	0x2e0934	（吹っ飛ばした方向の方向キー）	(날려 보낸 방향의 방향키)	30	25	PATCHED
+C00835	0x2e0954	（吹っ飛ばされた向きの方向キー）	(날아간 방향의 방향키)	32	22	PATCHED
+C00836	0x2e0978	（しばらく押す）	(잠시 누르기)	16	13	PATCHED
+C00837	0x2e098c	（地上で）	(지상에서)	10	10	PATCHED
+C00838	0x2e0998	または	또는	6	4	PATCHED
+C00839	0x2e09a4	（相手の追い討ち攻撃が当たる瞬間）	(상대의 추가타가 맞는 순간)	34	27	PATCHED
+C00840	0x2e09c8	ガード	가드	6	4	PATCHED
+C00841	0x2e09d0	アイテム選択	아이템 선택	12	11	PATCHED
+C00842	0x2e09e0	アイテム使用	아이템 사용	12	11	PATCHED
+C00843	0x2e09f0	ジャンプ	점프	8	4	PATCHED
+C00844	0x2e09fc	二段ジャンプ	2단 점프	12	8	PATCHED
+C00845	0x2e0a18	飛び退き	후퇴	8	4	PATCHED
+C00846	0x2e0a24	変わり身の術（チャクラ消費）	바꿔치기술(차크라 소비)	28	23	PATCHED
+C00847	0x2e0a44	受け身	낙법	6	4	PATCHED
+C00848	0x2e0a4c	追い討ち	추가타	8	6	PATCHED
+C00849	0x2e0a58	追い討ち返し	추가타 반격	12	11	PATCHED
+C00850	0x2e0a68	チャクラをためる	차크라 모으기	16	13	PATCHED
+C00851	0x2e0a84	奥へ軸移動	안쪽축이동	10	10	PATCHED
+C00852	0x2e0a90	手前へ軸移動	앞쪽축이동	12	10	PATCHED
+C00853	0x2e0aa0	ガード崩し	가드 붕괴	10	9	PATCHED
+C00854	0x2e0aac	変更したい項目を<iconCIRCLE>ボタンで選択して、<br>方向キー左右で操作を変更してください。	바꿀 항목을 <iconCIRCLE> 버튼으로 선택한 뒤,<br>방향키 좌우로 조작을 변경하세요.	88	80	PATCHED
+C00855	0x2e0b08	操作設定をデフォルトに戻しました。	조작설정 기본값 복원.	34	21	PATCHED
+C00856	0x2e0b2c	２Ｐの操作設定をデフォルトに戻しました。	2P 조작 설정을 기본값으로 되돌렸습니다.	40	39	PATCHED
+C00857	0x2e0b58	Ｌボタン・Ｒボタンには<RED>「ガード・アイテム使用・<br><RED>アイテム選択」<BLACK>以外は、割り振ることができません。	L/R 버튼에는 <RED>「가드·아이템 사용·<br><RED>아이템 선택」<BLACK> 외에는 배정할 수 없습니다.	115	93	PATCHED
+C00858	0x2e0bcc	<RED>「アイテム選択」<BLACK>はＬボタン・Ｒボタンにしか、<br>割り振れません。	<RED>「아이템 선택」<BLACK>은 L/R 버튼에만<br>배정할 수 있습니다.	76	65	PATCHED
+C00859	0x2e0c1c	１Ｐが変更中ですので、終了できません。	1P가 변경 중이라 종료할 수 없습니다.	38	36	PATCHED
+C00860	0x2e0c44	２Ｐが変更中ですので、終了できません。	2P가 변경 중이라 종료할 수 없습니다.	38	36	PATCHED
+C00861	0x2e0c6c	ＢＧＭ、ＳＥ、音声を含む<br>音量全体を変更します。	BGM, SE, 음성을 포함한<br>전체 음량을 변경합니다.	50	49	PATCHED
+C00862	0x2e0ca0	ＢＧＭの音量を変更します。	BGM 음량을 변경합니다.	26	22	PATCHED
+C00863	0x2e0cbc	ＳＥの音量を変更します。	SE 음량을 변경합니다.	24	21	PATCHED
+C00864	0x2e0cd8	方向キー左右で<ruby出力|しゅつりょく>モードを<br>モノラル・ステレオのいずれかに<ruby設定|せってい>します。	방향키 좌우로 출력 모드를<br>모노/스테레오 중 하나로 설정합니다.	106	64	PATCHED
+C00865	0x2e0d44	音響設定をデフォルトに戻しました。	음향설정 기본값 복원.	34	21	PATCHED
+C00866	0x2e0d6c	<ruby操作設定|そうさせってい>	조작 설정	29	9	PATCHED
+C00867	0x2e0d8c	１Ｐコマンド<ruby表|ひょう>	1P 커맨드표	27	11	PATCHED
+C00868	0x2e0da8	２Ｐコマンド<ruby表|ひょう>	2P 커맨드표	27	11	PATCHED
+C00869	0x2e0dc4	<ruby任務|にんむ>の<ruby条件|じょうけん>	임무 조건	40	9	PATCHED
+C00870	0x2e0df0	<ruby練習設定|れんしゅうせってい>	연습 설정	33	9	PATCHED
+C00871	0x2e0e14	アイテムストック	아이템 스톡	16	11	PATCHED
+C00872	0x2e0e28	ゲームモード<ruby選択|せんたく>に<ruby戻|もど>る	게임 모드 선택으로 돌아가기	48	27	PATCHED
+C00873	0x2e0e5c	キャラクター<ruby選択|せんたく>に<ruby戻|もど>る	캐릭터 선택으로 돌아가기	48	24	PATCHED
+C00874	0x2e0e90	攻略を中止する	공략 중단	14	9	PATCHED
+C00875	0x2e0ea0	<ruby物語|ものがたり>の<ruby回想|かいそう>に<ruby戻|もど>る	스토리 회상으로 돌아가기	59	24	PATCHED
+C00876	0x2e0edc	<ruby対戦|たいせん>を<ruby終了|しゅうりょう>する	대전 종료	48	9	PATCHED
+C00877	0x2e0f10	<ruby基本操作|きほんそうさ>コマンド<ruby表|ひょう>	기본 조작 커맨드표	50	18	PATCHED
+C00878	0x2e0f60	キャンセル	취소	10	4	PATCHED
+C00879	0x2e0f98	キャラクター	캐릭터	12	6	PATCHED
+C00880	0x2e0fa8	<ruby対戦|たいせん>を<ruby終了|しゅうりょう>して<ruby物語|ものがたり>の<ruby回想|かいそう>に<ruby戻|もど>りますが、<br>よろしいですか？　　　　<iconCROSS>キャンセル	대전을 종료하고 스토리 회상으로 돌아갈까요?<br><iconCROSS> 취소	164	63	PATCHED
+C00881	0x2e1050	　　<ruby対戦|たいせん>	대전	23	4	PATCHED
+C00882	0x2e1068	攻略を中止してマップ画面に戻りますか？	공략 중단 후 맵으로 돌아갈까요?	38	31	PATCHED
+C00883	0x2e1090	<ruby練習|れんしゅう>	연습	21	4	PATCHED
+C00884	0x2e10a8	を<ruby終了|しゅうりょう>してゲームモード	을 종료하고 게임 모드	41	21	PATCHED
+C00885	0x2e10d4	を<ruby終了|しゅうりょう>して	을 종료하고	29	11	PATCHED
+C00886	0x2e10f4	<ruby選択|せんたく>に<ruby戻|もど>りますが、<br>　　よろしいですか？　　　　<iconCROSS>キャンセル	선택으로 돌아갈까요?<br><iconCROSS> 취소	97	40	PATCHED
+C00887	0x2e1158	アイテム名	아이템명	10	8	PATCHED
+C00888	0x2e1174	空ストック数	빈 스톡 수	12	10	PATCHED
+C00889	0x2e1184	チャクラゲージ 壱以上	차크라 게이지 1 이상	21	20	PATCHED
+C00890	0x2e119c	チャクラゲージ 弐以上	차크라 게이지 2 이상	21	20	PATCHED
+C00891	0x2e11b4	チャクラゲージＭＡＸ	차크라 게이지 MAX	20	17	PATCHED
+C00892	0x2e11cc	地上投げ	지상투	8	6	PATCHED
+C00893	0x2e11d8	空中投げ	공중투	8	6	PATCHED
+C00894	0x2e11e4	ジャンプ中に	점프 중에	12	9	PATCHED
+C00895	0x2e11f4	チャクラ消費	차크라 소비	12	11	PATCHED
+C00896	0x2e1204	当て身技	반격기	8	6	PATCHED
+C00897	0x2e1210	チャクラ消費／当て身技	차크라 소비/반격기	22	18	PATCHED
+C00898	0x2e1228	チャクラ消費／溜め技	차크라소비/충전기	20	17	PATCHED
+C00899	0x2e1240	チャクラ消費／連打技	차크라소비/연타기	20	17	PATCHED
+C00900	0x2e1264	術写し	술복사	6	6	PATCHED
+C00901	0x2e1294	オン	ON	4	2	PATCHED
+C00902	0x2e129c	オフ	OFF	4	3	PATCHED
+C00903	0x2e12d4	対戦を終了してキャラクター選択に戻りますか？	대전을 종료하고 캐릭터 선택으로 돌아갈까요?	44	43	PATCHED
+C00292	0x2edee8	ダイナミックマーキング	다이내믹 마킹	22	13	PATCHED
+C01057	0x2f198c	チャクラ	차크라	8	6	PATCHED
+C01058	0x2f1998	ハンディキャップ	핸디캡	16	6	PATCHED
+C01059	0x2f19ac	コマンド表示	커맨드 표시	12	11	PATCHED
+C01060	0x2f19cc	強さ	강함	4	4	PATCHED
+C00840	0x2f19dc	ガード	가드	6	4	PATCHED
+C01061	0x2f19ec	対戦相手の設定	대전 상대 설정	14	14	PATCHED
+C01062	0x2f19fc	少なめ	적게	6	4	PATCHED
+C01063	0x2f1a0c	多め	많게	4	4	PATCHED
+C00902	0x2f1a30	オフ	OFF	4	3	PATCHED
+C00901	0x2f1a38	オン	ON	4	2	PATCHED
+C01064	0x2f1a50	立ち	서기	4	4	PATCHED
+C00843	0x2f1a58	ジャンプ	점프	8	4	PATCHED
+C01065	0x2f1a64	弱い	약함	4	4	PATCHED
+C01066	0x2f1a6c	難しい	어려움	6	6	PATCHED
+C01067	0x2f1a74	激むず	극난	6	4	PATCHED
+C01068	0x2f1a7c	しない	안 함	6	5	PATCHED
+C01069	0x2f1a8c	コンボ	콤보	6	4	PATCHED
+C01070	0x2f1a94	飛び道具	비도구	8	6	PATCHED
+C01071	0x2f1aa0	する	함	4	2	PATCHED
+C01072	0x2f1aa8	コンボ以外ガード	콤보 외 가드	16	12	PATCHED
+C01073	0x2f1abc	追う	추적	4	4	PATCHED
+C01074	0x2f1ac4	<KON>対戦設定をデフォルトに戻しました。	<KON>대전설정 기본값 복원.	39	26	PATCHED
+C01075	0x2f1aec	<KON><ruby練習設定|れんしゅうせってい>をデフォルトに<ruby戻|もど>しました。	<KON>연습 설정을 기본값으로 되돌렸습니다.	75	41	PATCHED
+C01076	0x2f1b38	<KON>方向キー上下で変更したい項目を選択<br>してください。	<KON>방향키 위아래로 변경할 항목을 선택<br>하세요.	57	50	PATCHED
+C01077	0x2f1b74	<KON>方向キー左右で対戦時間の変更ができます。	<KON>방향키 좌우로 대전시간 변경.	45	33	PATCHED
+C01078	0x2f1ba4	<KON>方向キー左右でアイテムの出現率が<br><KON>変更できます。	<KON>방향키 좌우로 아이템 출현율<br><KON>변경.	60	46	PATCHED
+C01079	0x2f1be4	<KON>多めにすると、いつもよりゲーム中に出現する<br><KON>アイテムの数が多くなります。	<KON>많게로 설정하면 평소보다 게임 중<br><KON>나오는 아이템 수가 늘어납니다.	84	76	PATCHED
+C01080	0x2f1c3c	<KON><ruby方向|ほうこう>キー<ruby左右|さゆう>でサポートキャラを<ruby登場|とうじょう>させるか<br><KON>させないか<ruby設定|せってい>できます。	<KON>방향키 좌우로 서포트 캐릭터의<br><KON>등장 여부를 설정할 수 있습니다.	140	74	PATCHED
+C01081	0x2f1ccc	<KON><ruby出現|しゅつげん>しないにしておくと、ゲーム<ruby中|ちゅう>にサポートキャラが<br><KON><ruby出|で>てこなくなるので<ruby注意|ちゅうい>してください。	<KON>출현 안 함으로 설정하면 게임 중 서포트 캐릭터가<br><KON>나오지 않으니 주의하세요.	154	86	PATCHED
+C01082	0x2f1d68	<KON><ruby方向|ほうこう>キー<ruby左右|さゆう>でお<ruby邪魔|じゃま>キャラを<ruby登場|とうじょう>させるか<br><KON>させないか<ruby設定|せってい>できます。	<KON>방향키 좌우로 방해 캐릭터의<br><KON>등장 여부를 설정할 수 있습니다.	151	72	PATCHED
+C01083	0x2f1e00	<KON>方向キー左右で術などを使用した時に、<br><KON>チャクラが減るか減らないかを設定できます。	<KON>방향키 좌우로 술법 사용 시<br><KON>차크라 소비 여부를 설정할 수 있습니다.	92	78	PATCHED
+C01084	0x2f1e60	<KON><ruby方向|ほうこう>キー<ruby左右|さゆう>で<ruby奥義|おうぎ>を<ruby使用|しよう>できるようにするか、<br><KON><ruby使用|しよう>できないようにするか<ruby設定|せってい>できます。	<KON>방향키 좌우로 오의 사용 여부를<br><KON>설정할 수 있습니다.	178	63	PATCHED
+C01085	0x2f1f14	<KON><ruby使用不可|しようふか>にしておくと、<ruby奥義|おうぎ>が<ruby使|つか>えなくなるので<br><KON><ruby注意|ちゅうい>してください。	<KON>사용 불가로 설정하면 오의를 쓸 수 없으니<br><KON>주의하세요.	132	65	PATCHED
+C01086	0x2f1f9c	<KON>方向キー左右でハンディキャップの設定が<br><KON>できます。	<KON>방향키 좌우로 핸디캡을<br><KON>설정할 수 있습니다.	62	55	PATCHED
+C01087	0x2f1fdc	<KON>赤いマークが多いほど、１Ｐが有利。<br><KON>逆に青いマークが多いと２Ｐが有利な設定です。	<KON>빨간 표시가 많을수록 1P가 유리합니다.<br><KON>파란 표시가 많으면 2P가 유리합니다.	92	86	PATCHED
+C01088	0x2f203c	<KON>赤いマークが多いほど、１Ｐが有利。<br><KON>逆に青いマークが多いとＣＯＭが有利な設定です。	<KON>빨간 표시가 많을수록 1P가 유리합니다.<br><KON>파란 표시가 많으면 COM이 유리합니다.	94	87	PATCHED
+C01089	0x2f209c	<ruby方向|ほうこう>キー<ruby左右|さゆう>でコマンドの<ruby表示|ひょうじ>を<ruby設定|せってい>します。<br><ruby表示|ひょうじ>をオフにすると、コマンドが<ruby表示|ひょうじ>されません。	방향키 좌우로 커맨드 표시를 설정합니다.<br>표시를 끄면 커맨드가 표시되지 않습니다.	180	82	PATCHED
+C01090	0x2f2154	<ruby方向|ほうこう>キー<ruby左右|さゆう>でアイテムの<ruby出現頻度|しゅつげんひんど>を<ruby設定|せってい>します。<br><ruby多|おお>めにするとアイテムが<ruby多|おお>く<ruby出|で>てきます。	방향키 좌우로 아이템 출현 빈도를 설정합니다.<br>많게로 하면 아이템이 더 많이 나옵니다.	185	86	PATCHED
+C01091	0x2f2210	<ruby方向|ほうこう>キー<ruby左右|さゆう>で<ruby奥義|おうぎ>の<ruby設定|せってい>ができます。<br><ruby使用不可|しようふか>にすると、<ruby奥義|おうぎ>が<ruby使用|しよう>できなくなります。	방향키 좌우로 오의를 설정합니다.<br>사용 불가로 하면 오의를 사용할 수 없습니다.	185	79	PATCHED
+C01092	0x2f22cc	<ruby対戦|たいせん><ruby相手|あいて>の<ruby状態|じょうたい>を<ruby指定|してい>できます。<ruby手動|しゅどう>にすると<ruby別|べつ>の<br>コントローラで<ruby操作|そうさ>する<ruby事|こと>ができます。	대전 상대의 상태를 지정합니다. 수동으로 하면<br>다른 컨트롤러로 조작할 수 있습니다.	194	83	PATCHED
+C01093	0x2f2390	<ruby状態|じょうたい>が「ＣＯＭ」<ruby時|じ>の<ruby強|つよ>さを<ruby指定|してい>できます。	상태가 「COM」일 때의 강함을 지정합니다.	90	40	PATCHED
+C01094	0x2f23ec	<ruby状態|じょうたい>が「<ruby立|た>ち・ジャンプ」<ruby時|じ>の<ruby攻撃|こうげき>パターンを<br><ruby指定|してい>できます。	상태가 「서기·점프」일 때의 공격 패턴을<br>지정합니다.	123	54	PATCHED
+C01095	0x2f2468	<ruby状態|じょうたい>が「<ruby立|た>ち・ジャンプ」<ruby時|じ>のガードパターンを<br><ruby指定|してい>できます。	상태가 「서기·점프」일 때의 가드 패턴을<br>지정합니다.	110	54	PATCHED
+C01096	0x2f24d8	<ruby状態|じょうたい>が「<ruby立|た>ち・ジャンプ」<ruby時|じ>の<ruby行動|こうどう>パターンを<br><ruby指定|してい>できます。	상태가 「서기·점프」일 때의 행동 패턴을<br>지정합니다.	123	54	PATCHED
+C01097	0x2f2554	<ruby対戦|たいせん><ruby相手|あいて>の<ruby状態|じょうたい>を<ruby指定|してい>できます。ＣＯＭにすると<br>コンピュータと<ruby対戦|たいせん>する<ruby事|こと>ができます。	대전 상대의 상태를 지정합니다. COM으로 하면<br>컴퓨터와 대전할 수 있습니다.	168	75	PATCHED
+C01098	0x2f2600	<ruby対戦|たいせん><ruby相手|あいて>の<ruby状態|じょうたい>を<ruby指定|してい>できます。<ruby立|た>ちにすると<ruby立|た>った<br><ruby状態|じょうたい>で<ruby下記|かき>で<ruby指定|してい>した<ruby行動|こうどう>をします。	대전 상대의 상태를 지정합니다. 서기로 하면<br>선 상태에서 아래에 지정한 행동을 합니다.	218	86	PATCHED
+C01099	0x2f26dc	<ruby対戦|たいせん><ruby相手|あいて>の<ruby状態|じょうたい>を<ruby指定|してい>できます。ジャンプにすると<br>ジャンプしながら<ruby下記|かき>で<ruby指定|してい>した<ruby行動|こうどう>をします。	대전 상대의 상태를 지정합니다. 점프로 하면<br>점프하면서 아래에 지정한 행동을 합니다.	191	85	PATCHED
+C01105	0x2f7a34	再挑戦する	다시 도전	10	9	PATCHED
+C00874	0x2f7a40	攻略を中止する	공략 중단	14	9	PATCHED
+C01106	0x2f7a50	どの難易度でもう一度闘いますか？	어느 난이도로 다시 싸울까요?	32	28	PATCHED
+C01107	0x2f7a74	ふつう	보통	6	4	PATCHED
+C01108	0x2f7a7c	やさしい	쉬움	8	4	PATCHED
+C01109	0x2f7a88	すごくやさしい	매우 쉬움	14	9	PATCHED
+C01110	0x2f7a98	相手の体力とチャクラがＭＡＸの状態から開始。	상대의 체력과 차크라가 MAX인 상태로 시작.	44	41	PATCHED
+C01111	0x2f7ac8	相手の体力とチャクラが２／３の状態から開始。<br><RED>（ただし入手できるナルＰポイントも２／３）	상대 체력과 차크라가 2/3인 상태로 시작.<br><RED>(획득 나루P 포인트도 2/3)	95	73	PATCHED
+C01112	0x2f7b28	相手の体力とチャクラが１／３の状態から開始。<br><RED>（ただし入手できるナルＰポイントも１／３）	상대 체력과 차크라가 1/3인 상태로 시작.<br><RED>(획득 나루P 포인트도 1/3)	95	73	PATCHED
+C00882	0x2f7b88	攻略を中止してマップ画面に戻りますか？	공략 중단 후 맵으로 돌아갈까요?	38	31	PATCHED
+C01113	0x2f8380	通信を接続中です。	통신 연결 중.	18	13	PATCHED
+C01114	0x2f83b0	に対戦を申し込んでいます。	에게 대전을 신청 중입니다.	26	26	PATCHED
+C01115	0x2f83cc	に対戦を申し込まれました。	에게 대전 신청받음.	26	19	PATCHED
+C01116	0x2f83e8	対戦を拒否されました。	대전 신청 거절.	22	15	PATCHED
+C01117	0x2f8400	申し込みをキャンセルされました。	신청이 취소되었습니다.	32	22	PATCHED
+C01118	0x2f8424	対戦が決定しました。	대전 확정.	20	10	PATCHED
+C01119	0x2f847c	対戦の準備中です。	대전 준비 중.	18	13	PATCHED
+C01120	0x2f8490	ワイヤレスＬＡＮスイッチが<BLUE>オフ<BLACK>になっています。	무선 LAN 스위치가 <BLUE>OFF<BLACK>입니다.	59	41	PATCHED
+C01121	0x2f84cc	接続するにはスイッチを<RED>オン<BLACK>にしてください。	연결하려면 스위치를 <RED>ON<BLACK>으로 바꾸세요.	54	48	PATCHED
+C01122	0x2f8504	通信エラーが発生しました。	통신 오류가 발생했습니다.	26	25	PATCHED
+C01123	0x2f8520	ワイヤレスＬＡＮスイッチが<BLUE>オフ<BLACK>になりました。	무선 LAN 스위치가 <BLUE>OFF<BLACK>가 되었습니다.	57	48	PATCHED
+C00882	0x2f90d0	攻略を中止してマップ画面に戻りますか？	공략 중단 후 맵으로 돌아갈까요?	38	31	PATCHED
+C01124	0x2f9740	<iconCIRCLE>ボタンでゲーム<ruby開始|かいし>！	<iconCIRCLE> 버튼으로 게임 시작!	45	32	PATCHED
+C01125	0x2f97f8	<ruby木登|きのぼ>り<ruby修業|しゅぎょう>！	나무타기 수행!	42	14	PATCHED
+C01126	0x2f9824	うまく木の枝をよけながら	나뭇가지를 잘 피하면서	24	22	PATCHED
+C01127	0x2f9840	大木をかけあがれ！！	큰 나무를 올라라!!	20	18	PATCHED
+C01128	0x2f9858	スピードアップアイテムを取ると	스피드업 아이템을 먹으면	30	24	PATCHED
+C01129	0x2f9878	早くかけあがれるぞ！	더 빨리 올라!	20	13	PATCHED
+C01130	0x2f98b4	<RED>%d分%02d秒以内にゴールするとノルマ達成だ！	<RED>%d분 %02d초 이내 골인하면 목표 달성!	47	41	PATCHED
+C01131	0x2f9a7c	ガイのポージング<ruby特訓|とっくん>！	가이의 포징 특훈!	37	17	PATCHED
+C01132	0x2f9aa4	シカマルの<ruby影真似|かげまね><ruby修業|しゅぎょう>！	시카마루의 그림자 흉내 수행!	54	28	PATCHED
+C01133	0x2f9b48	ガイのポーズに<ruby合|あ>わせて	가이의 포즈에 맞춰	31	18	PATCHED
+C01134	0x2f9b68	<ruby華麗|かれい>にポーズを<ruby決|き>めろ！	멋지게 포즈를 정해라!	44	21	PATCHED
+C01135	0x2f9b98	より<ruby複雑|ふくざつ>になるコマンドを<ruby覚|おぼ>えて	점점 복잡해지는 커맨드를 외우고	56	31	PATCHED
+C01136	0x2f9bd4	<ruby間違|まちが>えずにボタンを<ruby押|お>していこう！	틀리지 않게 버튼을 눌러라!	54	26	PATCHED
+C01137	0x2f9c0c	シカマルの影真似に合わせて	시카마루 그림자에 맞춰	26	22	PATCHED
+C01138	0x2f9c28	華麗にポーズを決めろ！	멋지게 포즈를 정해라!	22	21	PATCHED
+C01139	0x2f9c40	画面に表示されるコマンドを覚えて	화면에 표시되는 커맨드를 외우고	32	31	PATCHED
+C01140	0x2f9c64	間違えずにボタンを押していこう！	틀리지 않게 버튼을 눌러라!	32	26	PATCHED
+C01141	0x2f9c88	<RED>%d回成功するとノルマ達成だ！	<RED>%d회 성공하면 목표 달성!	33	29	PATCHED
+C01142	0x2fa010	手持ちのメダルを使ってスロットに挑戦だ！	가진 메달을 써서 슬롯에 도전!	40	29	PATCHED
+C01143	0x2fa03c	方向キー下を押すとリールが回り始めるぞ！	아래키를 누르면 릴이 돈다!	40	26	PATCHED
+C01144	0x2fa068	リールが回り始めたら、	릴이 돌기 시작하면,	22	19	PATCHED
+C01145	0x2fa0cc	押してリールを止めるんだ！	눌러서 릴을 멈춰라!	26	19	PATCHED
+C01146	0x2fa0e8	<RED>メダルを%d枚にするとノルマ達成だ！	<RED>메달을 %d장으로 만들면 목표 달성!	39	38	PATCHED
+C01159	0x3005e0	<RED>“無幻城”<BLACK>をクリアしました。<br>次から最初から強い状態で遊べるようになりました。	<RED>“무환성”<BLACK> 클리어.<br>다음부터 강한 상태로 시작할 수 있습니다.	92	74	PATCHED
+C01160	0x300640	<RED>“裏・無幻城”<BLACK>が新しく遊べるようになりました。	<RED>“이면 무환성”<BLACK>을 새로 플레이할 수 있습니다.	58	56	PATCHED
+C01161	0x30067c	<RED>“裏・無幻城”<BLACK>をクリアしました。<br>次から最初から強い状態で遊べるようになりました。	<RED>“이면 무환성”<BLACK> 클리어.<br>다음부터 강한 상태로 시작할 수 있습니다.	96	79	PATCHED
+C01162	0x3006e0	<RED>“無幻城”<BLACK>と<RED>“裏・無幻城“<BLACK>で<br>隠しキャラが使用可能になりました。	<RED>“무환성”<BLACK>/<RED>“이면 무환성”<BLACK>에서<br>숨겨진 캐릭터 사용 가능.	90	82	PATCHED
+C00062	0x300c1c	ナルト	나루토	6	6	PATCHED
+C00080	0x300c24	サスケ	사스케	6	6	PATCHED
+C00097	0x300c2c	リー	리	4	2	PATCHED
+C00132	0x300c3c	シカマル	시카마루	8	8	PATCHED
+C00148	0x300c48	ネジ	네지	4	4	PATCHED
+C00166	0x300c50	サクラ	사쿠라	6	6	PATCHED
+C00182	0x300c58	カカシ	카카시	6	6	PATCHED
+C00245	0x300c68	ヒナタ	히나타	6	6	PATCHED
+C00260	0x300c70	テンテン	텐텐	8	4	PATCHED
+C00129	0x300c7c	チョウジ	쵸지	8	4	PATCHED
+C00275	0x300c88	いの	이노	4	4	PATCHED
+C00307	0x300c90	キバ	키바	4	4	PATCHED
+C00306	0x300c98	シノ	시노	4	4	PATCHED
+C00369	0x300ca0	ガイ	가이	4	4	PATCHED
+C00415	0x300cb8	イタチ	이타치	6	6	PATCHED
+C00480	0x300cd0	シズネ	시즈네	6	6	PATCHED
+C00497	0x300cd8	カブト	카부토	6	6	PATCHED
+C01163	0x301190	メイン	메인	6	4	PATCHED
+C01164	0x3011a8	出力モード	출력 모드	10	9	PATCHED
+C00754	0x302bb4	うずまきナルト	우즈마키나루토	14	14	PATCHED
+C00756	0x302bcc	うちはサスケ	우치하사스케	12	12	PATCHED
+C01165	0x302be4	春野サクラ	사쿠라	10	6	PATCHED
+C00758	0x302bf8	ロック・リー	록 리	12	5	PATCHED
+C01166	0x302c10	日向ネジ	네지	8	4	PATCHED
+C00260	0x302c24	テンテン	텐텐	8	4	PATCHED
+C01167	0x302c38	奈良シカマル	시카마루	12	8	PATCHED
+C01168	0x302c50	秋道チョウジ	쵸지	12	4	PATCHED
+C01169	0x302c68	山中いの	이노	8	4	PATCHED
+C01170	0x302c7c	犬塚キバ	키바	8	4	PATCHED
+C01171	0x302c90	油女シノ	시노	8	4	PATCHED
+C01172	0x302ca4	日向ヒナタ	히나타	10	6	PATCHED
+C01173	0x302cb8	砂瀑の我愛羅	가아라	12	6	PATCHED
+C00768	0x302cd0	はたけカカシ	하타케카카시	12	12	PATCHED
+C00784	0x302ce8	マイト・ガイ	마이트 가이	12	11	PATCHED
+C00480	0x302d34	シズネ	시즈네	6	6	PATCHED
+C01174	0x302d44	薬師カブト	카부토	10	6	PATCHED
+C00787	0x302d68	うちはイタチ	우치하이타치	12	12	PATCHED
+C01175	0x302da4	構える霧姫	키리히메	10	8	PATCHED
+C01176	0x302db8	霧姫の落胆	공주낙담	10	8	PATCHED
+C01177	0x302dcc	追憶の花澄	추억카스미	10	10	PATCHED
+C01178	0x302de0	追憶の笑み	추억미소	10	8	PATCHED
+C01179	0x302df4	決意の花澄	결의카스미	10	10	PATCHED
+C01180	0x302e08	驚愕の花澄	경악카스미	10	10	PATCHED
+C01181	0x302e2c	花澄の悲哀	슬픔카스미	10	10	PATCHED
+C01182	0x302e40	花澄の笑み	미소카스미	10	10	PATCHED
+C01183	0x302e54	溢れる涙	넘친눈물	8	8	PATCHED
+C01184	0x302e80	戦闘の間	전투방	8	6	PATCHED
+C01185	0x302e94	木登りの間	나무타기방	10	10	PATCHED
+C01186	0x302ea8	影真似の間	그림자방	10	8	PATCHED
+C01187	0x302ebc	娯楽の間	오락방	8	6	PATCHED
+C01188	0x302ed0	謎々の間	수수께끼	8	8	PATCHED
+C01189	0x302ee4	分身の間	분신방	8	6	PATCHED
+C01190	0x302ef8	宝の間	보물방	6	6	PATCHED
+C01191	0x302f08	癒しの間	회복방	8	6	PATCHED
+C01192	0x302f1c	劇闘の間	격투방	8	6	PATCHED
+C01193	0x302f44	花澄のおまもり	카스미의 부적	14	13	PATCHED
+C01194	0x302f5c	リボンを渡す花澄	리본과카스미	16	12	PATCHED
+C01195	0x302f78	花澄とオルゴール	카스미와 오르골	16	15	PATCHED
+C01196	0x302fa8	決死の説得	필사설득	10	8	PATCHED
+C01197	0x302fbc	木ノ葉流	나뭇잎류	8	8	PATCHED
+C01198	0x302fd0	苦しみのナルト	고통나루토	14	10	PATCHED
+C01199	0x302fe8	霧姫とオルゴール	공주와오르골	16	12	PATCHED
+C01200	0x303014	最後の札	최후부적	8	8	PATCHED
+C01201	0x303038	ナルトと花澄	나루토카스미	12	12	PATCHED
+C01202	0x303050	溢れる笑み	넘친미소	10	8	PATCHED
+C01203	0x30307c	物見やぐらの死闘	망루의 사투	16	11	PATCHED
+C01204	0x303098	三代目と幼き三忍	3대와삼닌	16	9	PATCHED
+C01205	0x3030b4	立ち上がる二人	두사람	14	6	PATCHED
+C01206	0x3030cc	無幻城の巻	무환성 편	10	9	PATCHED
+C01207	0x3030e0	ゴールを目指して	골을 향해	16	9	PATCHED
+C01208	0x30310c	幻影との闘い	환영전	12	6	PATCHED
+C01209	0x303124	果てしなき死闘	끝없는 사투	14	11	PATCHED
+C01210	0x30313c	暗き闇	암흑	6	4	PATCHED
+C01211	0x30314c	秘めたる決意	숨겨둔 결의	12	11	PATCHED
+C01212	0x303164	魔幻の主	마환주	8	6	PATCHED
+C01213	0x303178	光と追憶	빛추억	8	6	PATCHED
+C01214	0x30318c	揺れる心	동요	8	4	PATCHED
+C01215	0x3031a0	主がために	주군위해	10	8	PATCHED
+C01216	0x3031b4	オルゴール	오르골	10	6	PATCHED
+C01217	0x3031c8	朱き咆哮	적포효	8	6	PATCHED
+C01218	0x3031dc	思い出のカケラ	추억의 조각	14	11	PATCHED
+C01219	0x303208	柔らかい時間	휴식	12	4	PATCHED
+C01220	0x303220	木ノ葉を救うために	나뭇잎구원	18	10	PATCHED
+C01221	0x30323c	受け継がれし意志	이어받은 의지	16	13	PATCHED
+C01222	0x303258	無幻城オープニング	무환성 오프닝	18	13	PATCHED
+C01223	0x303274	カカシの助太刀	카카시의 도움	14	13	PATCHED
+C01224	0x3032b0	無幻城エンディング	무환성 엔딩	18	11	PATCHED
+C01225	0x3032cc	裏・無幻城オープニング	이면 무환성 오프닝	22	18	PATCHED
+C01226	0x3032ec	木ノ葉を懸けて	나뭇잎을 걸고	14	13	PATCHED
+C01227	0x303304	裏・無幻城エンディング	이면 무환성 엔딩	22	16	PATCHED
+C01228	0x303324	下忍！　うずまきナルト！	하급닌자!나루토!	24	16	PATCHED
+C01229	0x303348	さらば鬼人よ	잘가귀인	12	8	PATCHED
+C01230	0x303360	火の意志	불의지	8	6	PATCHED
+C01231	0x303374	たいせつなもの	소중한 것	14	9	PATCHED
+C01232	0x30338c	因縁の対決	숙명대결	10	8	PATCHED
+C01233	0x3033a0	ナルトの忍道	나루토닌도	12	10	PATCHED
+C01234	0x3033b8	五代目火影立つ！	5대호카게!	16	10	PATCHED
+C01235	0x3033d4	サスケとサクラ	사스케사쿠라	14	12	PATCHED
+C01236	0x3033ec	ナルトvsサスケ	나루토vs사스케	14	14	PATCHED
+C01237	0x303404	ナルトの決意！！	나루토의 결의!!	16	15	PATCHED
+C01238	0x303b24	対戦する	대전한다	8	8	PATCHED
+C01239	0x303b30	対戦しない	대전안함	10	8	PATCHED
+C01240	0x303b64	<ruby条件|じょうけん>。	조건.	23	5	PATCHED
+C01241	0x303b7c	<ruby闘|たたか>いに<ruby勝利|しょうり>する。	전투에서 승리한다.	44	18	PATCHED
+C01242	0x303bac	３０カウント<ruby以内|いない>に<ruby止|とど>めを<ruby刺|さ>す。	30카운트 이내에 마무리한다.	63	27	PATCHED
+C01243	0x303bec	６０カウント<ruby以内|いない>に<ruby止|とど>めを<ruby刺|さ>す。	60카운트 이내에 마무리한다.	63	27	PATCHED
+C01244	0x303c2c	ダブルノックアウトする。	더블 녹아웃한다.	24	16	PATCHED
+C01245	0x303c48	タイムアップまで<ruby闘|たたか>う。	타임업까지 싸운다.	35	18	PATCHED
+C01246	0x303c6c	<ruby術|じゅつ>を<ruby使用|しよう>しない。	술법을 사용하지 않는다.	42	23	PATCHED
+C01247	0x303c98	<ruby奥義|おうぎ>を<ruby使用|しよう>しない。	오의를 사용하지 않는다.	44	23	PATCHED
+C01248	0x303cc8	アイテム<ruby以外|いがい>で<ruby攻撃|こうげき>しない。	아이템 이외로 공격하지 않는다.	54	30	PATCHED
+C01249	0x303d00	<ruby地上|ちじょう>で<ruby技|わざ>を<ruby使用|しよう>しない。	지상에서 기술을 사용하지 않는다.	61	32	PATCHED
+C01250	0x303d40	<ruby一度|いちど>も<ruby技|わざ>を<ruby空振|からぶ>りしない。	기술을 한 번도 빗맞히지 않는다.	61	31	PATCHED
+C01251	0x303d80	<ruby地上|ちじょう>でジャンプしない。	지상에서 점프하지 않는다.	37	25	PATCHED
+C01252	0x303da8	<ruby投|な>げで<ruby止|とど>めを<ruby刺|さ>す。	던지기로 마무리한다.	47	20	PATCHED
+C01253	0x303dd8	<ruby相手|あいて>が<ruby空中|くうちゅう>にいる<ruby時|とき>に<ruby止|とど>め。	상대가 공중에 있을 때 마무리한다.	78	33	PATCHED
+C01254	0x303e28	<ruby奥義|おうぎ>レベル<ruby壱|いち>で<ruby止|とど>めを<ruby刺|さ>す。	오의 레벨 1로 마무리한다.	70	25	PATCHED
+C01255	0x303e70	<ruby奥義|おうぎ>レベル<ruby弐|に>で<ruby止|とど>めを<ruby刺|さ>す。	오의 레벨 2로 마무리한다.	68	25	PATCHED
+C01256	0x303eb8	<ruby奥義|おうぎ>レベル<ruby参|さん>で<ruby止|とど>めを<ruby刺|さ>す。	오의 레벨 3으로 마무리한다.	70	27	PATCHED
+C01257	0x303f00	サポートキャラ<ruby技|わざ>で<ruby倒|たお>す。	서포트 캐릭터 기술로 쓰러뜨린다.	46	32	PATCHED
+C01258	0x303f30	３<ruby回以上変|かいいじょうか>わり<ruby身|み>の<ruby術|じゅつ>をする。	바꿔치기술을 3회 이상 사용한다.	71	31	PATCHED
+C01259	0x303f78	６<ruby回以上変|かいいじょうか>わり<ruby身|み>の<ruby術|じゅつ>をする。	바꿔치기술을 6회 이상 사용한다.	71	31	PATCHED
+C01260	0x303fc0	３<ruby回以上受身|かいいじょううけみ>を<ruby取|と>る。	낙법을 3회 이상 한다.	54	21	PATCHED
+C01261	0x303ff8	４カウント<ruby以上|いじょう><ruby壁|かべ>に<ruby登|のぼ>る。	벽을 4카운트 이상 오른다.	61	25	PATCHED
+C01262	0x304038	６カウント<ruby以上|いじょう><ruby壁|かべ>に<ruby登|のぼ>る。	벽을 6카운트 이상 오른다.	61	25	PATCHED
+C01263	0x304078	３<ruby回以上相打|かいいじょうあいう>ちを<ruby発生|はっせい>させる。	상쇄를 3회 이상 발생시킨다.	68	27	PATCHED
+C01264	0x3040c0	３<ruby回以上追|かいいじょうお>い<ruby討|う>ちをする。	추가타를 3회 이상 한다.	54	23	PATCHED
+C01265	0x3040f8	６<ruby回以上追|かいいじょうお>い<ruby討|う>ちをする。	추가타를 6회 이상 한다.	54	23	PATCHED
+C01266	0x304130	３<ruby回以上背景移動|かいいじょうはいけいいどう>を<ruby行|おこな>う。	배경 이동을 3회 이상 한다.	70	26	PATCHED
+C01267	0x304178	３<ruby種類|しゅるい><ruby以上|いじょう>の<ruby忍具|にんぐ>を<ruby使用|しよう>する。	닌구를 3종류 이상 사용한다.	84	27	PATCHED
+C01268	0x3041d0	１カウント<ruby以上|いじょう><ruby攻撃|こうげき>を<ruby止|や>めない。	공격을 1카운트 이상 멈추지 않는다.	69	34	PATCHED
+C01269	0x304218	<ruby計|けい>６０カウント<ruby以上|いじょう><ruby水上|すいじょう>に<ruby立|た>つ。	합계 60카운트 이상 수면 위에 선다.	82	34	PATCHED
+C01270	0x30426c	<ruby全|すべ>ての<ruby奥義|おうぎ>を<ruby使用|しよう>する。	모든 오의를 사용한다.	59	21	PATCHED
+C01271	0x3042a8	<ruby特殊|とくしゅ><ruby忍具|にんぐ>を<ruby所持|しょじ>。	특수 닌구를 소지한다.	57	21	PATCHED
+C01272	0x3042e4	<ruby根性|こんじょう>のおもりを<ruby所持|しょじ>。	근성의 추를 소지한다.	50	21	PATCHED
+C01273	0x304318	<ruby瞬身|しゅんしん>の<ruby巻物|まきもの>を<ruby所持|しょじ>。	순신의 두루마리를 소지한다.	63	27	PATCHED
+C01274	0x304358	<ruby秘伝|ひでん>の<ruby書|しょ>を１つ<ruby出現|しゅつげん>させる。	비전서를 1개 출현시킨다.	67	24	PATCHED
+C01275	0x30439c	３<ruby種類|しゅるい><ruby以上|いじょう>アイテムを<ruby所持|しょじ>。	아이템을 3종류 이상 소지한다.	69	29	PATCHED
+C01276	0x3043e4	３<ruby回以上|かいいじょう><ruby仲間|なかま>からアイテムを<ruby入手|にゅうしゅ>。	동료에게서 아이템을 3회 이상 얻는다.	81	36	PATCHED
+C01277	0x304438	６<ruby回以上|かいいじょう><ruby仲間|なかま>からアイテムを<ruby入手|にゅうしゅ>。	동료에게서 아이템을 6회 이상 얻는다.	81	36	PATCHED
+C01278	0x30448c	３<ruby回以上相手|かいいじょうあいて>を<ruby落下|らっか>させる。	상대를 3회 이상 떨어뜨린다.	64	27	PATCHED
+C01279	0x3044d0	６<ruby回以上相手|かいいじょうあいて>を<ruby落下|らっか>させる。	상대를 6회 이상 떨어뜨린다.	64	27	PATCHED
+C01280	0x304514	<ruby攻撃|こうげき>を<ruby一度|いちど>も<ruby受|う>けない。	공격을 한 번도 받지 않는다.	59	27	PATCHED
+C01281	0x304550	<ruby相手|あいて>の<ruby攻撃|こうげき>をガードしない。	상대의 공격을 가드하지 않는다.	54	30	PATCHED
+C01282	0x304588	<ruby相手|あいて>の<ruby奥義|おうぎ>を<ruby一度|いちど>も<ruby受|う>けない。	상대의 오의를 한 번도 받지 않는다.	76	34	PATCHED
+C01283	0x3045d8	<ruby相手|あいて>にアイテムを<ruby所持|しょじ>させない。	상대에게 아이템을 소지시키지 않는다.	56	36	PATCHED
+C01284	0x304614	<ruby全|すべ>ての<ruby配置物|はいちぶつ>を<ruby壊|こわ>されない。	모든 배치물을 파괴당하지 않는다.	65	32	PATCHED
+C01285	0x304658	<ruby火影岩|ほかげいわ>を<ruby破壊|はかい>されない。	호카게 바위를 파괴당하지 않는다.	52	32	PATCHED
+C01286	0x304690	３０カウント<ruby内|ない>に<ruby物|もの>を<ruby全|すべ>て<ruby破壊|はかい>。	30카운트 안에 모든 물체를 파괴한다.	76	35	PATCHED
+C01287	0x3046e0	チャクラをレベル<ruby壱|いち><ruby以上|いじょう><ruby残|のこ>す。	차크라를 레벨 1 이상 남긴다.	65	28	PATCHED
+C01288	0x304724	チャクラをレベル<ruby弐|に><ruby以上|いじょう><ruby残|のこ>す。	차크라를 레벨 2 이상 남긴다.	63	28	PATCHED
+C01289	0x304764	チャクラをレベル<ruby参|さん><ruby残|のこ>す。	차크라를 레벨 3 남긴다.	46	23	PATCHED
+C01290	0x304794	<ruby相手|あいて>のチャクラが０の<ruby時|とき>に<ruby止|とど>め。	상대 차크라가 0일 때 마무리한다.	65	32	PATCHED
+C01291	0x3047d8	<ruby自分|じぶん>のライフが１０％<ruby以下|いか>。	자신의 라이프가 10% 이하.	50	25	PATCHED
+C01292	0x30480c	ライフを３０％<ruby以上|いじょう><ruby残|のこ>す。	라이프를 30% 이상 남긴다.	50	25	PATCHED
+C01293	0x304840	ライフを５０％<ruby以上|いじょう><ruby残|のこ>す。	라이프를 50% 이상 남긴다.	50	25	PATCHED
+C01294	0x304874	ライフを８０％<ruby以上|いじょう><ruby残|のこ>す。	라이프를 80% 이상 남긴다.	50	25	PATCHED
+C01295	0x3048a8	<ruby速度|そくど>が<ruby遅|おそ>い<ruby状態|じょうたい>で。	속도가 느린 상태에서.	59	21	PATCHED
+C01296	0x3048e4	<ruby攻撃力|こうげきりょく>が<ruby低|ひく>い<ruby状態|じょうたい>で。	공격력이 낮은 상태에서.	69	23	PATCHED
+C01297	0x30492c	<ruby防御力|ぼうぎょりょく>が<ruby低|ひく>い<ruby状態|じょうたい>で。	방어력이 낮은 상태에서.	69	23	PATCHED
+C01298	0x304974	<ruby回復力|かいふくりょく>が<ruby低|ひく>い<ruby状態|じょうたい>で。	회복력이 낮은 상태에서.	69	23	PATCHED
+C01299	0x3049bc	<ruby毒状態|どくじょうたい>のままで<ruby闘|たたか>って。	독 상태인 채로 싸운다.	56	22	PATCHED
+C01300	0x3049f8	ライフ１０％の<ruby状態|じょうたい>でスタート。	라이프 10% 상태로 시작.	47	23	PATCHED
+C01301	0x304a28	チャクラ０の<ruby状態|じょうたい>でスタートして。	차크라 0 상태로 시작.	49	21	PATCHED
+C01302	0x304a5c	<ruby体|からだ>が<ruby小|ちい>さくなった<ruby状態|じょうたい>で。	몸이 작아진 상태에서.	65	21	PATCHED
+C01303	0x304aa0	<ruby無重力状態|むじゅうりょくじょうたい>で<ruby闘|たたか>って。	무중력 상태에서 싸운다.	64	23	PATCHED
+C01304	0x304ae4	<ruby相手|あいて>の<ruby速度|そくど>が<ruby速|はや>い<ruby状態|じょうたい>で。	상대 속도가 빠른 상태에서.	78	26	PATCHED
+C01305	0x304b34	<ruby相手|あいて>の<ruby攻撃力|こうげきりょく>が<ruby高|たか>い<ruby状態|じょうたい>で。	상대 공격력이 높은 상태에서.	88	28	PATCHED
+C01306	0x304b90	<ruby相手|あいて>の<ruby防御力|ぼうぎょりょく>が<ruby高|たか>い<ruby状態|じょうたい>で。	상대 방어력이 높은 상태에서.	88	28	PATCHED
+C01307	0x304bec	<ruby相手|あいて>のライフが<ruby継続|けいぞく><ruby回復|かいふく><ruby状態|じょうたい>で。	상대 라이프가 지속 회복 상태에서.	90	33	PATCHED
+C01308	0x304c48	<ruby相手|あいて>のチャクラが<ruby継続|けいぞく><ruby回復|かいふく><ruby状態|じょうたい>で。	상대 차크라가 지속 회복 상태에서.	92	33	PATCHED
+C01309	0x304ca8	<ruby相手|あいて>の<ruby攻撃|こうげき>がチャクラを<ruby削|けず>る<ruby状態|じょうたい>で。	상대 공격이 차크라를 깎는 상태에서.	90	35	PATCHED
+C01310	0x304d04	<ruby全|ぜん>ステージの<ruby秘伝|ひでん>の<ruby書|しょ>を<ruby出現|しゅつげん>させる。	모든 스테이지에서 비전서를 출현시킨다.	86	38	PATCHED
+C01311	0x304d5c	イチャパラ<ruby進行表|しんこうひょう>を<ruby全|すべ>て３<ruby以上|いじょう>にする。	이챠파라 진행표를 모두 3 이상으로 만든다.	83	41	PATCHED
+C01312	0x304db0	<ruby練習|れんしゅう>モードで<ruby全|ぜん>キャラの<ruby全|ぜん><ruby技|わざ>を<ruby練習|れんしゅう>する。	연습 모드에서 모든 캐릭터의 모든 기술을 연습한다.	105	49	PATCHED
+C01313	0x304e1c	<ruby全|ぜん>プレイヤーキャラを<ruby使用|しよう><ruby可能|かのう>にする。	모든 플레이어 캐릭터를 사용 가능하게 한다.	73	42	PATCHED
+C01314	0x304e68	<ruby全|すべ>ての<ruby忍識札|にんしきふだ>を<ruby手|て>に<ruby入|い>れる。	모든 닌식찰을 손에 넣는다.	74	26	PATCHED
+C01315	0x304eb4	<ruby人形|にんぎょう>を<ruby全|すべ>て<ruby手|て>に<ruby入|い>れる。	모든 인형을 손에 넣는다.	68	24	PATCHED
+C01316	0x304efc	<ruby音楽|おんがく>データを<ruby全|すべ>て<ruby手|て>に<ruby入|い>れる。	모든 음악 데이터를 손에 넣는다.	72	31	PATCHED
+C01317	0x304f48	<ruby効果音|こうかおん>データを<ruby全|すべ>て<ruby手|て>に<ruby入|い>れる。	모든 효과음 데이터를 손에 넣는다.	76	33	PATCHED
+C01318	0x304f98	<ruby音声|おんせい>データを<ruby全|すべ>て<ruby手|て>に<ruby入|い>れる。	모든 음성 데이터를 손에 넣는다.	72	31	PATCHED
+C01319	0x304fe4	<ruby映像|えいぞう>データを<ruby全|すべ>て<ruby手|て>に<ruby入|い>れる。	모든 영상 데이터를 손에 넣는다.	72	31	PATCHED
+C01320	0x305030	イチャパラ<ruby進行表|しんこうひょう>が<ruby全|すべ>て９９になる。	이챠파라 진행표를 모두 99로 만든다.	66	35	PATCHED
+C01321	0x305074	ハズレアイテムを９９９<ruby個|こ><ruby所持|しょじ>。	꽝 아이템을 999개 소지한다.	52	27	PATCHED
+C01322	0x3050ac	<ruby所持金|しょじきん>を９，９９９，９９９<ruby両|りょう>にする。	소지금을 9,999,999냥으로 만든다.	66	32	PATCHED
+C01323	0x3050f0	<ruby全|すべ>てのキャラのパラメーターをMAXにする。	모든 캐릭터의 파라미터를 MAX로 만든다.	50	38	PATCHED
+C01324	0x305180	なし	없음	4	4	PATCHED
+C01325	0x305188	<ruby壱|いち>．	1.	15	2	PATCHED
+C01326	0x305198	<ruby弐|に>．	2.	13	2	PATCHED
+C01327	0x3051a8	<ruby参|さん>．	3.	15	2	PATCHED
+C01328	0x3051b8	<ruby四|よん>．	4.	15	2	PATCHED
+C01329	0x3051c8	●サポートキャラ	●서포트 캐릭터	16	15	PATCHED
+C01330	0x3051dc	●<ruby背景移動|はいけいいどう>なし	●배경 이동 없음	35	16	PATCHED
+C01331	0x431b92	?<ruby条件其ノ壱|じょうけんそのいち>　<ruby達成|たっせい>	조건 1 달성	58	11	PATCHED
+C01332	0x431bd4	<ruby条件其ノ弐|じょうけんそのに>　<ruby達成|たっせい>	조건 2 달성	54	11	PATCHED
+C01333	0x431c14	<ruby条件其ノ参|じょうけんそのさん>　<ruby達成|たっせい>	조건 3 달성	56	11	PATCHED
+C01334	0x431c54	<ruby条件其ノ四|じょうけんそのよん>　<ruby達成|たっせい>	조건 4 달성	56	11	PATCHED

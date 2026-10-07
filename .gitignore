@@ -1,0 +1,15 @@
+*.iso
+*.cso
+*.ppst
+*.dat
+*.idx
+*.ccs
+*.bin
+*.BIN
+*.pmf
+*.PMF
+__pycache__/
+*.pyc
+.env*
+local/
+*.xdelta
