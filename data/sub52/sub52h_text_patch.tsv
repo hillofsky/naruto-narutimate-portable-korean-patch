@@ -1,0 +1,15 @@
+﻿resource	source	korean
+mugen.tbl	=M,<KOFF>１０月３…日　雨<br>　怪…い……不安…る…<KON>。<KOFF><br>　木ノ葉……忍…………<KON>。<KOFF>	=M,<KOFF>10월 3…일　비<br>　수상…해……불안…하다…<KON>。<KOFF><br>　나뭇잎……닌자…………<KON>。<KOFF>
+mugen.tbl	=所持している巻物の１つを、<br>他の巻物にコピーする。	=소지한 두루마리 하나를,<br>다른 두루마리에 복사한다.
+bunshin.tbl	=,,ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。	=,,나루P 포인트를<BLUE>%dP<BLACK> 획득했습니다.
+nazonazo.tbl	=,,ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。	=,,나루P 포인트를<BLUE>%dP<BLACK> 획득했습니다.
+event003.tbl	「<RED>春野サクラ<BLACK>」が仲間に入りました！	「<RED>하루노 사쿠라<BLACK>」가 동료가 되었습니다!
+event003.tbl	「<RED>奈良シカマル<BLACK>」が仲間に入りました！	「<RED>나라 시카마루<BLACK>」가 동료가 되었습니다!
+mugen.tbl	=전투 두루마리	=전투
+mugen.tbl	=나무타기 두루마리	=나무타기
+mugen.tbl	=그림자 흉내 두루마리	=그림자
+mugen.tbl	=수수께끼 두루마리	=수수께끼
+mugen.tbl	=오락 두루마리	=오락
+mugen.tbl	=분신 두루마리	=분신
+mugen.tbl	"#061	=0,0,20,20"	"#061	=0,0,44,20"
+mugen.tbl	"#066	=20,0,40,20"	"#066	=52,0,128,20"

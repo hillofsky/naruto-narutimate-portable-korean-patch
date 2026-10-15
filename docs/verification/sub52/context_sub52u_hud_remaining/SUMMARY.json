@@ -1,0 +1,21 @@
+{
+  "stage": "SUB52U_HUD_NAMES_COMPACT",
+  "source_iso": "D:\\narutimate portable\\analysis\\sub\\sub52t_gauge_hud_compact\\Naruto_KR_MOV06E_SUB52T_GaugeHUD_Compact.iso",
+  "source_sha256": "c702a4545cd7fae73f7545f1892fc99b164de2ee884a9c2b30286f11291bf21d",
+  "resources_changed": 1,
+  "textures_changed": 1,
+  "only_verified_atlas_rectangles": true,
+  "fsts_rebuilt": 1,
+  "previously_verified_gameplay": "SUB52T source preserved; runtime confirmation required for new names",
+  "runtime_qa": "PENDING",
+  "static_qa": "PASS",
+  "final_iso": "D:\\narutimate portable\\analysis\\sub\\sub52u_hud_remaining\\Naruto_KR_MOV06E_SUB52U_HUDRemaining_Compact.iso",
+  "final_size": 4292155392,
+  "final_sha256": "3192c66bf22f2a21b03346e6549f3c6d01f1d7ac69ec91c645ff7ed6fb503e5f",
+  "under_4gib_margin": 2811904,
+  "dat_hash": "f658425af29273f19178478b0c05888b82d327e7e47e525ab8a0209b9930146c",
+  "idx_hash": "023000707f6c6cad6346e379ec07bb5613a0537009e9d2c248bd76e6e958024e",
+  "protected_files": 2074,
+  "protected_dirs": 10
+}
+

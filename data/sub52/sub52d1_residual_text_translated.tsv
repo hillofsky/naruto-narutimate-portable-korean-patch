@@ -1,0 +1,949 @@
+﻿entry	offset	source_japanese	korean	status	raw_record
+bunshin.tbl	388	;sprite(不正解).		SKIP_COMMENT	;sprite(不正解).
+bunshin.tbl	620	;sprite(時間切れ).		SKIP_COMMENT	;sprite(時間切れ).
+bunshin.tbl	711	;sprite(分身.表1裏1表2裏2表3裏3).		SKIP_COMMENT	;sprite(分身.表1裏1表2裏2表3裏3).
+bunshin.tbl	2201	;数値レイアウト(1ケタ,2ケタ)		SKIP_COMMENT	;数値レイアウト(1ケタ,2ケタ)
+bunshin.tbl	2294	;sprite(説明文タイトル2つ).		SKIP_COMMENT	;sprite(説明文タイトル2つ).
+bunshin.tbl	2462	;window(説明文)		SKIP_COMMENT	;window(説明文)
+bunshin.tbl	2501	;window内文字		SKIP_COMMENT	;window内文字
+bunshin.tbl	2536	エビスが三人に分身するぞ。<br>本物（同じポーズ）だと思うエビスを<br>方向キーで選択して<iconCIRCLE>ボタンを押そう。<br>よーく見ると偽者はポーズが違うぞ！<br><iconCIRCLE>ボタンでゲーム開始！<br><br><RED>本物を当てるとノルマ達成だ！<BLACK>	에비스가 세 명으로 분신한다.<br>진짜(같은 포즈)라고 생각하는 에비스를<br>방향키로 선택하고 <iconCIRCLE> 버튼을 누르자.<br>자세히 보면 가짜는 포즈가 다르다!<br><iconCIRCLE> 버튼으로 게임 시작!<br><br><RED>진짜를 맞히면 목표 달성!<BLACK>	TRANSLATED_CHATGPT	=エビスが三人に分身するぞ。<br>本物（同じポーズ）だと思うエビスを<br>方向キーで選択して<iconCIRCLE>ボタンを押そう。<br>よーく見ると偽者はポーズが違うぞ！<br><iconCIRCLE>ボタンでゲーム開始！<br><br><RED>本物を当てるとノルマ達成だ！<BLACK>
+bunshin.tbl	2781	エビスが三人に分身するぞ。<br>本物（同じ表情）だと思うエビスを<br>方向キーで選択して<iconCIRCLE>ボタンを押そう。<br>よーく見ると偽者は表情が違うぞ！<br><iconCIRCLE>ボタンでゲーム開始！<br><br><RED>本物を当てるとノルマ達成だ！<BLACK>	에비스가 세 명으로 분신한다.<br>진짜(같은 표정)라고 생각하는 에비스를<br>방향키로 선택하고 <iconCIRCLE> 버튼을 누르자.<br>자세히 보면 가짜는 표정이 다르다!<br><iconCIRCLE> 버튼으로 게임 시작!<br><br><RED>진짜를 맞히면 목표 달성!<BLACK>	TRANSLATED_CHATGPT	=エビスが三人に分身するぞ。<br>本物（同じ表情）だと思うエビスを<br>方向キーで選択して<iconCIRCLE>ボタンを押そう。<br>よーく見ると偽者は表情が違うぞ！<br><iconCIRCLE>ボタンでゲーム開始！<br><br><RED>本物を当てるとノルマ達成だ！<BLACK>
+bunshin.tbl	3039	;sprite(高記録達成).		SKIP_COMMENT	;sprite(高記録達成).
+bunshin.tbl	3361	;分身レイアウト.		SKIP_COMMENT	;分身レイアウト.
+bunshin.tbl	3379	;左xy,中xy,右xy		SKIP_COMMENT	;左xy,中xy,右xy
+bunshin.tbl	3681	EBS,g_d26_00,ささ、分身授業を始めますぞ！	EBS,g_d26_00,자자, 분신 수업을 시작하겠습니다!	TRANSLATED_CHATGPT	=EBS,g_d26_00,ささ、分身授業を始めますぞ！
+bunshin.tbl	3730	EBS,g_d26_01,おお！　すばらしいですぞ！<br>よく本物が分かりましたな！	EBS,g_d26_01,오오! 훌륭합니다!<br>진짜를 잘 알아보셨군요!	TRANSLATED_CHATGPT	=EBS,g_d26_01,おお！　すばらしいですぞ！<br>よく本物が分かりましたな！
+bunshin.tbl	3807	EBS,g_d26_01,おお！　すばらしいですぞ！<br>よく本物が分かりましたな！	EBS,g_d26_01,오오! 훌륭합니다!<br>진짜를 잘 알아보셨군요!	TRANSLATED_CHATGPT	=EBS,g_d26_01,おお！　すばらしいですぞ！<br>よく本物が分かりましたな！
+bunshin.tbl	3884	EBS,g_d26_02,おや？　どうしました？<br>それは間違いですぞ？	EBS,g_d26_02,어라? 무슨 일이죠?<br>그건 틀렸습니다.	TRANSLATED_CHATGPT	=EBS,g_d26_02,おや？　どうしました？<br>それは間違いですぞ？
+bunshin.tbl	3951	EBS,g_d26_02,おや？　どうしました？<br>それは間違いですぞ？	EBS,g_d26_02,어라? 무슨 일이죠?<br>그건 틀렸습니다.	TRANSLATED_CHATGPT	=EBS,g_d26_02,おや？　どうしました？<br>それは間違いですぞ？
+bunshin.tbl	4018	,,ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。	,,나루P 포인트 <BLUE>%dP<BLACK>를 획득했습니다.	TRANSLATED_CHATGPT	=,,ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。
+bunshin.tbl	4075	攻略を中止してマップ画面に戻りますか？	공략 중단 후 맵으로 돌아갈까요?	TRANSLATED_EXISTING	=攻略を中止してマップ画面に戻りますか？
+bunshin.tbl	4137	EBS,g_d26_03,さあ、分身授業を<br>始めさせていただきますぞ！	EBS,g_d26_03,자, 분신 수업을<br>시작하겠습니다!	TRANSLATED_CHATGPT	=EBS,g_d26_03,さあ、分身授業を<br>始めさせていただきますぞ！
+bunshin.tbl	4204	EBS,g_d26_04,おお！　さすがですな！<br>素晴らしいです！	EBS,g_d26_04,오오! 역시 대단하군요!<br>훌륭합니다!	TRANSLATED_CHATGPT	=EBS,g_d26_04,おお！　さすがですな！<br>素晴らしいです！
+bunshin.tbl	4267	EBS,g_d26_04,おお！　さすがですな！<br>素晴らしいです！	EBS,g_d26_04,오오! 역시 대단하군요!<br>훌륭합니다!	TRANSLATED_CHATGPT	=EBS,g_d26_04,おお！　さすがですな！<br>素晴らしいです！
+bunshin.tbl	4330	EBS,g_d26_05,おや？　どうなされました？<br>少し油断でもされましたかな？	EBS,g_d26_05,어라? 무슨 일이신가요?<br>조금 방심하셨나요?	TRANSLATED_CHATGPT	=EBS,g_d26_05,おや？　どうなされました？<br>少し油断でもされましたかな？
+bunshin.tbl	4409	EBS,g_d26_05,おや？　どうなされました？<br>少し油断でもされましたかな？	EBS,g_d26_05,어라? 무슨 일이신가요?<br>조금 방심하셨나요?	TRANSLATED_CHATGPT	=EBS,g_d26_05,おや？　どうなされました？<br>少し油断でもされましたかな？
+bunshin.tbl	4488	,,ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。	,,나루P 포인트 <BLUE>%dP<BLACK>를 획득했습니다.	TRANSLATED_CHATGPT	=,,ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。
+bunshin.tbl	4545	攻略を中止してマップ画面に戻りますか？	공략 중단 후 맵으로 돌아갈까요?	TRANSLATED_EXISTING	=攻略を中止してマップ画面に戻りますか？
+mugen.tbl	12	;切り出す幅. 16byte分のpixel単位でないといけません.		SKIP_COMMENT	;切り出す幅. 16byte分のpixel単位でないといけません.
+mugen.tbl	163	;切り出す高さ. 8pixel単位でないといけません.		SKIP_COMMENT	;切り出す高さ. 8pixel単位でないといけません.
+mugen.tbl	1297	声稀		KEEP_CUSTOM_ENCODED	=声稀
+mugen.tbl	1309	小拶応		KEEP_CUSTOM_ENCODED	=小拶応
+mugen.tbl	1323	仮詰		KEEP_CUSTOM_ENCODED	=仮詰
+mugen.tbl	1335	込坤		KEEP_CUSTOM_ENCODED	=込坤
+mugen.tbl	1347	徴撫		KEEP_CUSTOM_ENCODED	=徴撫
+mugen.tbl	1353	雇婆		KEEP_CUSTOM_ENCODED	雇婆
+mugen.tbl	2846	;パラメータ下地(成長アイテム時) x,y,w,h. color.		SKIP_COMMENT	;パラメータ下地(成長アイテム時) x,y,w,h. color.
+mugen.tbl	3376	;キャラ顔テクスチャ(id=tex).		SKIP_COMMENT	;キャラ顔テクスチャ(id=tex).
+mugen.tbl	3822	;キャラ顔位置.		SKIP_COMMENT	;キャラ顔位置.
+mugen.tbl	3872	;status sprite(パラメータ,パラメータリスト,LV,BP,体力,チャクラ,体力バー,チャクラバー)		SKIP_COMMENT	;status sprite(パラメータ,パラメータリスト,LV,BP,体力,チャクラ,体力バー,チャクラバー)
+mugen.tbl	4503	;チャクラボール.		SKIP_COMMENT	;チャクラボール.
+mugen.tbl	4715	";小隊編成(""隊長ボーナス"",status*6)"		SKIP_COMMENT	";小隊編成(""隊長ボーナス"",status*6)"
+mugen.tbl	5230	;体力バー、チャクラバー後光.		SKIP_COMMENT	;体力バー、チャクラバー後光.
+mugen.tbl	6004	;階級.		SKIP_COMMENT	;階級.
+mugen.tbl	6597	;ステータス文字列.		SKIP_COMMENT	;ステータス文字列.
+mugen.tbl	7322	;テキスト.		SKIP_COMMENT	;テキスト.
+mugen.tbl	7352	このキャラクターが隊長の時は、<br>小隊メンバーのパラメータに<br>以下のボーナスが追加されます。	이 캐릭터가 대장일 때는<br>소대원의 능력치에<br>아래 보너스가 추가됩니다.	TRANSLATED_CHATGPT	=このキャラクターが隊長の時は、<br>小隊メンバーのパラメータに<br>以下のボーナスが追加されます。
+mugen.tbl	8263	;sprite( 回復,成長,重要,戦闘 )		SKIP_COMMENT	;sprite( 回復,成長,重要,戦闘 )
+mugen.tbl	8720	;layout( infox, キャラY, 回数Y, 説明Y )		SKIP_COMMENT	;layout( infox, キャラY, 回数Y, 説明Y )
+mugen.tbl	9097	;cursor(くないオフセット. 選択行WH).		SKIP_COMMENT	;cursor(くないオフセット. 選択行WH).
+mugen.tbl	9162	;sprite(キャラ、回数、説明)		SKIP_COMMENT	;sprite(キャラ、回数、説明)
+mugen.tbl	9536	;キャラ顔位置.		SKIP_COMMENT	;キャラ顔位置.
+mugen.tbl	9685	;string(巻物名:ID対応)		SKIP_COMMENT	;string(巻物名:ID対応)
+mugen.tbl	9714	戦闘の巻物	전투 두루마리	TRANSLATED_CHATGPT	=戦闘の巻物
+mugen.tbl	9732	木登りの巻物	나무타기 두루마리	TRANSLATED_CHATGPT	=木登りの巻物
+mugen.tbl	9752	影真似の巻物	그림자 흉내 두루마리	TRANSLATED_CHATGPT	=影真似の巻物
+mugen.tbl	9772	謎々の巻物	수수께끼 두루마리	TRANSLATED_CHATGPT	=謎々の巻物
+mugen.tbl	9790	娯楽の巻物	오락 두루마리	TRANSLATED_CHATGPT	=娯楽の巻物
+mugen.tbl	9808	分身の巻物	분신 두루마리	TRANSLATED_CHATGPT	=分身の巻物
+mugen.tbl	10192	; 0:null 1:戦闘 2:影 3:木 4:楽		SKIP_COMMENT	; 0:null 1:戦闘 2:影 3:木 4:楽
+mugen.tbl	10224	; 5:謎 6:分身 7:劇 8:宝 9:回復 10:不安定		SKIP_COMMENT	; 5:謎 6:分身 7:劇 8:宝 9:回復 10:不安定
+mugen.tbl	10266	;11:上階段 12:下階段		SKIP_COMMENT	;11:上階段 12:下階段
+mugen.tbl	11118	;scroll tex,uv(戦木影謎楽分).		SKIP_COMMENT	;scroll tex,uv(戦木影謎楽分).
+mugen.tbl	11959	;数字フォント.		SKIP_COMMENT	;数字フォント.
+mugen.tbl	12428	;sprite(流れ文字下地)		SKIP_COMMENT	;sprite(流れ文字下地)
+mugen.tbl	12517	;sprita anim(MAP下地後光アニメ).		SKIP_COMMENT	;sprita anim(MAP下地後光アニメ).
+mugen.tbl	12956	;デフォルメキャラ.		SKIP_COMMENT	;デフォルメキャラ.
+mugen.tbl	13237	;流れ文字.		SKIP_COMMENT	;流れ文字.
+mugen.tbl	13376	;mapグリッド.		SKIP_COMMENT	;mapグリッド.
+mugen.tbl	13466	;各ノード情報.		SKIP_COMMENT	;各ノード情報.
+mugen.tbl	14412	;部屋カーソル(1:四隅 2:ハイライト).		SKIP_COMMENT	;部屋カーソル(1:四隅 2:ハイライト).
+mugen.tbl	14582	;階数表示.		SKIP_COMMENT	;階数表示.
+mugen.tbl	15308	;キャラ名UV.		SKIP_COMMENT	;キャラ名UV.
+mugen.tbl	16085	;アイテム表示(x,y,back_light).		SKIP_COMMENT	;アイテム表示(x,y,back_light).
+mugen.tbl	16201	;位置X(中央,L2,R2,L3,R3)		SKIP_COMMENT	;位置X(中央,L2,R2,L3,R3)
+mugen.tbl	16858	;sprite(流れ文字下地)		SKIP_COMMENT	;sprite(流れ文字下地)
+mugen.tbl	16949	;流れ文字.		SKIP_COMMENT	;流れ文字.
+mugen.tbl	17223	小隊編成	소대 편성	TRANSLATED_CHATGPT	=小隊編成
+mugen.tbl	17239	退室	나가기	TRANSLATED_CHATGPT	=退室
+mugen.tbl	17984	;border(offset,厚さ分ずらす).		SKIP_COMMENT	;border(offset,厚さ分ずらす).
+mugen.tbl	18831	小飽鴫		KEEP_CUSTOM_ENCODED	=小飽鴫
+mugen.tbl	19029	;戦闘		SKIP_COMMENT	;戦闘
+mugen.tbl	19370	;回復		SKIP_COMMENT	;回復
+mugen.tbl	19435	;成長		SKIP_COMMENT	;成長
+mugen.tbl	19562	;重要.		SKIP_COMMENT	;重要.
+mugen.tbl	19768	;重要2.		SKIP_COMMENT	;重要2.
+mugen.tbl	19855	;戦闘		SKIP_COMMENT	;戦闘
+mugen.tbl	19867	瞬身の巻物	순신서	TRANSLATED_EXISTING	=瞬身の巻物
+mugen.tbl	19885	根性のおもり	근성의 추	TRANSLATED_EXISTING	=根性のおもり
+mugen.tbl	19905	風魔手裏剣	풍마수리검	TRANSLATED_CHATGPT	=風魔手裏剣
+mugen.tbl	19923	千影手裏剣	천영수리검	TRANSLATED_CHATGPT	=千影手裏剣
+mugen.tbl	19941	起爆クナイ	기폭쿠나이	TRANSLATED_EXISTING	=起爆クナイ
+mugen.tbl	19959	撒き菱	마름쇠	TRANSLATED_EXISTING	=撒き菱
+mugen.tbl	19973	起爆札	기폭찰	TRANSLATED_CHATGPT	=起爆札
+mugen.tbl	19987	呪札　鎧崩し	주찰갑옷붕괴	TRANSLATED_EXISTING	=呪札　鎧崩し
+mugen.tbl	20007	呪札　強奪	주찰 강탈	TRANSLATED_CHATGPT	=呪札　強奪
+mugen.tbl	20025	毒煙玉	독연막탄	TRANSLATED_CHATGPT	=毒煙玉
+mugen.tbl	20039	上忍の靴	상닌화	TRANSLATED_EXISTING	=上忍の靴
+mugen.tbl	20055	兵糧丸	병량환	TRANSLATED_CHATGPT	=兵糧丸
+mugen.tbl	20069	雲隠れの巻物	구름은신서	TRANSLATED_EXISTING	=雲隠れの巻物
+mugen.tbl	20089	カカシ人形	카카시인형	TRANSLATED_EXISTING	=カカシ人形
+mugen.tbl	20107	韋駄天丸	위타천환	TRANSLATED_CHATGPT	=韋駄天丸
+mugen.tbl	20123	亀甲丸	귀갑환	TRANSLATED_CHATGPT	=亀甲丸
+mugen.tbl	20137	元気丸	원기환	TRANSLATED_CHATGPT	=元気丸
+mugen.tbl	20146	;回復		SKIP_COMMENT	;回復
+mugen.tbl	20158	回復薬	회복약	TRANSLATED_CHATGPT	=回復薬
+mugen.tbl	20172	万能薬	만능약	TRANSLATED_CHATGPT	=万能薬
+mugen.tbl	20186	夕霧の秘薬	유우기리의 비약	TRANSLATED_CHATGPT	=夕霧の秘薬
+mugen.tbl	20199	;成長		SKIP_COMMENT	;成長
+mugen.tbl	20211	攻撃の書	공격의 서	TRANSLATED_CHATGPT	=攻撃の書
+mugen.tbl	20227	防御の書	방어의 서	TRANSLATED_CHATGPT	=防御の書
+mugen.tbl	20243	すばやさの書	민첩의 서	TRANSLATED_CHATGPT	=すばやさの書
+mugen.tbl	20263	チャクラの書	차크라의 서	TRANSLATED_CHATGPT	=チャクラの書
+mugen.tbl	20283	状態変化の書	상태 변화의 서	TRANSLATED_CHATGPT	=状態変化の書
+mugen.tbl	20303	忍具の書	닌자 도구의 서	TRANSLATED_CHATGPT	=忍具の書
+mugen.tbl	20314	;重要.		SKIP_COMMENT	;重要.
+mugen.tbl	20327	おまもり	부적	TRANSLATED_CHATGPT	=おまもり
+mugen.tbl	20343	リボン	리본	TRANSLATED_CHATGPT	=リボン
+mugen.tbl	20357	オルゴール	오르골	TRANSLATED_EXISTING	=オルゴール
+mugen.tbl	20439	;重要2.		SKIP_COMMENT	;重要2.
+mugen.tbl	20453	日記帳	일기장	TRANSLATED_CHATGPT	=日記帳
+mugen.tbl	20467	報告書	보고서	TRANSLATED_CHATGPT	=報告書
+mugen.tbl	20481	木ノ葉の額当て	나뭇잎 이마 보호대	TRANSLATED_CHATGPT	=木ノ葉の額当て
+mugen.tbl	20513	;戦闘		SKIP_COMMENT	;戦闘
+mugen.tbl	20525	<BLUE>瞬身の巻物<BLACK><KOFF>：<KON>相手の背後へ瞬身移動することができる。	<BLUE>순신 두루마리<BLACK><KOFF>:<KON>상대의 등 뒤로 순간이동할 수 있다.	TRANSLATED_CHATGPT	=<BLUE>瞬身の巻物<BLACK><KOFF>：<KON>相手の背後へ瞬身移動することができる。
+mugen.tbl	20607	<BLUE>根性のおもり<BLACK><KOFF>：<KON>相手に当てると、一定時間、相手の動きが遅くなる。	<BLUE>근성의 추<BLACK><KOFF>:<KON>상대에게 맞히면 일정 시간 움직임이 느려진다.	TRANSLATED_CHATGPT	=<BLUE>根性のおもり<BLACK><KOFF>：<KON>相手に当てると、一定時間、相手の動きが遅くなる。
+mugen.tbl	20701	<BLUE>風魔手裏剣<BLACK><KOFF>：<KON>大型の手裏剣を投げて、相手を攻撃する。	<BLUE>풍마수리검<BLACK><KOFF>:<KON>대형 수리검을 던져 상대를 공격한다.	TRANSLATED_CHATGPT	=<BLUE>風魔手裏剣<BLACK><KOFF>：<KON>大型の手裏剣を投げて、相手を攻撃する。
+mugen.tbl	20783	<BLUE>千影手裏剣<BLACK><KOFF>：<KON>大量の手裏剣を投げて、相手を攻撃する。	<BLUE>천영수리검<BLACK><KOFF>:<KON>대량의 수리검을 던져 상대를 공격한다.	TRANSLATED_CHATGPT	=<BLUE>千影手裏剣<BLACK><KOFF>：<KON>大量の手裏剣を投げて、相手を攻撃する。
+mugen.tbl	20865	<BLUE>起爆クナイ<BLACK><KOFF>：<KON>起爆札付きのクナイで、一定距離飛ぶと爆発する。	<BLUE>기폭 쿠나이<BLACK><KOFF>:<KON>기폭찰이 붙은 쿠나이로 일정 거리 날아가면 폭발한다.	TRANSLATED_CHATGPT	=<BLUE>起爆クナイ<BLACK><KOFF>：<KON>起爆札付きのクナイで、一定距離飛ぶと爆発する。
+mugen.tbl	20955	<BLUE>撒き菱<BLACK><KOFF>：<KON>セットした後、相手がそれを踏むとダメージを受ける。	<BLUE>마름쇠<BLACK><KOFF>:<KON>설치 후 상대가 밟으면 피해를 입는다.	TRANSLATED_CHATGPT	=<BLUE>撒き菱<BLACK><KOFF>：<KON>セットした後、相手がそれを踏むとダメージを受ける。
+mugen.tbl	21045	<BLUE>起爆札<BLACK><KOFF>：<KON>セットした後、一定時間後に大爆発する。	<BLUE>기폭찰<BLACK><KOFF>:<KON>설치 후 일정 시간이 지나면 크게 폭발한다.	TRANSLATED_CHATGPT	=<BLUE>起爆札<BLACK><KOFF>：<KON>セットした後、一定時間後に大爆発する。
+mugen.tbl	21123	<BLUE>呪札　鎧崩し<BLACK><KOFF>：<KON>相手に当てると、一定時間、相手の防御力が下がる。	<BLUE>주찰 갑옷 파괴<BLACK><KOFF>:<KON>상대에게 맞히면 일정 시간 방어력이 내려간다.	TRANSLATED_CHATGPT	=<BLUE>呪札　鎧崩し<BLACK><KOFF>：<KON>相手に当てると、一定時間、相手の防御力が下がる。
+mugen.tbl	21217	<BLUE>呪札　強奪<BLACK><KOFF>：<KON>相手に当てると、相手の持っているアイテムがばらまかれる。	<BLUE>주찰 강탈<BLACK><KOFF>:<KON>상대에게 맞히면 소지 아이템이 흩어진다.	TRANSLATED_CHATGPT	=<BLUE>呪札　強奪<BLACK><KOFF>：<KON>相手に当てると、相手の持っているアイテムがばらまかれる。
+mugen.tbl	21317	<BLUE>毒煙玉<BLACK><KOFF>：<KON>毒煙に相手が当たると、一定時間、相手の体力が少しずつ減っていく。	<BLUE>독연막탄<BLACK><KOFF>:<KON>독연기에 닿은 상대는 일정 시간 체력이 조금씩 감소한다.	TRANSLATED_CHATGPT	=<BLUE>毒煙玉<BLACK><KOFF>：<KON>毒煙に相手が当たると、一定時間、相手の体力が少しずつ減っていく。
+mugen.tbl	21421	<BLUE>上忍の靴<BLACK><KOFF>：<KON>一定時間、動きが早くなる。	<BLUE>상급 닌자의 신발<BLACK><KOFF>:<KON>일정 시간 움직임이 빨라진다.	TRANSLATED_CHATGPT	=<BLUE>上忍の靴<BLACK><KOFF>：<KON>一定時間、動きが早くなる。
+mugen.tbl	21489	<BLUE>兵糧丸<BLACK><KOFF>：<KON>一定時間、攻撃力がアップする。	<BLUE>병량환<BLACK><KOFF>:<KON>일정 시간 공격력이 상승한다.	TRANSLATED_CHATGPT	=<BLUE>兵糧丸<BLACK><KOFF>：<KON>一定時間、攻撃力がアップする。
+mugen.tbl	21559	<BLUE>雲隠れの巻物<BLACK><KOFF>：<KON>一定時間、姿が消えて飛び道具が効かなくなる。	<BLUE>구름숨기기 두루마리<BLACK><KOFF>:<KON>일정 시간 모습이 사라져 투척 무기가 통하지 않는다.	TRANSLATED_CHATGPT	=<BLUE>雲隠れの巻物<BLACK><KOFF>：<KON>一定時間、姿が消えて飛び道具が効かなくなる。
+mugen.tbl	21649	<BLUE>カカシ人形<BLACK><KOFF>：<KON>一定時間、変わり身が自動で行われる。	<BLUE>카카시 인형<BLACK><KOFF>:<KON>일정 시간 바꿔치기가 자동으로 발동한다.	TRANSLATED_CHATGPT	=<BLUE>カカシ人形<BLACK><KOFF>：<KON>一定時間、変わり身が自動で行われる。
+mugen.tbl	21729	<BLUE>韋駄天丸<BLACK><KOFF>：<KON>一定時間、瞬発力がアップする。	<BLUE>위타천환<BLACK><KOFF>:<KON>일정 시간 순발력이 상승한다.	TRANSLATED_CHATGPT	=<BLUE>韋駄天丸<BLACK><KOFF>：<KON>一定時間、瞬発力がアップする。
+mugen.tbl	21801	<BLUE>亀甲丸<BLACK><KOFF>：<KON>一定時間、防御力がアップする。	<BLUE>귀갑환<BLACK><KOFF>:<KON>일정 시간 방어력이 상승한다.	TRANSLATED_CHATGPT	=<BLUE>亀甲丸<BLACK><KOFF>：<KON>一定時間、防御力がアップする。
+mugen.tbl	21871	<BLUE>元気丸<BLACK><KOFF>：<KON>一定時間、チャクラが減らなくなる。	<BLUE>원기환<BLACK><KOFF>:<KON>일정 시간 차크라가 줄지 않는다.	TRANSLATED_CHATGPT	=<BLUE>元気丸<BLACK><KOFF>：<KON>一定時間、チャクラが減らなくなる。
+mugen.tbl	21940	;回復		SKIP_COMMENT	;回復
+mugen.tbl	21952	<BLUE>回復薬<BLACK><KOFF>：<KON>体力とチャクラを小回復させる。	<BLUE>회복약<BLACK><KOFF>:<KON>체력과 차크라를 소량 회복한다.	TRANSLATED_CHATGPT	=<BLUE>回復薬<BLACK><KOFF>：<KON>体力とチャクラを小回復させる。
+mugen.tbl	22022	<BLUE>万能薬<BLACK><KOFF>：<KON>体力とチャクラを中回復させる。	<BLUE>만능약<BLACK><KOFF>:<KON>체력과 차크라를 중간 정도 회복한다.	TRANSLATED_CHATGPT	=<BLUE>万能薬<BLACK><KOFF>：<KON>体力とチャクラを中回復させる。
+mugen.tbl	22092	<BLUE>夕霧の秘薬<BLACK><KOFF>：<KON>体力とチャクラを完全回復させる。	<BLUE>유우기리의 비약<BLACK><KOFF>:<KON>체력과 차크라를 완전히 회복한다.	TRANSLATED_CHATGPT	=<BLUE>夕霧の秘薬<BLACK><KOFF>：<KON>体力とチャクラを完全回復させる。
+mugen.tbl	22163	;成長		SKIP_COMMENT	;成長
+mugen.tbl	22175	<BLUE>攻撃の書<BLACK><KOFF>：<KON>攻撃力のパラメータのＬＶを１上げる。	<BLUE>공격의 서<BLACK><KOFF>:<KON>공격력 능력치 LV을 1 올린다.	TRANSLATED_CHATGPT	=<BLUE>攻撃の書<BLACK><KOFF>：<KON>攻撃力のパラメータのＬＶを１上げる。
+mugen.tbl	22253	<BLUE>防御の書<BLACK><KOFF>：<KON>防御力のパラメータのＬＶを１上げる。	<BLUE>방어의 서<BLACK><KOFF>:<KON>방어력 능력치 LV을 1 올린다.	TRANSLATED_CHATGPT	=<BLUE>防御の書<BLACK><KOFF>：<KON>防御力のパラメータのＬＶを１上げる。
+mugen.tbl	22331	<BLUE>すばやさの書<BLACK><KOFF>：<KON>すばやさのパラメータのＬＶを１上げる。	<BLUE>민첩의 서<BLACK><KOFF>:<KON>민첩 능력치 LV을 1 올린다.	TRANSLATED_CHATGPT	=<BLUE>すばやさの書<BLACK><KOFF>：<KON>すばやさのパラメータのＬＶを１上げる。
+mugen.tbl	22415	<BLUE>チャクラの書<BLACK><KOFF>：<KON>チャクラのパラメータのＬＶを１上げる。	<BLUE>차크라의 서<BLACK><KOFF>:<KON>차크라 능력치 LV을 1 올린다.	TRANSLATED_CHATGPT	=<BLUE>チャクラの書<BLACK><KOFF>：<KON>チャクラのパラメータのＬＶを１上げる。
+mugen.tbl	22499	<BLUE>状態変化の書<BLACK><KOFF>：<KON>状態変化のパラメータのＬＶを１上げる。	<BLUE>상태 변화의 서<BLACK><KOFF>:<KON>상태 변화 능력치 LV을 1 올린다.	TRANSLATED_CHATGPT	=<BLUE>状態変化の書<BLACK><KOFF>：<KON>状態変化のパラメータのＬＶを１上げる。
+mugen.tbl	22583	<BLUE>忍具の書<BLACK><KOFF>：<KON>忍具のパラメータのＬＶを１上げる。	<BLUE>닌자 도구의 서<BLACK><KOFF>:<KON>닌자 도구 능력치 LV을 1 올린다.	TRANSLATED_CHATGPT	=<BLUE>忍具の書<BLACK><KOFF>：<KON>忍具のパラメータのＬＶを１上げる。
+mugen.tbl	22654	;重要.		SKIP_COMMENT	;重要.
+mugen.tbl	22667	<BLUE>おまもり<BLACK><KOFF>：<KON>花澄姫が兵士長と侍女にあげた、手作りのおまもり。	<BLUE>부적<BLACK><KOFF>:<KON>카스미 공주가 병사장과 시녀에게 준 수제 부적.	TRANSLATED_CHATGPT	=<BLUE>おまもり<BLACK><KOFF>：<KON>花澄姫が兵士長と侍女にあげた、手作りのおまもり。
+mugen.tbl	22757	<BLUE>リボン<BLACK><KOFF>：<KON>花澄姫が女の子にあげた、かわいらしいリボン。	<BLUE>리본<BLACK><KOFF>:<KON>카스미 공주가 여자아이에게 준 귀여운 리본.	TRANSLATED_CHATGPT	=<BLUE>リボン<BLACK><KOFF>：<KON>花澄姫が女の子にあげた、かわいらしいリボン。
+mugen.tbl	22841	<BLUE>オルゴール<BLACK><KOFF>：<KON>花澄姫が夕霧城のみんなから貰った大切なオルゴール。	<BLUE>오르골<BLACK><KOFF>:<KON>카스미 공주가 유우기리성 사람들에게 받은 소중한 오르골.	TRANSLATED_CHATGPT	=<BLUE>オルゴール<BLACK><KOFF>：<KON>花澄姫が夕霧城のみんなから貰った大切なオルゴール。
+mugen.tbl	22999	;重要2.		SKIP_COMMENT	;重要2.
+mugen.tbl	23013	<BLUE>日記帳<BLACK><KOFF>：<KON>誰かが残した古い日記帳。	<BLUE>일기장<BLACK><KOFF>:<KON>누군가 남긴 오래된 일기장.	TRANSLATED_CHATGPT	=<BLUE>日記帳<BLACK><KOFF>：<KON>誰かが残した古い日記帳。
+mugen.tbl	23077	<BLUE>報告書<BLACK><KOFF>：<KON>誰かが残した古い報告書。	<BLUE>보고서<BLACK><KOFF>:<KON>누군가 남긴 오래된 보고서.	TRANSLATED_CHATGPT	=<BLUE>報告書<BLACK><KOFF>：<KON>誰かが残した古い報告書。
+mugen.tbl	23141	<BLUE>木ノ葉の額当て<BLACK><KOFF>：<KON>ひどく傷ついた木ノ葉隠れの額当て。	<BLUE>나뭇잎 이마 보호대<BLACK><KOFF>:<KON>심하게 손상된 나뭇잎 마을의 이마 보호대.	TRANSLATED_CHATGPT	=<BLUE>木ノ葉の額当て<BLACK><KOFF>：<KON>ひどく傷ついた木ノ葉隠れの額当て。
+mugen.tbl	23220	;大Tex名.		SKIP_COMMENT	;大Tex名.
+mugen.tbl	23231	;戦闘		SKIP_COMMENT	;戦闘
+mugen.tbl	23561	;回復		SKIP_COMMENT	;回復
+mugen.tbl	23625	;成長		SKIP_COMMENT	;成長
+mugen.tbl	23746	;重要.		SKIP_COMMENT	;重要.
+mugen.tbl	23934	;重要2.		SKIP_COMMENT	;重要2.
+mugen.tbl	24002	;特殊使用文言.		SKIP_COMMENT	;特殊使用文言.
+mugen.tbl	24018	;重要2.		SKIP_COMMENT	;重要2.
+mugen.tbl	24063	;重要アイテム2のメッセージ.		SKIP_COMMENT	;重要アイテム2のメッセージ.
+mugen.tbl	24098	S,誰かが残した古い日記帳。<br>その日の出来事が記されてある…。	S,누군가 남긴 오래된 일기장.<br>그날의 일이 적혀 있다….	TRANSLATED_CHATGPT	=S,誰かが残した古い日記帳。<br>その日の出来事が記されてある…。
+mugen.tbl	24169	M,<KOFF>１０月…２日　晴　<br>　今日は嬉しいこ…あった<KON>。<KOFF><br>　姫様が私た…に贈り物を…ったのだ<KON>。<KOFF>	M,<KOFF>10월… 2일 맑음<br> 오늘은 기쁜 일이… 있었다<KON>.<KOFF><br> 공주님이 우리…에게 선물을… 주셨다<KON>.<KOFF>	TRANSLATED_CHATGPT	=M,<KOFF>１０月…２日　晴　<br>　今日は嬉しいこ…あった<KON>。<KOFF><br>　姫様が私た…に贈り物を…ったのだ<KON>。<KOFF>
+mugen.tbl	24296	M,<KOFF>　この気持…を何と言って…のか<KON>。<KOFF>　<br>　とにか…嬉…<KON>。<KOFF><br>　…必ずお返しを…いと<KON>。<KOFF>	M,<KOFF> 이 마음을… 뭐라고 해야… 할까<KON>.<KOFF><br> 아무튼… 기쁘다…<KON>.<KOFF><br> …꼭 보답을… 해야지<KON>.<KOFF>	TRANSLATED_CHATGPT	=M,<KOFF>　この気持…を何と言って…のか<KON>。<KOFF>　<br>　とにか…嬉…<KON>。<KOFF><br>　…必ずお返しを…いと<KON>。<KOFF>
+mugen.tbl	24428	M,<KOFF>１…月１７…　晴　<br>　姫…オルゴ…を…喜……<KON>。<KOFF><br>　幸せに…て……さい<KON>。<KOFF>	M,<KOFF>1…월 17…일 맑음<br> 공주님은… 오르골을… 기뻐……<KON>.<KOFF><br> 행복하게… 지내……세요<KON>.<KOFF>	TRANSLATED_CHATGPT	=M,<KOFF>１…月１７…　晴　<br>　姫…オルゴ…を…喜……<KON>。<KOFF><br>　幸せに…て……さい<KON>。<KOFF>
+mugen.tbl	24541	S,この先は汚れと傷みがひどいため<br>内容を確認することができない…。	S,이 뒤는 오염과 훼손이 심해<br>내용을 확인할 수 없다….	TRANSLATED_CHATGPT	=S,この先は汚れと傷みがひどいため<br>内容を確認することができない…。
+mugen.tbl	24618	S,誰かが残した古い報告書。<br>その日の報告が記されてある…。	S,누군가 남긴 오래된 보고서.<br>그날의 보고가 적혀 있다….	TRANSLATED_CHATGPT	=S,誰かが残した古い報告書。<br>その日の報告が記されてある…。
+mugen.tbl	24687	M,<KOFF>１０月…５日　曇<br>　不審な…が城…周囲を嗅ぎまわっ…る<br>　という情報…得た<KON>。<KOFF>	M,<KOFF>10월… 5일 흐림<br> 수상한… 자가 성… 주변을 돌아다닌다…<br> 는 정보를… 얻었다<KON>.<KOFF>	TRANSLATED_CHATGPT	=M,<KOFF>１０月…５日　曇<br>　不審な…が城…周囲を嗅ぎまわっ…る<br>　という情報…得た<KON>。<KOFF>
+mugen.tbl	24795	M,<KOFF>　何者…分から…いが<KON>、<KOFF><br>　嫌な予感が……<KON>。<KOFF><br>　警戒を厳重に……ければ…<KON>。<KOFF>	M,<KOFF> 정체는… 알 수 없지만<KON>,<KOFF><br> 불길한 예감이……<KON>.<KOFF><br> 경계를 더욱 엄중히…… 해야…<KON>.<KOFF>	TRANSLATED_CHATGPT	=M,<KOFF>　何者…分から…いが<KON>、<KOFF><br>　嫌な予感が……<KON>。<KOFF><br>　警戒を厳重に……ければ…<KON>。<KOFF>
+mugen.tbl	25032	S,この先は汚れと傷みがひどいため<br>内容を確認することができない…。	S,이 뒤는 오염과 훼손이 심해<br>내용을 확인할 수 없다….	TRANSLATED_CHATGPT	=S,この先は汚れと傷みがひどいため<br>内容を確認することができない…。
+mugen.tbl	25109	S,ひどく傷ついた木ノ葉隠れの額当て。<br>怪しさと危険な雰囲気が漂っている…。	S,심하게 손상된 나뭇잎 마을 이마 보호대.<br>수상하고 위험한 분위기가 감돈다….	TRANSLATED_CHATGPT	=S,ひどく傷ついた木ノ葉隠れの額当て。<br>怪しさと危険な雰囲気が漂っている…。
+mugen.tbl	25190	;重要アイテム2のウィンドウ.		SKIP_COMMENT	;重要アイテム2のウィンドウ.
+mugen.tbl	25494	;スキル数.		SKIP_COMMENT	;スキル数.
+mugen.tbl	25518	;カットインCCS		SKIP_COMMENT	;カットインCCS
+mugen.tbl	25582	;スキルタイプ.		SKIP_COMMENT	;スキルタイプ.
+mugen.tbl	25598	;0マップ破壊.		SKIP_COMMENT	;0マップ破壊.
+mugen.tbl	25613	;1マップ探査.		SKIP_COMMENT	;1マップ探査.
+mugen.tbl	25628	;2巻物チェンジ.		SKIP_COMMENT	;2巻物チェンジ.
+mugen.tbl	25645	;3巻物コピー.		SKIP_COMMENT	;3巻物コピー.
+mugen.tbl	25660	;4巻物入れ替え.		SKIP_COMMENT	;4巻物入れ替え.
+mugen.tbl	25677	;5回復小.		SKIP_COMMENT	;5回復小.
+mugen.tbl	25688	;6回復中.		SKIP_COMMENT	;6回復中.
+mugen.tbl	25699	;7回復大.		SKIP_COMMENT	;7回復大.
+mugen.tbl	25716	障害物の前	장애물 앞	TRANSLATED_CHATGPT	=障害物の前
+mugen.tbl	25735	マップ上の障害物を<br>破壊する。	맵의 장애물을<br>파괴한다.	TRANSLATED_CHATGPT	=マップ上の障害物を<br>破壊する。
+mugen.tbl	25877	隠し通路の前	숨겨진 통로 앞	TRANSLATED_CHATGPT	=隠し通路の前
+mugen.tbl	25898	マップ上の隠し通路を<br>見つける。	맵의 숨겨진 통로를<br>찾는다.	TRANSLATED_CHATGPT	=マップ上の隠し通路を<br>見つける。
+mugen.tbl	26042	どこでも	어디서든	TRANSLATED_CHATGPT	=どこでも
+mugen.tbl	26059	次に入手する巻物を<br>好きな種類に変更する。	다음에 얻는 두루마리를<br>원하는 종류로 변경한다.	TRANSLATED_CHATGPT	=次に入手する巻物を<br>好きな種類に変更する。
+mugen.tbl	26213	どこでも	어디서든	TRANSLATED_CHATGPT	=どこでも
+mugen.tbl	26230	所持している巻物の１つを、<br>他の巻物にコピーする。		KEEP_CUSTOM_ENCODED	=所持している巻物の１つを、<br>他の巻物にコピーする。
+mugen.tbl	26392	どこでも	어디서든	TRANSLATED_CHATGPT	=どこでも
+mugen.tbl	26409	全ての巻物を別のものと<br>交換する。	모든 두루마리를 다른 것으로<br>교환한다.	TRANSLATED_CHATGPT	=全ての巻物を別のものと<br>交換する。
+mugen.tbl	26555	どこでも	어디서든	TRANSLATED_CHATGPT	=どこでも
+mugen.tbl	26572	だれか１人の体力を<br>小回復させる。	한 명의 체력을<br>소량 회복한다.	TRANSLATED_CHATGPT	=だれか１人の体力を<br>小回復させる。
+mugen.tbl	26718	どこでも	어디서든	TRANSLATED_CHATGPT	=どこでも
+mugen.tbl	26735	だれか１人の体力を<br>中回復させる。	한 명의 체력을<br>중간 정도 회복한다.	TRANSLATED_CHATGPT	=だれか１人の体力を<br>中回復させる。
+mugen.tbl	26881	どこでも	어디서든	TRANSLATED_CHATGPT	=どこでも
+mugen.tbl	26898	だれか１人の体力を<br>完全回復させる。	한 명의 체력을<br>완전히 회복한다.	TRANSLATED_CHATGPT	=だれか１人の体力を<br>完全回復させる。
+mugen.tbl	27044	;名前,タイプ,キャラ,使用回数,説明,カットインアニメチャンク名.		SKIP_COMMENT	;名前,タイプ,キャラ,使用回数,説明,カットインアニメチャンク名.
+mugen.tbl	27112	螺旋丸	나선환	TRANSLATED_CHATGPT	=螺旋丸
+mugen.tbl	27203	千鳥	치도리	TRANSLATED_CHATGPT	=千鳥
+mugen.tbl	27292	医療忍術	의료인술	TRANSLATED_CHATGPT	=医療忍術
+mugen.tbl	27385	自分ルール	자기 규칙	TRANSLATED_CHATGPT	=自分ルール
+mugen.tbl	27477	白眼	백안	TRANSLATED_CHATGPT	=白眼
+mugen.tbl	27564	治療薬　口寄せ	치료약 소환	TRANSLATED_CHATGPT	=治療薬　口寄せ
+mugen.tbl	27663	影真似の術	그림자 흉내술	TRANSLATED_CHATGPT	=影真似の術
+mugen.tbl	27761	肉弾戦車	육탄전차	TRANSLATED_CHATGPT	=肉弾戦車
+mugen.tbl	27854	心転身の術	심전신술	TRANSLATED_CHATGPT	=心転身の術
+mugen.tbl	27946	通牙	통아	TRANSLATED_CHATGPT	=通牙
+mugen.tbl	28033	寄壊蟲の術	기괴충술	TRANSLATED_CHATGPT	=寄壊蟲の術
+mugen.tbl	28127	白眼	백안	TRANSLATED_CHATGPT	=白眼
+mugen.tbl	28216	流砂瀑流	유사폭류	TRANSLATED_CHATGPT	=流砂瀑流
+mugen.tbl	28308	写輪眼	사륜안	TRANSLATED_CHATGPT	=写輪眼
+mugen.tbl	28400	自分ルール	자기 규칙	TRANSLATED_CHATGPT	=自分ルール
+mugen.tbl	28492	透遁の術	투둔술	TRANSLATED_CHATGPT	=透遁の術
+mugen.tbl	28586	遠眼鏡の術	망원경술	TRANSLATED_CHATGPT	=遠眼鏡の術
+mugen.tbl	28681	痛天脚	통천각	TRANSLATED_CHATGPT	=痛天脚
+mugen.tbl	28773	医療忍術	의료인술	TRANSLATED_CHATGPT	=医療忍術
+mugen.tbl	28867	風遁　大突破	풍둔 대돌파	TRANSLATED_CHATGPT	=風遁　大突破
+mugen.tbl	28968	掌仙術	장선술	TRANSLATED_CHATGPT	=掌仙術
+mugen.tbl	29059	月読	츠쿠요미	TRANSLATED_CHATGPT	=月読
+mugen.tbl	29148	水遁　水鮫弾の術	수둔 수교탄의 술	TRANSLATED_EXISTING	=水遁　水鮫弾の術
+mugen.tbl	29592	;チュートリアルリソース.		SKIP_COMMENT	;チュートリアルリソース.
+mugen.tbl	29635	辿介据		KEEP_CUSTOM_ENCODED	=辿介据
+mugen.tbl	29643	娼冶		KEEP_CUSTOM_ENCODED	娼冶
+mugen.tbl	29654	<BLUE>－拶僻・賢兜－		KEEP_CUSTOM_ENCODED	=<BLUE>－拶僻・賢兜－
+mugen.tbl	29686	<RED>“辿介据”<BLACK>呪晴忙<br>快槌		KEEP_CUSTOM_ENCODED	<RED>“辿介据”<BLACK>呪晴忙<br>快槌
+mugen.tbl	29723	斜肉轡		KEEP_CUSTOM_ENCODED	斜肉轡
+mugen.tbl	29730	厳瞥		KEEP_CUSTOM_ENCODED	厳瞥
+mugen.tbl	29735	止呪晴<br>襖桶期賑		KEEP_CUSTOM_ENCODED	止呪晴<br>襖桶期賑
+mugen.tbl	29774	厳瞥呪		KEEP_CUSTOM_ENCODED	=厳瞥呪
+mugen.tbl	29782	在忙		KEEP_CUSTOM_ENCODED	在忙
+mugen.tbl	29787	柁呪		KEEP_CUSTOM_ENCODED	柁呪
+mugen.tbl	29811	晃伎賑		KEEP_CUSTOM_ENCODED	晃伎賑
+mugen.tbl	29818	伽興槌<br>拶准侶賑		KEEP_CUSTOM_ENCODED	伽興槌<br>拶准侶賑
+mugen.tbl	29837	賢兜巻		KEEP_CUSTOM_ENCODED	賢兜巻
+mugen.tbl	29865	辿介据		KEEP_CUSTOM_ENCODED	=辿介据
+mugen.tbl	29873	娼冶		KEEP_CUSTOM_ENCODED	娼冶
+mugen.tbl	29951	器噛		KEEP_CUSTOM_ENCODED	器噛
+mugen.tbl	29963	刊猫喚槌<br>嘱保賑		KEEP_CUSTOM_ENCODED	刊猫喚槌<br>嘱保賑
+mugen.tbl	29982	拶埜柔		KEEP_CUSTOM_ENCODED	拶埜柔
+mugen.tbl	29989	兜僻巻		KEEP_CUSTOM_ENCODED	兜僻巻
+mugen.tbl	30015	嘱保忙		KEEP_CUSTOM_ENCODED	=嘱保忙
+mugen.tbl	30023	保坤		KEEP_CUSTOM_ENCODED	保坤
+mugen.tbl	30028	1牒玲		KEEP_CUSTOM_ENCODED	1牒玲
+mugen.tbl	30034	保字		KEEP_CUSTOM_ENCODED	保字
+mugen.tbl	30039	3牒掠厳<br>陥据巻		KEEP_CUSTOM_ENCODED	3牒掠厳<br>陥据巻
+mugen.tbl	30070	晃伎呪晴忙<br>陵諺		KEEP_CUSTOM_ENCODED	晃伎呪晴忙<br>陵諺
+mugen.tbl	30089	礁自		KEEP_CUSTOM_ENCODED	礁自
+mugen.tbl	30094	襖桶期賑		KEEP_CUSTOM_ENCODED	襖桶期賑
+mugen.tbl	30119	精梅		KEEP_CUSTOM_ENCODED	=精梅
+mugen.tbl	30125	刊猫化		KEEP_CUSTOM_ENCODED	刊猫化
+mugen.tbl	30132	僻婆忙<br>声稀		KEEP_CUSTOM_ENCODED	僻婆忙<br>声稀
+mugen.tbl	30147	快槌呪晴		KEEP_CUSTOM_ENCODED	快槌呪晴
+mugen.tbl	30156	会錯巻		KEEP_CUSTOM_ENCODED	会錯巻
+mugen.tbl	30184	辿介据		KEEP_CUSTOM_ENCODED	=辿介据
+mugen.tbl	30192	娼冶		KEEP_CUSTOM_ENCODED	娼冶
+mugen.tbl	30225	豊妻忙		KEEP_CUSTOM_ENCODED	=豊妻忙
+mugen.tbl	30233	声寮・諺寮・喚寮		KEEP_CUSTOM_ENCODED	声寮・諺寮・喚寮
+mugen.tbl	30250	俺史梅<br>憐寮拶		KEEP_CUSTOM_ENCODED	俺史梅<br>憐寮拶
+mugen.tbl	30267	価恩鍔,		KEEP_CUSTOM_ENCODED	価恩鍔,
+mugen.tbl	30275	諺寮		KEEP_CUSTOM_ENCODED	諺寮
+mugen.tbl	30280	拶声拶槌<br>嘱保雑		KEEP_CUSTOM_ENCODED	拶声拶槌<br>嘱保雑
+mugen.tbl	30299	保坤拶		KEEP_CUSTOM_ENCODED	保坤拶
+mugen.tbl	30328	憐寮賛		KEEP_CUSTOM_ENCODED	=憐寮賛
+mugen.tbl	30336	声稀		KEEP_CUSTOM_ENCODED	声稀
+mugen.tbl	30341	快槌呪晴		KEEP_CUSTOM_ENCODED	快槌呪晴
+mugen.tbl	30378	在忙		KEEP_CUSTOM_ENCODED	在忙
+mugen.tbl	30383	襖桶期忙<br>拶軟		KEEP_CUSTOM_ENCODED	襖桶期忙<br>拶軟
+mugen.tbl	30400	屋呪		KEEP_CUSTOM_ENCODED	屋呪
+mugen.tbl	30439	保坤賛		KEEP_CUSTOM_ENCODED	=保坤賛
+mugen.tbl	30447	嘱保字雑		KEEP_CUSTOM_ENCODED	嘱保字雑
+mugen.tbl	30456	夏蚕<br>鞭		KEEP_CUSTOM_ENCODED	夏蚕<br>鞭
+mugen.tbl	30467	揖柔戻		KEEP_CUSTOM_ENCODED	揖柔戻
+mugen.tbl	30477	在忙<br>‘保坤		KEEP_CUSTOM_ENCODED	在忙<br>‘保坤
+mugen.tbl	30492	剖肌’蚕		KEEP_CUSTOM_ENCODED	剖肌’蚕
+mugen.tbl	30522	保坤		KEEP_CUSTOM_ENCODED	=保坤
+mugen.tbl	30528	剖肌賛		KEEP_CUSTOM_ENCODED	剖肌賛
+mugen.tbl	30535	声稀		KEEP_CUSTOM_ENCODED	声稀
+mugen.tbl	30540	快槌呪晴<br>保坤拶		KEEP_CUSTOM_ENCODED	快槌呪晴<br>保坤拶
+mugen.tbl	30565	在忙		KEEP_CUSTOM_ENCODED	在忙
+mugen.tbl	30570	錯沢蚕		KEEP_CUSTOM_ENCODED	錯沢蚕
+mugen.tbl	30577	廉肉		KEEP_CUSTOM_ENCODED	廉肉
+mugen.tbl	30601	多頑蚕		KEEP_CUSTOM_ENCODED	多頑蚕
+mugen.tbl	30608	防入槌		KEEP_CUSTOM_ENCODED	防入槌
+mugen.tbl	30615	会錯巻		KEEP_CUSTOM_ENCODED	会錯巻
+mugen.tbl	30643	辿介据		KEEP_CUSTOM_ENCODED	=辿介据
+mugen.tbl	30651	娼冶		KEEP_CUSTOM_ENCODED	娼冶
+mugen.tbl	30688	<RED>“辿介据”<BLACK>呪忙<br>柁拶		KEEP_CUSTOM_ENCODED	<RED>“辿介据”<BLACK>呪忙<br>柁拶
+mugen.tbl	30723	習忙		KEEP_CUSTOM_ENCODED	習忙
+mugen.tbl	30728	惣娼功化		KEEP_CUSTOM_ENCODED	惣娼功化
+mugen.tbl	30770	測拶忙		KEEP_CUSTOM_ENCODED	測拶忙
+mugen.tbl	30777	音賛		KEEP_CUSTOM_ENCODED	音賛
+mugen.tbl	30799	陵隷史梅		KEEP_CUSTOM_ENCODED	=陵隷史梅
+mugen.tbl	30816	快槌		KEEP_CUSTOM_ENCODED	快槌
+mugen.tbl	30821	荻轡		KEEP_CUSTOM_ENCODED	荻轡
+mugen.tbl	30826	小釆雑<br>‘<BLUE>嘱介		KEEP_CUSTOM_ENCODED	小釆雑<br>‘<BLUE>嘱介
+mugen.tbl	30849	墳埜伽遁<BLACK>’賑		KEEP_CUSTOM_ENCODED	墳埜伽遁<BLACK>’賑
+mugen.tbl	30869	石識噛<br>柁蚕		KEEP_CUSTOM_ENCODED	石識噛<br>柁蚕
+mugen.tbl	30884	嘱介噛准		KEEP_CUSTOM_ENCODED	嘱介噛准
+mugen.tbl	30907	柁蚕		KEEP_CUSTOM_ENCODED	=柁蚕
+mugen.tbl	30913	嘱介喚醗槌		KEEP_CUSTOM_ENCODED	嘱介喚醗槌
+mugen.tbl	30924	展込<br>惣娼功化		KEEP_CUSTOM_ENCODED	展込<br>惣娼功化
+mugen.tbl	30946	轡史梅<br>柁奥灸賑		KEEP_CUSTOM_ENCODED	轡史梅<br>柁奥灸賑
+mugen.tbl	30965	温畔		KEEP_CUSTOM_ENCODED	温畔
+mugen.tbl	30970	庫厨鴫.		KEEP_CUSTOM_ENCODED	庫厨鴫.
+mugen.tbl	30984	陵畔槌		KEEP_CUSTOM_ENCODED	=陵畔槌
+mugen.tbl	31020	声稀呪晴		KEEP_CUSTOM_ENCODED	声稀呪晴
+mugen.tbl	31042	多頑蚕		KEEP_CUSTOM_ENCODED	多頑蚕
+mugen.tbl	31049	防入槌<br>嘱介巻		KEEP_CUSTOM_ENCODED	防入槌<br>嘱介巻
+mugen.tbl	31066	墳埜伽遁賑		KEEP_CUSTOM_ENCODED	墳埜伽遁賑
+mugen.tbl	31077	廉賑		KEEP_CUSTOM_ENCODED	廉賑
+mugen.tbl	31103	辿介据		KEEP_CUSTOM_ENCODED	=辿介据
+mugen.tbl	31111	娼冶		KEEP_CUSTOM_ENCODED	娼冶
+mugen.tbl	31144	惣娼功化		KEEP_CUSTOM_ENCODED	=惣娼功化
+mugen.tbl	31182	石識巻		KEEP_CUSTOM_ENCODED	石識巻
+mugen.tbl	31189	墳埜伽遁賑		KEEP_CUSTOM_ENCODED	墳埜伽遁賑
+mugen.tbl	31216	柁奥灸梅		KEEP_CUSTOM_ENCODED	=柁奥灸梅
+mugen.tbl	31226	廉肉		KEEP_CUSTOM_ENCODED	廉肉
+mugen.tbl	31247	多頑蚕		KEEP_CUSTOM_ENCODED	多頑蚕
+mugen.tbl	31254	防入槌<br>墳埜伽遁梅		KEEP_CUSTOM_ENCODED	防入槌<br>墳埜伽遁梅
+mugen.tbl	31275	柁蚕		KEEP_CUSTOM_ENCODED	柁蚕
+mugen.tbl	31317	娼呪晴		KEEP_CUSTOM_ENCODED	娼呪晴
+mugen.tbl	31341	石識化		KEEP_CUSTOM_ENCODED	=石識化
+mugen.tbl	31349	墳埜伽遁忙		KEEP_CUSTOM_ENCODED	墳埜伽遁忙
+mugen.tbl	31416	黄雑		KEEP_CUSTOM_ENCODED	黄雑
+mugen.tbl	31451	墳埜伽遁忙		KEEP_CUSTOM_ENCODED	=墳埜伽遁忙
+mugen.tbl	31463	徴墳		KEEP_CUSTOM_ENCODED	徴墳
+mugen.tbl	31491	柁蚕		KEEP_CUSTOM_ENCODED	柁蚕
+mugen.tbl	31518	闘浪		KEEP_CUSTOM_ENCODED	闘浪
+mugen.tbl	31523	石識噛		KEEP_CUSTOM_ENCODED	石識噛
+mugen.tbl	31530	庫厨鴫.		KEEP_CUSTOM_ENCODED	庫厨鴫.
+mugen.tbl	31546	辿介据		KEEP_CUSTOM_ENCODED	=辿介据
+mugen.tbl	31554	娼冶		KEEP_CUSTOM_ENCODED	娼冶
+mugen.tbl	31591	<RED>“辿介据”<BLACK>呪忙<br>坤遵沢梅		KEEP_CUSTOM_ENCODED	<RED>“辿介据”<BLACK>呪忙<br>坤遵沢梅
+mugen.tbl	31630	凸苑		KEEP_CUSTOM_ENCODED	凸苑
+mugen.tbl	31635	琉拶価<br>介城梅		KEEP_CUSTOM_ENCODED	琉拶価<br>介城梅
+mugen.tbl	31652	剰労賢		KEEP_CUSTOM_ENCODED	剰労賢
+mugen.tbl	31659	琉拶		KEEP_CUSTOM_ENCODED	琉拶
+mugen.tbl	31684	耗貼梅		KEEP_CUSTOM_ENCODED	耗貼梅
+mugen.tbl	31691	拶僻喚醗槌<br>坤遵沢蚕		KEEP_CUSTOM_ENCODED	拶僻喚醗槌<br>坤遵沢蚕
+mugen.tbl	31714	習旬		KEEP_CUSTOM_ENCODED	習旬
+mugen.tbl	31722	在忙<br>仮詰蚕		KEEP_CUSTOM_ENCODED	在忙<br>仮詰蚕
+mugen.tbl	31737	石識噛准		KEEP_CUSTOM_ENCODED	石識噛准
+mugen.tbl	31764	蕎呪晴		KEEP_CUSTOM_ENCODED	蕎呪晴
+mugen.tbl	31771	坤遵沢梅		KEEP_CUSTOM_ENCODED	坤遵沢梅
+mugen.tbl	31780	凸苑		KEEP_CUSTOM_ENCODED	凸苑
+mugen.tbl	31785	琉賛<br>価埜奇雑		KEEP_CUSTOM_ENCODED	琉賛<br>価埜奇雑
+mugen.tbl	31802	‘価性介’		KEEP_CUSTOM_ENCODED	‘価性介’
+mugen.tbl	31813	俺史梅<br>坤遵沢蚕		KEEP_CUSTOM_ENCODED	俺史梅<br>坤遵沢蚕
+mugen.tbl	31832	曹情槌		KEEP_CUSTOM_ENCODED	曹情槌
+mugen.tbl	31865	仮詰賛		KEEP_CUSTOM_ENCODED	=仮詰賛
+mugen.tbl	31899	甥情瞥		KEEP_CUSTOM_ENCODED	甥情瞥
+mugen.tbl	31906	光化紛柔		KEEP_CUSTOM_ENCODED	光化紛柔
+mugen.tbl	31935	闘浪		KEEP_CUSTOM_ENCODED	闘浪
+mugen.tbl	31943	石識噛		KEEP_CUSTOM_ENCODED	石識噛
+mugen.tbl	31950	庫厨鴫.		KEEP_CUSTOM_ENCODED	庫厨鴫.
+mugen.tbl	31966	辿介据		KEEP_CUSTOM_ENCODED	=辿介据
+mugen.tbl	31974	娼冶		KEEP_CUSTOM_ENCODED	娼冶
+mugen.tbl	31985	<BLUE>－興子雑		KEEP_CUSTOM_ENCODED	=<BLUE>－興子雑
+mugen.tbl	32016	<RED>“興子雑		KEEP_CUSTOM_ENCODED	<RED>“興子雑
+mugen.tbl	32072	雅息喚賄価<br>嘱保字蚕		KEEP_CUSTOM_ENCODED	雅息喚賄価<br>嘱保字蚕
+mugen.tbl	32095	帯穏		KEEP_CUSTOM_ENCODED	帯穏
+mugen.tbl	32119	嘱保字史梅		KEEP_CUSTOM_ENCODED	=嘱保字史梅
+mugen.tbl	32131	性畿喚厳		KEEP_CUSTOM_ENCODED	性畿喚厳
+mugen.tbl	32140	嘗賛		KEEP_CUSTOM_ENCODED	嘗賛
+mugen.tbl	32145	僻婆瞥<br>憐醸		KEEP_CUSTOM_ENCODED	僻婆瞥<br>憐醸
+mugen.tbl	32160	勧淀		KEEP_CUSTOM_ENCODED	勧淀
+mugen.tbl	32212	嘱保賑		KEEP_CUSTOM_ENCODED	=嘱保賑
+mugen.tbl	32220	功喚槌		KEEP_CUSTOM_ENCODED	功喚槌
+mugen.tbl	32232	<RED>“興子雑		KEEP_CUSTOM_ENCODED	<RED>“興子雑
+mugen.tbl	32246	柁”<BLACK>掠厳<br>嘱保字蚕		KEEP_CUSTOM_ENCODED	柁”<BLACK>掠厳<br>嘱保字蚕
+mugen.tbl	32274	帯穏		KEEP_CUSTOM_ENCODED	帯穏
+mugen.tbl	32302	測廉		KEEP_CUSTOM_ENCODED	測廉
+mugen.tbl	32307	菖諺喚浪		KEEP_CUSTOM_ENCODED	菖諺喚浪
+mugen.tbl	32316	功噛		KEEP_CUSTOM_ENCODED	功噛
+mugen.tbl	32321	庫厨鴫.		KEEP_CUSTOM_ENCODED	庫厨鴫.
+mugen.tbl	32337	辿介据		KEEP_CUSTOM_ENCODED	=辿介据
+mugen.tbl	32345	娼冶		KEEP_CUSTOM_ENCODED	娼冶
+mugen.tbl	32356	<BLUE>－測沢雑		KEEP_CUSTOM_ENCODED	=<BLUE>－測沢雑
+mugen.tbl	32387	<RED>“測沢雑		KEEP_CUSTOM_ENCODED	<RED>“測沢雑
+mugen.tbl	32401	柁”<BLACK>呪晴忙<br>取畔		KEEP_CUSTOM_ENCODED	柁”<BLACK>呪晴忙<br>取畔
+mugen.tbl	32427	小拶応蚕		KEEP_CUSTOM_ENCODED	小拶応蚕
+mugen.tbl	32436	什蚕		KEEP_CUSTOM_ENCODED	什蚕
+mugen.tbl	32470	快槌呪晴		KEEP_CUSTOM_ENCODED	快槌呪晴
+mugen.tbl	32479	会錯巻		KEEP_CUSTOM_ENCODED	会錯巻
+mugen.tbl	32532	雅息		KEEP_CUSTOM_ENCODED	雅息
+mugen.tbl	32537	小拶応玲<br><BLUE>鈴路雑		KEEP_CUSTOM_ENCODED	小拶応玲<br><BLUE>鈴路雑
+mugen.tbl	32577	据坤		KEEP_CUSTOM_ENCODED	据坤
+mugen.tbl	32582	小拶応賛<br>小拶応		KEEP_CUSTOM_ENCODED	小拶応賛<br>小拶応
+mugen.tbl	32601	快槌呪晴		KEEP_CUSTOM_ENCODED	快槌呪晴
+mugen.tbl	32610	石識巻		KEEP_CUSTOM_ENCODED	石識巻
+mugen.tbl	32620	在史鍔,		KEEP_CUSTOM_ENCODED	在史鍔,
+mugen.tbl	32634	<BLUE>歓伽情遁音<BLACK>		KEEP_CUSTOM_ENCODED	=<BLUE>歓伽情遁音<BLACK>
+mugen.tbl	32664	晃伎		KEEP_CUSTOM_ENCODED	晃伎
+mugen.tbl	32669	小拶応賛<br>晃伎		KEEP_CUSTOM_ENCODED	小拶応賛<br>晃伎
+mugen.tbl	32689	作蕉		KEEP_CUSTOM_ENCODED	作蕉
+mugen.tbl	32694	功厳		KEEP_CUSTOM_ENCODED	功厳
+mugen.tbl	32699	悌卸賑		KEEP_CUSTOM_ENCODED	悌卸賑
+mugen.tbl	32706	酌廉<br>小拶応		KEEP_CUSTOM_ENCODED	酌廉<br>小拶応
+mugen.tbl	32721	測伶		KEEP_CUSTOM_ENCODED	測伶
+mugen.tbl	32726	茅着呪晴		KEEP_CUSTOM_ENCODED	茅着呪晴
+mugen.tbl	32753	小拶応賛		KEEP_CUSTOM_ENCODED	=小拶応賛
+mugen.tbl	32763	測器		KEEP_CUSTOM_ENCODED	測器
+mugen.tbl	32768	石識喚槌		KEEP_CUSTOM_ENCODED	石識喚槌
+mugen.tbl	32799	闘浪		KEEP_CUSTOM_ENCODED	闘浪
+mugen.tbl	32807	石識噛		KEEP_CUSTOM_ENCODED	石識噛
+mugen.tbl	32814	庫厨鴫.		KEEP_CUSTOM_ENCODED	庫厨鴫.
+mugen.tbl	32827	;メッセージウィンドウ.		SKIP_COMMENT	;メッセージウィンドウ.
+mugen.tbl	32900	;タイトルウィンドウ.		SKIP_COMMENT	;タイトルウィンドウ.
+mugen.tbl	32971	;１行メッセージ・ダイアログ文言.		SKIP_COMMENT	;１行メッセージ・ダイアログ文言.
+mugen.tbl	33020	;文言数.		SKIP_COMMENT	;文言数.
+mugen.tbl	33043	;流れ文字.		SKIP_COMMENT	;流れ文字.
+mugen.tbl	33188	エラーです	오류입니다.	TRANSLATED_CHATGPT	=エラーです
+mugen.tbl	33219	乞哉:		KEEP_CUSTOM_ENCODED	=乞哉:
+mugen.tbl	33267	乞哉:		KEEP_CUSTOM_ENCODED	=乞哉:
+mugen.tbl	33326	憐包		KEEP_CUSTOM_ENCODED	憐包
+mugen.tbl	33338	乞哉:		KEEP_CUSTOM_ENCODED	=乞哉:
+mugen.tbl	33380	<iconCIRCLE>小釆蕎		KEEP_CUSTOM_ENCODED	<iconCIRCLE>小釆蕎
+mugen.tbl	33399	憐包		KEEP_CUSTOM_ENCODED	憐包
+mugen.tbl	33411	乞哉:		KEEP_CUSTOM_ENCODED	=乞哉:
+mugen.tbl	33468	罪坤		KEEP_CUSTOM_ENCODED	罪坤
+mugen.tbl	33491	柁蚕		KEEP_CUSTOM_ENCODED	柁蚕
+mugen.tbl	33496	惣畔捨掠鴫?		KEEP_CUSTOM_ENCODED	惣畔捨掠鴫?
+mugen.tbl	33525	<iconCROSS>小飽鴫		KEEP_CUSTOM_ENCODED	<iconCROSS>小飽鴫
+mugen.tbl	33567	<iconCROSS>小飽鴫		KEEP_CUSTOM_ENCODED	<iconCROSS>小飽鴫
+mugen.tbl	33609	<iconCROSS>小飽鴫		KEEP_CUSTOM_ENCODED	<iconCROSS>小飽鴫
+mugen.tbl	33634	今は上に行くわけにはいかない。<br>急いで先に進もう。	지금은 위로 갈 수 없다.<br>서둘러 앞으로 나아가자.	TRANSLATED_CHATGPT	=今は上に行くわけにはいかない。<br>急いで先に進もう。
+mugen.tbl	33695	今は下に戻るわけにはいかない。<br>急いで先に進もう。	지금은 아래로 돌아갈 수 없다.<br>서둘러 앞으로 나아가자.	TRANSLATED_CHATGPT	=今は下に戻るわけにはいかない。<br>急いで先に進もう。
+mugen.tbl	33754	;口寄せ系(戦木影謎楽分).		SKIP_COMMENT	;口寄せ系(戦木影謎楽分).
+mugen.tbl	33786	<BLUE>戦闘の巻物<BLACK>:<RED>戦闘の間<BLACK>を口寄せします。　この部屋では幻影との<RED>バトル<BLACK>が発生します。	<BLUE>전투 두루마리<BLACK>:<RED>전투의 방<BLACK>을 소환합니다. 이 방에서는 환영과의 <RED>전투<BLACK>가 발생합니다.	TRANSLATED_CHATGPT	=<BLUE>戦闘の巻物<BLACK>:<RED>戦闘の間<BLACK>を口寄せします。　この部屋では幻影との<RED>バトル<BLACK>が発生します。
+mugen.tbl	33909	<RED>戦闘の間<BLACK>を口寄せしました。	<RED>전투의 방<BLACK>을 소환했습니다.	TRANSLATED_CHATGPT	=<RED>戦闘の間<BLACK>を口寄せしました。
+mugen.tbl	33956	<BLUE>木登りの巻物<BLACK>:<RED>木登りの間<BLACK>を口寄せします。　この部屋ではナルトが<RED>木登り修業<BLACK>を行います。	<BLUE>나무타기 두루마리<BLACK>:<RED>나무타기의 방<BLACK>을 소환합니다. 이 방에서는 나루토가 <RED>나무타기 수행<BLACK>을 합니다.	TRANSLATED_CHATGPT	=<BLUE>木登りの巻物<BLACK>:<RED>木登りの間<BLACK>を口寄せします。　この部屋ではナルトが<RED>木登り修業<BLACK>を行います。
+mugen.tbl	34085	<RED>木登りの間<BLACK>を口寄せしました。	<RED>나무타기의 방<BLACK>을 소환했습니다.	TRANSLATED_CHATGPT	=<RED>木登りの間<BLACK>を口寄せしました。
+mugen.tbl	34134	<BLUE>影真似の巻物<BLACK>:<RED>影真似の間<BLACK>を口寄せします。　この部屋ではシカマルと<RED>影真似修業<BLACK>を行います。	<BLUE>그림자 흉내 두루마리<BLACK>:<RED>그림자 흉내의 방<BLACK>을 소환합니다. 이 방에서는 시카마루와 <RED>그림자 흉내 수행<BLACK>을 합니다.	TRANSLATED_CHATGPT	=<BLUE>影真似の巻物<BLACK>:<RED>影真似の間<BLACK>を口寄せします。　この部屋ではシカマルと<RED>影真似修業<BLACK>を行います。
+mugen.tbl	34265	<RED>影真似の間<BLACK>を口寄せしました。	<RED>그림자 흉내의 방<BLACK>을 소환했습니다.	TRANSLATED_CHATGPT	=<RED>影真似の間<BLACK>を口寄せしました。
+mugen.tbl	34314	<BLUE>謎々の巻物<BLACK>:<RED>謎々の間<BLACK>を口寄せします。　この部屋ではイルカの<RED>なぞなぞ授業<BLACK>を受けます。	<BLUE>수수께끼 두루마리<BLACK>:<RED>수수께끼의 방<BLACK>을 소환합니다. 이 방에서는 이루카의 <RED>수수께끼 수업<BLACK>을 받습니다.	TRANSLATED_CHATGPT	=<BLUE>謎々の巻物<BLACK>:<RED>謎々の間<BLACK>を口寄せします。　この部屋ではイルカの<RED>なぞなぞ授業<BLACK>を受けます。
+mugen.tbl	34441	<RED>謎々の間<BLACK>を口寄せしました。	<RED>수수께끼의 방<BLACK>을 소환했습니다.	TRANSLATED_CHATGPT	=<RED>謎々の間<BLACK>を口寄せしました。
+mugen.tbl	34488	<BLUE>娯楽の巻物<BLACK>:<RED>娯楽の間<BLACK>を口寄せします。　この部屋では<RED>スロットマシーン<BLACK>に挑戦します。	<BLUE>오락 두루마리<BLACK>:<RED>오락의 방<BLACK>을 소환합니다. 이 방에서는 <RED>슬롯머신<BLACK>에 도전합니다.	TRANSLATED_CHATGPT	=<BLUE>娯楽の巻物<BLACK>:<RED>娯楽の間<BLACK>を口寄せします。　この部屋では<RED>スロットマシーン<BLACK>に挑戦します。
+mugen.tbl	34613	<RED>娯楽の間<BLACK>を口寄せしました。	<RED>오락의 방<BLACK>을 소환했습니다.	TRANSLATED_CHATGPT	=<RED>娯楽の間<BLACK>を口寄せしました。
+mugen.tbl	34660	<BLUE>分身の巻物<BLACK>:<RED>分身の間<BLACK>を口寄せします。　この部屋ではエビスの<RED>分身授業<BLACK>を受けます。	<BLUE>분신 두루마리<BLACK>:<RED>분신의 방<BLACK>을 소환합니다. 이 방에서는 에비스의 <RED>분신 수업<BLACK>을 받습니다.	TRANSLATED_CHATGPT	=<BLUE>分身の巻物<BLACK>:<RED>分身の間<BLACK>を口寄せします。　この部屋ではエビスの<RED>分身授業<BLACK>を受けます。
+mugen.tbl	34783	<RED>分身の間<BLACK>を口寄せしました。	<RED>분신의 방<BLACK>을 소환했습니다.	TRANSLATED_CHATGPT	=<RED>分身の間<BLACK>を口寄せしました。
+mugen.tbl	34828	;メニュートップ系.		SKIP_COMMENT	;メニュートップ系.
+mugen.tbl	34854	襖桶期雑		KEEP_CUSTOM_ENCODED	=襖桶期雑
+mugen.tbl	34864	声稀賑		KEEP_CUSTOM_ENCODED	声稀賑
+mugen.tbl	34890	測子化		KEEP_CUSTOM_ENCODED	=測子化
+mugen.tbl	34898	小拶応蚕		KEEP_CUSTOM_ENCODED	小拶応蚕
+mugen.tbl	34926	襖桶期雑		KEEP_CUSTOM_ENCODED	=襖桶期雑
+mugen.tbl	34936	仮詰蚕		KEEP_CUSTOM_ENCODED	仮詰蚕
+mugen.tbl	34962	偏拶期賑		KEEP_CUSTOM_ENCODED	=偏拶期賑
+mugen.tbl	34995	徴撫賑		KEEP_CUSTOM_ENCODED	徴撫賑
+mugen.tbl	35017	;メニューステータス系.		SKIP_COMMENT	;メニューステータス系.
+mugen.tbl	35047	選択したキャラクターのステータスを確認します。	선택한 캐릭터의 상태를 확인합니다.	TRANSLATED_CHATGPT	=選択したキャラクターのステータスを確認します。
+mugen.tbl	35102	このキャラクターの隊長能力です。	이 캐릭터의 대장 능력입니다.	TRANSLATED_CHATGPT	=このキャラクターの隊長能力です。
+mugen.tbl	35139	;メニューアイテム系.		SKIP_COMMENT	;メニューアイテム系.
+mugen.tbl	35167	戦闘時にポーズメニューのストックアイテムで使用できます。	전투 중 일시정지 메뉴의 보유 아이템에서 사용할 수 있습니다.	TRANSLATED_CHATGPT	=戦闘時にポーズメニューのストックアイテムで使用できます。
+mugen.tbl	35234	このアイテムは使用できません。	이 아이템은 사용할 수 없습니다.	TRANSLATED_CHATGPT	=このアイテムは使用できません。
+mugen.tbl	35275	使用したいキャラを選択してください。	사용할 캐릭터를 선택해 주세요.	TRANSLATED_CHATGPT	=使用したいキャラを選択してください。
+mugen.tbl	35320	このキャラに使用しますか？　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ	이 캐릭터에게 사용하시겠습니까?      <iconCIRCLE>예  <iconCROSS>아니요	TRANSLATED_CHATGPT	=このキャラに使用しますか？　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ
+mugen.tbl	35404	体力とチャクラが回復しました。　　　　　　　　　　<iconCIRCLE>閉じる	체력과 차크라가 회복되었습니다.          <iconCIRCLE>닫기	TRANSLATED_CHATGPT	=体力とチャクラが回復しました。　　　　　　　　　　<iconCIRCLE>閉じる
+mugen.tbl	35483	使用したいキャラを選択してください。	사용할 캐릭터를 선택해 주세요.	TRANSLATED_CHATGPT	=使用したいキャラを選択してください。
+mugen.tbl	35528	このキャラに使用しますか？　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ	이 캐릭터에게 사용하시겠습니까?      <iconCIRCLE>예  <iconCROSS>아니요	TRANSLATED_CHATGPT	=このキャラに使用しますか？　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ
+mugen.tbl	35612	パラメータのＬＶが上がりました。　　　　　　　　　<iconCIRCLE>閉じる	능력치 LV이 올랐습니다.                 <iconCIRCLE>닫기	TRANSLATED_CHATGPT	=パラメータのＬＶが上がりました。　　　　　　　　　<iconCIRCLE>閉じる
+mugen.tbl	35685	;メニュースキル系.		SKIP_COMMENT	;メニュースキル系.
+mugen.tbl	35711	使用したいスキルを選択してください。	사용할 스킬을 선택해 주세요.	TRANSLATED_CHATGPT	=使用したいスキルを選択してください。
+mugen.tbl	35758	この場所で使用しますか？　　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ	이 장소에서 사용하시겠습니까?       <iconCIRCLE>예  <iconCROSS>아니요	TRANSLATED_CHATGPT	=この場所で使用しますか？　　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ
+mugen.tbl	35842	障害物を破壊しました。	장애물을 파괴했습니다.	TRANSLATED_CHATGPT	=障害物を破壊しました。
+mugen.tbl	35875	この場所で使用しますか？　　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ	이 장소에서 사용하시겠습니까?       <iconCIRCLE>예  <iconCROSS>아니요	TRANSLATED_CHATGPT	=この場所で使用しますか？　　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ
+mugen.tbl	35959	隠し通路を見つけました。	숨겨진 통로를 발견했습니다.	TRANSLATED_CHATGPT	=隠し通路を見つけました。
+mugen.tbl	35994	巻物の種類を選択してください。	두루마리 종류를 선택해 주세요.	TRANSLATED_CHATGPT	=巻物の種類を選択してください。
+mugen.tbl	36033	巻物の種類を変更しますか？　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ	두루마리 종류를 변경하시겠습니까?    <iconCIRCLE>예  <iconCROSS>아니요	TRANSLATED_CHATGPT	=巻物の種類を変更しますか？　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ
+mugen.tbl	36117	巻物の種類を変更しました。	두루마리 종류를 변경했습니다.	TRANSLATED_CHATGPT	=巻物の種類を変更しました。
+mugen.tbl	36154	コピーしたい巻物を選択してください。	복사할 두루마리를 선택해 주세요.	TRANSLATED_CHATGPT	=コピーしたい巻物を選択してください。
+mugen.tbl	36199	どの巻物にコピーするか選択してください。	어느 두루마리에 복사할지 선택해 주세요.	TRANSLATED_CHATGPT	=どの巻物にコピーするか選択してください。
+mugen.tbl	36248	巻物をコピーしますか？　　　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ	두루마리를 복사하시겠습니까?         <iconCIRCLE>예  <iconCROSS>아니요	TRANSLATED_CHATGPT	=巻物をコピーしますか？　　　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ
+mugen.tbl	36332	巻物をコピーしました。	두루마리를 복사했습니다.	TRANSLATED_CHATGPT	=巻物をコピーしました。
+mugen.tbl	36365	全ての巻物を交換しますか？　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ	모든 두루마리를 교환하시겠습니까?    <iconCIRCLE>예  <iconCROSS>아니요	TRANSLATED_CHATGPT	=全ての巻物を交換しますか？　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ
+mugen.tbl	36449	全ての巻物を交換しました。	모든 두루마리를 교환했습니다.	TRANSLATED_CHATGPT	=全ての巻物を交換しました。
+mugen.tbl	36486	使用したいキャラを選択してください。	사용할 캐릭터를 선택해 주세요.	TRANSLATED_CHATGPT	=使用したいキャラを選択してください。
+mugen.tbl	36531	このキャラに使用しますか？　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ	이 캐릭터에게 사용하시겠습니까?     <iconCIRCLE>예  <iconCROSS>아니요	TRANSLATED_CHATGPT	=このキャラに使用しますか？　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ
+mugen.tbl	36613	体力が回復しました。　　　　　　　　　　　　　　<iconCIRCLE>閉じる	체력이 회복되었습니다.              <iconCIRCLE>닫기	TRANSLATED_CHATGPT	=体力が回復しました。　　　　　　　　　　　　　　<iconCIRCLE>閉じる
+mugen.tbl	36684	;メニューセーブ系.		SKIP_COMMENT	;メニューセーブ系.
+mugen.tbl	36710	偏拶期賑		KEEP_CUSTOM_ENCODED	=偏拶期賑
+mugen.tbl	36720	込坤巻掠鴫?		KEEP_CUSTOM_ENCODED	込坤巻掠鴫?
+mugen.tbl	36735	;メニューモード終了系.		SKIP_COMMENT	;メニューモード終了系.
+mugen.tbl	36765	徴撫		KEEP_CUSTOM_ENCODED	=徴撫
+mugen.tbl	36771	性畿		KEEP_CUSTOM_ENCODED	性畿
+mugen.tbl	36776	快槌史梅		KEEP_CUSTOM_ENCODED	快槌史梅
+mugen.tbl	36802	;宝の間.		SKIP_COMMENT	;宝の間.
+mugen.tbl	36818	「<BLUE>%s<BLACK>」を入手しました。	「<BLUE>%s<BLACK>」을 획득했습니다.	TRANSLATED_CHATGPT	=「<BLUE>%s<BLACK>」を入手しました。
+mugen.tbl	36862	「<BLUE>%s<BLACK>」を%d個入手しました。	「<BLUE>%s<BLACK>」을 %d개 획득했습니다.	TRANSLATED_CHATGPT	=「<BLUE>%s<BLACK>」を%d個入手しました。
+mugen.tbl	36910	「<BLUE>%s<BLACK>」を%d個入手しました。<br>「<BLUE>%s<BLACK>」を%d個入手しました。	「<BLUE>%s<BLACK>」을 %d개 획득했습니다.<br>「<BLUE>%s<BLACK>」을 %d개 획득했습니다.	TRANSLATED_CHATGPT	=「<BLUE>%s<BLACK>」を%d個入手しました。<br>「<BLUE>%s<BLACK>」を%d個入手しました。
+mugen.tbl	36997	;癒しの間.		SKIP_COMMENT	;癒しの間.
+mugen.tbl	37015	全員の体力・チャクラ・スキルが回復しました。	전원의 체력·차크라·스킬이 회복되었습니다.	TRANSLATED_CHATGPT	=全員の体力・チャクラ・スキルが回復しました。
+mugen.tbl	37068	隊長・隊員キャラクターを変更します。	대장·대원 캐릭터를 변경합니다.	TRANSLATED_CHATGPT	=隊長・隊員キャラクターを変更します。
+mugen.tbl	37113	隊長にしたいキャラクターを選択してください。	대장으로 삼을 캐릭터를 선택해 주세요.	TRANSLATED_CHATGPT	=隊長にしたいキャラクターを選択してください。
+mugen.tbl	37166	隊員にしたいキャラクターをあと３名選択してください。	대원으로 삼을 캐릭터를 3명 더 선택해 주세요.	TRANSLATED_CHATGPT	=隊員にしたいキャラクターをあと３名選択してください。
+mugen.tbl	37227	隊員にしたいキャラクターをあと２名選択してください。	대원으로 삼을 캐릭터를 2명 더 선택해 주세요.	TRANSLATED_CHATGPT	=隊員にしたいキャラクターをあと２名選択してください。
+mugen.tbl	37288	隊員にしたいキャラクターをあと１名選択してください。	대원으로 삼을 캐릭터를 1명 더 선택해 주세요.	TRANSLATED_CHATGPT	=隊員にしたいキャラクターをあと１名選択してください。
+mugen.tbl	37349	このメンバーで良いですか？　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ	이 멤버로 괜찮습니까?             <iconCIRCLE>예  <iconCROSS>아니요	TRANSLATED_CHATGPT	=このメンバーで良いですか？　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ
+mugen.tbl	37431	この部屋を出ます。	이 방을 나갑니다.	TRANSLATED_CHATGPT	=この部屋を出ます。
+mugen.tbl	37458	この部屋を出ますか？　　　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ	이 방을 나가시겠습니까?            <iconCIRCLE>예  <iconCROSS>아니요	TRANSLATED_CHATGPT	=この部屋を出ますか？　　　　　　　　<iconCIRCLE>はい　　<iconCROSS>いいえ
+nazonazo.tbl	452	;sprite(不正解).		SKIP_COMMENT	;sprite(不正解).
+nazonazo.tbl	684	;sprite(時間切れ).		SKIP_COMMENT	;sprite(時間切れ).
+nazonazo.tbl	2018	;数値レイアウト(1ケタ,2ケタ)		SKIP_COMMENT	;数値レイアウト(1ケタ,2ケタ)
+nazonazo.tbl	2111	;sprite(説明文タイトル2つ).		SKIP_COMMENT	;sprite(説明文タイトル2つ).
+nazonazo.tbl	2278	;window(説明文)		SKIP_COMMENT	;window(説明文)
+nazonazo.tbl	2317	;window内文字		SKIP_COMMENT	;window内文字
+nazonazo.tbl	2352	イルカがなぞなぞを出してくるぞ。<br>問題をよく読んで、<br>正解だと思うボタンを押そう。<br>制限時間があるから注意！<br><iconCIRCLE>ボタンでゲーム開始！<br><br><RED>なぞなぞに正解するとノルマ達成だ！<BLACK>	이루카가 수수께끼를 낸다.<br>문제를 잘 읽고<br>정답이라고 생각하는 버튼을 누르자.<br>제한 시간이 있으니 주의!<br><iconCIRCLE> 버튼으로 게임 시작!<br><br><RED>수수께끼를 맞히면 목표 달성!<BLACK>	TRANSLATED_CHATGPT	=イルカがなぞなぞを出してくるぞ。<br>問題をよく読んで、<br>正解だと思うボタンを押そう。<br>制限時間があるから注意！<br><iconCIRCLE>ボタンでゲーム開始！<br><br><RED>なぞなぞに正解するとノルマ達成だ！<BLACK>
+nazonazo.tbl	2580	;sprite(高記録達成).		SKIP_COMMENT	;sprite(高記録達成).
+nazonazo.tbl	3184	;sprite(○×マーク). 位置はoffset(○のみ参照).		SKIP_COMMENT	;sprite(○×マーク). 位置はoffset(○のみ参照).
+nazonazo.tbl	3374	;文字レイアウト.		SKIP_COMMENT	;文字レイアウト.
+nazonazo.tbl	3392	";""問題""文字, そのX, そのY."		SKIP_COMMENT	";""問題""文字, そのX, そのY."
+nazonazo.tbl	3420	;問題本文X,Y		SKIP_COMMENT	;問題本文X,Y
+nazonazo.tbl	3503	";""答え""文字, そのX, そのY."		SKIP_COMMENT	";""答え""文字, そのX, そのY."
+nazonazo.tbl	3665	IRK,g_d25_00,今から、なぞなぞ授業を始めるぞ！	IRK,g_d25_00,지금부터 수수께끼 수업을 시작한다!	TRANSLATED_CHATGPT	=IRK,g_d25_00,今から、なぞなぞ授業を始めるぞ！
+nazonazo.tbl	3718	IRK,g_d25_01,お！　えらいぞ！<br>よくやったな。	IRK,g_d25_01,오! 훌륭한데!<br>잘했다.	TRANSLATED_CHATGPT	=IRK,g_d25_01,お！　えらいぞ！<br>よくやったな。
+nazonazo.tbl	3773	IRK,g_d25_01,お！　えらいぞ！<br>よくやったな。	IRK,g_d25_01,오! 훌륭한데!<br>잘했다.	TRANSLATED_CHATGPT	=IRK,g_d25_01,お！　えらいぞ！<br>よくやったな。
+nazonazo.tbl	3828	IRK,g_d25_02,ハァ…。<br>しっかり勉強しておくんだぞ！	IRK,g_d25_02,하아….<br>공부를 제대로 해 두라고!	TRANSLATED_CHATGPT	=IRK,g_d25_02,ハァ…。<br>しっかり勉強しておくんだぞ！
+nazonazo.tbl	3889	IRK,g_d25_02,ハァ…。<br>しっかり勉強しておくんだぞ！	IRK,g_d25_02,하아….<br>공부를 제대로 해 두라고!	TRANSLATED_CHATGPT	=IRK,g_d25_02,ハァ…。<br>しっかり勉強しておくんだぞ！
+nazonazo.tbl	3950	,,ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。	,,나루P 포인트 <BLUE>%dP<BLACK>를 획득했습니다.	TRANSLATED_CHATGPT	=,,ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。
+nazonazo.tbl	4007	攻略を中止してマップ画面に戻りますか？	공략 중단 후 맵으로 돌아갈까요?	TRANSLATED_EXISTING	=攻略を中止してマップ画面に戻りますか？
+nazonazo.tbl	4069	IRK,g_d25_03,今から、なぞなぞ授業を<br>始めさせていただきます。	IRK,g_d25_03,지금부터 수수께끼 수업을<br>시작하겠습니다.	TRANSLATED_CHATGPT	=IRK,g_d25_03,今から、なぞなぞ授業を<br>始めさせていただきます。
+nazonazo.tbl	4140	IRK,g_d25_04,おお！　さすがですね！	IRK,g_d25_04,오오! 역시 대단하시군요!	TRANSLATED_CHATGPT	=IRK,g_d25_04,おお！　さすがですね！
+nazonazo.tbl	4183	IRK,g_d25_04,おお！　さすがですね！	IRK,g_d25_04,오오! 역시 대단하시군요!	TRANSLATED_CHATGPT	=IRK,g_d25_04,おお！　さすがですね！
+nazonazo.tbl	4226	IRK,g_d25_05,どうなされました？<br>今日は調子が悪いんですか？	IRK,g_d25_05,무슨 일이신가요?<br>오늘은 컨디션이 안 좋으신가요?	TRANSLATED_CHATGPT	=IRK,g_d25_05,どうなされました？<br>今日は調子が悪いんですか？
+nazonazo.tbl	4295	IRK,g_d25_05,どうなされました？<br>今日は調子が悪いんですか？	IRK,g_d25_05,무슨 일이신가요?<br>오늘은 컨디션이 안 좋으신가요?	TRANSLATED_CHATGPT	=IRK,g_d25_05,どうなされました？<br>今日は調子が悪いんですか？
+nazonazo.tbl	4364	,,ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。	,,나루P 포인트 <BLUE>%dP<BLACK>를 획득했습니다.	TRANSLATED_CHATGPT	=,,ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。
+nazonazo.tbl	4421	攻略を中止してマップ画面に戻りますか？	공략 중단 후 맵으로 돌아갈까요?	TRANSLATED_EXISTING	=攻略を中止してマップ画面に戻りますか？
+quiz1.tbl	8	;上位２ケタ:問題番号( 0-99. 抜け番号許可. )		SKIP_COMMENT	;上位２ケタ:問題番号( 0-99. 抜け番号許可. )
+quiz1.tbl	53	;１の位 0:問題文		SKIP_COMMENT	;１の位 0:問題文
+quiz1.tbl	71	;       1:正解文		SKIP_COMMENT	;       1:正解文
+quiz1.tbl	89	;       2:不正解文1		SKIP_COMMENT	;       2:不正解文1
+quiz1.tbl	110	";       3:不正解文2"""		SKIP_COMMENT	";       3:不正解文2"""
+quiz1.tbl	134	この中で螺旋丸が使えるのは誰？	이 중 나선환을 사용할 수 있는 사람은 누구?	TRANSLATED_CHATGPT	#00 =この中で螺旋丸が使えるのは誰？
+quiz1.tbl	171	自来也	지라이야	TRANSLATED_CHATGPT	#01 =自来也
+quiz1.tbl	184	三代目	3대	TRANSLATED_CHATGPT	#02 =三代目
+quiz1.tbl	197	カカシ	카카시	TRANSLATED_EXISTING	#03 =カカシ
+quiz1.tbl	212	小さい頃のサクラのあだ名は何？	어릴 적 사쿠라의 별명은?	TRANSLATED_CHATGPT	#10 =小さい頃のサクラのあだ名は何？
+quiz1.tbl	249	デコリーン	데코링	TRANSLATED_CHATGPT	#11 =デコリーン
+quiz1.tbl	266	デコッパチ	왕이마	TRANSLATED_CHATGPT	#12 =デコッパチ
+quiz1.tbl	283	ハルちゃん	하루짱	TRANSLATED_CHATGPT	#13 =ハルちゃん
+quiz1.tbl	302	ナルトが初めて口寄せした動物は何？	나루토가 처음 소환한 동물은?	TRANSLATED_CHATGPT	#20 =ナルトが初めて口寄せした動物は何？
+quiz1.tbl	343	おたまじゃくし	올챙이	TRANSLATED_CHATGPT	#21 =おたまじゃくし
+quiz1.tbl	364	ガマブン太	가마분타	TRANSLATED_CHATGPT	#22 =ガマブン太
+quiz1.tbl	381	ガマ吉	가마키치	TRANSLATED_CHATGPT	#23 =ガマ吉
+quiz1.tbl	396	木ノ葉隠れの里に侵入したイタチと鬼鮫が<br>まず訪れた場所はどこ？	나뭇잎 마을에 침입한 이타치와 키사메가<br>가장 먼저 찾아간 곳은?	TRANSLATED_CHATGPT	#30 =木ノ葉隠れの里に侵入したイタチと鬼鮫が<br>まず訪れた場所はどこ？
+quiz1.tbl	467	茶屋	찻집	TRANSLATED_CHATGPT	#31 =茶屋
+quiz1.tbl	478	火影の屋敷	호카게 저택	TRANSLATED_CHATGPT	#32 =火影の屋敷
+quiz1.tbl	495	ナルトの自宅	나루토의 집	TRANSLATED_CHATGPT	#33 =ナルトの自宅
+quiz1.tbl	516	いのの父親の名前は何と言う名前？	이노의 아버지 이름은?	TRANSLATED_CHATGPT	#40 =いのの父親の名前は何と言う名前？
+quiz1.tbl	555	いのいち	이노이치	TRANSLATED_CHATGPT	#41 =いのいち
+quiz1.tbl	570	いのぱぱ	이노 아빠	TRANSLATED_CHATGPT	#42 =いのぱぱ
+quiz1.tbl	585	いのちち	이노 아버지	TRANSLATED_CHATGPT	#43 =いのちち
+quiz1.tbl	602	砂の三姉弟の長女テマリが<br>闘いの際に使用する道具は何？	모래 삼남매의 장녀 테마리가<br>전투에서 사용하는 도구는?	TRANSLATED_CHATGPT	#50 =砂の三姉弟の長女テマリが<br>闘いの際に使用する道具は何？
+quiz1.tbl	665	巨大扇子	거대 부채	TRANSLATED_CHATGPT	#51 =巨大扇子
+quiz1.tbl	680	ハリセン	하리센	TRANSLATED_CHATGPT	#52 =ハリセン
+quiz1.tbl	695	如意棒	여의봉	TRANSLATED_CHATGPT	#53 =如意棒
+quiz1.tbl	710	カブトが大蛇丸に気に入られている理由は何？	카부토가 오로치마루의 총애를 받는 이유는?	TRANSLATED_CHATGPT	#60 =カブトが大蛇丸に気に入られている理由は何？
+quiz1.tbl	759	圧倒的な回復力	압도적인 회복력	TRANSLATED_CHATGPT	#61 =圧倒的な回復力
+quiz1.tbl	780	圧倒的な技のセンス	압도적인 술법 센스	TRANSLATED_CHATGPT	#62 =圧倒的な技のセンス
+quiz1.tbl	805	圧倒的な策略性	압도적인 책략	TRANSLATED_CHATGPT	#63 =圧倒的な策略性
+quiz1.tbl	828	この中で呪印を持たないのは誰？	이 중 주인을 지니지 않은 사람은?	TRANSLATED_CHATGPT	#70 =この中で呪印を持たないのは誰？
+quiz1.tbl	865	シカマル	시카마루	TRANSLATED_EXISTING	#71 =シカマル
+quiz1.tbl	880	アンコ	앙코	TRANSLATED_CHATGPT	#72 =アンコ
+quiz1.tbl	893	ネジ	네지	TRANSLATED_EXISTING	#73 =ネジ
+quiz1.tbl	906	この中でシカマルの口癖はどれ？	이 중 시카마루의 말버릇은?	TRANSLATED_CHATGPT	#80 =この中でシカマルの口癖はどれ？
+quiz1.tbl	943	めんどくせー	귀찮아	TRANSLATED_CHATGPT	#81 =めんどくせー
+quiz1.tbl	962	もったいねー	아깝네	TRANSLATED_CHATGPT	#82 =もったいねー
+quiz1.tbl	981	腹減ったー	배고파	TRANSLATED_CHATGPT	#83 =腹減ったー
+quiz1.tbl	1000	大蛇丸が「自分以上に強い」と認める<br>その人物は誰？	오로치마루가 자신보다 강하다고 인정한<br>인물은 누구?	TRANSLATED_CHATGPT	#90 =大蛇丸が「自分以上に強い」と認める<br>その人物は誰？
+quiz1.tbl	1059	イタチ	이타치	TRANSLATED_EXISTING	#91 =イタチ
+quiz1.tbl	1072	四代目	4대	TRANSLATED_CHATGPT	#92 =四代目
+quiz1.tbl	1085	自来也	지라이야	TRANSLATED_CHATGPT	#93 =自来也
+quiz1.tbl	1100	この中でガイにダイナミックエントリーを<br>決められたことのある者は誰？	이 중 가이에게 다이내믹 엔트리를<br>당한 적이 있는 사람은?	TRANSLATED_CHATGPT	#100 =この中でガイにダイナミックエントリーを<br>決められたことのある者は誰？
+quiz1.tbl	1178	自来也	지라이야	TRANSLATED_CHATGPT	#101 =自来也
+quiz1.tbl	1192	綱手	츠나데	TRANSLATED_CHATGPT	#102 =綱手
+quiz1.tbl	1204	カカシ	카카시	TRANSLATED_EXISTING	#103 =カカシ
+quiz1.tbl	1220	この中で綱手が克服した恐怖症は？	이 중 츠나데가 극복한 공포증은?	TRANSLATED_CHATGPT	#110 =この中で綱手が克服した恐怖症は？
+quiz1.tbl	1260	血液恐怖症	혈액 공포증	TRANSLATED_CHATGPT	#111 =血液恐怖症
+quiz1.tbl	1278	高所恐怖症	고소 공포증	TRANSLATED_CHATGPT	#112 =高所恐怖症
+quiz1.tbl	1296	閉所恐怖症	폐소 공포증	TRANSLATED_CHATGPT	#113 =閉所恐怖症
+quiz1.tbl	1316	カカシが説く「忍に重要視されるもの」とは何？	카카시가 말한 닌자에게 중요한 것은?	TRANSLATED_CHATGPT	#120 =カカシが説く「忍に重要視されるもの」とは何？
+quiz1.tbl	1368	チームワーク	팀워크	TRANSLATED_CHATGPT	#121 =チームワーク
+quiz1.tbl	1388	修業	수행	TRANSLATED_CHATGPT	#122 =修業
+quiz1.tbl	1400	根性	근성	TRANSLATED_CHATGPT	#123 =根性
+quiz1.tbl	1414	中忍選抜第二の試験で死の森を通過する際、<br>ナルト達の伝令役として現れたのは誰？	중급 닌자 선발 2차 시험의 죽음의 숲에서<br>나루토 일행의 전령으로 나타난 사람은?	TRANSLATED_CHATGPT	#130 =中忍選抜第二の試験で死の森を通過する際、<br>ナルト達の伝令役として現れたのは誰？
+quiz1.tbl	1502	イルカ	이루카	TRANSLATED_EXISTING	#131 =イルカ
+quiz1.tbl	1516	ハヤテ	하야테	TRANSLATED_CHATGPT	#132 =ハヤテ
+quiz1.tbl	1530	アンコ	앙코	TRANSLATED_CHATGPT	#133 =アンコ
+quiz1.tbl	1546	鬼鮫が持つ大刀「鮫肌」は<br>何を削ることができる？	키사메의 대도 「사메하다」는<br>무엇을 깎아낼 수 있는가?	TRANSLATED_CHATGPT	#140 =鬼鮫が持つ大刀「鮫肌」は<br>何を削ることができる？
+quiz1.tbl	1604	チャクラ	차크라	TRANSLATED_EXISTING	#141 =チャクラ
+quiz1.tbl	1620	体力	체력	TRANSLATED_CHATGPT	#142 =体力
+quiz1.tbl	1632	精神力	정신력	TRANSLATED_CHATGPT	#143 =精神力
+quiz1.tbl	1648	鬼鮫は初めてガイの姿を見たとき何と言った？	키사메는 가이를 처음 보고 뭐라고 했나?	TRANSLATED_CHATGPT	#150 =鬼鮫は初めてガイの姿を見たとき何と言った？
+quiz1.tbl	1698	珍獣	진귀한 짐승	TRANSLATED_CHATGPT	#151 =珍獣
+quiz1.tbl	1710	野獣	야수	TRANSLATED_CHATGPT	#152 =野獣
+quiz1.tbl	1722	猛獣	맹수	TRANSLATED_CHATGPT	#153 =猛獣
+quiz1.tbl	1736	シノの趣味は何？	시노의 취미는?	TRANSLATED_CHATGPT	#160 =シノの趣味は何？
+quiz1.tbl	1760	蟲の観察	벌레 관찰	TRANSLATED_CHATGPT	#161 =蟲の観察
+quiz1.tbl	1776	サングラス収集	선글라스 수집	TRANSLATED_CHATGPT	#162 =サングラス収集
+quiz1.tbl	1798	蟲と散歩	벌레와 산책	TRANSLATED_CHATGPT	#163 =蟲と散歩
+quiz1.tbl	1816	テンテンが目標とするくの一は<br>この中の誰？	텐텐이 목표로 삼는 쿠노이치는<br>이 중 누구?	TRANSLATED_CHATGPT	#170 =テンテンが目標とするくの一は<br>この中の誰？
+quiz1.tbl	1868	綱手	츠나데	TRANSLATED_CHATGPT	#171 =綱手
+quiz1.tbl	1880	コハル	코하루	TRANSLATED_CHATGPT	#172 =コハル
+quiz1.tbl	1906	カカシの愛読書である、<br>イチャイチャパラダイスの構成は？	카카시의 애독서<br>「러브러브 파라다이스」의 구성은?	TRANSLATED_CHATGPT	#180 =カカシの愛読書である、<br>イチャイチャパラダイスの構成は？
+quiz1.tbl	1972	上・中・下巻	상·중·하권	TRANSLATED_CHATGPT	#181 =上・中・下巻
+quiz1.tbl	1992	上・下巻	상·하권	TRANSLATED_CHATGPT	#182 =上・下巻
+quiz1.tbl	2008	全一巻	전 1권	TRANSLATED_CHATGPT	#183 =全一巻
+quiz1.tbl	2024	キバの愛犬である赤丸。　<br>その名前の由来は？	키바의 애견 아카마루.<br>그 이름의 유래는?	TRANSLATED_CHATGPT	#190 =キバの愛犬である赤丸。　<br>その名前の由来は？
+quiz1.tbl	2078	身体が赤く変化するから	몸이 붉게 변해서	TRANSLATED_CHATGPT	#191 =身体が赤く変化するから
+quiz1.tbl	2108	鼻が赤いから	코가 빨개서	TRANSLATED_CHATGPT	#192 =鼻が赤いから
+quiz1.tbl	2128	眼が赤いから	눈이 빨개서	TRANSLATED_CHATGPT	#193 =眼が赤いから
+quiz1.tbl	2150	砂の三姉弟の中で一番年下は誰？	모래 삼남매 중 가장 어린 사람은?	TRANSLATED_CHATGPT	#200 =砂の三姉弟の中で一番年下は誰？
+quiz1.tbl	2188	我愛羅	가아라	TRANSLATED_CHATGPT	#201 =我愛羅
+quiz1.tbl	2202	カンクロウ	칸쿠로	TRANSLATED_EXISTING	#202 =カンクロウ
+quiz1.tbl	2220	テマリ	테마리	TRANSLATED_EXISTING	#203 =テマリ
+quiz1.tbl	2236	砂の三姉弟のカンクロウが操る傀儡人形で<br>カラスは攻撃用。　ではクロアリは何用？	모래 삼남매 칸쿠로가 조종하는 꼭두각시 중<br>카라스는 공격용. 그럼 쿠로아리는?	TRANSLATED_CHATGPT	#210 =砂の三姉弟のカンクロウが操る傀儡人形で<br>カラスは攻撃用。　ではクロアリは何用？
+quiz1.tbl	2324	捕獲用	포획용	TRANSLATED_CHATGPT	#211 =捕獲用
+quiz1.tbl	2338	奇襲用	기습용	TRANSLATED_CHATGPT	#212 =奇襲用
+quiz1.tbl	2352	追撃用	추격용	TRANSLATED_CHATGPT	#213 =追撃用
+quiz1.tbl	2368	この中で伝説の三忍ではない者は誰？	이 중 전설의 3닌자가 아닌 사람은?	TRANSLATED_CHATGPT	#220 =この中で伝説の三忍ではない者は誰？
+quiz1.tbl	2410	シズネ	시즈네	TRANSLATED_EXISTING	#221 =シズネ
+quiz1.tbl	2424	自来也	지라이야	TRANSLATED_CHATGPT	#222 =自来也
+quiz1.tbl	2438	綱手	츠나데	TRANSLATED_CHATGPT	#223 =綱手
+quiz1.tbl	2452	この中でガイの部下は誰？	이 중 가이의 부하는 누구?	TRANSLATED_CHATGPT	#230 =この中でガイの部下は誰？
+quiz1.tbl	2484	テンテン	텐텐	TRANSLATED_EXISTING	#231 =テンテン
+quiz1.tbl	2500	ヒナタ	히나타	TRANSLATED_EXISTING	#232 =ヒナタ
+quiz1.tbl	2514	いの	이노	TRANSLATED_EXISTING	#233 =いの
+quiz1.tbl	2528	大蛇丸が口寄せする<br>巨大な蛇の名前は何？	오로치마루가 소환하는<br>거대한 뱀의 이름은?	TRANSLATED_CHATGPT	#240 =大蛇丸が口寄せする<br>巨大な蛇の名前は何？
+quiz1.tbl	2578	マンダ	만다	TRANSLATED_CHATGPT	#241 =マンダ
+quiz1.tbl	2592	ガマブン太	가마분타	TRANSLATED_CHATGPT	#242 =ガマブン太
+quiz1.tbl	2610	カツユ	카츠유	TRANSLATED_CHATGPT	#243 =カツユ
+quiz1.tbl	2626	ナルトに螺旋丸を教えたのは誰？	나루토에게 나선환을 가르친 사람은?	TRANSLATED_CHATGPT	#250 =ナルトに螺旋丸を教えたのは誰？
+quiz1.tbl	2664	自来也	지라이야	TRANSLATED_CHATGPT	#251 =自来也
+quiz1.tbl	2678	イルカ	이루카	TRANSLATED_EXISTING	#252 =イルカ
+quiz1.tbl	2692	カカシ	카카시	TRANSLATED_EXISTING	#253 =カカシ
+quiz1.tbl	2708	サスケに千鳥を教えたのは誰？	사스케에게 치도리를 가르친 사람은?	TRANSLATED_CHATGPT	#260 =サスケに千鳥を教えたのは誰？
+quiz1.tbl	2744	カカシ	카카시	TRANSLATED_EXISTING	#261 =カカシ
+quiz1.tbl	2758	イルカ	이루카	TRANSLATED_EXISTING	#262 =イルカ
+quiz1.tbl	2772	自来也	지라이야	TRANSLATED_CHATGPT	#263 =自来也
+quiz1.tbl	2788	サクラの苗字は何？	사쿠라의 성은?	TRANSLATED_CHATGPT	#270 =サクラの苗字は何？
+quiz1.tbl	2814	春野	하루노	TRANSLATED_CHATGPT	#271 =春野
+quiz1.tbl	2826	山中	야마나카	TRANSLATED_CHATGPT	#272 =山中
+quiz1.tbl	2838	夕日	유우히	TRANSLATED_CHATGPT	#273 =夕日
+quiz1.tbl	2852	この中で中忍ではない者は誰？	이 중 중급 닌자가 아닌 사람은?	TRANSLATED_CHATGPT	#280 =この中で中忍ではない者は誰？
+quiz1.tbl	2888	ナルト	나루토	TRANSLATED_EXISTING	#281 =ナルト
+quiz1.tbl	2902	イルカ	이루카	TRANSLATED_EXISTING	#282 =イルカ
+quiz1.tbl	2916	シカマル	시카마루	TRANSLATED_EXISTING	#283 =シカマル
+quiz1.tbl	2934	ナルトはリーの事を何と呼んでいる？	나루토는 리를 뭐라고 부르는가?	TRANSLATED_CHATGPT	#290 =ナルトはリーの事を何と呼んでいる？
+quiz1.tbl	2976	ゲジマユ	굵은눈썹	TRANSLATED_CHATGPT	#291 =ゲジマユ
+quiz1.tbl	2992	ゲキマユ	격눈썹	TRANSLATED_CHATGPT	#292 =ゲキマユ
+quiz1.tbl	3008	フトマユ	두꺼운눈썹	TRANSLATED_CHATGPT	#293 =フトマユ
+quiz1.tbl	3026	ナルトは自来也の事を主に何と呼んでいる？	나루토는 지라이야를 주로 뭐라고 부르는가?	TRANSLATED_CHATGPT	#300 =ナルトは自来也の事を主に何と呼んでいる？
+quiz1.tbl	3074	エロ仙人	야한 선인	TRANSLATED_CHATGPT	#301 =エロ仙人
+quiz1.tbl	3090	エロジジイ	야한 영감	TRANSLATED_CHATGPT	#302 =エロジジイ
+quiz1.tbl	3108	スケベジジイ	변태 영감	TRANSLATED_CHATGPT	#303 =スケベジジイ
+quiz1.tbl	3130	中忍選抜試験で負傷したリーを見舞うため、<br>サクラが買った花はこの中のどれ？	중급 닌자 시험에서 다친 리를 문병하려고<br>사쿠라가 산 꽃은 이 중 무엇?	TRANSLATED_CHATGPT	#310 =中忍選抜試験で負傷したリーを見舞うため、<br>サクラが買った花はこの中のどれ？
+quiz1.tbl	3214	すいせん	수선화	TRANSLATED_CHATGPT	#311 =すいせん
+quiz1.tbl	3230	サクラ	사쿠라	TRANSLATED_EXISTING	#312 =サクラ
+quiz1.tbl	3244	バラ	장미	TRANSLATED_CHATGPT	#313 =バラ
+quiz1.tbl	3258	中忍選抜試験第二の試験時に<br>大蛇丸が変装していたのは誰？	중급 닌자 시험 2차 시험 때<br>오로치마루가 변장한 닌자는?	TRANSLATED_CHATGPT	#320 =中忍選抜試験第二の試験時に<br>大蛇丸が変装していたのは誰？
+quiz1.tbl	3324	草忍	풀 마을 닌자	TRANSLATED_CHATGPT	#321 =草忍
+quiz1.tbl	3336	雨忍	비 마을 닌자	TRANSLATED_CHATGPT	#322 =雨忍
+quiz1.tbl	3348	砂忍	모래 마을 닌자	TRANSLATED_CHATGPT	#323 =砂忍
+quiz1.tbl	3362	カカシの写輪眼の巴紋の数は？	카카시의 사륜안에 있는 곡옥 수는?	TRANSLATED_CHATGPT	#330 =カカシの写輪眼の巴紋の数は？
+quiz1.tbl	3436	綱手の最愛の弟の名前は何？	츠나데가 가장 아낀 남동생의 이름은?	TRANSLATED_CHATGPT	#340 =綱手の最愛の弟の名前は何？
+quiz1.tbl	3470	縄樹	나와키	TRANSLATED_CHATGPT	#341 =縄樹
+quiz1.tbl	3482	ダン	단	TRANSLATED_CHATGPT	#342 =ダン
+quiz1.tbl	3494	ウドン	우동	TRANSLATED_CHATGPT	#343 =ウドン
+quiz1.tbl	3510	リーが足につけている重りに、<br>記されてある文字は何？	리가 다리에 차고 있는 추에<br>적혀 있는 글자는?	TRANSLATED_CHATGPT	#350 =リーが足につけている重りに、<br>記されてある文字は何？
+quiz1.tbl	3572	根性	근성	TRANSLATED_CHATGPT	#351 =根性
+quiz1.tbl	3584	青春	청춘	TRANSLATED_CHATGPT	#352 =青春
+quiz1.tbl	3596	努力	노력	TRANSLATED_CHATGPT	#353 =努力
+quiz1.tbl	3610	この中で医療忍術を得意とする忍は誰？	이 중 의료인술에 능한 닌자는?	TRANSLATED_CHATGPT	#360 =この中で医療忍術を得意とする忍は誰？
+quiz1.tbl	3654	カブト	카부토	TRANSLATED_EXISTING	#361 =カブト
+quiz1.tbl	3668	エビス	에비스	TRANSLATED_CHATGPT	#362 =エビス
+quiz1.tbl	3682	ネジ	네지	TRANSLATED_EXISTING	#363 =ネジ
+quiz1.tbl	3696	ヒナタは一言で言うと、どんな性格？	히나타의 성격을 한마디로 하면?	TRANSLATED_CHATGPT	#370 =ヒナタは一言で言うと、どんな性格？
+quiz1.tbl	3738	引っ込み思案	소극적	TRANSLATED_CHATGPT	#371 =引っ込み思案
+quiz1.tbl	3758	食いしん坊	먹보	TRANSLATED_CHATGPT	#372 =食いしん坊
+quiz1.tbl	3776	クール	쿨함	TRANSLATED_CHATGPT	#373 =クール
+quiz1.tbl	3792	この中で額当てを額に着けていない者は誰？	이 중 이마 보호대를 이마에 차지 않은 사람은?	TRANSLATED_CHATGPT	#380 =この中で額当てを額に着けていない者は誰？
+quiz1.tbl	3840	いの	이노	TRANSLATED_EXISTING	#381 =いの
+quiz1.tbl	3852	テンテン	텐텐	TRANSLATED_EXISTING	#382 =テンテン
+quiz1.tbl	3868	キバ	키바	TRANSLATED_EXISTING	#383 =キバ
+quiz1.tbl	3882	木ノ葉崩しの際、三代目火影は<br>封印術を使って大蛇丸のどこを封印した？	나뭇잎 부수기 때 3대 호카게는<br>봉인술로 오로치마루의 어디를 봉인했나?	TRANSLATED_CHATGPT	#390 =木ノ葉崩しの際、三代目火影は<br>封印術を使って大蛇丸のどこを封印した？
+quiz1.tbl	3960	両腕	양팔	TRANSLATED_CHATGPT	#391 =両腕
+quiz1.tbl	3972	右腕	오른팔	TRANSLATED_CHATGPT	#392 =右腕
+quiz1.tbl	3984	左腕	왼팔	TRANSLATED_CHATGPT	#393 =左腕
+quiz1.tbl	3998	この中で幻術返しが出来るのは誰？	이 중 환술 되받리기를 할 수 있는 사람은?	TRANSLATED_CHATGPT	#400 =この中で幻術返しが出来るのは誰？
+quiz1.tbl	4038	シカマル	시카마루	TRANSLATED_EXISTING	#401 =シカマル
+quiz1.tbl	4054	ナルト	나루토	TRANSLATED_EXISTING	#402 =ナルト
+quiz1.tbl	4068	チョウジ	쵸지	TRANSLATED_EXISTING	#403 =チョウジ
+quiz1.tbl	4086	この中でカカシが口寄せするものは？	이 중 카카시가 소환하는 것은?	TRANSLATED_CHATGPT	#410 =この中でカカシが口寄せするものは？
+quiz1.tbl	4128	パックン	팟쿤	TRANSLATED_CHATGPT	#411 =パックン
+quiz1.tbl	4144	猿魔	엔마	TRANSLATED_CHATGPT	#412 =猿魔
+quiz1.tbl	4156	カツユ	카츠유	TRANSLATED_CHATGPT	#413 =カツユ
+quiz1.tbl	4172	この中で三代目火影が口寄せするものは？	이 중 3대 호카게가 소환하는 것은?	TRANSLATED_CHATGPT	#420 =この中で三代目火影が口寄せするものは？
+quiz1.tbl	4218	猿魔	엔마	TRANSLATED_CHATGPT	#421 =猿魔
+quiz1.tbl	4230	パックン	팟쿤	TRANSLATED_CHATGPT	#422 =パックン
+quiz1.tbl	4246	カツユ	카츠유	TRANSLATED_CHATGPT	#423 =カツユ
+quiz1.tbl	4262	大蛇丸が木ノ葉隠れに所属していた時代に<br>影で開発していた禁術とは何？	오로치마루가 나뭇잎 마을에 속해 있던 시절<br>몰래 개발하던 금술은?	TRANSLATED_CHATGPT	#430 =大蛇丸が木ノ葉隠れに所属していた時代に<br>影で開発していた禁術とは何？
+quiz1.tbl	4340	不老不死の術	불로불사의 술법	TRANSLATED_CHATGPT	#431 =不老不死の術
+quiz1.tbl	4360	黒暗行の術	흑암행의 술법	TRANSLATED_CHATGPT	#432 =黒暗行の術
+quiz1.tbl	4378	ハーレムの術	하렘의 술법	TRANSLATED_CHATGPT	#433 =ハーレムの術
+quiz1.tbl	4400	この中で忍術が使えないのは誰？	이 중 인술을 사용할 수 없는 사람은?	TRANSLATED_CHATGPT	#440 =この中で忍術が使えないのは誰？
+quiz1.tbl	4438	リー	리	TRANSLATED_EXISTING	#441 =リー
+quiz1.tbl	4450	ネジ	네지	TRANSLATED_EXISTING	#442 =ネジ
+quiz1.tbl	4462	テンテン	텐텐	TRANSLATED_EXISTING	#443 =テンテン
+quiz1.tbl	4480	我愛羅には何が取り憑いている？	가아라에게 깃들어 있는 것은?	TRANSLATED_CHATGPT	#450 =我愛羅には何が取り憑いている？
+quiz1.tbl	4518	守鶴	수학	TRANSLATED_CHATGPT	#451 =守鶴
+quiz1.tbl	4530	九尾	구미	TRANSLATED_CHATGPT	#452 =九尾
+quiz1.tbl	4542	くまのぬいぐるみ	곰인형	TRANSLATED_CHATGPT	#453 =くまのぬいぐるみ
+quiz1.tbl	4568	この中で歴代火影の顔岩に<br>落書きした事があるのは誰？	이 중 역대 호카게의 얼굴 바위에<br>낙서한 적이 있는 사람은?	TRANSLATED_CHATGPT	#460 =この中で歴代火影の顔岩に<br>落書きした事があるのは誰？
+quiz1.tbl	4630	ナルト	나루토	TRANSLATED_EXISTING	#461 =ナルト
+quiz1.tbl	4644	キバ	키바	TRANSLATED_EXISTING	#462 =キバ
+quiz1.tbl	4656	シカマル	시카마루	TRANSLATED_EXISTING	#463 =シカマル
+quiz1.tbl	4674	木登りの修業の目的は何？	나무 타기 수행의 목적은?	TRANSLATED_CHATGPT	#470 =木登りの修業の目的は何？
+quiz1.tbl	4706	チャクラの調節を身に付ける	차크라 조절을 익힌다	TRANSLATED_CHATGPT	#471 =チャクラの調節を身に付ける
+quiz1.tbl	4740	チャクラの量を増やす	차크라 양을 늘린다	TRANSLATED_CHATGPT	#472 =チャクラの量を増やす
+quiz1.tbl	4768	スズを取る	방울을 빼앗는다	TRANSLATED_CHATGPT	#473 =スズを取る
+quiz1.tbl	4788	ナルトが感情を爆発させたときに出てくる<br>九尾のチャクラの色は何色？	나루토가 감정을 폭발시킬 때 나오는<br>구미 차크라의 색은?	TRANSLATED_CHATGPT	#480 =ナルトが感情を爆発させたときに出てくる<br>九尾のチャクラの色は何色？
+quiz1.tbl	4884	黄色	노란색	TRANSLATED_CHATGPT	#483 =黄色
+quiz1.tbl	4898	ナルトに口寄せの術を教えたのは誰？	나루토에게 소환술을 가르친 사람은?	TRANSLATED_CHATGPT	#490 =ナルトに口寄せの術を教えたのは誰？
+quiz1.tbl	4940	自来也	지라이야	TRANSLATED_CHATGPT	#491 =自来也
+quiz1.tbl	4954	イルカ	이루카	TRANSLATED_EXISTING	#492 =イルカ
+quiz1.tbl	4968	カカシ	카카시	TRANSLATED_EXISTING	#493 =カカシ
+quiz1.tbl	4984	中忍選抜第一の試験(筆記試験)で<br>試験官を務めた忍の名前は？	중급 닌자 선발 1차 시험(필기시험)의<br>시험관을 맡은 닌자의 이름은?	TRANSLATED_CHATGPT	#500 =中忍選抜第一の試験(筆記試験)で<br>試験官を務めた忍の名前は？
+quiz1.tbl	5052	森乃イビキ	모리노 이비키	TRANSLATED_CHATGPT	#501 =森乃イビキ
+quiz1.tbl	5070	森乃アクビ	모리노 아쿠비	TRANSLATED_CHATGPT	#502 =森乃アクビ
+quiz1.tbl	5088	森乃クシャミ	모리노 쿠샤미	TRANSLATED_CHATGPT	#503 =森乃クシャミ
+quiz1.tbl	5110	この中で中忍選抜第三の試験予選において<br>本選進出を決めたのは誰？	이 중 중급 닌자 선발 3차 시험 예선에서<br>본선 진출을 확정한 사람은?	TRANSLATED_CHATGPT	#510 =この中で中忍選抜第三の試験予選において<br>本選進出を決めたのは誰？
+quiz1.tbl	5184	シカマル	시카마루	TRANSLATED_EXISTING	#511 =シカマル
+quiz1.tbl	5200	いの	이노	TRANSLATED_EXISTING	#512 =いの
+quiz1.tbl	5212	チョウジ	쵸지	TRANSLATED_EXISTING	#513 =チョウジ
+quiz1.tbl	5230	中忍選抜試験本選の前に、ナルトとエビスが<br>チャクラコントロール修業をした場所はどこ？	중급 닌자 시험 본선 전에 나루토와 에비스가<br>차크라 조절 수행을 한 장소는?	TRANSLATED_CHATGPT	#520 =中忍選抜試験本選の前に、ナルトとエビスが<br>チャクラコントロール修業をした場所はどこ？
+quiz1.tbl	5324	温泉	온천	TRANSLATED_CHATGPT	#521 =温泉
+quiz1.tbl	5358	同じ日向家のヒナタとネジはどういう関係？	같은 휴우가 가문의 히나타와 네지는 어떤 관계?	TRANSLATED_CHATGPT	#530 =同じ日向家のヒナタとネジはどういう関係？
+quiz1.tbl	5406	従兄妹	사촌 남매	TRANSLATED_CHATGPT	#531 =従兄妹
+quiz1.tbl	5420	兄と妹	오빠와 여동생	TRANSLATED_CHATGPT	#532 =兄と妹
+quiz1.tbl	5434	姉と弟	누나와 남동생	TRANSLATED_CHATGPT	#533 =姉と弟
+quiz1.tbl	5450	人の点穴の数は全部でいくつある？	사람의 점혈은 모두 몇 개인가?	TRANSLATED_CHATGPT	#540 =人の点穴の数は全部でいくつある？
+quiz1.tbl	5490	３６１ヶ所	361곳	TRANSLATED_CHATGPT	#541 =３６１ヶ所
+quiz1.tbl	5508	６４ヶ所	64곳	TRANSLATED_CHATGPT	#542 =６４ヶ所
+quiz1.tbl	5524	２５６ヶ所	256곳	TRANSLATED_CHATGPT	#543 =２５６ヶ所
+quiz1.tbl	5544	サクラのもうひとつの精神である<br>内なるサクラの口癖は何？	사쿠라의 또 다른 정신인<br>내면의 사쿠라가 자주 하는 말은?	TRANSLATED_CHATGPT	#550 =サクラのもうひとつの精神である<br>内なるサクラの口癖は何？
+quiz1.tbl	5610	しゃーんなろー！	샤아안나로!	TRANSLATED_EXISTING	#551 =しゃーんなろー！
+quiz1.tbl	5634	しゃーこのやろ！	샤아, 이 자식!	TRANSLATED_CHATGPT	#552 =しゃーこのやろ！
+quiz1.tbl	5658	しゃーなろー！	샤아나로!	TRANSLATED_CHATGPT	#553 =しゃーなろー！
+quiz1.tbl	5682	マイト・ガイは一言で言うと、どういう教師？	마이트 가이를 한마디로 하면 어떤 선생님?	TRANSLATED_CHATGPT	#560 =マイト・ガイは一言で言うと、どういう教師？
+quiz1.tbl	5732	熱血教師	열혈 교사	TRANSLATED_CHATGPT	#561 =熱血教師
+quiz1.tbl	5748	お笑い教師	개그 교사	TRANSLATED_CHATGPT	#562 =お笑い教師
+quiz1.tbl	5766	悶絶教師	고통 교사	TRANSLATED_CHATGPT	#563 =悶絶教師
+quiz1.tbl	5784	この中で血継限界を持ってる者は誰？	이 중 혈계한계를 가진 사람은?	TRANSLATED_CHATGPT	#570 =この中で血継限界を持ってる者は誰？
+quiz1.tbl	5826	サスケ	사스케	TRANSLATED_EXISTING	#571 =サスケ
+quiz1.tbl	5840	我愛羅	가아라	TRANSLATED_CHATGPT	#572 =我愛羅
+quiz1.tbl	5854	ナルト	나루토	TRANSLATED_EXISTING	#573 =ナルト
+quiz1.tbl	5870	ナルトにムッツリスケベと呼ばれているのは<br>この中の誰？	나루토에게 은근한 변태라고 불리는 사람은<br>이 중 누구?	TRANSLATED_CHATGPT	#580 =ナルトにムッツリスケベと呼ばれているのは<br>この中の誰？
+quiz1.tbl	5934	エビス	에비스	TRANSLATED_CHATGPT	#581 =エビス
+quiz1.tbl	5948	自来也	지라이야	TRANSLATED_CHATGPT	#582 =自来也
+quiz1.tbl	5962	カカシ	카카시	TRANSLATED_EXISTING	#583 =カカシ
+quiz1.tbl	5978	ナルトが将来なりたい職業は何？	나루토가 장래에 되고 싶은 것은?	TRANSLATED_CHATGPT	#590 =ナルトが将来なりたい職業は何？
+quiz1.tbl	6016	火影	호카게	TRANSLATED_CHATGPT	#591 =火影
+quiz1.tbl	6028	上忍	상급 닌자	TRANSLATED_CHATGPT	#592 =上忍
+quiz1.tbl	6040	大名	다이묘	TRANSLATED_CHATGPT	#593 =大名
+quiz1.tbl	6054	我愛羅のひょうたんは何でできている？	가아라의 호리병은 무엇으로 만들어졌나?	TRANSLATED_CHATGPT	#600 =我愛羅のひょうたんは何でできている？
+quiz1.tbl	6130	ネジは何拳の使い手？	네지는 어떤 권법의 사용자?	TRANSLATED_CHATGPT	#610 =ネジは何拳の使い手？
+quiz1.tbl	6158	柔拳	유권	TRANSLATED_CHATGPT	#611 =柔拳
+quiz1.tbl	6170	剛拳	강권	TRANSLATED_CHATGPT	#612 =剛拳
+quiz1.tbl	6182	じゃん拳	가위바위보권	TRANSLATED_CHATGPT	#613 =じゃん拳
+quiz1.tbl	6200	いのの家は何のお店をやっている？	이노의 집은 어떤 가게를 하는가?	TRANSLATED_CHATGPT	#620 =いのの家は何のお店をやっている？
+quiz1.tbl	6240	花屋	꽃집	TRANSLATED_CHATGPT	#621 =花屋
+quiz1.tbl	6252	甘味処	단팥집	TRANSLATED_CHATGPT	#622 =甘味処
+quiz1.tbl	6266	本屋	서점	TRANSLATED_CHATGPT	#623 =本屋
+quiz1.tbl	6280	ナルトは綱手の事を何と呼んでいる？	나루토는 츠나데를 뭐라고 부르는가?	TRANSLATED_CHATGPT	#630 =ナルトは綱手の事を何と呼んでいる？
+quiz1.tbl	6322	バアちゃん	할멈	TRANSLATED_CHATGPT	#631 =バアちゃん
+quiz1.tbl	6340	五代目	5대	TRANSLATED_CHATGPT	#632 =五代目
+quiz1.tbl	6354	ネエちゃん	누님	TRANSLATED_CHATGPT	#633 =ネエちゃん
+quiz1.tbl	6374	チョウジは自分のことを何系と言っている？	쵸지는 자신을 어떤 타입이라고 하는가?	TRANSLATED_CHATGPT	#640 =チョウジは自分のことを何系と言っている？
+quiz1.tbl	6422	ポッチャリ系	통통한 타입	TRANSLATED_CHATGPT	#641 =ポッチャリ系
+quiz1.tbl	6442	クール系	쿨한 타입	TRANSLATED_CHATGPT	#642 =クール系
+quiz1.tbl	6458	スタンダード系	스탠더드 타입	TRANSLATED_CHATGPT	#643 =スタンダード系
+quiz1.tbl	6482	中忍選抜試験第二の試験で、大蛇丸は<br>「五行封印」をナルトのどこに掛けた？	중급 닌자 선발 2차 시험에서 오로치마루는<br>「오행봉인」을 나루토의 어디에 걸었나?	TRANSLATED_CHATGPT	#650 =中忍選抜試験第二の試験で、大蛇丸は<br>「五行封印」をナルトのどこに掛けた？
+quiz1.tbl	6574	首筋	목덜미	TRANSLATED_CHATGPT	#652 =首筋
+quiz1.tbl	6598	我愛羅の中に眠る守鶴は、<br>何という術で目覚める？	가아라 안에 잠든 수학은<br>어떤 술법으로 깨어나는가?	TRANSLATED_CHATGPT	#660 =我愛羅の中に眠る守鶴は、<br>何という術で目覚める？
+quiz1.tbl	6656	狸寝入りの術	너구리 잠자기 술법	TRANSLATED_CHATGPT	#661 =狸寝入りの術
+quiz1.tbl	6676	居眠りの術	졸기 술법	TRANSLATED_CHATGPT	#662 =居眠りの術
+quiz1.tbl	6694	熟睡の術	숙면 술법	TRANSLATED_CHATGPT	#663 =熟睡の術
+quiz1.tbl	6712	もっと強くなるために、<br>サクラは誰の下に弟子入りした？	더 강해지기 위해<br>사쿠라는 누구의 제자가 되었나?	TRANSLATED_CHATGPT	#670 =もっと強くなるために、<br>サクラは誰の下に弟子入りした？
+quiz1.tbl	6776	綱手	츠나데	TRANSLATED_CHATGPT	#671 =綱手
+quiz1.tbl	6788	自来也	지라이야	TRANSLATED_CHATGPT	#672 =自来也
+quiz1.tbl	6802	大蛇丸	오로치마루	TRANSLATED_CHATGPT	#673 =大蛇丸
+quiz1.tbl	6818	ガイはリーの事を何の天才と言っている？	가이는 리를 무엇의 천재라고 하는가?	TRANSLATED_CHATGPT	#680 =ガイはリーの事を何の天才と言っている？
+quiz1.tbl	6864	努力の天才	노력의 천재	TRANSLATED_CHATGPT	#681 =努力の天才
+quiz1.tbl	6882	気力の天才	기력의 천재	TRANSLATED_CHATGPT	#682 =気力の天才
+quiz1.tbl	6900	戦闘の天才	전투의 천재	TRANSLATED_CHATGPT	#683 =戦闘の天才
+quiz1.tbl	6920	ガイが初めてナルトたちの前に登場した際、<br>何に乗って現れた？	가이가 처음 나루토 일행 앞에 등장했을 때<br>무엇을 타고 나타났나?	TRANSLATED_CHATGPT	#690 =ガイが初めてナルトたちの前に登場した際、<br>何に乗って現れた？
+quiz1.tbl	6990	忍亀	닌자 거북이	TRANSLATED_CHATGPT	#691 =忍亀
+quiz1.tbl	7002	リー	리	TRANSLATED_EXISTING	#692 =リー
+quiz1.tbl	7014	忍犬	닌자견	TRANSLATED_CHATGPT	#693 =忍犬
+quiz1.tbl	7028	自来也は昔、綱手の攻撃で<br>何ｍ近く飛ばされたことがある？	지라이야는 예전에 츠나데의 공격으로<br>약 몇 m나 날아간 적이 있는가?	TRANSLATED_CHATGPT	#700 =自来也は昔、綱手の攻撃で<br>何ｍ近く飛ばされたことがある？
+quiz1.tbl	7140	ガマ吉とガマ竜、お兄ちゃんはどっち？	가마키치와 가마타츠 중 형은 누구?	TRANSLATED_CHATGPT	#710 =ガマ吉とガマ竜、お兄ちゃんはどっち？
+quiz1.tbl	7184	ガマ吉	가마키치	TRANSLATED_CHATGPT	#711 =ガマ吉
+quiz1.tbl	7198	ガマ竜	가마타츠	TRANSLATED_CHATGPT	#712 =ガマ竜
+quiz1.tbl	7212	兄弟ではない	형제가 아니다	TRANSLATED_CHATGPT	#713 =兄弟ではない
+quiz1.tbl	7234	イタチが所持している<br>特殊な写輪眼は何という名前？	이타치가 지닌<br>특수한 사륜안의 이름은?	TRANSLATED_CHATGPT	#720 =イタチが所持している<br>特殊な写輪眼は何という名前？
+quiz1.tbl	7294	万華鏡写輪眼	만화경 사륜안	TRANSLATED_CHATGPT	#721 =万華鏡写輪眼
+quiz1.tbl	7314	螺旋写輪眼	나선 사륜안	TRANSLATED_CHATGPT	#722 =螺旋写輪眼
+quiz1.tbl	7332	呪印写輪眼	주인 사륜안	TRANSLATED_CHATGPT	#723 =呪印写輪眼
+quiz1.tbl	7352	綱手は賭場の関係者たちから<br>何と呼ばれている？	츠나데는 도박장 관계자들에게<br>뭐라고 불리는가?	TRANSLATED_CHATGPT	#730 =綱手は賭場の関係者たちから<br>何と呼ばれている？
+quiz1.tbl	7408	伝説のカモ	전설의 봉	TRANSLATED_CHATGPT	#731 =伝説のカモ
+quiz1.tbl	7426	伝説の三忍	전설의 3닌자	TRANSLATED_CHATGPT	#732 =伝説の三忍
+quiz1.tbl	7444	伝説の博打打ち	전설의 도박꾼	TRANSLATED_CHATGPT	#733 =伝説の博打打ち
+quiz1.tbl	7468	この中でナルトがアカデミー時代に<br>一番苦手だった術は？	이 중 나루토가 아카데미 시절<br>가장 서툴렀던 술법은?	TRANSLATED_CHATGPT	#740 =この中でナルトがアカデミー時代に<br>一番苦手だった術は？
+quiz1.tbl	7532	分身の術	분신술	TRANSLATED_CHATGPT	#741 =分身の術
+quiz1.tbl	7548	おいろけの術	변신 유혹술	TRANSLATED_CHATGPT	#742 =おいろけの術
+quiz1.tbl	7568	影真似の術	그림자 흉내술	TRANSLATED_CHATGPT	#743 =影真似の術
+quiz2.tbl	8	;上位２ケタ:問題番号( 0-99. 抜け番号許可. )		SKIP_COMMENT	;上位２ケタ:問題番号( 0-99. 抜け番号許可. )
+quiz2.tbl	53	;１の位 0:問題文		SKIP_COMMENT	;１の位 0:問題文
+quiz2.tbl	71	;       1:正解文		SKIP_COMMENT	;       1:正解文
+quiz2.tbl	89	;       2:不正解文1		SKIP_COMMENT	;       2:不正解文1
+quiz2.tbl	110	";       3:不正解文2"""		SKIP_COMMENT	";       3:不正解文2"""
+quiz2.tbl	134	カカシとガイの真剣勝負で、<br>記念すべきカカシ４９勝目の勝負とは？	카카시와 가이의 진검승부에서<br>기념할 만한 카카시의 49번째 승부는?	TRANSLATED_CHATGPT	#00 =カカシとガイの真剣勝負で、<br>記念すべきカカシ４９勝目の勝負とは？
+quiz2.tbl	207	じゃんけん	가위바위보	TRANSLATED_CHATGPT	#01 =じゃんけん
+quiz2.tbl	224	あみだくじ	사다리타기	TRANSLATED_CHATGPT	#02 =あみだくじ
+quiz2.tbl	257	この中で中忍選抜試験第三の試験予選中、<br>ヒナタとネジの闘いを止めなかった上忍は誰？	이 중 중급 닌자 선발 3차 시험 예선에서<br>히나타와 네지의 싸움을 말리지 않은 상급 닌자는?	TRANSLATED_CHATGPT	#10 =この中で中忍選抜試験第三の試験予選中、<br>ヒナタとネジの闘いを止めなかった上忍は誰？
+quiz2.tbl	348	アスマ	아스마	TRANSLATED_EXISTING	#11 =アスマ
+quiz2.tbl	361	カカシ	카카시	TRANSLATED_EXISTING	#12 =カカシ
+quiz2.tbl	374	ガイ	가이	TRANSLATED_EXISTING	#13 =ガイ
+quiz2.tbl	387	シカクが「この世で一番美しい」と<br>賞賛する女性は誰？	시카쿠가 「세상에서 가장 아름답다」고<br>칭찬하는 여성은?	TRANSLATED_CHATGPT	#20 =シカクが「この世で一番美しい」と<br>賞賛する女性は誰？
+quiz2.tbl	448	綱手	츠나데	TRANSLATED_CHATGPT	#21 =綱手
+quiz2.tbl	459	母ちゃん	어머니	TRANSLATED_CHATGPT	#22 =母ちゃん
+quiz2.tbl	485	綱手のバカ力を間近で見たカブトが<br>思ったこととは？	츠나데의 괴력을 가까이서 본 카부토가<br>생각한 것은?	TRANSLATED_CHATGPT	#30 =綱手のバカ力を間近で見たカブトが<br>思ったこととは？
+quiz2.tbl	544	ぜったい独り身だ	틀림없이 독신이다	TRANSLATED_CHATGPT	#31 =ぜったい独り身だ
+quiz2.tbl	567	人間じゃない	인간이 아니다	TRANSLATED_CHATGPT	#32 =人間じゃない
+quiz2.tbl	586	美しい	아름답다	TRANSLATED_CHATGPT	#33 =美しい
+quiz2.tbl	601	綱手のバカ力はどういう原理で発生する？	츠나데의 괴력은 어떤 원리로 발생하는가?	TRANSLATED_CHATGPT	#40 =綱手のバカ力はどういう原理で発生する？
+quiz2.tbl	646	チャクラコントロール	차크라 컨트롤	TRANSLATED_CHATGPT	#41 =チャクラコントロール
+quiz2.tbl	673	体のバネ	몸의 탄력	TRANSLATED_CHATGPT	#42 =体のバネ
+quiz2.tbl	688	筋力	근력	TRANSLATED_CHATGPT	#43 =筋力
+quiz2.tbl	701	カカシが中忍に上がった年齢はいくつ？	카카시가 중급 닌자가 된 나이는?	TRANSLATED_CHATGPT	#50 =カカシが中忍に上がった年齢はいくつ？
+quiz2.tbl	783	リーは八門遁甲の体内門を<br>いくつまで開くことが出来る？	리는 팔문둔갑의 체내문을<br>몇 문까지 열 수 있는가?	TRANSLATED_CHATGPT	#60 =リーは八門遁甲の体内門を<br>いくつまで開くことが出来る？
+quiz2.tbl	846	五門	5문	TRANSLATED_CHATGPT	#61 =五門
+quiz2.tbl	857	六門	6문	TRANSLATED_CHATGPT	#62 =六門
+quiz2.tbl	868	八門	8문	TRANSLATED_CHATGPT	#63 =八門
+quiz2.tbl	881	自分に合ったチャクラ回転方向は<br>何を見れば分かる？	자신에게 맞는 차크라 회전 방향은<br>무엇을 보면 알 수 있는가?	TRANSLATED_CHATGPT	#70 =自分に合ったチャクラ回転方向は<br>何を見れば分かる？
+quiz2.tbl	940	頭のつむじの方向	정수리 가마 방향	TRANSLATED_CHATGPT	#71 =頭のつむじの方向
+quiz2.tbl	963	利き手	주로 쓰는 손	TRANSLATED_CHATGPT	#72 =利き手
+quiz2.tbl	976	体内のチャクラの流れ	체내 차크라의 흐름	TRANSLATED_CHATGPT	#73 =体内のチャクラの流れ
+quiz2.tbl	1005	八門遁甲の第三の門はこの中のどれ？	팔문둔갑의 세 번째 문은 이 중 무엇?	TRANSLATED_CHATGPT	#80 =八門遁甲の第三の門はこの中のどれ？
+quiz2.tbl	1046	生門	생문	TRANSLATED_CHATGPT	#81 =生門
+quiz2.tbl	1057	開門	개문	TRANSLATED_CHATGPT	#82 =開門
+quiz2.tbl	1068	杜門	두문	TRANSLATED_CHATGPT	#83 =杜門
+quiz2.tbl	1081	この中でサスケの苦手な物はどれ？	이 중 사스케가 싫어하는 음식은?	TRANSLATED_CHATGPT	#90 =この中でサスケの苦手な物はどれ？
+quiz2.tbl	1120	甘い物	단 음식	TRANSLATED_CHATGPT	#91 =甘い物
+quiz2.tbl	1133	辛い物	매운 음식	TRANSLATED_CHATGPT	#92 =辛い物
+quiz2.tbl	1146	酸っぱい物	신 음식	TRANSLATED_CHATGPT	#93 =酸っぱい物
+quiz2.tbl	1165	我愛羅戦で出した「うずまきナルト忍法帖」。<br>さて攻撃は何から始まる？	가아라전에서 사용한 「우즈마키 나루토 인법첩」.<br>공격은 무엇으로 시작하는가?	TRANSLATED_CHATGPT	#100 =我愛羅戦で出した「うずまきナルト忍法帖」。<br>さて攻撃は何から始まる？
+quiz2.tbl	1243	四方八方手裏剣	사방팔방 수리검	TRANSLATED_CHATGPT	#101 =四方八方手裏剣
+quiz2.tbl	1265	うずまきナルト二千連弾	우즈마키 나루토 2천 연탄	TRANSLATED_CHATGPT	#102 =うずまきナルト二千連弾
+quiz2.tbl	1295	千年殺し	천년 죽이기	TRANSLATED_CHATGPT	#103 =千年殺し
+quiz2.tbl	1313	シカマルが額当てをしている場所はどこ？	시카마루가 이마 보호대를 차고 있는 곳은?	TRANSLATED_CHATGPT	#110 =シカマルが額当てをしている場所はどこ？
+quiz2.tbl	1359	左腕	왼팔	TRANSLATED_CHATGPT	#111 =左腕
+quiz2.tbl	1371	右腕	오른팔	TRANSLATED_CHATGPT	#112 =右腕
+quiz2.tbl	1395	暁時代の大蛇丸がしていた指輪に<br>記されてある文字は？	아카츠키 시절 오로치마루의 반지에<br>적혀 있던 글자는?	TRANSLATED_CHATGPT	#120 =暁時代の大蛇丸がしていた指輪に<br>記されてある文字は？
+quiz2.tbl	1489	この中で背が一番高いのは？	이 중 키가 가장 큰 사람은?	TRANSLATED_CHATGPT	#130 =この中で背が一番高いのは？
+quiz2.tbl	1523	チョウジ	쵸지	TRANSLATED_EXISTING	#131 =チョウジ
+quiz2.tbl	1539	いの	이노	TRANSLATED_EXISTING	#132 =いの
+quiz2.tbl	1551	シカマル	시카마루	TRANSLATED_EXISTING	#133 =シカマル
+quiz2.tbl	1569	イタチの指輪に記されてある文字は？	이타치의 반지에 적혀 있는 글자는?	TRANSLATED_CHATGPT	#140 =イタチの指輪に記されてある文字は？
+quiz2.tbl	1643	イタチが木ノ葉隠れの忍者学校を<br>卒業した年齢は？	이타치가 나뭇잎 마을 닌자 학교를<br>졸업한 나이는?	TRANSLATED_CHATGPT	#150 =イタチが木ノ葉隠れの忍者学校を<br>卒業した年齢は？
+quiz2.tbl	1741	シカマルの中忍昇格祝いに<br>チョウジ達は何を食べた？	시카마루의 중급 닌자 승급 축하로<br>쵸지 일행이 먹은 것은?	TRANSLATED_CHATGPT	#160 =シカマルの中忍昇格祝いに<br>チョウジ達は何を食べた？
+quiz2.tbl	1801	焼肉	불고기	TRANSLATED_CHATGPT	#161 =焼肉
+quiz2.tbl	1813	ガルBのポテート	가루B의 포테이토	TRANSLATED_CHATGPT	#162 =ガルBのポテート
+quiz2.tbl	1836	ラーメン	라멘	TRANSLATED_CHATGPT	#163 =ラーメン
+quiz2.tbl	1854	螺旋丸習得時、ナルトに水風船を割るコツを<br>気付かせたのは？	나선환을 익힐 때 나루토에게 물풍선을 터뜨리는<br>요령을 깨닫게 한 것은?	TRANSLATED_CHATGPT	#170 =螺旋丸習得時、ナルトに水風船を割るコツを<br>気付かせたのは？
+quiz2.tbl	1922	シュウ	슈	TRANSLATED_CHATGPT	#171 =シュウ
+quiz2.tbl	1936	パックン	팟쿤	TRANSLATED_CHATGPT	#172 =パックン
+quiz2.tbl	1952	ガマちゃん	가마짱	TRANSLATED_CHATGPT	#173 =ガマちゃん
+quiz2.tbl	1972	ガイがリーの怪我を治すために作った<br>ダンゴの名称は？	가이가 리의 부상을 치료하려고 만든<br>경단의 이름은?	TRANSLATED_CHATGPT	#180 =ガイがリーの怪我を治すために作った<br>ダンゴの名称は？
+quiz2.tbl	2034	特別青春漢方丸	특별 청춘 한방환	TRANSLATED_CHATGPT	#181 =特別青春漢方丸
+quiz2.tbl	2056	特別努力漢方丸	특별 노력 한방환	TRANSLATED_CHATGPT	#182 =特別努力漢方丸
+quiz2.tbl	2078	特別熱血漢方丸	특별 열혈 한방환	TRANSLATED_CHATGPT	#183 =特別熱血漢方丸
+quiz2.tbl	2102	ヒナタ・キバ・シノは第何班に所属している？	히나타·키바·시노는 몇 반 소속인가?	TRANSLATED_CHATGPT	#190 =ヒナタ・キバ・シノは第何班に所属している？
+quiz2.tbl	2152	第８班	제8반	TRANSLATED_CHATGPT	#191 =第８班
+quiz2.tbl	2166	第６班	제6반	TRANSLATED_CHATGPT	#192 =第６班
+quiz2.tbl	2180	第７班	제7반	TRANSLATED_CHATGPT	#193 =第７班
+quiz2.tbl	2196	この中で体重が一番軽いのは誰？	이 중 체중이 가장 가벼운 사람은?	TRANSLATED_CHATGPT	#200 =この中で体重が一番軽いのは誰？
+quiz2.tbl	2234	我愛羅	가아라	TRANSLATED_CHATGPT	#201 =我愛羅
+quiz2.tbl	2248	ナルト	나루토	TRANSLATED_EXISTING	#202 =ナルト
+quiz2.tbl	2262	リー	리	TRANSLATED_EXISTING	#203 =リー
+quiz2.tbl	2276	この中で一番年上なのは誰？	이 중 가장 나이가 많은 사람은?	TRANSLATED_CHATGPT	#210 =この中で一番年上なのは誰？
+quiz2.tbl	2310	リー	리	TRANSLATED_EXISTING	#211 =リー
+quiz2.tbl	2322	ナルト	나루토	TRANSLATED_EXISTING	#212 =ナルト
+quiz2.tbl	2336	サクラ	사쿠라	TRANSLATED_EXISTING	#213 =サクラ
+quiz2.tbl	2352	ナルトが中忍選抜試験を受けた時、<br>カブトは何回目の受験だった？	나루토가 중급 닌자 선발 시험을 볼 때<br>카부토는 몇 번째 응시였나?	TRANSLATED_CHATGPT	#220 =ナルトが中忍選抜試験を受けた時、<br>カブトは何回目の受験だった？
+quiz2.tbl	2424	７回目	7번째	TRANSLATED_CHATGPT	#221 =７回目
+quiz2.tbl	2438	５回目	5번째	TRANSLATED_CHATGPT	#222 =５回目
+quiz2.tbl	2452	６回目	6번째	TRANSLATED_CHATGPT	#223 =６回目
+quiz2.tbl	2468	油女一族が操る蟲に与えているエサは？	아부라메 일족이 다루는 벌레에게 주는 먹이는?	TRANSLATED_CHATGPT	#230 =油女一族が操る蟲に与えているエサは？
+quiz2.tbl	2512	チャクラ	차크라	TRANSLATED_EXISTING	#231 =チャクラ
+quiz2.tbl	2550	忍花鳥兜はどの部分に毒がある？	닌카쵸 카부토는 어느 부분에 독이 있는가?	TRANSLATED_CHATGPT	#240 =忍花鳥兜はどの部分に毒がある？
+quiz2.tbl	2620	カカシがイチャイチャパラダイスを<br>読み始めた歳はいくつ？	카카시는 몇 살부터<br>「러브러브 파라다이스」를 읽기 시작했나?	TRANSLATED_CHATGPT	#250 =カカシがイチャイチャパラダイスを<br>読み始めた歳はいくつ？
+quiz2.tbl	2730	シノの蟲で特殊な臭いを放つものとして<br>正しいのはどれ？	시노의 벌레 중 특수한 냄새를 내는 것은<br>어느 쪽?	TRANSLATED_CHATGPT	#260 =シノの蟲で特殊な臭いを放つものとして<br>正しいのはどれ？
+quiz2.tbl	2794	オス	수컷	TRANSLATED_CHATGPT	#261 =オス
+quiz2.tbl	2806	メス	암컷	TRANSLATED_CHATGPT	#262 =メス
+quiz2.tbl	2818	両方	둘 다	TRANSLATED_CHATGPT	#263 =両方
+quiz2.tbl	2832	初代火影は三代目火影を何と呼んでいた？	초대 호카게는 3대 호카게를 뭐라고 불렀나?	TRANSLATED_CHATGPT	#270 =初代火影は三代目火影を何と呼んでいた？
+quiz2.tbl	2878	猿飛	사루토비	TRANSLATED_CHATGPT	#271 =猿飛
+quiz2.tbl	2890	サル	원숭이	TRANSLATED_CHATGPT	#272 =サル
+quiz2.tbl	2902	ジジイ	영감	TRANSLATED_CHATGPT	#273 =ジジイ
+quiz2.tbl	2918	二代目火影は三代目火影を何と呼んでいた？	2대 호카게는 3대 호카게를 뭐라고 불렀나?	TRANSLATED_CHATGPT	#280 =二代目火影は三代目火影を何と呼んでいた？
+quiz2.tbl	2966	サル	원숭이	TRANSLATED_CHATGPT	#281 =サル
+quiz2.tbl	2978	猿飛	사루토비	TRANSLATED_CHATGPT	#282 =猿飛
+quiz2.tbl	2990	ジジイ	영감	TRANSLATED_CHATGPT	#283 =ジジイ
+quiz2.tbl	3006	木ノ葉隠れの里の緊急避難所はどこにある？	나뭇잎 마을의 긴급 대피소는 어디에 있는가?	TRANSLATED_CHATGPT	#290 =木ノ葉隠れの里の緊急避難所はどこにある？
+quiz2.tbl	3054	火影の顔岩	호카게 얼굴 바위	TRANSLATED_CHATGPT	#291 =火影の顔岩
+quiz2.tbl	3072	慰霊碑	위령비	TRANSLATED_CHATGPT	#292 =慰霊碑
+quiz2.tbl	3086	ラーメン一楽	라멘 이치라쿠	TRANSLATED_CHATGPT	#293 =ラーメン一楽
+quiz2.tbl	3108	我愛羅の幼少時代のあだ名は何？	가아라의 어린 시절 별명은?	TRANSLATED_CHATGPT	#300 =我愛羅の幼少時代のあだ名は何？
+quiz2.tbl	3146	砂の我愛羅	모래의 가아라	TRANSLATED_CHATGPT	#301 =砂の我愛羅
+quiz2.tbl	3164	風の我愛羅	바람의 가아라	TRANSLATED_CHATGPT	#302 =風の我愛羅
+quiz2.tbl	3182	砂瀑の我愛羅	가아라	TRANSLATED_EXISTING	#303 =砂瀑の我愛羅
+quiz2.tbl	3204	綱手の付き人のシズネの口癖は何？	츠나데의 수행원 시즈네의 말버릇은?	TRANSLATED_CHATGPT	#310 =綱手の付き人のシズネの口癖は何？
+quiz2.tbl	3244	あひィー！	아히이!	TRANSLATED_CHATGPT	#311 =あひィー！
+quiz2.tbl	3262	うひィー！	우히이!	TRANSLATED_CHATGPT	#312 =うひィー！
+quiz2.tbl	3280	あわわわわわ！	아와와와와!	TRANSLATED_CHATGPT	#313 =あわわわわわ！
+quiz2.tbl	3304	パックンが羽織っているはっぴの背中に<br>書かれているものは何？	팟쿤이 입은 핫피의 등에<br>적혀 있는 것은?	TRANSLATED_CHATGPT	#320 =パックンが羽織っているはっぴの背中に<br>書かれているものは何？
+quiz2.tbl	3374	へのへのもへじ	헤노헤노모헤지	TRANSLATED_CHATGPT	#321 =へのへのもへじ
+quiz2.tbl	3396	木ノ葉マーク	나뭇잎 마크	TRANSLATED_CHATGPT	#322 =木ノ葉マーク
+quiz2.tbl	3416	犬の足形	개 발자국	TRANSLATED_CHATGPT	#323 =犬の足形
+quiz2.tbl	3434	ガマブン太が羽織っているはっぴの背中に<br>書かれている字は何？	가마분타가 입은 핫피의 등에<br>적혀 있는 글자는?	TRANSLATED_CHATGPT	#330 =ガマブン太が羽織っているはっぴの背中に<br>書かれている字は何？
+quiz2.tbl	3536	霧隠れの出身で干柿鬼鮫・桃地再不斬は<br>何の七人衆と呼ばれていた？	안개 마을 출신 호시가키 키사메와 모모치 자부자는<br>무슨 7인방이라 불렸나?	TRANSLATED_CHATGPT	#340 =霧隠れの出身で干柿鬼鮫・桃地再不斬は<br>何の七人衆と呼ばれていた？
+quiz2.tbl	3610	忍刀七人衆	닌자도 7인방	TRANSLATED_CHATGPT	#341 =忍刀七人衆
+quiz2.tbl	3628	忍頭七人衆	닌자 수장 7인방	TRANSLATED_CHATGPT	#342 =忍頭七人衆
+quiz2.tbl	3646	霧の七人衆	안개의 7인방	TRANSLATED_CHATGPT	#343 =霧の七人衆
+quiz2.tbl	3666	忍になって初めて行われるサバイバル演習。<br>さてその演習の脱落率は何％以上だった？	닌자가 된 뒤 처음 하는 서바이벌 훈련.<br>그 훈련의 탈락률은 몇 % 이상이었나?	TRANSLATED_CHATGPT	#350 =忍になって初めて行われるサバイバル演習。<br>さてその演習の脱落率は何％以上だった？
+quiz2.tbl	3756	６６％以上	66% 이상	TRANSLATED_CHATGPT	#351 =６６％以上
+quiz2.tbl	3774	５６％以上	56% 이상	TRANSLATED_CHATGPT	#352 =５６％以上
+quiz2.tbl	3792	７６％以上	76% 이상	TRANSLATED_CHATGPT	#353 =７６％以上

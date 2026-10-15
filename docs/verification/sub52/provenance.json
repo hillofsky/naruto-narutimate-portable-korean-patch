@@ -1,0 +1,17 @@
+[
+  {
+    "artifact": "naruto_sub52u_safe_cleanup_upload.zip",
+    "sha256": "d7615dbc614a949f51dfef60c0a200ac7e1eb8eb499433fd965d15bf1aa01b6b",
+    "published": "scripts and summarized result only; no original game samples, textures or transcripts"
+  },
+  {
+    "artifact": "naruto_sub52v_charsel_discovery_upload.zip",
+    "sha256": "1720d50ef372107b819766ea110c0b7ddd54dfc705581f0c0bf771cb2702c48e",
+    "published": "scripts and summarized result only; no original game samples, textures or transcripts"
+  },
+  {
+    "artifact": "naruto_sub52w_charsel_structural_upload.zip",
+    "sha256": "0450ad06c4e3df7e5b75355d3fc876919730f6c5a7d767f11482434362a9ebe1",
+    "published": "scripts and summarized result only; no original game samples, textures or transcripts"
+  }
+]

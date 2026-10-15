@@ -1,0 +1,22 @@
+NARUTO SUB52V CHARACTER SELECTION DIAGNOSTIC
+Result: 
+PASS
+SUB52T known-good ISO: 
+${PROJECT_ROOT}\analysis\sub\sub52t_gauge_hud_compact\Naruto_KR_MOV06E_SUB52T_GaugeHUD_Compact.iso
+SUB52U current ISO: 
+${PROJECT_ROOT}\analysis\sub\sub52u_hud_remaining\Naruto_KR_MOV06E_SUB52U_HUDRemaining_Compact.iso
+Files scanned: 
+65292
+Charsel CCS candidates: 
+0
+Image candidates: 
+203
+Source references: 
+49
+Exported assets: 
+24
+ / bytes: 
+534353
+No game ISO or original files were changed.
+No PPSSPP instance was started/controlled/killed.
+NEXT: Upload this ZIP to ChatGPT, then proceed with atlas bounding box analysis.

@@ -1,0 +1,4 @@
+texture	rects	translations	changed_pixels	src_payload_sha256	new_payload_sha256
+TEX_xgauge5	[(147, 55, 191, 71), (98, 91, 157, 107)]	ヒナタ → 히나타; シカマル → 시카마루	1237	214eb0cffa31271849bab2944af30b41984f1c4eb1fde08cd054579902442d90	3a49ec77b51baff40d4886fe007bc4d29badd83e6c394607f2d995adf5eaac05
+TEX_vs	[(0, 100, 64, 132)]	勝者 → 승자	1388	12766b638c0e4e2ead4f5bb2b22effcab6bae75fbc655441df9047720ad198f3	fbf6b830d34156ce7001e6039d19648c61ec492c993507c493a4fb06af621cc3
+

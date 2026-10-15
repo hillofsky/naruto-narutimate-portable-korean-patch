@@ -25,3 +25,7 @@ KNOWN_ISSUES.md의 최신 런타임 확인부터 수행하고, 전체 플레이/
 
 ## 출처
 ChatGPT 대화: 나루토 번역 분석 계속 SUB, SUB2, 브랜치 · 나루토 번역 분석 계속 SUB2, 나루토 번역 분석 계속. Codex SUB39~42 작업과 로컬 SUB51D/N/P 검증 보고서를 대조했습니다. 공개 문서에 채팅 전체나 개인 세이브는 포함하지 않았습니다. 구형 OpenCode 인계 문서의 SUB51D 해시에는 오타가 있어 실제 JSON 보고서 값을 우선했습니다.
+
+## SUB52 후속 인계 (2026-10-15)
+
+최신 조사 결과와 재현 범위는 [SUB52_PROGRESS.md](SUB52_PROGRESS.md)를 우선 확인하세요. 채팅 첨부 SUB52V charsel discovery와 로컬 SUB52V cleanup은 서로 다른 작업입니다. SUB52W는 읽기 전용 구조 조사이며 이름 UV 확인 전 이미지 수정은 아직 수행되지 않았습니다.

@@ -69,3 +69,7 @@ PPSSPP에서 결과 ISO를 새로 실행하고 일반 저장 데이터를 불러
 [한국어 기여 안내](docs/CONTRIBUTING_ko.md)를 참고해 번역·화면 제보를 보내주세요. 번역과 수정은 hillofsky의 프로젝트 작업 및 ChatGPT/Codex 지원으로 진행했습니다. 게임·공식 이미지·음원 등의 권리는 각 권리자에게 있습니다. 공식 배포나 공식 번역판이 아닙니다.
 
 문서 구성은 [무쌍 오로치 2 Special 한국어화 저장소](https://github.com/hillofsky/musou-orochi-2-special-korean-patch)를 참고했습니다.
+
+## 후속 개발 기록 (2026-10-15)
+
+[나루토 번역 분석 계속2의 SUB52 작업](docs/SUB52_PROGRESS.md)을 추가했습니다. 중간 결과 정리와 캐릭터 선택 화면 구조 조사 기록이며, 이름 겹침은 아직 미해결입니다. 기존 v0.1.0 다운로드 패치는 SUB51P FIX13 그대로입니다.

@@ -1,0 +1,16 @@
+{
+  "mode": "Apply",
+  "startFree": 64586452992,
+  "endFree": 105964990464,
+  "candidateCount": 21,
+  "deletedCount": 21,
+  "deletedBytes": 41378519040,
+  "errors": [],
+  "warnings": [],
+  "baselineSHA256": "c702a4545cd7fae73f7545f1892fc99b164de2ee884a9c2b30286f11291bf21d",
+  "protectedIsos": [
+    "D:\\narutimate portable\\analysis\\sub\\sub52t_gauge_hud_compact\\Naruto_KR_MOV06E_SUB52T_GaugeHUD_Compact.iso",
+    "D:\\narutimate portable\\analysis\\sub\\sub52u_hud_remaining\\Naruto_KR_MOV06E_SUB52U_HUDRemaining_Compact.iso"
+  ],
+  "fatal": null
+}

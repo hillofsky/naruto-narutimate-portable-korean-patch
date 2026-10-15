@@ -1,0 +1,9 @@
+SUB52W READ-ONLY STRUCTURAL AUDIT
+Status: PASS
+ISO: ISO9660_PASS
+Source files containing keywords: 125
+Copied source scripts: 18
+Copied small binary samples: 2
+Source game files unchanged; no PPSSPP controlled.
+Next: analyze actual extraction scripts + index tables; map name UV rectangles before patch.
+

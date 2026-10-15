@@ -1,0 +1,18 @@
+{
+  "stage": "SUB52V",
+  "purpose": "char selection name atlas mapping",
+  "status": "PASS",
+  "timestamp": "2026-10-13T21:11:13.6123132+09:00",
+  "fatal": null,
+  "filesSeen": 65292,
+  "charselCCS": 0,
+  "targetImages": 203,
+  "sourceReferences": 49,
+  "copiedFiles": 24,
+  "copiedBytes": 534353,
+  "warnings": 1,
+  "isoModified": false,
+  "emulatorControlled": false,
+  "previousStage": "SUB52U",
+  "next": "Locate exact charsel1.ccs/TEX_sel texture+UI masks; design no-overlap atlas patch"
+}

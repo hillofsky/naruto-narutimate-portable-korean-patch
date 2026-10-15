@@ -1,0 +1,5 @@
+SUB52U read-only character select investigation
+Visual overlapping names remain NOT FIXED. PNGs show packed shared assets only;
+no unproven UV/overlay changes applied.
+Extracted texture PNG count: 6
+
