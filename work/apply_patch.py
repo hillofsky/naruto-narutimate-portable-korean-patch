@@ -22,11 +22,13 @@ def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('--source', type=Path, required=True)
     p.add_argument('--output', type=Path, required=True)
-    p.add_argument('--patch', type=Path, default=ROOT / 'patch/naruto-korean-v0.1.0.xdelta')
+    p.add_argument('--patch', type=Path, help='Defaults to the patch filename next to the manifest')
     p.add_argument('--manifest', type=Path, default=ROOT / 'patch/manifest.json')
     p.add_argument('--xdelta', default='xdelta3')
     a = p.parse_args()
     m = json.loads(a.manifest.read_text(encoding='utf-8-sig'))
+    if a.patch is None:
+        a.patch = a.manifest.parent / m['patch_name']
     if a.output.exists():
         raise ValueError('Output already exists; choose a new filename.')
     for path, size_key, hash_key in [(a.source, 'source_size', 'source_sha256'),

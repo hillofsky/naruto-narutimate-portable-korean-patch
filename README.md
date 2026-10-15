@@ -73,3 +73,15 @@ PPSSPP에서 결과 ISO를 새로 실행하고 일반 저장 데이터를 불러
 ## 후속 개발 기록 (2026-10-15)
 
 [나루토 번역 분석 계속2의 SUB52 작업](docs/SUB52_PROGRESS.md)을 추가했습니다. 중간 결과 정리와 캐릭터 선택 화면 구조 조사 기록이며, 이름 겹침은 아직 미해결입니다. 기존 v0.1.0 다운로드 패치는 SUB51P FIX13 그대로입니다.
+
+## SUB52 사전 릴리즈 (2026-10-15)
+
+[v0.2.0-preview 다운로드](https://github.com/hillofsky/naruto-narutimate-portable-korean-patch/releases/tag/v0.2.0-preview)는 SUB52U HUDRemaining을 포함한 후속 개발 빌드입니다. 기존 v0.1.0은 그대로 유지합니다. 최신 개발판의 정적 QA는 빌드 보고서 기준 PASS이고, 패치 적용 후 결과 ISO SHA-256 일치를 확인했습니다. 게임 런타임 QA는 PENDING이며 캐릭터 선택 이름 겹침은 미해결입니다. SUB52V/W 조사 결과 자체가 추가 게임 수정인 것은 아닙니다.
+
+Release의 xdelta와 manifest.json을 `patch/sub52/`에 내려받아 적용하세요. 원본은 위에 기록한 동일한 한국판 ISO입니다. 이 패치는 원본에서 SUB52U까지 적용하는 누적 패치이므로 v0.1.0 결과 ISO 위에 적용하지 않습니다.
+
+```powershell
+python work/apply_patch.py --manifest patch/sub52/manifest.json --source "원본 한국판.iso" --output "Naruto_Korean_SUB52U.iso" --xdelta "xdelta3.exe"
+```
+
+결과 ISO는 4,292,155,392 bytes이며 4GiB까지 여유가 2,811,904 bytes입니다. 임시 출력과 결과 파일을 저장할 충분한 공간이 필요합니다. 실기 호환성/전체 플레이 검증은 기록되지 않았습니다.

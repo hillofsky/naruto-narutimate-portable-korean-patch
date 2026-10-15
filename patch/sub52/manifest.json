@@ -1,0 +1,19 @@
+{
+  "version": "v0.2.0-preview",
+  "build": "SUB52U_HUD_NAMES_COMPACT",
+  "game_id": "ULKS46086",
+  "source_name": "Naruto - Narutimate Portable - Muhwanseongui Gwon (Korea).iso",
+  "source_size": 634257408,
+  "source_sha256": "6510ad253aed3e4a20c87e36844ce5db8794e4daeca0c2e6ba38081dd26745a7",
+  "target_size": 4292155392,
+  "target_sha256": "3192c66bf22f2a21b03346e6549f3c6d01f1d7ac69ec91c645ff7ed6fb503e5f",
+  "patch_name": "naruto-korean-v0.2.0-preview-sub52u.xdelta",
+  "patch_size": 2032627872,
+  "patch_sha256": "95c27f782505405b4c2e4540359a88d8194a433732652b5fcfc8f81023945175",
+  "static_qa": "PASS_PER_BUILD_REPORT",
+  "runtime_qa": "PENDING",
+  "full_playthrough_qa": "NOT_RECORDED",
+  "character_select_name_overlap": "NOT_FIXED",
+  "note": "SUB52V/W are cleanup and read-only investigation; latest game build is SUB52U.",
+  "patch_roundtrip_qa": "PASS"
+}

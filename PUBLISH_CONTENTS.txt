@@ -48,6 +48,8 @@ docs/verification/sub52/sub52v_charsel_discovery/SUMMARY.txt
 docs/verification/sub52/sub52w_charsel_structural/RESULT.json
 docs/verification/sub52/sub52w_charsel_structural/SUMMARY.txt
 patch/manifest.json
+patch/sub52/SHA256SUMS.txt
+patch/sub52/manifest.json
 work/analysis/stage14/naruto_patcher.py
 work/analysis/stage15/stage15_iso_patcher.py
 work/analysis/stage24/build_stage24_clean.py
