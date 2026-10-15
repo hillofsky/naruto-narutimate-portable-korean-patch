@@ -563,7 +563,7 @@ def main():
     extract(current,'PSP_GAME/USRDIR/naruto.idx',idx)
     cur_tab=m.parse_pidx(m.read_embedded_index(cur_dat),'fix3')
     prev_tab=m.parse_pidx(m.read_embedded_index(prev_dat),'base')
-    
+
     print('[3/8] Export targeted before/after diagnostic PNGs',flush=True)
     evidence=dump_static_evidence(cur_dat,cur_tab,prev_dat,prev_tab,m,out)
 

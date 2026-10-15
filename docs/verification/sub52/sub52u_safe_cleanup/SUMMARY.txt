@@ -1,11 +1,11 @@
 NARUTO PSP SUB52U CLEANUP
-Timestamp: 
+Timestamp:
 2026-10-13T21:04:41.1878887+09:00
-Mode: 
+Mode:
 Apply
-Protected SUB52T: 
+Protected SUB52T:
 ${PROJECT_ROOT}\analysis\sub\sub52t_gauge_hud_compact\Naruto_KR_MOV06E_SUB52T_GaugeHUD_Compact.iso
-Protected SUB52U: 
+Protected SUB52U:
 ${PROJECT_ROOT}\analysis\sub\sub52u_hud_remaining\Naruto_KR_MOV06E_SUB52U_HUDRemaining_Compact.iso
 Protected SUB52N: all sub52n* folders
 All original ISO/save/PMF/assets/code/logs retained
@@ -25,4 +25,3 @@ Rule: only recognized, stale older-stage Korean patch ISO files and incomplete I
 Rule: protected checkpoints, original games, state, saves, logs, code and assets are never deleted.
 Rule: when any PPSSPP instance is running or cannot be enumerated, ISO deletion is skipped.
 NEXT: attach the generated result ZIP to ChatGPT.
-
