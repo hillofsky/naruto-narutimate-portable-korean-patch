@@ -85,3 +85,7 @@ python work/apply_patch.py --manifest patch/sub52/manifest.json --source "원본
 ```
 
 결과 ISO는 4,292,155,392 bytes이며 4GiB까지 여유가 2,811,904 bytes입니다. 임시 출력과 결과 파일을 저장할 충분한 공간이 필요합니다. 실기 호환성/전체 플레이 검증은 기록되지 않았습니다.
+
+## Codex 세션에서 이어가기
+
+[현재 상태](PROJECT_STATE.md) → [세션 인계](HANDOFF.md) → [운영 절차](docs/OPERATIONS.md)를 확인하세요. 저장소만으로 가능한 점검은 `python tools/check_resume.py`입니다. 전체 개발 재빌드 가능 여부와 게임 QA는 별도입니다.

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "inspected_commit": "c9282611741fa55963fae36697168c1e3202ad08",
+  "verified_this_session": "Repository file integrity only; no ISO, patch decode or runtime verification",
+  "files": {
+    "patch/manifest.json": "5785e329aa62c3fbab0ba3338a160775628d3d1ab4c771c2ec7780cf77ba0873",
+    "patch/sub52/manifest.json": "9564e30f4f54fea44741fe99af9797978191d19245649b4b2dd02eba960da173",
+    "docs/AI_HANDOFF.md": "951d854456877fdfc5520d8658296b2f1e3768eb2e88c6cb5dd7fdba3ba3f12b",
+    "docs/SUB52_PROGRESS.md": "13e70da486da5c22d98542ad5668ccf494be3fd0ae312d31963204c0f632f5bd",
+    "work/apply_patch.py": "930b660f60df82e826e4412a01389005dee6bdce576b84c6992d4e003adb69ee"
+  }
+}
