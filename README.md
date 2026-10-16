@@ -93,3 +93,5 @@ python work/apply_patch.py --manifest patch/sub52/manifest.json --source "원본
 개발 재개 도구와 지원 범위는 [개발 안내](docs/DEVELOPMENT.md)를 참고하세요.
 
 과거 분석과 실패 기록은 [작업 이력 탐색](docs/HISTORY_INDEX.md)과 [지식 정리](docs/KNOWLEDGE_LEDGER.md)를 참고하세요.
+
+[공개 릴리즈에서 최종 ISO 복원 검증](docs/RESTORE_VERIFICATION.md)을 확인했습니다.

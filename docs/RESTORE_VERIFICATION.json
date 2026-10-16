@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-16",
+  "verification": {
+    "repository": "naruto-narutimate-portable-korean-patch",
+    "commit": "d6c170d29f64dde12a24b240f8fd4dfedfb8f2ca",
+    "release": "https://github.com/hillofsky/naruto-narutimate-portable-korean-patch/releases/tag/v0.2.0-preview",
+    "remote_manifest_matches_repository": true,
+    "source_sha256": "6510ad253aed3e4a20c87e36844ce5db8794e4daeca0c2e6ba38081dd26745a7",
+    "downloaded_patch_sha256": "95c27f782505405b4c2e4540359a88d8194a433732652b5fcfc8f81023945175",
+    "restored_iso_size": 4292155392,
+    "restored_iso_sha256": "3192c66bf22f2a21b03346e6549f3c6d01f1d7ac69ec91c645ff7ed6fb503e5f",
+    "fresh_clone_integrity": "PASS",
+    "restored_iso_development_inspect": "PASS",
+    "runtime_qa": "NOT_RUN"
+  },
+  "scope": "Fresh public clone and fresh public release downloads; original ISO supplied locally. No prior final ISO or historical private build input used. Runtime not tested."
+}
