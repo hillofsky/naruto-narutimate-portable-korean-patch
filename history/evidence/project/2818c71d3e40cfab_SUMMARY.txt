@@ -1,0 +1,10 @@
+Naruto PSP SUB31 - Full Semantic Translation Review Bundle
+
+Rows=1976
+AllRowsRequireSemanticReview=YES
+OCRIsReferenceOnly=YES
+SourceCounts={"JP_EN_DIRECT_DRAFT": 304, "OCR_REUSE_DRAFT": 1554, "OCR_REUSE_TECH_FIX_DRAFT": 3, "TOPOLOGY_REWRITE_DRAFT": 115}
+PacketSize=200
+PacketCount=10
+
+No game files were modified.

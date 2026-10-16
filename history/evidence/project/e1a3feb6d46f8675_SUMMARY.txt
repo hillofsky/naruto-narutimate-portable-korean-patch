@@ -1,0 +1,21 @@
+Naruto PSP MOV03M FIX1 - Sector-aligned lossless hybrid PMFs
+================================================================================
+
+PASS=10/10
+FAIL=0/10
+
+Method:
+  preserve US 2048-byte sector positions and pack headers/SCR
+  transplant KR post-pack audio sector payload
+  convert US-only audio sector to MPEG padding_stream
+
+Required validation:
+  hybrid concatenated audio PES SHA == KR
+  hybrid ATRAC3+ SHA == KR
+  hybrid video PES SHA == US
+  hybrid audio PES count == KR
+  PMF size == US
+  FFmpeg ATRAC3+ decode == PASS
+
+BATCH RESULT=PASS
+Output: PROJECT_ROOT\analysis\mov\mov03m_batch_hybrid\output

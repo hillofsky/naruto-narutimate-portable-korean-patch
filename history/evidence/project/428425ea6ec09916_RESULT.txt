@@ -1,0 +1,6 @@
+Naruto SUB52Q FIX2 — read-only texture history audit
+Existing PNGs are historical; no candidate proves current runtime loading.
+Game ID: ULKS46086
+Classification: EXISTING_NARUTO_TEXTURE_CANDIDATES_EXTRACTED
+Naruto game PNGs: 2308
+Candidate ranking requires manual validation.

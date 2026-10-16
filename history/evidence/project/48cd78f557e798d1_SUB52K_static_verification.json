@@ -1,0 +1,17 @@
+{
+  "stage": "SUB52K_FACE_NAME_TRANSLATION",
+  "source_iso": "PROJECT_ROOT\\analysis\\sub\\sub52j_safe_atlas\\Naruto_KR_MOV06E_SUB52J_SafeAtlas.iso",
+  "source_sha256": "2e6cb2e577ddeebe07453ec56f07f72422a6b3b20001987c253a5468658f5a05",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub52k_face_names\\Naruto_KR_MOV06E_SUB52K_FaceNames.iso",
+  "final_iso_size": 4759830528,
+  "final_iso_sha256": "e240529895e2abef3d239cdb9d70aa9d1c05a06a97e883921c9dde2a39e93fb3",
+  "resources_changed": 23,
+  "textures_changed": 46,
+  "translated_texture_assets": 46,
+  "pmfs_preserved": 24,
+  "static_qa": "PASS",
+  "character_name_textures": 46,
+  "character_name_resource_files": 23,
+  "protected_sub52j_preserved": true,
+  "runtime_qa": "PENDING_FINAL_QA"
+}

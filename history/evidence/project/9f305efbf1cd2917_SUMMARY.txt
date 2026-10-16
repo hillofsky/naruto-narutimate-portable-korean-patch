@@ -1,0 +1,21 @@
+Naruto PSP MOV05C - dk101 independent internal-video mapper
+================================================================================
+
+KR dk101 duration: 116.249 sec
+Stage37 search source: PROJECT_ROOT\analysis\stage37\video\source_video.mp4
+Stage37 search horizon: first 180.0 sec
+Detected KR internal segments: 4
+HIGH mappings: 4
+MEDIUM mappings: 0
+LOW/failed mappings: 0
+Segments with likely Stage37 tail/outro leakage: 0
+
+Important:
+  Every segment was matched independently.
+  No global +0.700/+0.250 timeline assumption is used.
+  predicted source end is compared against real Stage37 scene/black boundaries.
+  tail_risk=YES means the Stage37 clip appears to end before the KR segment does.
+
+Next build should use segment_map.tsv and never copy pixels beyond each
+segment's approved source end. Any unmatched remainder can fall back to
+the KR original visual rather than exposing YouTube outro/tail frames.

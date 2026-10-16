@@ -1,0 +1,61 @@
+Naruto PSP MOV06D - final Stage37 remaining movie batch
+================================================================================
+
+RESULT=PASS
+
+Base mode=MOV05D_ISO
+
+MOV06C-proven continuous mappings:
+  da101 <- source_video.mp4 @ +2270.242 sec
+  da201 <- part2.mp4        @ +2667.250 sec
+  dk102 <- source_video.mp4 @ +7257.450 sec
+  dk202 <- part2.mp4        @ +2880.650 sec
+
+No time stretching.
+No piecewise edits.
+Each Stage37 source is trimmed once at normal speed.
+
+Audio for all four movies:
+  exact KR Japanese ATRAC3+ frames
+  exact KR logical 752-byte AU payload
+  exact KR audio PES count
+  exact KR PTS sequence
+
+Integrated ISO includes the validated MOV05D dk101 base.
+dk101 verification=PASS
+
+Accepted dk101 runtime note:
+  About 2-3 Stage37/YouTube tail frames remain at the end of
+  dk101 internal video 2. User explicitly accepted this artifact.
+
+da101:
+  bitrate=975/1500 kbps
+  PMF=4581376 bytes
+  allocation=4659200 bytes
+  spare=77824 bytes
+  strict validation=PASS
+
+da201:
+  bitrate=975/1500 kbps
+  PMF=7045120 bytes
+  allocation=7196672 bytes
+  spare=151552 bytes
+  strict validation=PASS
+
+dk102:
+  bitrate=1000/1550 kbps
+  PMF=42235904 bytes
+  allocation=42352640 bytes
+  spare=116736 bytes
+  strict validation=PASS
+
+dk202:
+  bitrate=975/1500 kbps
+  PMF=42604544 bytes
+  allocation=43497472 bytes
+  spare=892928 bytes
+  strict validation=PASS
+
+Final integrated ISO=PROJECT_ROOT\analysis\mov\mov06d_remaining_final_batch\output\Naruto_KR_MOV06D_AllTranslatedMovies.iso
+
+Wrapper will auto-launch this ISO using the user-confirmed PPSSPP folder.

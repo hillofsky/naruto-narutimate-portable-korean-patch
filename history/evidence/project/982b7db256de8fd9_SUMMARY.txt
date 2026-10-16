@@ -1,0 +1,18 @@
+Naruto PSP MOV03O - KR -> US subtitle timeline alignment
+================================================================================
+
+Movies aligned=10/10
+Subtitle segments=159
+Frame anchors=477 (start/rep/end)
+Search radius=+/-3.0s
+Poor-match threshold MAD>24.0
+Poor anchors=0/477
+Global MAD median=0.140625
+Global MAD max=21.984375
+
+Output subtitle_segments_us_timing.tsv contains BOTH:
+  original KR timing
+  mapped US clean-video timing
+
+Next step after reviewing this alignment:
+  Japanese transcription + Korean translation using exact MOV03N PNG crops.

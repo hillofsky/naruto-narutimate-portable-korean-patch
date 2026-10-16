@@ -1,0 +1,29 @@
+Naruto PSP MOV03F - PMF slot pointer table + AT3 adjacency analysis
+============================================================================
+
+BOOT size=6170192
+PSP runtime base=0x08804000
+ELF entry=0x002B3520
+Runtime entry=0x08AB7520
+GP candidates=0
+PMF full-path slots found=23/23
+PMF slot raw pointer xrefs=37
+DM movies with raw pointer xrefs=10/10: dm001,dm002,dm003,dm004,dm005,dm006,dm007,dm008,dm009,dm010
+PMF pointer clusters=12
+AT3 strings found=86
+AT3 raw pointer xrefs=127
+PMF<->AT3 nearby pointer rows=0
+Unique direct-neighborhood movie/audio pairs=0
+LUI address xrefs=4
+GP-relative xrefs=0
+
+Key files:
+- movie_slot_pointer_xrefs.tsv: all grounded pointers to complete PMF path slots.
+- movie_pointer_clusters.tsv: secondary data-table candidates.
+- movie_at3_pointer_adjacency.tsv: AT3 pointers within +/-0x100 of PMF pointer records.
+- gp_relative_xrefs.tsv / code_lui_xrefs.tsv: grounded executable code references.
+- movie_pointer_context.txt: annotated words around every PMF pointer record.
+- grounded_code_context.txt: MIPS context around code xrefs.
+
+No adjacency entry by itself proves synchronized playback; a direct mapping
+requires a coherent record/table structure or code path using both fields.

@@ -1,0 +1,16 @@
+{
+  "stage": "SUB10_FIX2",
+  "final_hangul": 694,
+  "fixed_stage36r": 10,
+  "new_strict_allocations": 684,
+  "strict_all_3600": 987,
+  "strict_standard_0_3428": 980,
+  "usable_after_fixed": 970,
+  "unused_after_allocation": 286,
+  "reclaim_allocations": 0,
+  "special_region_allocations": 0,
+  "mapping_sha256": "9c73cdb33eb812a813c78cfb5efcad80838322ab5a4da90c91eb3db6aaca056c",
+  "shared_mapping_sha256": "9c73cdb33eb812a813c78cfb5efcad80838322ab5a4da90c91eb3db6aaca056c",
+  "source_slot_inventory_sha256": "4ab59f2fe26a513e829f60cc92910e32903e46a378a59a86682993760f1e92ff",
+  "source_stage36r_mapping_sha256": "96a88f9adeb37f5a3fd034a93e5c1c1d7316ce419cd2aa481df9737da8058f64"
+}

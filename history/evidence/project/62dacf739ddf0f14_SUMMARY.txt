@@ -1,0 +1,13 @@
+Naruto PSP SUB32-5 - Semantic Review 0801-1000
+
+RowsReviewed=200
+ChangedRows=82
+RetainedRows=118
+ControlExactRows=200
+ControlMismatches=0
+NewHangulRequired=0
+OCRAuthoritative=NO
+JapanesePrimary=YES
+EnglishSecondary=YES
+
+No game files were modified.

@@ -1,0 +1,1060 @@
+{
+  "001__TEX_n_gar_l__256x64__0x14.png": {
+    "resource": "face_gar.ccs",
+    "texture": "TEX_n_gar_l",
+    "translation": "사막의 가아라",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "432ce74fcb5d94634758cd4cd3a12e186a880fb7dfe935af1f0bef32e82e8bbe",
+    "png_sha256": "f494cc954d6e2da9169ec09ac6c574827fc1c4ac8ee5ed9e397b0cbdf6e51964",
+    "original_bounds": [
+      1,
+      3,
+      248,
+      46
+    ],
+    "render_bounds": [
+      1,
+      3,
+      225,
+      46
+    ],
+    "font_size": 38,
+    "type": "0x14"
+  },
+  "002__TEX_n_gar_s__128x32__0x13.png": {
+    "resource": "face_gar.ccs",
+    "texture": "TEX_n_gar_s",
+    "translation": "가아라",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "59cc4c75728f822484ade60e6ebda86de5a95108ebe10e5bf3868da9b696941a",
+    "png_sha256": "2b7c7767b45d52ebeb49f366ea725418fe638fa9637fe7d8720054c41c2960f0",
+    "original_bounds": [
+      1,
+      2,
+      93,
+      32
+    ],
+    "render_bounds": [
+      1,
+      2,
+      68,
+      29
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "001__TEX_n_guy_l__256x64__0x14.png": {
+    "resource": "face_guy.ccs",
+    "texture": "TEX_n_guy_l",
+    "translation": "마이트 가이",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "2c96e5f9a17534033b44524e4d7400bb331a60f4dc205a1ac4adc29d26e9b026",
+    "png_sha256": "448df40bf321bb27140635c8b5464c3ca3f97bef2915e0df4ae050ce52d434d5",
+    "original_bounds": [
+      1,
+      1,
+      217,
+      45
+    ],
+    "render_bounds": [
+      3,
+      1,
+      191,
+      45
+    ],
+    "font_size": 39,
+    "type": "0x14"
+  },
+  "002__TEX_n_guy_s__64x32__0x13.png": {
+    "resource": "face_guy.ccs",
+    "texture": "TEX_n_guy_s",
+    "translation": "가이",
+    "width": 64,
+    "height": 32,
+    "original_sha256": "6dca9ce1ddd697a1759822fbb1c6db1def67819f7d9668ec3790d8e54c76042f",
+    "png_sha256": "10d88f32099e251166ab2fdb0dc775514b446e6253f1ff9852efe3a1c4198940",
+    "original_bounds": [
+      1,
+      0,
+      63,
+      31
+    ],
+    "render_bounds": [
+      1,
+      0,
+      45,
+      27
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "001__TEX_n_hkg_l__256x64__0x14.png": {
+    "resource": "face_hkg.ccs",
+    "texture": "TEX_n_hkg_l",
+    "translation": "3대 호카게",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "6565ff4bc166f802dc5380b2576b757c00c7dc46b814fe310efcbef8fdd76873",
+    "png_sha256": "a09c621f5b053c81c90b47e9ca5a731df731682509618effc2cb1d69a443b3e8",
+    "original_bounds": [
+      2,
+      3,
+      215,
+      46
+    ],
+    "render_bounds": [
+      3,
+      3,
+      176,
+      46
+    ],
+    "font_size": 38,
+    "type": "0x14"
+  },
+  "002__TEX_n_hkg_s__256x32__0x13.png": {
+    "resource": "face_hkg.ccs",
+    "texture": "TEX_n_hkg_s",
+    "translation": "3대 호카게",
+    "width": 256,
+    "height": 32,
+    "original_sha256": "c5fd7166a68f10089981547f30aad7e0b7d21c2ae60f0922d43ef745f748b767",
+    "png_sha256": "554aad1d963e1795c32af2ebcda518400c0f87ffe986da83f90181e76a377db1",
+    "original_bounds": [
+      1,
+      2,
+      137,
+      32
+    ],
+    "render_bounds": [
+      1,
+      2,
+      107,
+      29
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "001__TEX_n_hnt_l__256x64__0x14.png": {
+    "resource": "face_hnt.ccs",
+    "texture": "TEX_n_hnt_l",
+    "translation": "휴우가 히나타",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "3306c3206e33e858257c137571020754d8637b43878f6a5a52c49107457a6bf5",
+    "png_sha256": "6b9c58e5375acc39a4a1ed1ffc650cf61454a9b3a47ce533faf47aaf56fbb254",
+    "original_bounds": [
+      3,
+      3,
+      206,
+      46
+    ],
+    "render_bounds": [
+      4,
+      3,
+      204,
+      43
+    ],
+    "font_size": 34,
+    "type": "0x14"
+  },
+  "002__TEX_n_hnt_s__128x32__0x13.png": {
+    "resource": "face_hnt.ccs",
+    "texture": "TEX_n_hnt_s",
+    "translation": "히나타",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "fab5cb07de2da2f5aafcd8106fec0136242808804de0216031a4e4ea39a9cb8d",
+    "png_sha256": "18ac3802428abade1e60aa44fe914b44c2ac95a4c81d3e3fcccfa5ee094c6ad7",
+    "original_bounds": [
+      1,
+      2,
+      93,
+      32
+    ],
+    "render_bounds": [
+      2,
+      2,
+      68,
+      29
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "001__TEX_n_ino_l__256x64__0x14.png": {
+    "resource": "face_ino.ccs",
+    "texture": "TEX_n_ino_l",
+    "translation": "야마나카 이노",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "6187641edf8e78398a6e9cbd9f42c5b61b80468f8b4113d83380a8dfed5b21d6",
+    "png_sha256": "bb55721d462d539b7384d3714ce4e41f46f82560d2a092afad69e4793cdf58c0",
+    "original_bounds": [
+      2,
+      3,
+      170,
+      45
+    ],
+    "render_bounds": [
+      3,
+      3,
+      191,
+      41
+    ],
+    "font_size": 32,
+    "type": "0x14"
+  },
+  "002__TEX_n_ino_s__64x32__0x13.png": {
+    "resource": "face_ino.ccs",
+    "texture": "TEX_n_ino_s",
+    "translation": "이노",
+    "width": 64,
+    "height": 32,
+    "original_sha256": "2724c7fd72b3a3dc4793228ee97b4392a934e35ad977d1b5f891f69d0258e25d",
+    "png_sha256": "a2c818958e5a11cd3c2018501cf55b261c424fd126b2e72bff82ab6f664f5df7",
+    "original_bounds": [
+      1,
+      3,
+      63,
+      31
+    ],
+    "render_bounds": [
+      2,
+      3,
+      47,
+      30
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "001__TEX_n_itc_l__256x64__0x14.png": {
+    "resource": "face_itc.ccs",
+    "texture": "TEX_n_itc_l",
+    "translation": "우치하 이타치",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "36a54384ddf3ebe083e21516f28e7c2fcd8c29c1f9a6aa38683ce3dce9daee04",
+    "png_sha256": "1cc94f43c8d3d5030c8584cecd262bb10f66dc86c2bb96a93e29a0350815dcd6",
+    "original_bounds": [
+      2,
+      3,
+      236,
+      46
+    ],
+    "render_bounds": [
+      3,
+      3,
+      222,
+      46
+    ],
+    "font_size": 38,
+    "type": "0x14"
+  },
+  "002__TEX_n_itc_s__128x32__0x13.png": {
+    "resource": "face_itc.ccs",
+    "texture": "TEX_n_itc_s",
+    "translation": "이타치",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "b116eb5dec1e34c694c2230cae90eb8123ab5e6a648cc9dfb157beb9c7e3c611",
+    "png_sha256": "4c5d02d87b6f46091577a5bec6689496eb17ea5807134c7223ae5926b56a5f22",
+    "original_bounds": [
+      1,
+      1,
+      93,
+      32
+    ],
+    "render_bounds": [
+      2,
+      1,
+      66,
+      28
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "001__TEX_n_jry_l__128x64__0x14.png": {
+    "resource": "face_jry.ccs",
+    "texture": "TEX_n_jry_l",
+    "translation": "지라이야",
+    "width": 128,
+    "height": 64,
+    "original_sha256": "8b3a7c1ddd63599ddf3d0214afb71c3162803e0ad9cef5748da539b203a0159f",
+    "png_sha256": "d71f80ad2a170618ebcef427c83da80c4ed5c73d030c6a8bb539ebd6db242e31",
+    "original_bounds": [
+      2,
+      3,
+      127,
+      46
+    ],
+    "render_bounds": [
+      3,
+      3,
+      122,
+      40
+    ],
+    "font_size": 31,
+    "type": "0x14"
+  },
+  "002__TEX_n_jry_s__128x32__0x13.png": {
+    "resource": "face_jry.ccs",
+    "texture": "TEX_n_jry_s",
+    "translation": "지라이야",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "d63b14edf6777849b6db87ab554f9dd2d66a9ac5f4ee9254abd275f92cae825e",
+    "png_sha256": "b880b4ff1464c0e05d6f4f34d38045c4c89f1cfe27263af29cdeb4c779cb2ed9",
+    "original_bounds": [
+      1,
+      1,
+      93,
+      31
+    ],
+    "render_bounds": [
+      1,
+      1,
+      89,
+      28
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "001__TEX_n_kbt_l__256x64__0x14.png": {
+    "resource": "face_kbt.ccs",
+    "texture": "TEX_n_kbt_l",
+    "translation": "야쿠시 카부토",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "6f539f8f7009896834363a29f69a05e63ff283de286469cfcc10e414dd8ca180",
+    "png_sha256": "bf0c91c6d69218c6d9a6aacc6300eab3177c5be517b32061113d00fc0d8a0beb",
+    "original_bounds": [
+      2,
+      1,
+      200,
+      45
+    ],
+    "render_bounds": [
+      3,
+      1,
+      197,
+      40
+    ],
+    "font_size": 33,
+    "type": "0x14"
+  },
+  "002__TEX_n_kbt_s__128x32__0x13.png": {
+    "resource": "face_kbt.ccs",
+    "texture": "TEX_n_kbt_s",
+    "translation": "카부토",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "fb12aaa839e1e9de30d34747cf142c635d91dcc6c6847079153a20ef95df58f3",
+    "png_sha256": "2443ae6001e37d948c7956ad7e33e6a3551ecd0bdd7fce65b5d65b72e3fef554",
+    "original_bounds": [
+      1,
+      0,
+      93,
+      31
+    ],
+    "render_bounds": [
+      1,
+      0,
+      68,
+      27
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "001__TEX_n_kib_l__256x64__0x14.png": {
+    "resource": "face_kib.ccs",
+    "texture": "TEX_n_kib_l",
+    "translation": "이누즈카 키바",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "5f3ad3236dabcafee88b7040a122b113da970657a098f78eb5d7b77b16dcb12b",
+    "png_sha256": "32d8e5d6b86f168e52b4de2c1bc4a7d26d5f02a03a35ee728746b13fc9e624de",
+    "original_bounds": [
+      2,
+      1,
+      170,
+      46
+    ],
+    "render_bounds": [
+      4,
+      1,
+      191,
+      39
+    ],
+    "font_size": 32,
+    "type": "0x14"
+  },
+  "002__TEX_n_kib_s__64x32__0x13.png": {
+    "resource": "face_kib.ccs",
+    "texture": "TEX_n_kib_s",
+    "translation": "키바",
+    "width": 64,
+    "height": 32,
+    "original_sha256": "b9b57782de9d40aa9db323cdfdcfa8c5d9968186b1fbb6374d20151865ab0544",
+    "png_sha256": "82e1bc8a2abbea8202bc92ee2c6a854530056b0a7cb9c78099946713b5f11c5a",
+    "original_bounds": [
+      1,
+      0,
+      63,
+      31
+    ],
+    "render_bounds": [
+      2,
+      0,
+      47,
+      27
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "001__TEX_n_kks_l__256x64__0x14.png": {
+    "resource": "face_kks.ccs",
+    "texture": "TEX_n_kks_l",
+    "translation": "하타케 카카시",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "d26b715c084c5f2f4b28c13e70ce0848960402fdab2679c51bc2c2a76c96f875",
+    "png_sha256": "5d64a41d3aa186c859085555f737cb4766b5e74776e9cb621889e98ff1f53fce",
+    "original_bounds": [
+      3,
+      3,
+      238,
+      45
+    ],
+    "render_bounds": [
+      4,
+      3,
+      213,
+      45
+    ],
+    "font_size": 36,
+    "type": "0x14"
+  },
+  "002__TEX_n_kks_s__128x32__0x13.png": {
+    "resource": "face_kks.ccs",
+    "texture": "TEX_n_kks_s",
+    "translation": "카카시",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "1df3e27b373806e9b52bc14bd9c31fdd5187cd6cf437b30ad351dee1cf27a0bd",
+    "png_sha256": "e26ccd0b11385ea74096b0d7b6743031742682996ace7d470f72f955701e24c6",
+    "original_bounds": [
+      1,
+      2,
+      93,
+      31
+    ],
+    "render_bounds": [
+      1,
+      2,
+      66,
+      29
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "001__TEX_n_ksm_l__256x64__0x14.png": {
+    "resource": "face_ksm.ccs",
+    "texture": "TEX_n_ksm_l",
+    "translation": "호시가키 키사메",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "662332867ebddc244967b6b16215372f4e62ecc697bf8e0e7a43133b954e9e73",
+    "png_sha256": "45692f1b15f5f6fc9b6e28d4299633653e881c8572bbe41de98a9ddd77abeeb5",
+    "original_bounds": [
+      2,
+      3,
+      172,
+      46
+    ],
+    "render_bounds": [
+      3,
+      3,
+      186,
+      36
+    ],
+    "font_size": 27,
+    "type": "0x14"
+  },
+  "002__TEX_n_ksm_s__64x32__0x13.png": {
+    "resource": "face_ksm.ccs",
+    "texture": "TEX_n_ksm_s",
+    "translation": "키사메",
+    "width": 64,
+    "height": 32,
+    "original_sha256": "1c8136eeff4bf2cbc399dbef92e942a69590d80b569d874d34c6a02cb8e59a8f",
+    "png_sha256": "f44cf63dbb1c2d774cc1796891083bd6934d6b68863ac5c5eaa2d04f7f95d38d",
+    "original_bounds": [
+      1,
+      2,
+      63,
+      32
+    ],
+    "render_bounds": [
+      1,
+      2,
+      59,
+      26
+    ],
+    "font_size": 20,
+    "type": "0x13"
+  },
+  "000__TEX_n_nej_l__256x64__0x14.png": {
+    "resource": "face_nej.ccs",
+    "texture": "TEX_n_nej_l",
+    "translation": "휴우가 네지",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "6bf0d13ed78cd3c07a3cbcbc9d4e7542773f9752dc5432fa4e60ffd6f719be60",
+    "png_sha256": "508653838168db4d78648abb8f0182a0aa9cf8f0a52390e86ecede3e8ef5c8c8",
+    "original_bounds": [
+      3,
+      1,
+      173,
+      45
+    ],
+    "render_bounds": [
+      4,
+      1,
+      188,
+      44
+    ],
+    "font_size": 38,
+    "type": "0x14"
+  },
+  "001__TEX_n_nej_s__64x32__0x13.png": {
+    "resource": "face_nej.ccs",
+    "texture": "TEX_n_nej_s",
+    "translation": "네지",
+    "width": 64,
+    "height": 32,
+    "original_sha256": "4765c3d78b360e7878a4a7542791640c8c8c780b97b08d0b646b97e55786746e",
+    "png_sha256": "d2576b16320bf9f9075ce433dce8f7ee13c911646dec18c9ae8c5a149757950e",
+    "original_bounds": [
+      1,
+      0,
+      63,
+      31
+    ],
+    "render_bounds": [
+      2,
+      0,
+      45,
+      27
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "000__TEX_n_nrt_l__256x64__0x14.png": {
+    "resource": "face_nrt.ccs",
+    "texture": "TEX_n_nrt_l",
+    "translation": "우즈마키 나루토",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "65f37982d8251115439b74f6656d614406f0ed25a7d4c7ae68ff7326f3d4db01",
+    "png_sha256": "37a0cc39f7f74fc4df4b7e1dda14f09a5fe1ca5037347d735427471df0576ea0",
+    "original_bounds": [
+      2,
+      3,
+      255,
+      46
+    ],
+    "render_bounds": [
+      3,
+      3,
+      247,
+      44
+    ],
+    "font_size": 36,
+    "type": "0x14"
+  },
+  "001__TEX_n_nrt_s__128x32__0x13.png": {
+    "resource": "face_nrt.ccs",
+    "texture": "TEX_n_nrt_s",
+    "translation": "나루토",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "356266001afb13d7e366dd653fc4bd4ce09b120db9052193e0f861092a2005e3",
+    "png_sha256": "2409ba0e7f19b7afee852cca305709792381c21af1a6be8798734abf5b76d92a",
+    "original_bounds": [
+      1,
+      1,
+      93,
+      32
+    ],
+    "render_bounds": [
+      2,
+      1,
+      68,
+      28
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "000__TEX_n_orc_l__128x64__0x14.png": {
+    "resource": "face_orc.ccs",
+    "texture": "TEX_n_orc_l",
+    "translation": "오로치마루",
+    "width": 128,
+    "height": 64,
+    "original_sha256": "a8b4ba8520041976d2b60ee0e448226e0b96bb76f7da933a2ef8f81d3719726c",
+    "png_sha256": "d6cf612724239e343ffdce60676837112fa8a251db9f76f7ba6df25b96c25bfd",
+    "original_bounds": [
+      2,
+      4,
+      127,
+      47
+    ],
+    "render_bounds": [
+      3,
+      4,
+      122,
+      35
+    ],
+    "font_size": 25,
+    "type": "0x14"
+  },
+  "001__TEX_n_orc_s__128x32__0x13.png": {
+    "resource": "face_orc.ccs",
+    "texture": "TEX_n_orc_s",
+    "translation": "오로치마루",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "2a52aebfc32487ed60cdd861f5c627bf0644290b985d198785a5be2434344599",
+    "png_sha256": "1ac27d2ddbbd8e18a08c723c6ed7052f5d08d9a59caa098fd678b0eb3b8356a5",
+    "original_bounds": [
+      1,
+      1,
+      93,
+      32
+    ],
+    "render_bounds": [
+      1,
+      1,
+      101,
+      26
+    ],
+    "font_size": 21,
+    "type": "0x13"
+  },
+  "000__TEX_n_roc_l__256x64__0x14.png": {
+    "resource": "face_roc.ccs",
+    "texture": "TEX_n_roc_l",
+    "translation": "록 리",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "e1869d92be73c1abf18c06c6d9f8758dd8cedbfe99036846e66c7f3f47f408d8",
+    "png_sha256": "e4f0fad2181c0c6f0244153d1ee98e2cc643a2422915959e6c8155831dc02eb8",
+    "original_bounds": [
+      2,
+      3,
+      217,
+      45
+    ],
+    "render_bounds": [
+      3,
+      3,
+      81,
+      45
+    ],
+    "font_size": 37,
+    "type": "0x14"
+  },
+  "001__TEX_n_roc_s__64x32__0x13.png": {
+    "resource": "face_roc.ccs",
+    "texture": "TEX_n_roc_s",
+    "translation": "리",
+    "width": 64,
+    "height": 32,
+    "original_sha256": "1dced1b9a1d918a7b5673992867e7c16a2f381d3fa1e56abd6243fa0214b3d31",
+    "png_sha256": "64830c26368b9e7cf26527915e194cf3c55a87d36db97d53fd47f627eaf41a43",
+    "original_bounds": [
+      1,
+      2,
+      63,
+      31
+    ],
+    "render_bounds": [
+      3,
+      2,
+      24,
+      29
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "000__TEX_n_sik_l__256x64__0x14.png": {
+    "resource": "face_sik.ccs",
+    "texture": "TEX_n_sik_l",
+    "translation": "나라 시카마루",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "9a35ef698efaed3369c3222ea822629be0ba08d45ca001c3437c19bbc12bd035",
+    "png_sha256": "1f8e709611828128c6d2953c2271ab4a8399b51d2e0d009826bce6f62182b706",
+    "original_bounds": [
+      2,
+      2,
+      241,
+      46
+    ],
+    "render_bounds": [
+      4,
+      2,
+      231,
+      46
+    ],
+    "font_size": 39,
+    "type": "0x14"
+  },
+  "001__TEX_n_sik_s__128x32__0x13.png": {
+    "resource": "face_sik.ccs",
+    "texture": "TEX_n_sik_s",
+    "translation": "시카마루",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "b621639daeab37aed8f37f813a486009fad8b486fcb7b77846f0f0c8fb9cf4c1",
+    "png_sha256": "322f9dfa15c934e26056171134f7595f2b49268caf5471c42de5f0372e3abf53",
+    "original_bounds": [
+      1,
+      2,
+      125,
+      31
+    ],
+    "render_bounds": [
+      1,
+      2,
+      89,
+      29
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "000__TEX_n_sin_l__256x64__0x14.png": {
+    "resource": "face_sin.ccs",
+    "texture": "TEX_n_sin_l",
+    "translation": "아부라메 시노",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "4469ae859220eb2f7831ed808a1025c644bd44548aaf5b237c4d82d2e15d9fd7",
+    "png_sha256": "9d77099f10e568cd400f1b2ef8ef077ff5c255b7aaf028cd66fe67f1ab6023ea",
+    "original_bounds": [
+      2,
+      2,
+      165,
+      46
+    ],
+    "render_bounds": [
+      3,
+      2,
+      191,
+      40
+    ],
+    "font_size": 32,
+    "type": "0x14"
+  },
+  "001__TEX_n_sin_s__64x32__0x13.png": {
+    "resource": "face_sin.ccs",
+    "texture": "TEX_n_sin_s",
+    "translation": "시노",
+    "width": 64,
+    "height": 32,
+    "original_sha256": "1b534a8983139a17abf13e4b0b793a18624b0ee18a3743f68a0404d19fb67838",
+    "png_sha256": "6d9578d74aa9a3b9195559a18a0372e27237e35c93cca8c1e50b049ca01d0ce5",
+    "original_bounds": [
+      1,
+      2,
+      63,
+      31
+    ],
+    "render_bounds": [
+      1,
+      2,
+      49,
+      29
+    ],
+    "font_size": 24,
+    "type": "0x13"
+  },
+  "000__TEX_n_skr_l__256x64__0x14.png": {
+    "resource": "face_skr.ccs",
+    "texture": "TEX_n_skr_l",
+    "translation": "하루노 사쿠라",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "1d3e7bc6ba5f0d1af2f8575da79d65f5f592f79a99f1d99ad623c96195750d71",
+    "png_sha256": "8300dc94b6ce6047b3affd54afa9e16ed3ba29fed4394bec0e34b4b61a69912e",
+    "original_bounds": [
+      2,
+      3,
+      208,
+      46
+    ],
+    "render_bounds": [
+      3,
+      3,
+      203,
+      43
+    ],
+    "font_size": 34,
+    "type": "0x14"
+  },
+  "001__TEX_n_skr_s__128x32__0x13.png": {
+    "resource": "face_skr.ccs",
+    "texture": "TEX_n_skr_s",
+    "translation": "사쿠라",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "d79588c96ae41c3f8ec214b6da46fbbb22fd2e5e5006277ac1c8f68164b6dd03",
+    "png_sha256": "bf64af6695ffa541d4de73b158be8ec94d2c081170116357d7cb5a965d9244ce",
+    "original_bounds": [
+      1,
+      2,
+      93,
+      31
+    ],
+    "render_bounds": [
+      1,
+      2,
+      68,
+      29
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "000__TEX_n_ssk_l__256x64__0x14.png": {
+    "resource": "face_ssk.ccs",
+    "texture": "TEX_n_ssk_l",
+    "translation": "우치하 사스케",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "6947be7367ed9042fcf511b1a57e42bcd589685027abb96e4424cac96d9673e7",
+    "png_sha256": "db41c706a497f29d06cb904a2ecfabdd249f57704bb70ff7706c7c952448ce94",
+    "original_bounds": [
+      2,
+      3,
+      239,
+      45
+    ],
+    "render_bounds": [
+      3,
+      3,
+      218,
+      45
+    ],
+    "font_size": 37,
+    "type": "0x14"
+  },
+  "001__TEX_n_ssk_s__128x32__0x13.png": {
+    "resource": "face_ssk.ccs",
+    "texture": "TEX_n_ssk_s",
+    "translation": "사스케",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "ba078e6bd9cee6db11984d04f78aee3508dd9cdac11310e43474c2534f86ff1f",
+    "png_sha256": "27aa1e444e2670629738b2328431b60ab144d9c839720070484da8541e884298",
+    "original_bounds": [
+      1,
+      2,
+      93,
+      31
+    ],
+    "render_bounds": [
+      1,
+      2,
+      67,
+      29
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "000__TEX_n_szn_l__128x64__0x14.png": {
+    "resource": "face_szn.ccs",
+    "texture": "TEX_n_szn_l",
+    "translation": "시즈네",
+    "width": 128,
+    "height": 64,
+    "original_sha256": "f0845ed58846d2c0462702037e4d14dc940f215e8d851115a1f715d5c8b77597",
+    "png_sha256": "abd3987acee9440e5af661c2be4aba53cadee98dd949354c72bb39a814dc06ca",
+    "original_bounds": [
+      2,
+      2,
+      127,
+      46
+    ],
+    "render_bounds": [
+      3,
+      2,
+      113,
+      46
+    ],
+    "font_size": 39,
+    "type": "0x14"
+  },
+  "001__TEX_n_szn_s__128x32__0x13.png": {
+    "resource": "face_szn.ccs",
+    "texture": "TEX_n_szn_s",
+    "translation": "시즈네",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "3b2aeaf9e6483497b573999a6d879bf36e83be7bb722979b112b5944c543e604",
+    "png_sha256": "9128d09777a740d3852b80aabc07ca4249634458cdaad7aac98c0d088be07e09",
+    "original_bounds": [
+      1,
+      0,
+      93,
+      31
+    ],
+    "render_bounds": [
+      1,
+      0,
+      67,
+      27
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  },
+  "000__TEX_n_ten_l__256x64__0x14.png": {
+    "resource": "face_ten.ccs",
+    "texture": "TEX_n_ten_l",
+    "translation": "텐텐",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "a1b1341f572f5b8bca8e0007191a6d5a4e75c9cd28594b1f2e5e4ce5d84cc49a",
+    "png_sha256": "4e561ae507cf87e06dd8639f7edc3f77674cc2addadb9a1b30990b0491f0fa43",
+    "original_bounds": [
+      2,
+      4,
+      164,
+      46
+    ],
+    "render_bounds": [
+      4,
+      4,
+      76,
+      46
+    ],
+    "font_size": 38,
+    "type": "0x14"
+  },
+  "001__TEX_n_ten_s__128x32__0x13.png": {
+    "resource": "face_ten.ccs",
+    "texture": "TEX_n_ten_s",
+    "translation": "텐텐",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "12d20b7167406898917af810eac08d3834ebbec5ecede4dd78df8e8adf176830",
+    "png_sha256": "f61af19b4fc426e34b2d38a1540bd4e4d39aba5f7496bcce5502305e1052b045",
+    "original_bounds": [
+      1,
+      2,
+      125,
+      32
+    ],
+    "render_bounds": [
+      2,
+      2,
+      48,
+      29
+    ],
+    "font_size": 24,
+    "type": "0x13"
+  },
+  "000__TEX_n_tnd_l__128x64__0x14.png": {
+    "resource": "face_tnd.ccs",
+    "texture": "TEX_n_tnd_l",
+    "translation": "츠나데",
+    "width": 128,
+    "height": 64,
+    "original_sha256": "cf1a2d305484a1799a1cb8a31e90393062c1676fcd589fb34088986fa91bdcec",
+    "png_sha256": "6d877a302eba676640fa02a911eb4feb2ccdd64d5879c8f637be52a1512a2569",
+    "original_bounds": [
+      2,
+      4,
+      89,
+      47
+    ],
+    "render_bounds": [
+      3,
+      4,
+      94,
+      42
+    ],
+    "font_size": 32,
+    "type": "0x14"
+  },
+  "001__TEX_n_tnd_s__64x32__0x13.png": {
+    "resource": "face_tnd.ccs",
+    "texture": "TEX_n_tnd_s",
+    "translation": "츠나데",
+    "width": 64,
+    "height": 32,
+    "original_sha256": "799f8f0521cba259008cb531e25e2fb8e9700b572cf19ad9d15c47dcb6df4f83",
+    "png_sha256": "ddd7acb4abfd1c42e3ddfe3b3dd9196e1ef2502beffcce0a6aa154410a67c51a",
+    "original_bounds": [
+      1,
+      2,
+      63,
+      32
+    ],
+    "render_bounds": [
+      1,
+      2,
+      59,
+      26
+    ],
+    "font_size": 20,
+    "type": "0x13"
+  },
+  "000__TEX_n_tyo_l__256x64__0x14.png": {
+    "resource": "face_tyo.ccs",
+    "texture": "TEX_n_tyo_l",
+    "translation": "아키미치 쵸지",
+    "width": 256,
+    "height": 64,
+    "original_sha256": "486970a8d81eb245aa08614d9fd0e3302e7f1cb6279ef3e2f71a2ae53367dc3e",
+    "png_sha256": "448cf23af81f9be7939a2108b71875936b13b14ad6358ca6030af3ed2cc2b63d",
+    "original_bounds": [
+      2,
+      1,
+      240,
+      46
+    ],
+    "render_bounds": [
+      3,
+      1,
+      234,
+      46
+    ],
+    "font_size": 40,
+    "type": "0x14"
+  },
+  "001__TEX_n_tyo_s__128x32__0x13.png": {
+    "resource": "face_tyo.ccs",
+    "texture": "TEX_n_tyo_s",
+    "translation": "쵸지",
+    "width": 128,
+    "height": 32,
+    "original_sha256": "e7e7d611374c08328e9507d770d6abf08ee8c11e712f1bb7633364c1716b7e03",
+    "png_sha256": "b6db2df74eef165938aa8190145bac2dd6910e3a15471aa9860495f55d52a71e",
+    "original_bounds": [
+      1,
+      0,
+      125,
+      32
+    ],
+    "render_bounds": [
+      1,
+      0,
+      45,
+      27
+    ],
+    "font_size": 23,
+    "type": "0x13"
+  }
+}

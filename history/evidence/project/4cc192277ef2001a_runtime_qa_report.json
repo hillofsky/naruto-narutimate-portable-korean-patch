@@ -1,0 +1,45 @@
+{
+  "stage": "SUB43_RUNTIME_MENU_QA",
+  "iso": "PROJECT_ROOT\\analysis\\sub\\sub43_menu_images\\Naruto_KR_MOV06E_SUB43_MenuImages.iso",
+  "iso_sha256": "9c565369ac5cf6ccf5fb2898577503a5cac43ab0aec297482ba76698eeba3433",
+  "targets": [
+    {
+      "target": "mode_select",
+      "status": "CAPTURED",
+      "file": "01_mode_select.png"
+    },
+    {
+      "target": "option",
+      "status": "CAPTURED",
+      "file": "02_option.png"
+    },
+    {
+      "target": "char_select",
+      "status": "CAPTURED",
+      "file": "03_char_select.png"
+    },
+    {
+      "target": "mugen_status",
+      "status": "CAPTURED",
+      "file": "04_mugen_status.png"
+    },
+    {
+      "target": "gauge_menu",
+      "status": "SKIPPED",
+      "file": ""
+    },
+    {
+      "target": "battle_setting",
+      "status": "CAPTURED",
+      "file": "06_battle_setting.png"
+    },
+    {
+      "target": "extra_problem",
+      "status": "CAPTURED",
+      "file": "07_extra_problem.png"
+    }
+  ],
+  "captured": 6,
+  "runtime_visual_review": "PENDING_CHATGPT_REVIEW",
+  "game_files_modified": false
+}

@@ -1,0 +1,15 @@
+Naruto PSP MOV04B - exact remaining subtitle timing
+================================================================================
+
+Movies processed=5/5
+Exact subtitle/text segments=235
+
+Targets established by MOV04A visual review:
+  da101 da201 dk101 dk102 dk202
+
+Detection:
+  bottom: KR-only exact 432x40 black-band glyph detector at 10 fps
+  dk202 center: locally aligned KR-vs-US ROI difference at 10 fps
+
+Next:
+  transcribe Japanese representative PNGs and translate to Korean.

@@ -1,0 +1,19 @@
+Naruto PSP MOV03T - final movie ISO installer
+================================================================================
+
+RESULT=PASS
+10/10 final PMFs installed into a COPY of the KR ISO.
+
+Safety:
+  Source KR ISO was not modified.
+  Existing file extents/LBAs were preserved.
+  Every replacement fit inside its original sector allocation.
+  ISO9660 file sizes were updated.
+  10/10 embedded file SHA256 values match MOV03S outputs.
+
+Source ISO size=634257408
+Output ISO size=634257408
+Output ISO=PROJECT_ROOT\analysis\mov\mov03t_iso_install\output\Naruto_KR_MOV03S_KoreanMovies.iso
+
+Next validation:
+  boot this ISO in PPSSPP and play one or more DM cutscenes.

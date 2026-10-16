@@ -1,0 +1,41 @@
+{
+  "stage": "SUB47_NETWORK_OPTION_HOME",
+  "source_iso_sha256": "d3db7466c1bd0df72e093e81f02fcc200a22e23ffc25ab7ce84307e9230d6c07",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub47_network_option_home\\Naruto_KR_MOV06E_SUB47_Network_Option_Home.iso",
+  "final_iso_size": 1164664832,
+  "final_iso_sha256": "8b04e816bf6d6b15b4ad5e288056e4fbe6261c2d5d882dd2e1b67594fbcb6951",
+  "text_patched": 36,
+  "text_skipped_unmapped": 3,
+  "text_skipped_too_long": 2,
+  "changed_resources": [
+    "network.ccs",
+    "option.ccs"
+  ],
+  "fsts_bundles_changed": [
+    "matchingroom"
+  ],
+  "texture_patches": [
+    {
+      "texture": "TEX_network",
+      "width": 256,
+      "height": 256,
+      "changed_pixels": 13398,
+      "resource": "network.ccs"
+    },
+    {
+      "texture": "TEX_option01",
+      "width": 512,
+      "height": 256,
+      "changed_pixels": 20766,
+      "resource": "option.ccs"
+    }
+  ],
+  "preserved_non_target_primary_resources": 642,
+  "preserved_non_target_fsts_members": 1,
+  "pmf_movies_preserved": 24,
+  "font_mapping_preserved": "694+17",
+  "new_glyphs_added": 0,
+  "compact_rebuild": true,
+  "static_qa": "PASS",
+  "runtime_qa": "REQUIRED"
+}

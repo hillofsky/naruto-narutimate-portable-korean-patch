@@ -1,0 +1,12 @@
+Naruto PSP SUB51K - Residual UI Sweep
+
+SourceSUB51J_SHA256=e8731e1b6eaceae47f765137ab1e40ebced1ad9637e44013b06ad19b17ba3556
+CandidateResources=15
+ResourcesWithTextures=15
+TextureRecords=296
+ContactSheets=15
+ContactSheetBytes=3999335
+GameDataModified=NO
+PPSSPPExecuted=NO
+BC250Used=NO
+LocalLLMUsed=NO

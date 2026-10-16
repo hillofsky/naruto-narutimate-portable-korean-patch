@@ -1,0 +1,11 @@
+Naruto PSP SUB51P FIX13 - FullAtlas
+
+SourceSUB51N_SHA256=8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081
+FinalISO=PROJECT_ROOT\analysis\sub\sub51p_fix13_full_atlas\build\Naruto_KR_MOV06E_SUB51P_FIX13_FullAtlas.iso
+FinalSHA256=1029c34956e23d4eee229a40e995f502fa8a2f249487f16de7fb72869d210cdb
+Changed=gauge TEX_red/TEX_white/TEX_xpanel only; title.ccs intentionally untouched
+Purpose=Replace the entire gauge TEX_red atlas with an existing full Korean atlas and use palette-correct blue glyphs for 게임 모드 선택; keep confirmed-good O/X assets; leave title.ccs untouched
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=PENDING
+ExternalPythonPackagesRequired=NO

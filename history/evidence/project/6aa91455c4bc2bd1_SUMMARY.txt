@@ -1,0 +1,18 @@
+Naruto SUB51M Runtime QA Summary
+
+ISO_SHA256=d3556573931e102eafda7b2dafcaa5adce230004af0ca825e7b6b7c2aa8f0cf8
+MacroExitCode=0
+UniqueScreenshots=16
+NormalBoot=YES
+OldSaveStateVisualQA=NO
+BC250Used=NO
+LocalLLMUsed=NO
+
+Review focus:
+ - main mode-select styling / clipping
+ - option menu normal + selected variants
+ - home and RPG menu labels
+ - Mugen status / red / white / mini-game title atlases
+ - skill names and mini-game result images
+ - title new/continue menu
+ - remaining Japanese image text or corrupted shared-atlas regions

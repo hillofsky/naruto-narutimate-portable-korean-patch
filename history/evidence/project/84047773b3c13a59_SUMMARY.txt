@@ -1,0 +1,5 @@
+SUB51P TEX_red Korean candidate collection
+
+Found=13 Missing=0
+Purpose: compare existing historical Koreanized TEX_red atlases against exact SUB51N original.
+No ISO modification / no PPSSPP / no story automation.

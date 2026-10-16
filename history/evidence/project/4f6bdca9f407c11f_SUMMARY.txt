@@ -1,0 +1,15 @@
+Naruto PSP MOV04A - remaining DA/DK subtitle inventory
+================================================================================
+
+Movies analyzed=11/11
+Movies with candidate burned text=10
+Candidate segments=71
+Candidate movies=da101, da102, da103, da201, dk101, dk102, dk103, dk104, dk202, dk203
+
+Signals:
+  1) KR-only bright text on dark lower band
+  2) locally aligned KR-vs-US lower-band visual difference
+
+Representatives include KR/US full frames and lower-band crops.
+This stage is deliberately sensitive; visual review determines which
+candidates are real subtitles versus localized graphics/scene changes.

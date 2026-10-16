@@ -1,0 +1,30 @@
+{
+  "stage": "SUB29",
+  "mode": "READ_ONLY_COMPLETED_KOREAN_DRAFT_VALIDATION",
+  "game_rows": 1976,
+  "translation_task_units_completed": 407,
+  "source_counts": {
+    "SUB28_REUSE": 1554,
+    "SUB29_TOPOLOGY_REWRITE": 115,
+    "SUB29_DIRECT": 304,
+    "SUB28_REUSE_FIX": 3
+  },
+  "control_normalized_rows": 728,
+  "control_exact_rows": 1976,
+  "runtime_encoding_pass_rows": 1976,
+  "runtime_encoding_fail_rows": 0,
+  "frozen_font_mapping_rows": 694,
+  "final_unique_hangul": 673,
+  "new_hangul_required": 0,
+  "original_payload_bytes_total": 67474,
+  "final_payload_bytes_total": 61562,
+  "total_payload_delta_bytes": -5912,
+  "final_payload_max": 112,
+  "rows_growing": 439,
+  "rows_same_size": 148,
+  "rows_shrinking": 1389,
+  "per_message_original_byte_cap_assumed": false,
+  "patcher_container_allows_relayout": true,
+  "runtime_smoke_required_before_batch_patch": true,
+  "game_files_modified": false
+}

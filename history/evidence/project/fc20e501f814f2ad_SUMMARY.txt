@@ -1,0 +1,27 @@
+Naruto PSP SUB08 - Speaker Structure Audit
+
+InputEntries=1900
+ExactSpeakerMetadataRows=8
+AmbiguousSpeakerRows=6
+ReviewImagesCopied=6
+ReviewImagesMissing=0
+
+Exact metadata-only candidates:
+  seq296 g340 first=이노
+  seq306 g350 first=쵸지
+  seq338 g389 first=리
+  seq611 g697 first=오로치마루
+  seq1185 g1328 first=오로치마루
+  seq1604 g1775 first=일동
+  seq1779 g1959 first=오로치마루
+  seq1848 g2030 first=일동
+
+Ambiguous visual-review candidates:
+  seq325 g374 first=김
+  seq401 g457 first=길
+  seq474 g543 first=길
+  seq494 g565 first=길
+  seq602 g688 first=모르지마족
+  seq1239 g1383 first=모로치마우
+
+No subtitle text or shared handoff is modified by SUB08.

@@ -1,0 +1,341 @@
+Naruto SUB51O Menu/Hint Discovery FIX1
+
+PPSSPP launch: NOT REQUIRED (file/resource discovery only)
+Game/ISO modification: NO
+
+files=683
+text_hit_files=59
+binary_hit_files=0
+scripts=10
+images=518
+
+TOP TEXT HITS:
+- analysis\sub\sub51n_titlehomepolish\build\SUB51N_diagnostic.txt [utf-8]
+  L1: SUB51N TitleHomePolish build starting
+  L32: SUCCESS PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso
+- analysis\sub\sub51n_titlehomepolish\build\SUB51N_static_verification.json [utf-8]
+  L2:   "stage": "SUB51N_TITLEHOMEPOLISH",
+  L4:   "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso",
+  L32:     "mgselect.ccs TEX_mgselect/TEX_mgselect3 small instruction atlases"
+- analysis\sub\sub51n_titlehomepolish\build\SUMMARY.txt [utf-8]
+  L1: ﻿Naruto PSP SUB51N - TitleHomePolish
+  L4: FinalISO=PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso
+- analysis\sub\sub51n_titlehomepolish\build\sub51n_preflight.tsv [utf-8]
+  L11: rpggauge.ccs	TEX_rpgmenu01	i__TEX_rpgmenu01_KO_STYLED.png	512	256	PASS
+  L12: rpggauge.ccs	TEX_rpgmenu02	l__rpggauge__TEX_rpgmenu02_KO.png	512	256	PASS
+- analysis\sub\sub51n_titlehomepolish\build\sub51n_texture_patch.tsv [utf-8]
+  L11: rpggauge.ccs	TEX_rpgmenu01	512	256	21	43777	0	f9675e1830f6a2897e2fe2a76c1cf19b09b7d78eea9d881eac117cd4be6fb251	i__TEX_rpgmenu01_KO_STYLED.png	48266105436b6b0501dc54dbf1b6c25261d2177277ab60aa8cc3718050bb11fd
+  L12: rpggauge.ccs	TEX_rpgmenu02	512	256	21	35541	0	4659cda775ac143d978ecdc4ac4eed40a5640e18ca21111062b6b21432b3c3c6	l__rpggauge__TEX_rpgmenu02_KO.png	c76415a81484531e6ec204afaaefb39191f363743b352ac72c51316605a6454b
+- analysis\sub\sub51n_titlehomepolish\boot_search.txt [utf-8]
+  L1: 決定: found 0
+- analysis\sub\sub51n_titlehomepolish\test_p23orig\SUB51N_diagnostic.txt [utf-8]
+  L1: SUB51N TitleHomePolish build starting
+  L32: SUCCESS PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\test_p23orig\TEST_P23Orig.iso
+- analysis\sub\sub51n_titlehomepolish\test_p23orig\SUB51N_static_verification.json [utf-8]
+  L2:   "stage": "SUB51N_TITLEHOMEPOLISH",
+  L4:   "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\test_p23orig\\TEST_P23Orig.iso",
+  L32:     "mgselect.ccs TEX_mgselect/TEX_mgselect3 small instruction atlases"
+- analysis\sub\sub51n_titlehomepolish\test_p23orig\SUMMARY.txt [utf-8]
+  L1: ﻿Naruto PSP SUB51N - TitleHomePolish
+  L4: FinalISO=PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\test_p23orig\TEST_P23Orig.iso
+- analysis\sub\sub51n_titlehomepolish\test_p23orig\sub51n_preflight.tsv [utf-8]
+  L11: rpggauge.ccs	TEX_rpgmenu01	i__TEX_rpgmenu01_KO_STYLED.png	512	256	PASS
+  L12: rpggauge.ccs	TEX_rpgmenu02	l__rpggauge__TEX_rpgmenu02_KO.png	512	256	PASS
+- analysis\sub\sub51n_titlehomepolish\test_p23orig\sub51n_texture_patch.tsv [utf-8]
+  L11: rpggauge.ccs	TEX_rpgmenu01	512	256	21	43777	0	f9675e1830f6a2897e2fe2a76c1cf19b09b7d78eea9d881eac117cd4be6fb251	i__TEX_rpgmenu01_KO_STYLED.png	48266105436b6b0501dc54dbf1b6c25261d2177277ab60aa8cc3718050bb11fd
+  L12: rpggauge.ccs	TEX_rpgmenu02	512	256	21	35541	0	4659cda775ac143d978ecdc4ac4eed40a5640e18ca21111062b6b21432b3c3c6	l__rpggauge__TEX_rpgmenu02_KO.png	c76415a81484531e6ec204afaaefb39191f363743b352ac72c51316605a6454b
+- analysis\sub\sub51n_titlehomepolish\test_panelsorig\SUB51N_diagnostic.txt [utf-8]
+  L1: SUB51N TitleHomePolish build starting
+  L32: SUCCESS PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\test_panelsorig\TEST_PanelsOrig.iso
+- analysis\sub\sub51n_titlehomepolish\test_panelsorig\SUB51N_static_verification.json [utf-8]
+  L2:   "stage": "SUB51N_TITLEHOMEPOLISH",
+  L4:   "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\test_panelsorig\\TEST_PanelsOrig.iso",
+  L32:     "mgselect.ccs TEX_mgselect/TEX_mgselect3 small instruction atlases"
+- analysis\sub\sub51n_titlehomepolish\test_panelsorig\SUMMARY.txt [utf-8]
+  L1: ﻿Naruto PSP SUB51N - TitleHomePolish
+  L4: FinalISO=PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\test_panelsorig\TEST_PanelsOrig.iso
+- analysis\sub\sub51n_titlehomepolish\test_panelsorig\sub51n_preflight.tsv [utf-8]
+  L11: rpggauge.ccs	TEX_rpgmenu01	i__TEX_rpgmenu01_KO_STYLED.png	512	256	PASS
+  L12: rpggauge.ccs	TEX_rpgmenu02	l__rpggauge__TEX_rpgmenu02_KO.png	512	256	PASS
+- analysis\sub\sub51n_titlehomepolish\test_panelsorig\sub51n_texture_patch.tsv [utf-8]
+  L11: rpggauge.ccs	TEX_rpgmenu01	512	256	21	43777	0	f9675e1830f6a2897e2fe2a76c1cf19b09b7d78eea9d881eac117cd4be6fb251	i__TEX_rpgmenu01_KO_STYLED.png	48266105436b6b0501dc54dbf1b6c25261d2177277ab60aa8cc3718050bb11fd
+  L12: rpggauge.ccs	TEX_rpgmenu02	512	256	21	35541	0	4659cda775ac143d978ecdc4ac4eed40a5640e18ca21111062b6b21432b3c3c6	l__rpggauge__TEX_rpgmenu02_KO.png	c76415a81484531e6ec204afaaefb39191f363743b352ac72c51316605a6454b
+- generated_macros\sub51n_title.json [utf-8]
+  L1: {"created":"SUB51N title check","event_count":3,"events":[{"t_ms":6000,"type":"screenshot"},{"t_ms":10000,"type":"screenshot"},{"t_ms":14000,"type":"screenshot"}],"format":"ppsspp-controller-macro","recorded_iso":"SUB51N","speed_percent":100,"timing_origin":"recorder_ready_after_reset","version":1}
+- analysis\sub\sub51n_pressed_runtime_qa\FAILURE.txt [utf-8]
+  L1: ﻿Naruto SUB51N PRESSED RUNTIME QA FAILURE
+  L3: SUB51N pressed runtime QA failed. ExitCode=1
+  L4: SUB51N pressed runtime QA failed. ExitCode=1
+  L5: 위치 PROJECT_ROOT\run_naruto_sub51n_pressed_runtime_qa.ps1:31 문자:29
+  L6: + ... CODE -ne 0){throw "SUB51N pressed runtime QA failed. ExitCode=$LASTEX ...
+  L8:     + CategoryInfo          : OperationStopped: (SUB51N pressed ...led. ExitCo 
+  L10:     + FullyQualifiedErrorId : SUB51N pressed runtime QA failed. ExitCode=1
+- analysis\sub\sub51n_pressed_runtime_qa\preflight.json [utf-8]
+  L2:   "stage": "SUB51N_PRESSED_RUNTIME_QA",
+  L3:   "iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso",
+- analysis\sub\sub51n_pressed_runtime_qa_fix2\FAILURE.txt [utf-8]
+  L1: ﻿Naruto SUB51N FIX2 PRESSED RUNTIME QA FAILURE
+  L3: SUB51N FIX2 pressed runtime QA failed. ExitCode=1
+  L4: SUB51N FIX2 pressed runtime QA failed. ExitCode=1
+  L5: 위치 PROJECT_ROOT\run_naruto_sub51n_fix2_pressed_runtime_qa.ps1:22 문자:2
+  L7: + ... CODE -ne 0){throw "SUB51N FIX2 pressed runtime QA failed. ExitCode=$L ...
+  L9:     + CategoryInfo          : OperationStopped: (SUB51N FIX2 pre...led. ExitCo 
+  L11:     + FullyQualifiedErrorId : SUB51N FIX2 pressed runtime QA failed. ExitCode= 
+- analysis\sub\sub51n_pressed_runtime_qa_fix2\preflight.json [utf-8]
+  L2:   "stage": "SUB51N_FIX2_PRESSED_RUNTIME_QA",
+  L3:   "iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso",
+  L6:   "summary_path": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\SUMMARY.txt",
+- analysis\sub\sub51n_pressed_runtime_qa_fix3\FAILURE.txt [utf-8]
+  L1: ﻿Naruto SUB51N FIX3 PRESSED RUNTIME QA FAILURE
+  L3: SUB51N FIX3 pressed runtime QA failed. ExitCode=1
+  L4: SUB51N FIX3 pressed runtime QA failed. ExitCode=1
+  L5: 위치 PROJECT_ROOT\run_naruto_sub51n_fix3_pressed_runtime_qa.ps1:22 문자:2
+  L7: + ... CODE -ne 0){throw "SUB51N FIX3 pressed runtime QA failed. ExitCode=$L ...
+  L9:     + CategoryInfo          : OperationStopped: (SUB51N FIX3 pre...led. ExitCo 
+  L11:     + FullyQualifiedErrorId : SUB51N FIX3 pressed runtime QA failed. ExitCode= 
+- analysis\sub\sub51n_pressed_runtime_qa_fix3\preflight.json [utf-8]
+  L2:   "stage": "SUB51N_FIX3_PRESSED_RUNTIME_QA",
+  L3:   "iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso",
+  L6:   "summary_path": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\SUMMARY.txt",
+- analysis\sub\sub51n_pressed_runtime_qa_fix4\FAILURE.txt [utf-8]
+  L1: ﻿Naruto SUB51N FIX4 PRESSED RUNTIME QA FAILURE
+  L3: SUB51N FIX4 pressed runtime QA failed. ExitCode=1
+  L4: SUB51N FIX4 pressed runtime QA failed. ExitCode=1
+  L5: 위치 PROJECT_ROOT\run_naruto_sub51n_fix4_pressed_runtime_qa.ps1:22 문자:2
+  L7: + ... CODE -ne 0){throw "SUB51N FIX4 pressed runtime QA failed. ExitCode=$L ...
+  L9:     + CategoryInfo          : OperationStopped: (SUB51N FIX4 pre...led. ExitCo 
+  L11:     + FullyQualifiedErrorId : SUB51N FIX4 pressed runtime QA failed. ExitCode= 
+- analysis\sub\sub51n_pressed_runtime_qa_fix4\preflight.json [utf-8]
+  L2:   "stage": "SUB51N_FIX4_PRESSED_RUNTIME_QA",
+  L3:   "iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso",
+  L6:   "summary_path": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\SUMMARY.txt",
+- analysis\sub\sub51n_pressed_runtime_qa_fix5\FAILURE.txt [utf-8]
+  L1: ﻿Naruto SUB51N FIX5 PRESSED RUNTIME QA FAILURE
+  L3: SUB51N FIX5 pressed runtime QA failed. ExitCode=1
+  L4: SUB51N FIX5 pressed runtime QA failed. ExitCode=1
+  L5: 위치 PROJECT_ROOT\run_naruto_sub51n_fix5_pressed_runtime_qa.ps1:22 문자:2
+  L7: + ... CODE -ne 0){throw "SUB51N FIX5 pressed runtime QA failed. ExitCode=$L ...
+  L9:     + CategoryInfo          : OperationStopped: (SUB51N FIX5 pre...led. ExitCo 
+  L11:     + FullyQualifiedErrorId : SUB51N FIX5 pressed runtime QA failed. ExitCode= 
+- analysis\sub\sub51n_pressed_runtime_qa_fix5\ko_runtime.json [utf-8]
+  L7:     "first_frame": "PROJECT_ROOT\\analysis\\sub\\sub51n_pressed_runtime_qa_fix5\\ko\\ko_runtime_ready.png",
+  L14:       "menu_delta": 183.893,
+  L24:   "pressed": [
+  L25:     "PROJECT_ROOT\\analysis\\sub\\sub51n_pressed_runtime_qa_fix5\\ko\\ko_pressed_000.png",
+  L26:     "PROJECT_ROOT\\analysis\\sub\\sub51n_pressed_runtime_qa_fix5\\ko\\ko_pressed_001.png",
+  L27:     "PROJECT_ROOT\\analysis\\sub\\sub51n_pressed_runtime_qa_fix5\\ko\\ko_pressed_002.png",
+  L28:     "PROJECT_ROOT\\analysis\\sub\\sub51n_pressed_runtime_qa_fix5\\ko\\ko_pressed_003.png",
+  L29:     "PROJECT_ROOT\\analysis\\sub\\sub51n_pressed_runtime_qa_fix5\\ko\\ko_pressed_004.png",
+- analysis\sub\sub51n_pressed_runtime_qa_fix5\preflight.json [utf-8]
+  L2:   "stage": "SUB51N_FIX5_PRESSED_RUNTIME_QA",
+  L3:   "iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso",
+  L6:   "summary_path": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\SUMMARY.txt",
+- analysis\sub\sub51n_pressed_runtime_qa_fix6\RESULT.json [utf-8]
+  L2:   "stage": "SUB51N_FIX6_PRESSED_RUNTIME_QA",
+  L3:   "iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso",
+  L6:   "summary_path": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\SUMMARY.txt",
+  L13:   "fix6": "resume from debugger entry; each screenshot uses pause/stepping -> GPU capture -> resume; stable-scene gate + bidirectional DOWN/UP localized menu proof; gated START; no START spam",
+  L14:   "ko_pressed_frames": 32,
+  L16:   "jp_pressed_frames": 0,
+  L19:     "Korean pressed state has no white block",
+  L22:     "compare KO and JP pressed frames"
+- analysis\sub\sub51n_pressed_runtime_qa_fix6\SUMMARY.txt [utf-8]
+  L1: ﻿Naruto SUB51N FIX6 Pressed Runtime QA
+  L3: ISO=PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso
+  L6: SummaryPath=PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build\SUMMARY.txt
+  L8: KOPressedFrames=32
+  L10: JPPressedFrames=0
+  L16: MenuReachProof=BIDIRECTIONAL_DOWN_UP_LOCALIZED_RESPONSE
+- analysis\sub\sub51n_pressed_runtime_qa_fix6\ko_runtime.json [utf-8]
+  L7:     "first_frame": "PROJECT_ROOT\\analysis\\sub\\sub51n_pressed_runtime_qa_fix6\\ko\\ko_runtime_ready.png",
+  L16:       "down_menu_delta": 5.046,
+  L20:       "up_menu_delta": 37.785,
+  L26:       "bidirectional_menu_proof": true
+  L30:   "pressed": [
+  L31:     "PROJECT_ROOT\\analysis\\sub\\sub51n_pressed_runtime_qa_fix6\\ko\\ko_pressed_000.png",
+  L32:     "PROJECT_ROOT\\analysis\\sub\\sub51n_pressed_runtime_qa_fix6\\ko\\ko_pressed_001.png",
+  L33:     "PROJECT_ROOT\\analysis\\sub\\sub51n_pressed_runtime_qa_fix6\\ko\\ko_pressed_002.png",
+- analysis\sub\sub51n_pressed_runtime_qa_fix6\preflight.json [utf-8]
+  L2:   "stage": "SUB51N_FIX6_PRESSED_RUNTIME_QA",
+  L3:   "iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso",
+  L6:   "summary_path": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\SUMMARY.txt",
+  L13:   "fix6": "resume from debugger entry; each screenshot uses pause/stepping -> GPU capture -> resume; stable-scene gate + bidirectional DOWN/UP localized menu proof; gated START; no START spam"
+- generated_macros\sub51n_dense.json [utf-8]
+  L1: {"created":"dense press phases","event_count":7,"events":[{"t_ms":10200,"type":"buttons","buttons":{"circle":true}},{"t_ms":10250,"type":"screenshot"},{"t_ms":10300,"type":"screenshot"},{"t_ms":10350,"type":"screenshot"},{"t_ms":10400,"type":"screenshot"},{"t_ms":10500,"type":"screenshot"},{"t_ms":11000,"type":"buttons","buttons":{"circle":false}}],"format":"ppsspp-controller-macro","recorded_iso":"SUB51N","speed_percent":100,"timing_origin":"recorder_ready_after_reset","version":1}
+- generated_macros\sub51n_phases.json [utf-8]
+  L1: {"created":"press animation phases","event_count":6,"events":[{"t_ms":10200,"type":"buttons","buttons":{"circle":true}},{"t_ms":10300,"type":"screenshot"},{"t_ms":10400,"type":"screenshot"},{"t_ms":10600,"type":"screenshot"},{"t_ms":10900,"type":"screenshot"},{"t_ms":11300,"type":"buttons","buttons":{"circle":false}}],"format":"ppsspp-controller-macro","recorded_iso":"SUB51N","speed_percent":100,"timing_origin":"recorder_ready_after_reset","version":1}
+- generated_macros\sub51n_press.json [utf-8]
+  L1: {"created":"SUB51N press-hold check","event_count":5,"events":[{"t_ms":10000,"type":"screenshot"},{"t_ms":10500,"type":"buttons","buttons":{"circle":true}},{"t_ms":11500,"type":"screenshot"},{"t_ms":12500,"type":"buttons","buttons":{"circle":false}},{"t_ms":13500,"type":"screenshot"}],"format":"ppsspp-controller-macro","recorded_iso":"SUB51N","speed_percent":100,"timing_origin":"recorder_ready_after_reset","version":1}
+- generated_macros\sub51n_pressframe.json [utf-8]
+  L1: {"created":"SUB51N press-frame tight timing","event_count":6,"events":[{"t_ms":10200,"type":"buttons","buttons":{"circle":true}},{"t_ms":10350,"type":"screenshot"},{"t_ms":10500,"type":"screenshot"},{"t_ms":10800,"type":"buttons","buttons":{"circle":false}},{"t_ms":11200,"type":"screenshot"},{"t_ms":12000,"type":"screenshot"}],"format":"ppsspp-controller-macro","recorded_iso":"SUB51N","speed_percent":100,"timing_origin":"recorder_ready_after_reset","version":1}
+- analysis\sub\sub51m_final_runtime_qa\RUN_INFO.txt [utf-8]
+  L1: ﻿Naruto SUB51M runtime QA
+- analysis\sub\sub51m_final_runtime_qa\SUMMARY.txt [utf-8]
+  L1: ﻿Naruto SUB51M Runtime QA Summary
+  L13:  - option menu normal + selected variants
+  L14:  - home and RPG menu labels
+  L15:  - Mugen status / red / white / mini-game title atlases
+  L17:  - title new/continue menu
+  L18:  - remaining Japanese image text or corrupted shared-atlas regions
+- analysis\sub\sub51l_fix2_consolidated_ui\SUB51L_FIX2_static_verification.json [utf-8]
+  L32:     "mgselect.ccs TEX_mgselect/TEX_mgselect3 small instruction atlases"
+- analysis\sub\sub51l_fix2_consolidated_ui\sub51l_fix1_texture_patch.tsv [utf-8]
+  L11: rpggauge.ccs	TEX_rpgmenu01	512	256	21	43777	0	f9675e1830f6a2897e2fe2a76c1cf19b09b7d78eea9d881eac117cd4be6fb251	i__TEX_rpgmenu01_KO_STYLED.png	48266105436b6b0501dc54dbf1b6c25261d2177277ab60aa8cc3718050bb11fd
+  L12: rpggauge.ccs	TEX_rpgmenu02	512	256	21	35541	0	4659cda775ac143d978ecdc4ac4eed40a5640e18ca21111062b6b21432b3c3c6	l__rpggauge__TEX_rpgmenu02_KO.png	c76415a81484531e6ec204afaaefb39191f363743b352ac72c51316605a6454b
+- analysis\sub\sub51l_fix2_consolidated_ui\sub51l_fix2_preflight.tsv [utf-8]
+  L11: rpggauge.ccs	TEX_rpgmenu01	i__TEX_rpgmenu01_KO_STYLED.png	512	256	PASS
+  L12: rpggauge.ccs	TEX_rpgmenu02	l__rpggauge__TEX_rpgmenu02_KO.png	512	256	PASS
+- analysis\sub\sub51e_fix1_ui_style_source_export\option\menu_and_special_name_translations_3270aa0c528c.tsv [utf-8]
+  L13: TEX_yellow_ko	行動選択	행동 선택	96,72,78,18	15.0
+- analysis\sub\sub51e_fix1_ui_style_source_export\option\verification_e859d49d7b77.json [utf-8]
+  L3:   "iso": "PROJECT_ROOT\\analysis\\sub\\sub41_names_guides_menu\\Naruto_KR_MOV06E_SUB41_Names_Guides_Menu.iso",
+  L7:   "menu_image_labels": 12,
+- analysis\sub\sub51e_fix1_ui_style_source_export\sub51e_fix1_ui_source_inventory.tsv [utf-8]
+  L4: "gauge"	"PROJECT_ROOT\analysis\sub\sub47_network_option_home\discovery_textures\rpggauge_ccs__TEX_rpgmenu01.png"	"rpggauge_ccs__TEX_rpgmenu01_0e663622a5bb.png"	"102000"	"0e663622a5bb076e2a76b479d3612f35c81d3c4d3e3e3f7b889900f5fe4a9688"	"2026-10-06 11:44:47"
+  L5: "gauge"	"PROJECT_ROOT\analysis\sub\sub47_network_option_home\discovery_textures\rpggauge_ccs__TEX_rpgmenu02.png"	"rpggauge_ccs__TEX_rpgmenu02_695321c31d01.png"	"25323"	"695321c31d0192f0b32184db2653e9a2df5fe4be813d81feeed7ecd7709f0137"	"2026-10-06 11:44:47"
+  L6: "gauge"	"PROJECT_ROOT\analysis\sub\sub47_network_option_home\discovery_textures\rpggauge_ccs__TEX_rpgmenu03.png"	"rpggauge_ccs__TEX_rpgmenu03_20db57755da4.png"	"1106"	"20db57755da4736fa4dbfd6ba81b7df156f9909ddb75202beb455ea1d5d0d346"	"2026-10-06 11:44:47"
+  L7: "gauge"	"PROJECT_ROOT\analysis\sub\sub47_network_option_home\discovery_textures\rpggauge_ccs__TEX_rpgmenu04.png"	"rpggauge_ccs__TEX_rpgmenu04_06af9f465fe5.png"	"5847"	"06af9f465fe5e3c09b1483e9a1a29211f8acf87205042840d6f46fc6fe0b1a76"	"2026-10-06 11:44:47"
+  L8: "gauge"	"PROJECT_ROOT\analysis\sub\sub48_menu_atlas_cleanup\review_textures\rpggauge_ccs__TEX_rpgmenu01.png"	"rpggauge_ccs__TEX_rpgmenu01_9d479e92eb30.png"	"39952"	"9d479e92eb30bf2f6c044bbed2d4031dd2c7a0408c391d602026148a35ed8eb8"	"2026-10-06 12:47:37"
+  L20: "mugen"	"PROJECT_ROOT\analysis\sub\sub48_menu_atlas_cleanup\review_textures\gauge_ccs__TEX_red.png"	"gauge_ccs__TEX_red_f4a41459c3cf.png"	"13091"	"f4a41459c3cf196793711a4fe92c0caa7a88578a190fdea2fa75a8fdeff354bc"	"2026-10-06 12:47:37"
+  L28: "network_home"	"PROJECT_ROOT\analysis\sub\sub48_menu_atlas_cleanup\review_textures\home_ccs__TEX_mhvid01.png"	"home_ccs__TEX_mhvid01_b57ed76c87c7.png"	"14689"	"b57ed76c87c75329755d2f509fd828fceb478d3e49ad469badd1740c65f33ef2"	"2026-10-06 12:47:37"
+  L29: "network_home"	"PROJECT_ROOT\analysis\sub\sub48_menu_atlas_cleanup\runtime_screenshots\02_narup_help.png"	"02_narup_help_7384aaaf31c3.png"	"1962939"	"7384aaaf31c36d0dac8140eff865a8ec4a11d5a8066161dbdaa2cf9ef2285324"	"2026-10-06 12:48:34"
+- analysis\sub\sub51f_official_kr_ui_donor\official_kr_ui_texture_comparison.tsv [utf-8]
+  L10: setting.ccs	TEX_s_menu1	OK	True	True	256	128	0x13	256	128	0x13	True	0	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\jp_png\setting__TEX_s_menu1_JP.png	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\official_kr_png\setting__TEX_s_menu1_KR.png	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\pairs\setting__TEX_s_menu1_JP_vs_KR.png	7274ce0124231d9c4e784eb207ff27cdc0a19574da8c5039195c032c88926a2d	7274ce0124231d9c4e784eb207ff27cdc0a19574da8c5039195c03
+  L33: rpggauge.ccs	TEX_rpgmenu01	OK	True	True	512	256	0x13	512	256	0x13	True	0	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\jp_png\rpggauge__TEX_rpgmenu01_JP.png	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\official_kr_png\rpggauge__TEX_rpgmenu01_KR.png	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\pairs\rpggauge__TEX_rpgmenu01_JP_vs_KR.png	59a06450ce8ea40ea4bd1da13bd313fa728e89c37a2ddce122f184d6bfe04cc6	59a06450ce8ea40ea4bd1da13bd313fa728e89c37a
+  L34: rpggauge.ccs	TEX_rpgmenu02	OK	True	True	512	256	0x14	512	256	0x14	True	0	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\jp_png\rpggauge__TEX_rpgmenu02_JP.png	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\official_kr_png\rpggauge__TEX_rpgmenu02_KR.png	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\pairs\rpggauge__TEX_rpgmenu02_JP_vs_KR.png	59a06450ce8ea40ea4bd1da13bd313fa728e89c37a2ddce122f184d6bfe04cc6	59a06450ce8ea40ea4bd1da13bd313fa728e89c37a
+  L35: rpggauge.ccs	TEX_rpgmenu03	OK	True	True	64	64	0x14	64	64	0x14	True	0	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\jp_png\rpggauge__TEX_rpgmenu03_JP.png	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\official_kr_png\rpggauge__TEX_rpgmenu03_KR.png	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\pairs\rpggauge__TEX_rpgmenu03_JP_vs_KR.png	59a06450ce8ea40ea4bd1da13bd313fa728e89c37a2ddce122f184d6bfe04cc6	59a06450ce8ea40ea4bd1da13bd313fa728e89c37a2ddc
+  L36: rpggauge.ccs	TEX_rpgmenu04	OK	True	True	64	128	0x13	64	128	0x13	True	0	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\jp_png\rpggauge__TEX_rpgmenu04_JP.png	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\official_kr_png\rpggauge__TEX_rpgmenu04_KR.png	PROJECT_ROOT\analysis\sub\sub51f_official_kr_ui_donor\pairs\rpggauge__TEX_rpgmenu04_JP_vs_KR.png	59a06450ce8ea40ea4bd1da13bd313fa728e89c37a2ddce122f184d6bfe04cc6	59a06450ce8ea40ea4bd1da13bd313fa728e89c37a2d
+- analysis\sub\sub51i_safe_remaining_ui\sub51i_texture_patch.tsv [utf-8]
+  L2: rpggauge.ccs	TEX_rpgmenu01	512	256	21	43778	0	4625f159c9e7f793016392f215850e78510cffcceadaf0968d26a7d9670cc89f
+- analysis\sub\sub51k_residual_ui_sweep\sub51k_ui_textures.tsv [utf-8]
+  L11: setting.ccs	TEX_s_menu1	256	128	0x13	1	12345	setting_contact.png
+  L180: gauge.ccs	TEX_xmenu	256	128	0x13	279	13044	gauge_contact.png
+  L193: rpggauge.ccs	TEX_rpgmenu01	512	256	0x13	13	104831	rpggauge_contact.png
+  L194: rpggauge.ccs	TEX_rpgmenu02	512	256	0x14	15	28743	rpggauge_contact.png
+  L195: rpggauge.ccs	TEX_rpgmenu03	64	64	0x14	17	4096	rpggauge_contact.png
+  L196: rpggauge.ccs	TEX_rpgmenu04	64	128	0x13	19	3831	rpggauge_contact.png
+  L199: cmnselect.ccs	TEX_button01	128	64	0x14	1	1618	cmnselect_contact.png
+  L200: cmnselect.ccs	TEX_button02	128	64	0x14	3	1618	cmnselect_contact.png
+- analysis\sub\sub51d_full_text_apply\sub51d_boot_text_patch.tsv [utf-8]
+  L868: C00841	0x2e09d0	アイテム選択	아이템 선택	12	11	PATCHED
+  L881: C00854	0x2e0aac	変更したい項目を<iconCIRCLE>ボタンで選択して、<br>方向キー左右で操作を変更してください。	바꿀 항목을 <iconCIRCLE> 버튼으로 선택한 뒤,<br>방향키 좌우로 조작을 변경하세요.	88	80	PATCHED
+  L884: C00857	0x2e0b58	Ｌボタン・Ｒボタンには<RED>「ガード・アイテム使用・<br><RED>アイテム選択」<BLACK>以外は、割り振ることができません。	L/R 버튼에는 <RED>「가드·아이템 사용·<br><RED>아이템 선택」<BLACK> 외에는 배정할 수 없습니다.	115	93	PATCHED
+  L885: C00858	0x2e0bcc	<RED>「アイテム選択」<BLACK>はＬボタン・Ｒボタンにしか、<br>割り振れません。	<RED>「아이템 선택」<BLACK>은 L/R 버튼에만<br>배정할 수 있습니다.	76	65	PATCHED
+  L899: C00872	0x2e0e28	ゲームモード<ruby選択|せんたく>に<ruby戻|もど>る	게임 모드 선택으로 돌아가기	48	27	PATCHED
+  L900: C00873	0x2e0e5c	キャラクター<ruby選択|せんたく>に<ruby戻|もど>る	캐릭터 선택으로 돌아가기	48	24	PATCHED
+  L902: C00875	0x2e0ea0	<ruby物語|ものがたり>の<ruby回想|かいそう>に<ruby戻|もど>る	스토리 회상으로 돌아가기	59	24	PATCHED
+  L905: C00878	0x2e0f60	キャンセル	취소	10	4	PATCHED
+- analysis\sub\sub51e_fix2_pristine_source_recovery\historical_scripts\pidx_stage3_0f20f8d21fa0.py [utf-8]
+  L351:             out = zlib.decompress(
+  L395:         mode = "compressed"
+  L456:         out = zlib.decompress(blob)
+  L473:         out = zlib.decompress(
+  L491:             "compressed_raw_unknown"
+  L520:     r"text|event|quiz|title|select|menu|"
+  L578:             continue
+  L638:                 continue
+- analysis\sub\sub51e_fix2_pristine_source_recovery\historical_scripts\stage11_fsts_map_280d31e19929.py [utf-8]
+  L609:             dec = zlib.decompress(
+  L636: # Generic compressed member
+  L639: def decode_compressed(blob):
+  L660:             zlib.decompress(blob),
+  L671:             zlib.decompress(
+  L683:             "UNKNOWN_COMPRESSED",
+  L709:                 continue
+  L872:         # zsize < size     -> compressed ZSIZE
+
+BINARY HITS:
+
+TOP SCRIPTS:
+- analysis\sub\sub51e_fix2_pristine_source_recovery\historical_scripts\pidx_stage3_0f20f8d21fa0.py
+- analysis\sub\sub51e_fix2_pristine_source_recovery\historical_scripts\stage11_fsts_map_280d31e19929.py
+- analysis\sub\sub51e_fix2_pristine_source_recovery\historical_scripts\stage9_full_extract_a710a25a0ee3.py
+- analysis\sub\sub51e_fix3_pristine_source_recovery\historical_scripts\pidx_stage3_0f20f8d21fa0.py
+- analysis\sub\sub51e_fix3_pristine_source_recovery\historical_scripts\stage11_fsts_map_280d31e19929.py
+- analysis\sub\sub51e_fix3_pristine_source_recovery\historical_scripts\stage2_scan_8d796c98a55f.py
+- analysis\sub\sub51e_fix3_pristine_source_recovery\historical_scripts\stage35_charset_allocator_8634153f533b.py
+- analysis\sub\sub51e_fix3_pristine_source_recovery\historical_scripts\stage35r_analyze_cf1e86c5590e.py
+- analysis\sub\sub51e_fix3_pristine_source_recovery\historical_scripts\stage4_code_scan_cbf7e10a08dc.py
+- analysis\sub\sub51e_fix3_pristine_source_recovery\historical_scripts\stage9_full_extract_a710a25a0ee3.py
+
+TOP IMAGES:
+- analysis\sub\sub51n_titlehomepolish\build_assets\i__TEX_rpgmenu01_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__rpggauge__TEX_rpgmenu02_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\h__TEX_option01_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\orig_dump\rpggauge.ccs_TEX_rpgmenu01.png 
+- analysis\sub\sub51n_titlehomepolish\orig_dump\rpggauge.ccs_TEX_rpgmenu02.png 
+- analysis\sub\sub51n_titlehomepolish\orig_dump\rpggauge.ccs_TEX_rpgmenu03.png 
+- analysis\sub\sub51n_titlehomepolish\orig_dump\rpggauge.ccs_TEX_rpgmenu04.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\g__TEX_mod_bg00_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\g__TEX_mod_bg01_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\g__TEX_mod_bg03_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\g__TEX_mod_bg04_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\g__TEX_mod_bg05_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\g__TEX_mod_bg06_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\g__TEX_mod_bg07_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\i__TEX_mhvid01_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\j__TEX_mg_title_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\j__TEX_red_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\j__TEX_white_KO_STYLED.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__cmnselect__TEX_xselect3_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__gauge__TEX_gameover_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__gauge__TEX_mg_txt05_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__gauge__TEX_mg_txt07_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__gauge__TEX_start_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__gauge__TEX_xstart_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__gauge__TEX_xtext_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__gauge__TEX_xwinner_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mapsel1__TEX_haipure_s01_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t00_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t01_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t02_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t03_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t04_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t05_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t06_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t07_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t08_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t09_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t10_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t11_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t12_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t13_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t14_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t15_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t16_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t17_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t18_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t19_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t20_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t21_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_t22_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx00_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx01_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx02_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx03_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx04_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx05_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx06_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx07_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx08_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx09_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx10_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx11_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx12_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx13_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx14_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx15_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx16_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx17_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx18_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx19_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx20_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx21_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_tx22_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgn_skill__TEX_skl_txt_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgselect__TEX_mg_txt00_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgselect__TEX_mg_txt01_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgselect__TEX_mg_txt03_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgselect__TEX_mg_txt04_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgselect__TEX_mg_txt05_KO.png 
+- analysis\sub\sub51n_titlehomepolish\build_assets\l__mgselect__TEX_mg_txt06_KO.png 

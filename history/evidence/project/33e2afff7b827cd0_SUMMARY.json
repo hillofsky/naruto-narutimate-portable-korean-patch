@@ -1,0 +1,52 @@
+{
+  "stage": "SUB52N_REWARD_SAFE",
+  "status": "FAIL",
+  "source_iso": "PROJECT_ROOT\\analysis\\sub\\sub52m_safe_boot_patch\\Naruto_KR_MOV06E_SUB52M_SafeBoot.iso",
+  "expected_source_sha256": "13a742002f89f9b19c5f6196079b3086b1c68a10c9cec537366e7fcffc9ecdbc",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub52n_reward_safe\\Naruto_KR_MOV06E_SUB52N_RewardSafe.iso",
+  "rewards": [
+    {
+      "id": "SINGLE_PLAYER",
+      "offset_hex": "0x3039d0",
+      "bytes": 103,
+      "lines": [
+        {
+          "original": "ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。",
+          "korean": "나루P 포인트를<BLUE>%dP<BLACK> 획득했습니다.",
+          "original_bytes": 47,
+          "translated_bytes": 44,
+          "padding_bytes": 3
+        },
+        {
+          "original": "　　　　　　　　　　　　　　　　　　　　<iconCIRCLE>",
+          "korean": "　　　　　　　　　　　　　　　　　　　　<iconCIRCLE>",
+          "original_bytes": 52,
+          "translated_bytes": 52,
+          "padding_bytes": 0
+        }
+      ]
+    },
+    {
+      "id": "TWO_PLAYERS",
+      "offset_hex": "0x303a38",
+      "bytes": 135,
+      "lines": [
+        {
+          "original": "<RED>１Ｐ<BLACK>はナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。",
+          "korean": "<RED>1P<BLACK>는 나루P 포인트를<BLUE>%dP<BLACK> 획득했습니다.",
+          "original_bytes": 65,
+          "translated_bytes": 61,
+          "padding_bytes": 4
+        },
+        {
+          "original": "<BLUE>２Ｐ<BLACK>はナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。",
+          "korean": "<BLUE>2P<BLACK>는 나루P 포인트를<BLUE>%dP<BLACK> 획득했습니다.",
+          "original_bytes": 66,
+          "translated_bytes": 62,
+          "padding_bytes": 4
+        }
+      ]
+    }
+  ],
+  "exception": "Traceback (most recent call last):\n  File \"PROJECT_ROOT\\build_sub52n_reward_safe.py\", line 178, in main\n    writes=patch_iso_core(source,final,extents,plans)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"PROJECT_ROOT\\build_sub52n_reward_safe.py\", line 94, in patch_iso_core\n    shutil.copyfile(source,final)\n  File \"LOCAL_PATH\", line 280, in copyfile\n    _copyfileobj_readinto(fsrc, fdst, min(file_size, COPY_BUFSIZE))\n  File \"LOCAL_PATH\", line 194, in _copyfileobj_readinto\n    fdst_write(mv)\nOSError: [Errno 28] No space left on device\n"
+}

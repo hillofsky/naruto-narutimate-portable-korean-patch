@@ -1,0 +1,28 @@
+Naruto PSP MOV03C FIX3 - Decompressed Event TBL movie opcode analysis
+============================================================================
+
+Event TBL files analyzed=37
+Direct dm*.pmf/name string hits=0 across 0 movies
+Event files containing printable audio-like tokens=0
+
+BOOT-derived hypotheses:
+- MOVIE command ordinal candidates: 22 (NULL=0) or 23 (EVENT=0).
+- PMF path table: dm001..dm010 are indices 13..22.
+- Scanner also tests zero-based 0..9 and one-based 1..10 DM arguments.
+
+Top structural layout candidate:
+  layout=u8_op_u8_arg
+  opcode=19
+  arg_domain=pmf_table_index
+  total_hits=9
+  distinct_dm=4/10
+  event_files=4
+  score=57.0
+  DM movies represented in best table=4/10: dm003, dm004, dm005, dm010
+
+Interpretation:
+- A strong result is one layout/opcode/domain covering most or all 10 DM IDs
+  with only a small number of event hits per movie.
+- A weak result means TBL records need format reversal before mapping audio.
+- printable_audio_tokens.tsv is only direct evidence if actual AT3/voice names
+  are embedded in the event file; otherwise numeric voice IDs need a later pass.

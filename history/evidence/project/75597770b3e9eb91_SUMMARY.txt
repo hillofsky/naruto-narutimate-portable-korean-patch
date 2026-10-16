@@ -1,0 +1,24 @@
+Naruto PSP SUB18 FIX1 - Decoded Event Source Discovery
+
+AllAnalysisTBLFiles=951
+DecodedTextTBLCandidates=681
+Stage3TBLFiles=46
+Stage3TextualTBLFiles=0
+Stage3RawMSGTokenHits=0
+PatcherRelevantFunctions=2
+PatcherSnippets=29
+RelatedAnalysisTextFiles=18589
+
+Diagnosis:
+  Original SUB18 scanned binary/compressed Stage3 TBL resources.
+  Its GameMSGLikeRows=1 result is invalid and must be discarded.
+
+Known decoded script:
+  PROJECT_ROOT\analysis\stage14\test_patch\event000_original.tbl
+  MSG tokens: 97
+
+Traversal=iterative os.scandir stack
+WindowsReparsePointsSkipped=YES
+VisitedPathDeduplication=YES
+
+No TBL/DAT/BOOT/ISO files were modified.

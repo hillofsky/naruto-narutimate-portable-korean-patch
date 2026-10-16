@@ -1,0 +1,19 @@
+Naruto PSP SUB26 - Exceptional Semantic Review Bundle
+
+SubtitleGroupRows=1761
+ExceptionSubtitleRows=344
+ExceptionBlocks=177
+CandidateGameRows=417
+UniqueCandidateGameRows=417
+UnselectedCandidateGameRows=139
+CandidateRowsPerBlockMin=0
+CandidateRowsPerBlockMax=23
+CandidateRowsPerBlockMean=2.356
+ReviewHintBlockCounts={"HAS_0G": 130, "HAS_MULTI_G_TO_1S": 66, "HAS_POTENTIAL_1G_TO_2S": 83, "HAS_SPEAKER_MISMATCH": 26}
+ReviewPacketFiles=6
+
+This bundle contains all game rows between stable subtitle/game anchors,
+including played-consensus rows, unselected voiced rows, and unvoiced MSG rows.
+
+No semantic decision was made.
+No TBL/DAT/BOOT/ISO files were modified.

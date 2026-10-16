@@ -1,0 +1,114 @@
+[
+  {
+    "resource": "modesel1.ccs",
+    "texture": "TEX_mod_bg00",
+    "source_png": "entry0193__modesel1__0002__TEX_mod_bg00.png",
+    "replacement_png": "entry0193__modesel1__0002__TEX_mod_bg00_upright_ko.png",
+    "labels": "무환성",
+    "notes": "background calligraphy inpaint + Korean"
+  },
+  {
+    "resource": "modesel1.ccs",
+    "texture": "TEX_mod_bg01",
+    "source_png": "entry0193__modesel1__0004__TEX_mod_bg01.png",
+    "replacement_png": "entry0193__modesel1__0004__TEX_mod_bg01_upright_ko.png",
+    "labels": "강적과의 결투",
+    "notes": "background calligraphy inpaint + Korean"
+  },
+  {
+    "resource": "modesel1.ccs",
+    "texture": "TEX_mod_bg03",
+    "source_png": "entry0193__modesel1__0006__TEX_mod_bg03.png",
+    "replacement_png": "entry0193__modesel1__0006__TEX_mod_bg03_upright_ko.png",
+    "labels": "나루P 로드",
+    "notes": "background calligraphy inpaint + Korean"
+  },
+  {
+    "resource": "modesel1.ccs",
+    "texture": "TEX_mod_bg04",
+    "source_png": "entry0193__modesel1__0008__TEX_mod_bg04.png",
+    "replacement_png": "entry0193__modesel1__0008__TEX_mod_bg04_upright_ko.png",
+    "labels": "나루토의 집",
+    "notes": "background calligraphy inpaint + Korean"
+  },
+  {
+    "resource": "modesel1.ccs",
+    "texture": "TEX_mod_bg05",
+    "source_png": "entry0193__modesel1__0010__TEX_mod_bg05.png",
+    "replacement_png": "entry0193__modesel1__0010__TEX_mod_bg05_upright_ko.png",
+    "labels": "설정 변경",
+    "notes": "background calligraphy inpaint + Korean"
+  },
+  {
+    "resource": "modesel1.ccs",
+    "texture": "TEX_mod_bg06",
+    "source_png": "entry0193__modesel1__0012__TEX_mod_bg06.png",
+    "replacement_png": "entry0193__modesel1__0012__TEX_mod_bg06_upright_ko.png",
+    "labels": "통신 대전",
+    "notes": "background calligraphy inpaint + Korean"
+  },
+  {
+    "resource": "modesel1.ccs",
+    "texture": "TEX_mod_bg07",
+    "source_png": "entry0193__modesel1__0014__TEX_mod_bg07.png",
+    "replacement_png": "entry0193__modesel1__0014__TEX_mod_bg07_upright_ko.png",
+    "labels": "이면 무환성",
+    "notes": "background calligraphy inpaint + Korean"
+  },
+  {
+    "resource": "option.ccs",
+    "texture": "TEX_option01",
+    "source_png": "entry0201__option__0002__TEX_option01.png",
+    "replacement_png": "entry0201__option__0002__TEX_option01_upright_ko.png",
+    "labels": "난이도 설정/조작 설정/음량 설정/종료/쉬움/보통/어려움/매우 어려움",
+    "notes": "atlas labels"
+  },
+  {
+    "resource": "charsel1.ccs",
+    "texture": "TEX_sel",
+    "source_png": "entry0181__charsel1__0050__TEX_sel.png",
+    "replacement_png": "entry0181__charsel1__0050__TEX_sel_upright_ko.png",
+    "labels": "캐릭터 이름 23개 + 전투 장소",
+    "notes": "preserve 1P/2P/COM/icons"
+  },
+  {
+    "resource": "mugen.ccs",
+    "texture": "TEX_white",
+    "source_png": "entry0373__mugen__0272__TEX_white.png",
+    "replacement_png": "entry0373__mugen__0272__TEX_white_upright_ko.png",
+    "labels": "상태/대장/대원/대기/체력/차크라/사용/확인/뒤로/메뉴/전투/대장 능력/능력/사용 장소/스킬 효과/사용 횟수",
+    "notes": "status/detail atlas"
+  },
+  {
+    "resource": "mugen.ccs",
+    "texture": "TEX_red",
+    "source_png": "entry0373__mugen__0216__TEX_red.png",
+    "replacement_png": "entry0373__mugen__0216__TEX_red_upright_ko.png",
+    "labels": "중요/정답",
+    "notes": "only labels visibly identified"
+  },
+  {
+    "resource": "gauge.ccs",
+    "texture": "TEX_red",
+    "source_png": "entry0214__gauge__0247__TEX_red.png",
+    "replacement_png": "entry0214__gauge__0247__TEX_red_upright_ko.png",
+    "labels": "설정 변경/맵 선택/캐릭터 선택/규칙·모드 선택/나루토의 집/통신 대전/영상 감상/음악 감상",
+    "notes": "left menu labels; right-side vertical atlas preserved"
+  },
+  {
+    "resource": "gauge.ccs",
+    "texture": "TEX_white",
+    "source_png": "entry0214__gauge__0251__TEX_white.png",
+    "replacement_png": "entry0214__gauge__0251__TEX_white_upright_ko.png",
+    "labels": "확인/종료/뒤로/다음/재생/확대/정지/사용/타이틀로/색상 선택/대전 신청/다음 이미지/이전 이미지/대전 설정/무작위/이동/시작/닫기/퇴실/대전 취소",
+    "notes": "button icons preserved"
+  },
+  {
+    "resource": "setting.ccs",
+    "texture": "TEX_s_menu1",
+    "source_png": "entry0203__setting__0002__TEX_s_menu1.png",
+    "replacement_png": "entry0203__setting__0002__TEX_s_menu1_upright_ko.png",
+    "labels": "대전",
+    "notes": "button label"
+  }
+]

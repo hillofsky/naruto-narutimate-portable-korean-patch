@@ -1,0 +1,14 @@
+Naruto PSP SUB51I - Safe Remaining UI
+
+SourceSUB51H_SHA256=eea17dc56d1078c450fa8d61b4f0af6615a140682e15a8d950f586af16873c61
+FinalISO=PROJECT_ROOT\analysis\sub\sub51i_safe_remaining_ui\Naruto_KR_MOV06E_SUB51I_SafeRemainingUI.iso
+FinalSHA256=415aded95bc3030ca3deac2550a635e47a99c9d34e34825193c74f4bec469ef7
+ResourcesChanged=home.ccs,rpggauge.ccs
+ExactRegionsChanged=22
+OutsideRegionIndexedPixelChanges=0
+FSTSBundlesRebuilt=1
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=DEFERRED
+BC250Used=NO
+LocalLLMUsed=NO

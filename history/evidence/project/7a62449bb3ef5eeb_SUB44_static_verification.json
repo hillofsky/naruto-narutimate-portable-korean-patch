@@ -1,0 +1,25 @@
+{
+  "stage": "SUB44_UI_TEXT_CLEANUP",
+  "source_iso": "PROJECT_ROOT\\analysis\\sub\\sub43_menu_images\\Naruto_KR_MOV06E_SUB43_MenuImages.iso",
+  "source_iso_sha256": "9c565369ac5cf6ccf5fb2898577503a5cac43ab0aec297482ba76698eeba3433",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub44_ui_cleanup\\Naruto_KR_MOV06E_SUB44_UITextCleanup.iso",
+  "final_iso_size": 1688014848,
+  "final_iso_sha256": "0aa25f739c76d7143591f38991ff65a026d1d5ceae73075d4402d13664667264",
+  "boot_ui_strings_patched": 32,
+  "boot_text_not_found": 4,
+  "option_texture_changed_pixels": 17758,
+  "changed_fsts_bundles": [],
+  "preserved_non_target_primary_resources": 643,
+  "preserved_non_target_fsts_members": 0,
+  "pmf_movies_preserved": 24,
+  "font_mapping_preserved": "694+17",
+  "new_glyphs_added": 0,
+  "remaining_keyword_japanese_strings": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "REQUIRED",
+  "notes": [
+    "SUB43 runtime showed Japanese/mixed donor-glyph text in mode descriptions, option help, wireless menu, and exit prompt.",
+    "This stage patches only exact NUL-terminated BOOT UI strings that safely fit their original slots.",
+    "Unmapped/unknown menu images such as mugen mission-card artwork and other non-selected UI remain pending."
+  ]
+}

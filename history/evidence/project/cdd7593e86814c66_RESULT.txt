@@ -1,0 +1,4 @@
+SUB52R: read-only historical dump inspection.
+An exact flipped Korean name dump confirms this image existed in PPSSPP textures at some time.
+It does NOT prove the current Japanese HUD uses that image.
+Small 16x32/32x32 textures are catalogued for glyph review, not labeled as proven fonts.

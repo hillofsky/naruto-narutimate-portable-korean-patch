@@ -1,0 +1,17 @@
+Naruto PSP MOV02 - KR PMF <-> US localized PMF pairing
+============================================================================
+
+Candidates=21
+US *e usable SAME_VIDEO_HIGH/MEDIUM=20/21
+US *e classification: POSSIBLE=1, SAME_VIDEO_HIGH=20
+US same-name classification: POSSIBLE=1, SAME_VIDEO_HIGH=20
+
+Interpretation:
+- scene_score is computed with the bottom subtitle band removed.
+- full_score includes subtitles and may be worse when localized text differs.
+- SAME_VIDEO_HIGH/MEDIUM means the localized PMF can provide direct subtitle timing.
+
+Next gate:
+- Visually review KR vs US-e verification images.
+- If US-e counterparts are the same movie, stop trying to map DM to YouTube.
+- Next step becomes subtitle-event extraction from the localized PMFs, then Korean burn-in on KR PMFs.

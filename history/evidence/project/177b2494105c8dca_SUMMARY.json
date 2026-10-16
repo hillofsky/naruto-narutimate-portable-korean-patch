@@ -1,0 +1,14 @@
+{
+  "stage": "SUB51K_RESIDUAL_UI_SWEEP",
+  "source_sub51j_sha256": "e8731e1b6eaceae47f765137ab1e40ebced1ad9637e44013b06ad19b17ba3556",
+  "candidate_resources": 15,
+  "resources_with_supported_textures": 15,
+  "texture_records": 296,
+  "contact_sheets": 15,
+  "contact_sheet_bytes": 3999335,
+  "game_data_modified": false,
+  "ppsspp_executed": false,
+  "bc250_used": false,
+  "local_llm_used": false,
+  "next": "Upload success ZIP. ChatGPT will visually inspect the contact sheets and patch only confirmed residual Japanese UI."
+}

@@ -1,0 +1,17 @@
+{
+  "stage": "SUB38_MULTI_SPEAKER_NAME_PROBE",
+  "source_iso_sha256": "789984d99ee7003e2ddfebaaf1e80236d64459065ef27e29ca9c78e0cd24aa3f",
+  "probe_iso": "PROJECT_ROOT\\analysis\\sub\\sub38_multi_speaker_name_probe\\Naruto_KR_SUB38_MultiSpeakerNamesProbe.iso",
+  "probe_iso_sha256": "8a73ed21255cce623a219a487e2b3820cfad59cd00b729e45fc35e6f12621ccf",
+  "standalone_name_candidates": 76,
+  "standalone_name_patched": 68,
+  "standalone_name_skipped": 8,
+  "savestates_found": 30,
+  "slot1_hints": 29,
+  "slot1_state_copied": "PROJECT_ROOT\\analysis\\sub\\sub38_multi_speaker_name_probe\\slot1_state\\ULKS46086_1.00_0.ppst",
+  "ppsspp_ini_found": 1,
+  "texture_assets_found": 0,
+  "new_texture_dumps": 0,
+  "movie_pmfs_preserved": 24,
+  "runtime_probe_required": true
+}

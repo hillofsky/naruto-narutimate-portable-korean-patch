@@ -1,0 +1,21 @@
+{
+  "stage": "SUB18",
+  "mode": "READ_ONLY_INVENTORY",
+  "tbl_root": "PROJECT_ROOT\\analysis\\stage3\\extracted\\kr",
+  "tbl_files": 46,
+  "game_msg_like_rows": 1,
+  "game_msg_commands": {
+    "��p��G�%�Sf�Q}�`@\u0016�MSgg?}\u0019Z\u001eA\fd\u0003\u0016G2\u000b\u0015{C#��]�`�\u0016G��\u0012:C��YMtFV%@BB+p��D\u000e>W��B�}�F�": 1
+  },
+  "game_unique_speaker_codes": 0,
+  "sub09_rows": 1900,
+  "sub09_dialogue": 1762,
+  "sub09_narration": 138,
+  "count_delta_game_minus_subtitle": -1899,
+  "direct_global_order_alignment_candidate": false,
+  "subtitle_video_parts": {
+    "part1": 1343,
+    "part2": 557
+  },
+  "note": "No mapping or patch was produced; order preview is diagnostic only."
+}

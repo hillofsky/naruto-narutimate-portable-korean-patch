@@ -1,0 +1,32 @@
+{
+  "stage": "SUB46_UI_CLEANUP_DISCOVERY",
+  "source_iso": "PROJECT_ROOT\\analysis\\sub\\sub45_menu_followup\\Naruto_KR_MOV06E_SUB45_MenuFollowup.iso",
+  "source_iso_sha256": "d2d913344aeb83bed9ac16910fdbe2371996eba58f376c981e29e9c1a92dae41",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub46_ui_cleanup_discovery\\Naruto_KR_MOV06E_SUB46_UICleanup.iso",
+  "final_iso_size": 1164349440,
+  "final_iso_sha256": "d3db7466c1bd0df72e093e81f02fcc200a22e23ffc25ab7ce84307e9230d6c07",
+  "boot_or_resource_text_patches": 12,
+  "skipped_unmapped": 0,
+  "changed_primary_resources": [
+    "mugen.tbl"
+  ],
+  "network_ccs_found": true,
+  "option_ccs_found": true,
+  "discovery_textures": 2,
+  "fsts_bundles_changed": [
+    "mugen0",
+    "mugen1"
+  ],
+  "preserved_non_target_primary_resources": 643,
+  "preserved_non_target_fsts_members": 10,
+  "pmf_movies_preserved": 24,
+  "font_mapping_preserved": "694+17",
+  "new_glyphs_added": 0,
+  "compact_rebuild": true,
+  "static_qa": "PASS",
+  "runtime_qa": "REQUIRED",
+  "known_pending": [
+    "Wireless menu image if TEX_network contains the Japanese menu labels.",
+    "Option difficulty atlas UV/layout remains pending until extracted/current texture is reviewed."
+  ]
+}

@@ -1,0 +1,10 @@
+SUB51O FIX4 contact collection
+Read-only / no PPSSPP / no ISO modification
+Exact contacts found=5
+Nearby PNG copied=69
+
+PROJECT_ROOT\analysis\sub\sub51k_residual_ui_sweep\contact_sheets\gauge_contact.png
+PROJECT_ROOT\analysis\sub\sub51k_residual_ui_sweep\contact_sheets\cmnselect_contact.png
+PROJECT_ROOT\analysis\sub\sub51k_residual_ui_sweep\contact_sheets\title_contact.png
+PROJECT_ROOT\analysis\sub\sub51k_residual_ui_sweep\contact_sheets\modesel1_contact.png
+PROJECT_ROOT\analysis\sub\sub51k_residual_ui_sweep\contact_sheets\option_contact.png

@@ -1,0 +1,12 @@
+Naruto PSP SUB51G - Mode Select Style Rebuild
+
+SourceSUB51D_SHA256=7138f8c35bacaafab85ff50c12daf0620030cb9b44e7b7bf242168c20c91e845
+FinalISO=PROJECT_ROOT\analysis\sub\sub51g_modesel1_style_rebuild\Naruto_KR_MOV06E_SUB51G_ModeSelectStyled.iso
+FinalSHA256=d06152d10691852c9cacd7097a29404f3e0175345b45b5b74d0f66054a6eb85b
+TexturesChanged=7
+FSTSBundlesRebuilt=1
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=DEFERRED
+BC250Used=NO
+LocalLLMUsed=NO

@@ -1,0 +1,21 @@
+Naruto PSP Stage38F - PMF Movie Inventory
+Timestamp: 2026-10-02 20:43:11
+Result: SUCCESS
+
+KR PMF count=24
+Expected KR count=22
+Subtitle candidates=21
+Logo/non-subtitle candidates=3
+Probe metadata available=24/24
+Thumbnails OK=72/72
+Candidate total duration sec=1,603.401
+Candidate total duration=26:43.0000.401
+
+KR movie dir=PROJECT_ROOT\kr_extracted\PSP_GAME\USRDIR\movie
+US movie dir=PROJECT_ROOT\us_extracted\PSP_GAME\USRDIR\movie
+ffprobe=LOCAL_PATH
+ffmpeg=LOCAL_PATH
+
+Next:
+Use movie_inventory.tsv + thumbnails to identify DA/DK/DM contents,
+then map YouTube OCR timeline to each PMF for Stage39B subtitle alignment.

@@ -1,0 +1,24 @@
+Naruto PSP MOV03 FIX2 - Exact 40px Japanese subtitle segment extraction
+============================================================================
+
+Analysis FPS=10
+Subtitle crop=bottom 40px / centered 90% width
+Movies in MOV02 pairing=21
+Automatic subtitle segments=175
+US-e representative subtitle bands CLEAN=150
+US-e representative subtitle bands TEXT_PRESENT=25
+Segments <=0.5 sec=29
+Segments >=8.0 sec=0
+SPECIAL_CREDITS movies=2
+Pair unresolved movies skipped=0
+
+Special credits skipped: dk102.pmf, dk202.pmf
+
+Handoff:
+PROJECT_ROOT\analysis\shared\mov_subtitle_segments.tsv
+
+Next:
+1) Review segment crops / false splits.
+2) SUB track OCR/translates kr_sub_image -> korean_text.
+3) MOV track burns korean_text onto the clean US-e visual stream.
+4) Final stage restores/uses the KR audio stream while building PSP PMF.

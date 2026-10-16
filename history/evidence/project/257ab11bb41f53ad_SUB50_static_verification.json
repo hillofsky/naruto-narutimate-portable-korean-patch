@@ -1,0 +1,23 @@
+{
+  "stage": "SUB50_MUGEN_ATLAS_SURGICAL_RESTORE",
+  "source_sub49_sha256": "5ace9a1a17cd978579c79abf141bda7e5448c58fcc3638182c2525453fd9bad9",
+  "donor_sub36_sha256": "789984d99ee7003e2ddfebaaf1e80236d64459065ef27e29ca9c78e0cd24aa3f",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub50_mugen_atlas_surgical_restore\\Naruto_KR_MOV06E_SUB50_MugenAtlasRestore.iso",
+  "final_iso_size": 1186813952,
+  "final_iso_sha256": "5a750d02fc701c110106711dedfc3e19b34b32f1833ccbef811f3d55441f87b9",
+  "target_resource": "mugen.ccs",
+  "restored_texture_payloads": [
+    "TEX_red",
+    "TEX_white"
+  ],
+  "mugen_decoded_changed_bytes": 22183,
+  "changes_outside_target_payloads": 0,
+  "whole_mugen_other_data_preserved_from_sub49": true,
+  "boot_preserved_from_sub49": true,
+  "preserved_non_target_primary_resources": 643,
+  "preserved_non_target_fsts_members": 10,
+  "pmf_movies_preserved": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "REQUIRED",
+  "note": "Only TEX_red/TEX_white texture index payload bytes were restored from SUB36."
+}

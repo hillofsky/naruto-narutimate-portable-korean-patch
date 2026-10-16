@@ -1,0 +1,23 @@
+Naruto PSP SUB20 - 3-Variant Structural Dialogue Alignment
+
+GameDialogueLikeRows=1976
+SubtitleEventWindowDialogueRows=1761
+StructuralHighAnchors=1490
+NeedsSemanticReviewRows=271
+AmbiguousBlocks=107
+GameRowsSkippedByAllVariants=126
+
+OpeningAnchor=SUB09#19 -> event000.tbl#001
+ClosingAnchor=SUB09#1883 -> event112.tbl#122
+
+Alignment-only speaker handling:
+  이도 -> 이노 (source SUB09 is NOT modified)
+  SN1/SNS apparition labels allow 사념제/사념체 aliases
+  blank game speaker is a low-cost wildcard
+
+IMPORTANT:
+  STRUCTURAL_HIGH means all 3 speaker/order DPs chose the same
+  explicit-speaker 1:1 game row. It is NOT yet semantic proof.
+  All remaining rows must be reviewed using JP/KO context before patching.
+
+No TBL/DAT/BOOT/ISO files were modified.

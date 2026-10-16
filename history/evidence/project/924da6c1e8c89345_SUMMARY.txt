@@ -1,0 +1,25 @@
+Naruto PSP SUB27 - Manual Semantic Topology Resolution
+
+ExceptionBlocksResolved=177
+MappingUnits=253
+RelationCounts={"1G1S": 134, "1G_TO_2S": 78, "1G_TO_3S": 3, "2G_TO_1S": 12, "ANCHOR_SPLIT_1G_TO_2S": 10, "UNVOICED_1G1S": 16}
+OCRPartialDrops=6
+VideoOnlySubtitles=1
+AnchorOverrideUnits=10
+
+StableBaseGameRows=1417
+MappedGameRowsTotal=1672/1976
+UnmappedGameRows=304
+UnmappedVoiced=167
+UnmappedUnvoiced=137
+ExceptionCandidateUnmapped=162
+
+Intentional speaker-label correction:
+  SUB09 #1592 is labeled Kakashi in OCR, but JP/EN/game speaker proves Jiraiya.
+
+IMPORTANT:
+  All 177 exception blocks now have semantic topology decisions.
+  This stage does NOT yet split/merge Korean wording into final per-MSG text
+  and does NOT translate the 304 game rows without a SUB09 semantic mapping.
+
+No TBL/DAT/BOOT/ISO files were modified.

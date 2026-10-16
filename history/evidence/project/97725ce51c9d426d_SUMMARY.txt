@@ -1,0 +1,17 @@
+Naruto SUB51N FIX6 Pressed Runtime QA
+
+ISO=PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso
+ActualSHA256=8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081
+SummarySHA256=8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081
+SummaryPath=PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build\SUMMARY.txt
+SummarySHAMatch=True
+KOPressedFrames=32
+JapaneseISO=NOT_FOUND
+JPPressedFrames=0
+RuntimeReadyGate=RESUME_THEN_PAUSE_SCREENSHOT_RESUME
+NormalBoot=YES
+OldSaveStateVisualQA=NO
+GameDataModified=NO
+STARTSpam=NO
+MenuReachProof=BIDIRECTIONAL_DOWN_UP_LOCALIZED_RESPONSE
+RuntimeQAStatus=CAPTURE_COMPLETE_NEEDS_VISUAL_JUDGEMENT

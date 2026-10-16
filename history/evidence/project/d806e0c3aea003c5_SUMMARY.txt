@@ -1,0 +1,12 @@
+Naruto SUB52B static text-table sweep
+
+stage=SUB52B_STATIC_TEXT_TABLE_SWEEP
+source_iso=PROJECT_ROOT\Naruto_KR_MOV06E_SUB51P_FIX13_FullAtlas.iso
+source_sha256=1029c34956e23d4eee229a40e995f502fa8a2f249487f16de7fb72869d210cdb
+candidate_entries=46
+filtered_japanese_runs=4896
+exact_target_hits=56
+gameplay_used=False
+ppsspp_used=False
+
+Unlike SUB52A, this scanner does not decode arbitrary CCS/model/audio bytes as text.

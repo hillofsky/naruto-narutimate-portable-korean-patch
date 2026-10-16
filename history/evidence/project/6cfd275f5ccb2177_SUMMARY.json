@@ -1,0 +1,13 @@
+{
+  "stage": "SUB52A_FULL_STATIC_ASSET_SWEEP",
+  "source_iso": "PROJECT_ROOT\\Naruto_KR_MOV06E_SUB51P_FIX13_FullAtlas.iso",
+  "source_sha256": "1029c34956e23d4eee229a40e995f502fa8a2f249487f16de7fb72869d210cdb",
+  "primary_entries": 663,
+  "fsts_rows": 122,
+  "extracted_texture_pngs": 2623,
+  "static_japanese_string_hits": 14799364,
+  "existing_ko_candidate_pngs": 345,
+  "failed_texture_extracts": 0,
+  "gameplay_used": false,
+  "ppsspp_used": false
+}

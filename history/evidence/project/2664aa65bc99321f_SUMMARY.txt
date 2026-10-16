@@ -1,0 +1,20 @@
+Naruto PSP SUB46 - UI Cleanup + Network Discovery
+
+SourceSHA256=d2d913344aeb83bed9ac16910fdbe2371996eba58f376c981e29e9c1a92dae41
+FinalISO=PROJECT_ROOT\analysis\sub\sub46_ui_cleanup_discovery\Naruto_KR_MOV06E_SUB46_UICleanup.iso
+FinalSHA256=d3db7466c1bd0df72e093e81f02fcc200a22e23ffc25ab7ce84307e9230d6c07
+FinalSize=1164349440
+TextPatches=12
+SkippedUnmapped=0
+ChangedPrimaryResources=mugen.tbl
+NetworkCCSFound=True
+OptionCCSFound=True
+DiscoveryTextures=2
+FSTSChangedBundles=2
+PreservedPrimaryResources=643
+PreservedPMFs=24
+FontMappingPreserved=694+17
+NewGlyphsAdded=0
+CompactRebuild=YES
+StaticQA=PASS
+RuntimeQA=REQUIRED

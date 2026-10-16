@@ -1,0 +1,17 @@
+Naruto PSP SUB22 - Audio Anchor Readiness
+
+FFmpeg=LOCAL_PATH
+FFprobe=LOCAL_PATH
+MediaCandidates=110
+Part1Candidate=PROJECT_ROOT\analysis\stage37\video\source_video.mp4
+Part2Candidate=PROJECT_ROOT\analysis\stage37\video\part2.mp4
+VoiceDecodeSuccess=5/5
+PilotMatchesCompleted=3/3
+DriftTrueMinusWrongRawNCC=+0.252190
+Readiness=READY_FOR_FULL_AUDIO_ALIGNMENT
+
+Known semantic correction:
+  SUB09 #164 = event003#047 / s_a06_043
+  NOT event004#012 / s_a07_013.
+
+No game files were modified.

@@ -1,0 +1,16 @@
+{
+  "stage": "SUB41",
+  "iso": "PROJECT_ROOT\\analysis\\sub\\sub41_names_guides_menu\\Naruto_KR_MOV06E_SUB41_Names_Guides_Menu.iso",
+  "iso_sha256": "5a1c96203169e0c442dedf14b0a01e91e3995fddc5a1a38a165ca7b79723b305",
+  "speaker_names": 36,
+  "tutorial_rows": 44,
+  "menu_image_labels": 12,
+  "preserved_primary_resources": 642,
+  "preserved_pmf_movies": 24,
+  "preserved_other_fsts_members": true,
+  "existing_694_glyph_mapping_preserved": true,
+  "new_safe_glyphs": 17,
+  "static_qa": "PASS",
+  "runtime_qa": "pending",
+  "source_iso_sha256": "789984d99ee7003e2ddfebaaf1e80236d64459065ef27e29ca9c78e0cd24aa3f"
+}

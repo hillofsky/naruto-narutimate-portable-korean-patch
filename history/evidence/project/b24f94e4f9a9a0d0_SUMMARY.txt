@@ -1,0 +1,26 @@
+Naruto PSP MOV03H - DM map extension + unreferenced voice bank scan
+==============================================================================
+
+Grounded correction:
+- Selector arrays at 0x004BD698 / 0x004BD6A8 are treated as runtime BSS.
+- No state->selector mapping is fabricated from BOOT file bytes.
+
+Primary PMF entries=24
+Group14 consecutive valid PMF map prefix=10 selectors
+DM entries observed in extended group14 map=10
+DM sequence=dm001, dm002, dm003, dm004, dm005, dm006, dm007, dm008, dm009, dm010
+Selector-BSS static code xrefs=18
+
+Distinct TBL-referenced voice IDs=1820
+Voice AT3 files enumerated=1946
+Voice AT3 files never referenced by any decoded TBL=126
+Voice banks with >=2 files and ZERO TBL references=3
+
+Interpretation:
+- If group14 selectors 0..9 resolve to dm001..dm010, the static
+  selector->movie mapping is complete even though state->selector remains runtime BSS.
+- movie_voice_bank_candidates.tsv is the strongest no-gameplay lead for
+  external movie dialogue: these banks exist on disc but are absent from all
+  decoded ordinary TBL scripts.
+- Absence from TBL is evidence of a separate use path, not by itself proof
+  that a bank belongs to a specific DM movie.

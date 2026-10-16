@@ -1,0 +1,11 @@
+Naruto PSP MOV04D
+================================================================================
+
+RESULT=NO PATCH
+MOV03T base ISO was NOT modified.
+No integrated ISO was created.
+
+Files exceeding current allocation:
+  da101.pmf, dk202.pmf
+
+See iso_patch_report.tsv.

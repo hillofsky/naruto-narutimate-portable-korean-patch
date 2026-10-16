@@ -1,0 +1,23 @@
+Naruto PSP SUB30 - Korean Translation Runtime Smoke
+
+BuildValidation=PASS
+VisualRuntimeValidation=PENDING
+SmokeEvent=event000.tbl
+SmokeRows=1..24
+SmokeRowCount=24
+SpacePolicy=ASCII U+0020 -> native U+3000 / SJIS 81 40
+EncodedASCII20Count=0
+OriginalEvent000Native8140Count=16
+
+Stage14DAT_SHA256=c26a1fe222fb66955d0fbc3cff39a15fbf6fad2b14bb5cb11c9801f8f69fca7a
+Stage14IDX_SHA256=ba51776da388dbdd1953b4450271780c93d18d174cc33697e75eeadd607926ee
+FinalISO_SHA256=a6f2b109a698e135ecf2bfa1329f74a9ff74391d95e374a1c87f8c98b6e23ee3
+FinalISO=PROJECT_ROOT\Naruto - SUB30 FIX1 Korean Translation Runtime Smoke.iso
+
+EmbeddedBOOTMatch=YES
+EmbeddedDATMatch=YES
+EmbeddedIDXMatch=YES
+
+Next:
+  Run the ISO in PPSSPP and visually verify event000 messages #1..#24.
+  Do not batch-patch all 39 event TBLs until this smoke is visually accepted.

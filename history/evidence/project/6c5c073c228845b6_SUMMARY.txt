@@ -1,0 +1,25 @@
+Naruto PSP MOV03D - All TBL movie / voice linkage scan
+============================================================================
+
+QuickBMS mode=FILTERED
+Extracted TBL paths=46
+Unique TBL blobs=46
+Decoded/scanned=46
+Decode failures=0
+MOVIE command hits=10
+Distinct MOVIE values=9: da101, da102, da103, da201, dk102, dk103, dk104, dk202, dk203
+DM direct MOVIE hits=0/10: (none)
+Known DA/DK/DM values found=9/21
+Bare DA/DK/DM token hits=10
+Voice ID references=1811
+
+Codec used:
+  " 3;1" = XOR 0x72 + 4096-byte LZSS, ring=0xFEE, LSB flags,
+             offset=b1|((b2&0xF0)<<4), length=(b2&0x0F)+3
+  " 3;0" = payload XOR 0x72
+
+Interpretation:
+- A DM hit in movie_commands.tsv gives the direct table/section controlling that PMF.
+- movie_nearby_voice_refs.tsv lists the nearest s_a*/s_b* voice IDs in the same script.
+- If no DM token exists in ANY TBL, DM playback is controlled outside text TBL scripts
+  and the next target should be the BOOT.BIN movie dispatcher / call-site arguments.

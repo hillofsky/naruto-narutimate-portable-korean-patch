@@ -1,0 +1,337 @@
+{
+  "0002__1anbbod1.ccs__004__TEX_name__256x128__0x14.png": {
+    "resource": "1anbbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "암부 카카시"
+  },
+  "0004__1dtubod1.ccs__003__TEX_name__256x128__0x14.png": {
+    "resource": "1dtubod1.ccs",
+    "texture": "TEX_name",
+    "translation": "카자하나 도토"
+  },
+  "0005__1forbod1.ccs__004__TEX_name__256x128__0x14.png": {
+    "resource": "1forbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "봉인 오로치마루"
+  },
+  "0006__1garbod1.ccs__003__TEX_name__256x128__0x14.png": {
+    "resource": "1garbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "사막의 가아라"
+  },
+  "0007__1guybod1.ccs__003__TEX_name__256x128__0x14.png": {
+    "resource": "1guybod1.ccs",
+    "texture": "TEX_name",
+    "translation": "마이트 가이"
+  },
+  "0008__1hakbod1.ccs__004__TEX_name__64x64__0x14.png": {
+    "resource": "1hakbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "하쿠"
+  },
+  "0009__1hkgbod1.ccs__003__TEX_name__256x128__0x14.png": {
+    "resource": "1hkgbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "3대 호카게"
+  },
+  "0010__1hntbod1.ccs__006__TEX_name__256x128__0x14.png": {
+    "resource": "1hntbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "휴우가 히나타"
+  },
+  "0011__1hnxbod1.ccs__003__TEX_name__256x128__0x14.png": {
+    "resource": "1hnxbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "종가 히나타"
+  },
+  "0012__1inobod1.ccs__003__TEX_name__128x128__0x14.png": {
+    "resource": "1inobod1.ccs",
+    "texture": "TEX_name",
+    "translation": "야마나카 이노"
+  },
+  "0013__1itcbod1.ccs__006__TEX_name__256x128__0x14.png": {
+    "resource": "1itcbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "우치하 이타치"
+  },
+  "0014__1jrybod1.ccs__003__TEX_name__128x128__0x14.png": {
+    "resource": "1jrybod1.ccs",
+    "texture": "TEX_name",
+    "translation": "지라이야"
+  },
+  "0015__1kbtbod1.ccs__003__TEX_name__256x128__0x14.png": {
+    "resource": "1kbtbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "야쿠시 카부토"
+  },
+  "0016__1kibbod1.ccs__003__TEX_name__256x128__0x14.png": {
+    "resource": "1kibbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "이누즈카 키바"
+  },
+  "0017__1kksbod1.ccs__004__TEX_name__256x128__0x14.png": {
+    "resource": "1kksbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "하타케 카카시"
+  },
+  "0018__1knkbod1.ccs__006__TEX_name__256x128__0x14.png": {
+    "resource": "1knkbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "칸쿠로"
+  },
+  "0019__1ksmbod1.ccs__003__TEX_name__128x128__0x14.png": {
+    "resource": "1ksmbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "호시가키 키사메"
+  },
+  "0020__1nejbod1.ccs__003__TEX_name__128x128__0x14.png": {
+    "resource": "1nejbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "휴우가 네지"
+  },
+  "0023__1nrxbod1.ccs__005__TEX_name__256x128__0x14.png": {
+    "resource": "1nrxbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "구미의 나루토"
+  },
+  "0024__1nrzbod1.ccs__003__TEX_name__128x128__0x14.png": {
+    "resource": "1nrzbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "푸른 맹수"
+  },
+  "0025__1orcbod1.ccs__004__TEX_name__128x128__0x14.png": {
+    "resource": "1orcbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "오로치마루"
+  },
+  "0026__1rocbod1.ccs__004__TEX_name__256x128__0x14.png": {
+    "resource": "1rocbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "록 리"
+  },
+  "0029__1sinbod1.ccs__003__TEX_name__128x128__0x14.png": {
+    "resource": "1sinbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "아부라메 시노"
+  },
+  "0030__1skrbod1.ccs__003__TEX_name__256x128__0x14.png": {
+    "resource": "1skrbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "하루노 사쿠라"
+  },
+  "0031__1sskbod1.ccs__005__TEX_name__256x128__0x14.png": {
+    "resource": "1sskbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "우치하 사스케"
+  },
+  "0032__1sznbod1.ccs__003__TEX_name__128x128__0x14.png": {
+    "resource": "1sznbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "시즈네"
+  },
+  "0033__1tenbod1.ccs__003__TEX_name__128x128__0x14.png": {
+    "resource": "1tenbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "텐텐"
+  },
+  "0034__1tmrbod1.ccs__003__TEX_name__128x128__0x14.png": {
+    "resource": "1tmrbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "테마리"
+  },
+  "0035__1tndbod1.ccs__004__TEX_name__128x128__0x14.png": {
+    "resource": "1tndbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "츠나데"
+  },
+  "0036__1tyobod1.ccs__003__TEX_name__256x128__0x14.png": {
+    "resource": "1tyobod1.ccs",
+    "texture": "TEX_name",
+    "translation": "아키미치 쵸지"
+  },
+  "0037__1zbzbod1.ccs__003__TEX_name__256x128__0x14.png": {
+    "resource": "1zbzbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "모모치 자부자"
+  },
+  "0183__eff3eye.ccs__026__TEX_xwinner__128x64__0x13.png": {
+    "resource": "eff3eye.ccs",
+    "texture": "TEX_xwinner",
+    "translation": "승자"
+  },
+  "0319__mgselect.ccs__018__TEX_xwinner__128x64__0x13.png": {
+    "resource": "mgselect.ccs",
+    "texture": "TEX_xwinner",
+    "translation": "승자"
+  },
+  "0214__gauge.ccs__014__TEX_white__256x128__0x14.png": {
+    "resource": "gauge.ccs",
+    "texture": "TEX_white",
+    "translation": "full Korean controls"
+  },
+  "0319__mgselect.ccs__015__TEX_mgselect__512x64__0x13.png": {
+    "resource": "mgselect.ccs",
+    "texture": "TEX_mgselect",
+    "translation": "준비/시작/스타트/종료/골"
+  },
+  "0319__mgselect.ccs__016__TEX_mgselect3__512x256__0x13.png": {
+    "resource": "mgselect.ccs",
+    "texture": "TEX_mgselect3",
+    "translation": "Korean labels"
+  },
+  "0320__sik_pose.ccs__014__TEX_mg_p01__256x32__0x14.png": {
+    "resource": "sik_pose.ccs",
+    "texture": "014",
+    "translation": "목표 달성까지"
+  },
+  "0320__sik_pose.ccs__018__TEX_mgtitle04__256x64__0x14.png": {
+    "resource": "sik_pose.ccs",
+    "texture": "018",
+    "translation": "그림자 흉내 수련!"
+  },
+  "0320__sik_pose.ccs__019__TEX_sik_txt__256x64__0x14.png": {
+    "resource": "sik_pose.ccs",
+    "texture": "TEX_sik_txt",
+    "translation": "2 instruction lines"
+  },
+  "0322__slot.ccs__007__TEX_slot_pop1__256x128__0x14.png": {
+    "resource": "slot.ccs",
+    "texture": "TEX_slot_pop1",
+    "translation": "Korean instructions"
+  },
+  "0322__slot.ccs__010__TEX_slot_tex01__128x64__0x13.png": {
+    "resource": "slot.ccs",
+    "texture": "TEX_slot_tex01",
+    "translation": "bonus labels"
+  },
+  "0322__slot.ccs__011__TEX_slot_title__512x64__0x14.png": {
+    "resource": "slot.ccs",
+    "texture": "TEX_slot_title",
+    "translation": "슬롯머신"
+  },
+  "0373__mugen.ccs__000__TEX_blue__256x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_blue",
+    "translation": "Korean quiz labels"
+  },
+  "0373__mugen.ccs__007__TEX_hanyou__256x256__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_hanyou",
+    "translation": "Korean generic labels"
+  },
+  "0373__mugen.ccs__072__TEX_st_gar__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_gar",
+    "translation": "가아라"
+  },
+  "0373__mugen.ccs__073__TEX_st_guy__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_guy",
+    "translation": "가이"
+  },
+  "0373__mugen.ccs__074__TEX_st_hkg__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_hkg",
+    "translation": "3대 호카게"
+  },
+  "0373__mugen.ccs__075__TEX_st_hnt__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_hnt",
+    "translation": "히나타"
+  },
+  "0373__mugen.ccs__076__TEX_st_ino__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_ino",
+    "translation": "이노"
+  },
+  "0373__mugen.ccs__077__TEX_st_itc__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_itc",
+    "translation": "이타치"
+  },
+  "0373__mugen.ccs__078__TEX_st_jry__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_jry",
+    "translation": "지라이야"
+  },
+  "0373__mugen.ccs__079__TEX_st_kbt__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_kbt",
+    "translation": "카부토"
+  },
+  "0373__mugen.ccs__080__TEX_st_kib__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_kib",
+    "translation": "키바"
+  },
+  "0373__mugen.ccs__081__TEX_st_kks__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_kks",
+    "translation": "카카시"
+  },
+  "0373__mugen.ccs__082__TEX_st_ksm__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_ksm",
+    "translation": "키사메"
+  },
+  "0373__mugen.ccs__083__TEX_st_nej__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_nej",
+    "translation": "네지"
+  },
+  "0373__mugen.ccs__084__TEX_st_nrt__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_nrt",
+    "translation": "나루토"
+  },
+  "0373__mugen.ccs__085__TEX_st_orc__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_orc",
+    "translation": "오로치마루"
+  },
+  "0373__mugen.ccs__086__TEX_st_roc__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_roc",
+    "translation": "록 리"
+  },
+  "0373__mugen.ccs__087__TEX_st_sik__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_sik",
+    "translation": "시카마루"
+  },
+  "0373__mugen.ccs__088__TEX_st_sin__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_sin",
+    "translation": "시노"
+  },
+  "0373__mugen.ccs__089__TEX_st_skr__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_skr",
+    "translation": "사쿠라"
+  },
+  "0373__mugen.ccs__090__TEX_st_ssk__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_ssk",
+    "translation": "사스케"
+  },
+  "0373__mugen.ccs__091__TEX_st_szn__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_szn",
+    "translation": "시즈네"
+  },
+  "0373__mugen.ccs__092__TEX_st_ten__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_ten",
+    "translation": "텐텐"
+  },
+  "0373__mugen.ccs__093__TEX_st_tnd__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_tnd",
+    "translation": "츠나데"
+  },
+  "0373__mugen.ccs__094__TEX_st_tyo__128x128__0x13.png": {
+    "resource": "mugen.ccs",
+    "texture": "TEX_st_tyo",
+    "translation": "쵸지"
+  }
+}

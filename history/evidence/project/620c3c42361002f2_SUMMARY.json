@@ -1,0 +1,36 @@
+{
+  "stage": "SUB52J_UV_SAFE_ATLAS",
+  "source_iso": "PROJECT_ROOT\\analysis\\sub\\sub52i_p0_rollback_fix1\\Naruto_KR_MOV06E_SUB52I_P0_Rollback_FIX1.iso",
+  "source_sha256": "e67cbaca44abe4145a2ba97d52c6eebe32690373394b4925eced0cb486a380b9",
+  "donor_iso": "PROJECT_ROOT\\Naruto_KR_MOV06E_SUB52D2_FIX2_StaticText.iso",
+  "donor_sha256": "46a2e934a4f6fc44585fac31b68735f04e182d4392251db76c89050c0b9de5d0",
+  "output_iso": "PROJECT_ROOT\\analysis\\sub\\sub52j_safe_atlas\\Naruto_KR_MOV06E_SUB52J_SafeAtlas.iso",
+  "output_sha256": "2e6cb2e577ddeebe07453ec56f07f72422a6b3b20001987c253a5468658f5a05",
+  "texture_resources_changed": 2,
+  "atlas_cell_changes": [
+    {
+      "resource": "mgselect.ccs",
+      "texture": "TEX_mgselect3",
+      "png": "PROJECT_ROOT\\sub52j_assets\\mgselect__TEX_mgselect3__SUB52J.png",
+      "rect_count": 20,
+      "changed_pixels": 27495,
+      "offrect_changed_pixels": 0,
+      "payload_sha256": "d93d45c19af5dc653473b2b3f8f8693998e06d8991c46eb0bb3e3da57f04d09d"
+    },
+    {
+      "resource": "mugen.ccs",
+      "texture": "TEX_hanyou",
+      "png": "PROJECT_ROOT\\sub52j_assets\\mugen__TEX_hanyou__SUB52J.png",
+      "rect_count": 1,
+      "changed_pixels": 925,
+      "offrect_changed_pixels": 0,
+      "payload_sha256": "ce103d83c3c9a4a3d1712e3b15f83711d1c3c76470a7665240c858d4eb84a0b8"
+    }
+  ],
+  "mugen_tbl_uv_preserved": true,
+  "pmfs_preserved": 24,
+  "boot_eboot_preserved": true,
+  "static_qa": "PASS",
+  "runtime_qa": "PENDING",
+  "scope": "scroll title clipped and tree-climb stray counter unit; other issues remain pending"
+}

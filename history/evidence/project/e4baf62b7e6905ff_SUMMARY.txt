@@ -1,0 +1,19 @@
+Naruto PSP MOV03U - dk101 early final-PMF smoke test
+================================================================================
+
+RESULT=PASS
+
+Temporary test substitution:
+  dk101.pmf slot -> MOV03S final dm001.pmf
+
+What this tests in-game:
+  PSP PMF container compatibility
+  Korean burned subtitle playback
+  KR original Japanese ATRAC3+ playback
+  video/audio synchronization
+  return-to-game behavior after the movie ends
+
+This ISO is ONLY for smoke testing.
+The normal MOV03T ISO remains untouched.
+
+Output ISO=PROJECT_ROOT\analysis\mov\mov03u_dk101_smoketest\output\Naruto_KR_MOV03U_dk101_as_dm001_smoketest.iso

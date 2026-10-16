@@ -1,0 +1,14 @@
+Naruto PSP SUB38 - Multi Speaker Name Probe
+
+StandaloneNameCandidates=76
+StandaloneNamePatched=68
+StandaloneNameSkipped=8
+SaveStatesFound=30
+Slot1Hints=29
+Slot1StateCopied=YES
+PPSSPPIniFound=1
+TextureAssetsFound=0
+NewTextureDumps=0
+MoviePMFsPreserved=24
+StaticBuildQA=PASS
+RuntimeSpeakerNameVisualCheck=REQUIRED

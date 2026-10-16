@@ -1,0 +1,33 @@
+Naruto PSP SUB29 - Completed Korean Draft Validation
+
+GameRows=1976
+TranslationTaskUnitsCompleted=407
+SourceCounts={"SUB28_REUSE": 1554, "SUB28_REUSE_FIX": 3, "SUB29_DIRECT": 304, "SUB29_TOPOLOGY_REWRITE": 115}
+
+ControlNormalizedRows=728
+ControlExactRows=1976
+ControlMismatches=0
+
+RuntimeEncodingPass=1976
+RuntimeEncodingFail=0
+FrozenFontMappingRows=694
+FinalUniqueHangul=673
+NewHangulRequired=0
+
+OriginalPayloadBytesTotal=67474
+FinalPayloadBytesTotal=61562
+TotalPayloadDeltaBytes=-5912
+FinalPayloadMax=112
+RowsGrowing=439
+RowsSameSize=148
+RowsShrinking=1389
+
+Patcher conclusion:
+  no original-message max_bytes rule is present in Stage14;
+  resource sizes and offsets are rebuilt with new values.
+
+Next:
+  build a SMALL translated runtime smoke first, then patch all 39 event TBLs
+  only after visual/runtime validation.
+
+No TBL/DAT/BOOT/ISO files were modified in SUB29.

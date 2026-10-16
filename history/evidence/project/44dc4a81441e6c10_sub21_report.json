@@ -1,0 +1,26 @@
+{
+  "stage": "SUB21",
+  "mode": "READ_ONLY_SEMANTIC_REVIEW_BUNDLE",
+  "ambiguous_blocks": 157,
+  "subtitle_rows_to_review": 423,
+  "candidate_game_rows_emitted": 576,
+  "candidate_rows_per_block": {
+    "min": 1,
+    "max": 25,
+    "mean": 3.6687898089171975
+  },
+  "cross_event_blocks": 19,
+  "candidate_rows_with_unique_us_voice_match": 477,
+  "candidate_rows_without_us_voice_match": 98,
+  "packet_files": [
+    "sub21_review_packet_001_025.txt",
+    "sub21_review_packet_026_050.txt",
+    "sub21_review_packet_051_075.txt",
+    "sub21_review_packet_076_100.txt",
+    "sub21_review_packet_101_125.txt",
+    "sub21_review_packet_126_150.txt",
+    "sub21_review_packet_151_157.txt"
+  ],
+  "semantic_decisions_made": 0,
+  "game_files_modified": false
+}

@@ -1,0 +1,61 @@
+Naruto PSP MOV06C - visual-guided local audio refinement
+================================================================================
+
+MOV06B visual matches confirmed by representative-frame review:
+  da101 -> source_video.mp4 around 2270 sec
+  da201 -> part2.mp4 around 2667 sec
+  dk102 -> source_video.mp4 around 7257.5 sec
+  dk202 -> part2.mp4 around 2880.5 sec
+
+MOV06C searches audio ONLY near those confirmed visual regions.
+Global MOV06A audio candidates are not reused.
+
+da101:
+  source=source_video.mp4
+  visual start=2270.000 sec
+  status=CONTINUOUS
+  fitted audio start=2270.252297 sec
+  scale=0.999428676
+  anchors=3/3
+  avg corr=0.929354
+  offset spread=0.012000 sec
+  jumps=0
+
+da201:
+  source=part2.mp4
+  visual start=2667.000 sec
+  status=CONTINUOUS
+  fitted audio start=2667.251628 sec
+  scale=0.999897474
+  anchors=5/5
+  avg corr=0.975970
+  offset spread=0.005000 sec
+  jumps=0
+
+dk102:
+  source=source_video.mp4
+  visual start=7257.500 sec
+  status=CONTINUOUS
+  fitted audio start=7257.445789 sec
+  scale=1.000045973
+  anchors=14/14
+  avg corr=0.972183
+  offset spread=0.017000 sec
+  jumps=0
+
+dk202:
+  source=part2.mp4
+  visual start=2880.500 sec
+  status=CONTINUOUS
+  fitted audio start=2880.645428 sec
+  scale=1.000049017
+  anchors=14/14
+  avg corr=0.975734
+  offset spread=0.018000 sec
+  jumps=0
+
+Next:
+  CONTINUOUS targets can be built as one exact Stage37 trim.
+  LINEAR_DRIFT targets can be resampled by the fitted scale.
+  PIECEWISE_EDIT targets will be split at the detected offset jump(s).
+  Final PMFs will keep exact KR ATRAC3+ frames and exact KR PTS.

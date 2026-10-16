@@ -1,0 +1,20 @@
+Naruto SUB51E FIX1 - Minimal UI Style Source Export
+
+BaseISO=PROJECT_ROOT\analysis\sub\sub51d_full_text_apply\Naruto_KR_MOV06E_SUB51D_FullText.iso
+BaseISO_SHA256=7138f8c35bacaafab85ff50c12daf0620030cb9b44e7b7bf242168c20c91e845
+CopiedFiles=39
+CopiedBytes=14505790
+CopiedMB=13.83
+MaxTotalMB=120
+GameDataModified=NO
+PPSSPPExecuted=NO
+BC250Used=NO
+LocalLLMUsed=NO
+
+Groups:
+ - charsel1=2
+ - gauge=5
+ - modesel1=9
+ - mugen=7
+ - network_home=7
+ - option=9

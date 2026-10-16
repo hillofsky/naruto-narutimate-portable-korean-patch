@@ -1,0 +1,42 @@
+{
+  "stage": "SUB43_MENU_IMAGES",
+  "source_iso": "PROJECT_ROOT\\analysis\\sub\\sub42_menu_text\\Naruto_KR_MOV06E_SUB42_Names_Guides_Menu.iso",
+  "source_iso_sha256": "027973bbde6d7b1ddccc0e5e407e6ee519b8b9874b5c91ec778eb794bda493c3",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub43_menu_images\\Naruto_KR_MOV06E_SUB43_MenuImages.iso",
+  "final_iso_size": 1403185152,
+  "final_iso_sha256": "9c565369ac5cf6ccf5fb2898577503a5cac43ab0aec297482ba76698eeba3433",
+  "patched_primary_resources": [
+    "charsel1.ccs",
+    "gauge.ccs",
+    "modesel1.ccs",
+    "mugen.ccs",
+    "option.ccs",
+    "setting.ccs"
+  ],
+  "patched_primary_resource_count": 6,
+  "patched_textures": 14,
+  "fsts_changed_bundles": [
+    "charselect",
+    "cmn",
+    "modeselect",
+    "mugen0",
+    "mugen1"
+  ],
+  "fsts_changed_bundle_count": 5,
+  "preserved_non_target_primary_resources": 638,
+  "preserved_non_target_fsts_members_in_changed_bundles": 25,
+  "preserved_pmf_movies": 24,
+  "boot_eboot_preserved_from_sub42": true,
+  "sub42_dialogue_tutorial_speaker_menu_text_preserved": true,
+  "existing_694_glyph_mapping_preserved": true,
+  "existing_sub40_17_safe_glyphs_preserved": true,
+  "new_font_glyphs_added": 0,
+  "static_qa": "PASS",
+  "runtime_menu_visual_qa": "PENDING",
+  "pending_not_applied": [
+    "mugen TEX_mg_icon (inventory did not contain the named texture; do not claim applied)",
+    "home TEX_mhvid01 decorative ナルト",
+    "rpggauge TEX_rpgmenu01~04 (individual labels not yet mapped)",
+    "any UI images outside the selected 381-image extraction set"
+  ]
+}

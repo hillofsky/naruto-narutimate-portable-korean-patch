@@ -1,0 +1,17 @@
+Naruto PSP SUB18 - Game Event MSG Inventory / Alignment Readiness
+
+Stage3KRTableFiles=46
+GameMSGLikeRows=1
+GameUniqueSpeakerCodes=0
+GameMSGCommands=1
+SUB09Rows=1900
+SUB09Dialogue=1762
+SUB09Narration=138
+CountDeltaGameMinusSubtitle=-1899
+DirectGlobalOrderAlignmentCandidate=NO
+
+IMPORTANT:
+sub18_first100_order_preview.tsv is order-only diagnostic data.
+It must not be treated as a confirmed translation alignment.
+
+No TBL/DAT/BOOT/ISO files were modified.

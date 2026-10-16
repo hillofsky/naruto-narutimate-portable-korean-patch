@@ -1,0 +1,24 @@
+Naruto PSP SUB16 - Collision-Free Runtime Mapping + BOOT
+
+FinalMappingRows=694
+StrictSlotsTotal=792
+FinalStrictMappings=694
+UnsafeMappingsRemaining=0
+ReassignedCount=5
+ReassignedChars=한,글,스,나,마
+PreservedMappingRows=689
+UnusedStrictSlots=98
+RuntimeSelfCheckFailures=0
+SpecialRegionAllocations=0
+Stage36RBitmapHashMatch=10/10
+OffTargetByteChanges=0
+FinalMappingSHA256=fb95c0a7388ac75107d3ff46cf7e8324bdc4948085ff3c193520e0cd3ea2d2a5
+PatchedBOOTSHA256=2fbbf997e679082d97bb5990c78719c3a1ba8993fb568dfb4434af9ad8a7b376
+
+Only five unsafe Stage36R donor MAPPINGS were moved.
+Their Hangul bitmap renderer remains byte-identical to Stage36R.
+
+SharedMapping=PROJECT_ROOT\analysis\shared\event_font_hangul_mapping.tsv
+PatchedBOOT=PROJECT_ROOT\analysis\sub\sub16_collision_free_boot\BOOT_sub16_collision_free_hangul.bin
+
+No ISO was modified by SUB16.

@@ -1,0 +1,29 @@
+{
+  "stage": "SUB45_FIX1_MENU_FOLLOWUP",
+  "source_iso": "PROJECT_ROOT\\analysis\\sub\\sub44_ui_cleanup\\Naruto_KR_MOV06E_SUB44_UITextCleanup.iso",
+  "source_iso_sha256": "0aa25f739c76d7143591f38991ff65a026d1d5ceae73075d4402d13664667264",
+  "compact_baseline": "PROJECT_ROOT\\analysis\\integrated\\sub36_semantic_qa\\output\\Naruto_KR_MOV06E_SUB36_SemanticQA_Final.iso",
+  "compact_baseline_sha256": "789984d99ee7003e2ddfebaaf1e80236d64459065ef27e29ca9c78e0cd24aa3f",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub45_menu_followup\\Naruto_KR_MOV06E_SUB45_MenuFollowup.iso",
+  "final_iso_size": 1158039552,
+  "final_iso_sha256": "d2d913344aeb83bed9ac16910fdbe2371996eba58f376c981e29e9c1a92dae41",
+  "changed_primary_resources": [
+    "mugen.ccs",
+    "mugen.tbl"
+  ],
+  "preview_textures_patched": 12,
+  "table_lines_patched": 8,
+  "table_lines_skipped_unmapped": 0,
+  "fsts_bundles_changed": [
+    "mugen0",
+    "mugen1"
+  ],
+  "preserved_non_target_primary_resources": 642,
+  "preserved_non_target_fsts_members": 8,
+  "pmf_movies_preserved": 24,
+  "font_mapping_preserved": "694+17",
+  "new_glyphs_added": 0,
+  "compact_rebuild": true,
+  "static_qa": "PASS",
+  "runtime_qa": "REQUIRED"
+}

@@ -1,0 +1,73 @@
+{
+  "stage": "SUB48_MENU_ATLAS_CLEANUP",
+  "source_iso_sha256": "8b04e816bf6d6b15b4ad5e288056e4fbe6261c2d5d882dd2e1b67594fbcb6951",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub48_menu_atlas_cleanup\\Naruto_KR_MOV06E_SUB48_MenuAtlasCleanup.iso",
+  "final_iso_size": 1174906880,
+  "final_iso_sha256": "7bd72351ac14fc5d7a0774e04290ffaf88b67e1239493938793f037e8530bc92",
+  "text_patched": 6,
+  "text_skipped_unmapped": 0,
+  "text_skipped_too_long": 0,
+  "text_not_found": 3,
+  "changed_resources": [
+    "gauge.ccs",
+    "home.ccs",
+    "option.ccs",
+    "rpggauge.ccs"
+  ],
+  "texture_patches": [
+    {
+      "texture": "TEX_option01",
+      "width": 512,
+      "height": 256,
+      "changed_pixels": 9309,
+      "resource": "option.ccs"
+    },
+    {
+      "texture": "TEX_red",
+      "width": 256,
+      "height": 256,
+      "changed_pixels": 10414,
+      "resource": "gauge.ccs"
+    },
+    {
+      "texture": "TEX_xtext",
+      "width": 128,
+      "height": 128,
+      "changed_pixels": 7768,
+      "resource": "gauge.ccs"
+    },
+    {
+      "texture": "TEX_xmenu",
+      "width": 256,
+      "height": 128,
+      "changed_pixels": 8840,
+      "resource": "gauge.ccs"
+    },
+    {
+      "texture": "TEX_rpgmenu01",
+      "width": 512,
+      "height": 256,
+      "changed_pixels": 76442,
+      "resource": "rpggauge.ccs"
+    },
+    {
+      "texture": "TEX_mhvid01",
+      "width": 256,
+      "height": 128,
+      "changed_pixels": 13077,
+      "resource": "home.ccs"
+    }
+  ],
+  "fsts_bundles_changed": [
+    "cmn",
+    "home"
+  ],
+  "preserved_non_target_primary_resources": 640,
+  "preserved_non_target_fsts_members": 76,
+  "pmf_movies_preserved": 24,
+  "font_mapping_preserved": "694+17",
+  "new_glyphs_added": 0,
+  "compact_rebuild": true,
+  "static_qa": "PASS",
+  "runtime_qa": "REQUIRED"
+}

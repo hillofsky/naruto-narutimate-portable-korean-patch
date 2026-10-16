@@ -1,0 +1,21 @@
+Naruto PSP SUB10 FIX2 - Final Hangul Donor Allocation
+
+FinalHangul=694
+Stage35RStrictAll3600=987
+Stage35RStrictStandard0_3428=980
+FixedStage36R=10
+UsableStrictAfterFixed=970
+NewStrictAllocations=684
+UnusedStrictAfterAllocation=286
+RECLAIMAllocations=0
+SpecialRegionAllocations=0
+MappingSHA256=9c73cdb33eb812a813c78cfb5efcad80838322ab5a4da90c91eb3db6aaca056c
+
+SlotInventory=PROJECT_ROOT\analysis\stage35r\stage35r_slot_inventory.tsv
+Stage36RMapping=PROJECT_ROOT\analysis\stage36r\stage36r_mapping.tsv
+SharedMapping=PROJECT_ROOT\analysis\shared\event_font_hangul_mapping.tsv
+
+IMPORTANT:
+- stage35r_allocation_strict.tsv is old 10-char seed output and was NOT used as the donor pool.
+- donor pool came from stage35r_slot_inventory.tsv strict_safe=1.
+- no BOOT/ISO bytes were modified.

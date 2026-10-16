@@ -1,0 +1,21 @@
+Naruto PSP SUB51C - ChatGPT Translation
+
+Source candidate rows: 1334
+Translated by ChatGPT: 1140
+Skipped internal/debug/resource identifiers: 178
+Skipped binary false positives: 16
+Unique Hangul used: 534
+
+Pre-check:
+Japanese residual in translated rows: 0
+Control-token mismatches: 0
+Approx. BOOT byte overages: 0
+
+Translation engine: ChatGPT
+BC250 used: NO
+Local LLM used: NO
+
+Important:
+The next validator checks the exact 711-glyph mapping on the user's machine.
+Internal/debug identifiers are intentionally left unchanged because changing
+reference keys could break the game.

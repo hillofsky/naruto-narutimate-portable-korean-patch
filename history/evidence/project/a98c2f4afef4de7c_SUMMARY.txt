@@ -1,0 +1,23 @@
+Naruto Stage38D Prompt A/B
+Timestamp: 2026-10-02 19:56:55
+Result: SUCCESS
+
+Scope: Stage38C mismatch frames only
+Indices: 2,5,7,10,17,20,25,29
+Requests: 16 total
+
+Variant A:
+Exact Stage38C prompt/layout
+success=8/8
+suspicious=1/8
+mean_sec=0.5448
+
+Variant B:
+System OCR role + image-first + short user instruction
+Old heading word removed to reduce prompt echo
+Speaker-name plate explicitly included
+success=8/8
+suspicious=0/8
+mean_sec=0.4559
+
+Review stage38d_ab_results.csv and selected_images before choosing production prompt.

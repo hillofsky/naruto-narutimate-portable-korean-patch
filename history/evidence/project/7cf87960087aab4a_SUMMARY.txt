@@ -1,0 +1,16 @@
+Naruto PSP SUB17 - Collision-Free Runtime Smoke ISO
+
+MappingRows=694
+ProbeCount=16
+SampledUniqueHangul=160
+MappingLeads=81 82 89 8A 8B 8C 8D 8E 8F 90 91 92 93 94 95 96 97 98
+AllMappingLeadsCovered=YES
+ISOSHA256=0526360510d4f5a053253b4f3cb55d98cf533f64205afbf5892085c2891be4c3
+EmbeddedBOOTMatch=YES
+EmbeddedDATMatch=YES
+EmbeddedIDXMatch=YES
+
+ISO=PROJECT_ROOT\Naruto - SUB17 Collision-Free Runtime Smoke.iso
+
+Run with a normal save/new load, not a save state.
+Compare 00..15 against sub17_runtime_checklist.txt.

@@ -1,0 +1,27 @@
+Naruto PSP SUB28 - Full Translation Worklist + Patcher Length Audit
+
+GameRows=1976
+Stable1G1S=1407
+Exception1G1S=134
+ExceptionUnvoiced1G1S=16
+MergeSubtitlePartsTo1G=91
+Split1STo2G=24
+DirectTranslate=304
+
+ReadyReuseRows=1557
+ManualTaskRows=419
+TranslationTaskUnits=407
+
+FontMappingStatus=OK
+ExistingDraftUniqueHangul=678
+ExistingDraftMissingHangul=0
+
+PatcherFound=True
+PatcherExplicitMaxBytesToken=False
+PerMessageMaxBytesAssumed=NO
+
+Next step:
+  translate/rewrite the 407 task units, then audit new Hangul demand and
+  actual patcher/container size constraints before building event TBLs.
+
+No TBL/DAT/BOOT/ISO files were modified.

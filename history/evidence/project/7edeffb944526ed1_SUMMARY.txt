@@ -1,0 +1,18 @@
+Naruto PSP SUB45 FIX1 - Menu Follow-up
+
+SourceSHA256=0aa25f739c76d7143591f38991ff65a026d1d5ceae73075d4402d13664667264
+FinalISO=PROJECT_ROOT\analysis\sub\sub45_menu_followup\Naruto_KR_MOV06E_SUB45_MenuFollowup.iso
+FinalSHA256=d2d913344aeb83bed9ac16910fdbe2371996eba58f376c981e29e9c1a92dae41
+FinalSize=1158039552
+PreviewTexturesPatched=12
+TableLinesPatched=8
+TableLinesSkippedUnmapped=0
+ChangedPrimaryResources=mugen.ccs,mugen.tbl
+FSTSChangedBundles=2
+PreservedPrimaryResources=642
+PreservedPMFs=24
+FontMappingPreserved=694+17
+NewGlyphsAdded=0
+CompactRebuild=YES
+StaticQA=PASS
+RuntimeQA=REQUIRED

@@ -1,0 +1,29 @@
+{
+  "stage": "SUB52G_RESIDUAL_CANDIDATE_COLLECTION",
+  "targets": 8,
+  "unique_png_candidates": 18,
+  "reference_files": 48,
+  "per_target": {
+    "1hakbod1.ccs/TEX_name": 2,
+    "gauge.ccs/TEX_xmenu": 4,
+    "gauge.ccs/TEX_xselect5": 2,
+    "mg_ki.ccs/TEX_mgtitle01": 2,
+    "mg_kinobori.ccs/TEX_mgtitle01": 2,
+    "sik_pose.ccs/TEX_2tyoglb0": 2,
+    "slot.ccs/TEX_slot_t01": 2,
+    "narup.ccs/TEX_narup": 2
+  },
+  "confirmed_residual_text": [
+    {
+      "entry": "mugen.tbl",
+      "key": "#1008"
+    },
+    {
+      "entry": "mugen.tbl",
+      "key": "#2031"
+    }
+  ],
+  "ppsspp_used": false,
+  "gameplay_used": false,
+  "iso_modified": false
+}

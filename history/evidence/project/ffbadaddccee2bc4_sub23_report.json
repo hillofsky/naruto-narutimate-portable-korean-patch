@@ -1,0 +1,35 @@
+{
+  "stage": "SUB23",
+  "mode": "READ_ONLY_FULL_AUDIO_RESCORING_AUDIT",
+  "sample_rate_hz": 1000,
+  "window_before_sec": 10.0,
+  "window_after_sec": 1.0,
+  "dialogue_rows": 1761,
+  "game_rows": 1976,
+  "candidate_count": {
+    "min": 1,
+    "max": 35,
+    "mean": 21.915388983532083
+  },
+  "confidence_counts": {
+    "VERY_STRONG": 1341,
+    "WEAK": 166,
+    "STRONG": 139,
+    "MEDIUM": 115
+  },
+  "strong_audio_anchors": 1480,
+  "strong_audio_vs_structural_disagreements": 223,
+  "structural_single_rows": 1492,
+  "audio_agrees_structural": 1109,
+  "no_score_rows": 0,
+  "decoded_unique_voice_files": 1812,
+  "voice_decode_errors": 0,
+  "pilot_1k": {
+    "sub09_19_s_a01_000": 0.6115839735218717,
+    "sub09_164_true_s_a06_043": 0.43239694796066597,
+    "sub09_164_wrong_s_a07_013": 0.06800964265498377,
+    "true_minus_wrong": 0.3643873053056822
+  },
+  "important": "Audio top candidates are objective evidence, but this stage does not patch or declare all rows final.",
+  "game_files_modified": false
+}

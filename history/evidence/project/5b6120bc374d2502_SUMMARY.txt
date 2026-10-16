@@ -1,0 +1,15 @@
+Naruto PSP MOV04D FIX1 - fit rebuild
+================================================================================
+
+PASS=2/2
+
+Purpose:
+  fit da101/dk202 inside their original ISO allocations without relocation
+
+Audio:
+  exact KR Japanese ATRAC3+ frames preserved
+  exact KR audio PTS preserved
+
+Only PSP H.264 video bitrate may be reduced slightly.
+
+RESULT=PASS

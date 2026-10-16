@@ -1,0 +1,11 @@
+Naruto PSP SUB51O - MenuHintPolish
+
+SourceSUB51N_SHA256=8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081
+FinalISO=PROJECT_ROOT\analysis\sub\sub51o_fix2_menu_hint_polish\build\Naruto_KR_MOV06E_SUB51O_MenuHintPolish.iso
+FinalSHA256=91c7bd4b8bcc60172f3dabd36b728a171775893c75f98a268d9824333c386271
+Changed=title TEX_panel/TEX_panel2/TEX_panel3 + gauge TEX_xpanel
+Purpose=title unselected readability + Korean O/X control hints
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=PENDING
+ExternalPythonPackagesRequired=NO

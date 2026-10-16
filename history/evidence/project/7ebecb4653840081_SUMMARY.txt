@@ -1,0 +1,17 @@
+Naruto PSP MOV05C FIX1 - independent visual segment matcher
+================================================================================
+
+KR duration: 116.249 sec
+Stage37 visual search: first 180.0 sec
+Segments: 4
+
+The search ignores most subtitle/watermark pixels and compares multiple
+central scene frames across each segment.
+
+Audio-vs-visual mapping disagreements >=1 sec: 1
+  segment 3: disagreement 107.206 sec
+
+Use visual_segment_map.tsv to verify short/silent segments that were
+unsafe to locate from Japanese audio alone.
+
+No PMF or ISO was modified.

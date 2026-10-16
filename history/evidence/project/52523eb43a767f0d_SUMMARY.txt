@@ -1,0 +1,12 @@
+Naruto PSP SUB49 - Safe Atlas Rollback
+
+SourceSUB48SHA256=7bd72351ac14fc5d7a0774e04290ffaf88b67e1239493938793f037e8530bc92
+FinalISO=PROJECT_ROOT\analysis\sub\sub49_safe_atlas_rollback\Naruto_KR_MOV06E_SUB49_SafeAtlasRollback.iso
+FinalSHA256=5ace9a1a17cd978579c79abf141bda7e5448c58fcc3638182c2525453fd9bad9
+FinalSize=1178576896
+RestoredResources=option.ccs,gauge.ccs,rpggauge.ccs
+BOOT=SUB48 preserved
+PreservedPrimaryResources=641
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=REQUIRED

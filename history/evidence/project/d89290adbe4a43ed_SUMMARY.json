@@ -1,0 +1,12 @@
+{
+  "stage": "SUB52D1_TRANSLATION_VALIDATION",
+  "rows_total": 948,
+  "active_rows": 608,
+  "active_unique_sources": 516,
+  "active_unique_korean": 515,
+  "required_hangul_unique": 495,
+  "pass_rows": 608,
+  "fail_rows": 0,
+  "keep_custom_encoded": 219,
+  "skip_comment": 121
+}

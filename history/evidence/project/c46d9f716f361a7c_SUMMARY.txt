@@ -1,0 +1,15 @@
+stage=SUB52M_SAFE_BOOT_PATCH
+status=STATIC_PASS_RUNTIME_UNVERIFIED
+source_iso=PROJECT_ROOT\analysis\sub\sub52k_fix2_compact\Naruto_KR_MOV06E_SUB52K_FIX2_Compact.iso
+target_iso=PROJECT_ROOT\analysis\sub\sub52m_safe_boot_patch\Naruto_KR_MOV06E_SUB52M_SafeBoot.iso
+source_sha256_expected=a487c2e6deb3701ac2e529e84c4180a06980da32d14eadf91c1242a05df121af
+modified_resources=['BOOT.BIN', 'EBOOT.BIN']
+untouched_resources=['naruto.dat', 'naruto.idx', 'all .ccs', 'all .pmf']
+translation={'source': '<iconCIRCLE>ボタンでゲーム開始！', 'target': '<iconCIRCLE> 버튼으로 게임 시작!'}
+source_sha256_actual=a487c2e6deb3701ac2e529e84c4180a06980da32d14eadf91c1242a05df121af
+patch_count=2
+reward_exact_occurrences=6
+encoded_length_bytes=32
+preserved_verified=['naruto.dat', 'naruto.idx']
+final_iso_size_bytes=4285442048
+final_iso_sha256=13a742002f89f9b19c5f6196079b3086b1c68a10c9cec537366e7fcffc9ecdbc

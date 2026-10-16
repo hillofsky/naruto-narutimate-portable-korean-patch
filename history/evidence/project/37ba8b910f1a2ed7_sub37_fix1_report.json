@@ -1,0 +1,18 @@
+{
+  "stage": "SUB37_FIX1_SPEAKER_NAME_PROBE",
+  "source_iso_sha256": "789984d99ee7003e2ddfebaaf1e80236d64459065ef27e29ca9c78e0cd24aa3f",
+  "probe_iso": "PROJECT_ROOT\\analysis\\sub\\sub37_fix1_speaker_name_probe\\Naruto_KR_SUB37_SpeakerNamesProbe.iso",
+  "probe_iso_sha256": "b168743a0b963f125609fae641e3e23506058db0cc517de051851fd403261029",
+  "speaker_pool_offset": "0x300C1C-0x300CDF",
+  "speaker_names_patched": 23,
+  "speaker_pool_exact_size_bytes": 196,
+  "xref_patches": 46,
+  "elf_gp": null,
+  "static_ui_japanese_strings": 237,
+  "savestates_found": 0,
+  "slot1_hints": 0,
+  "texture_assets_found": 0,
+  "movie_pmfs_preserved": 24,
+  "game_files_modified": true,
+  "runtime_probe_required": true
+}

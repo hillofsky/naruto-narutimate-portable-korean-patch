@@ -1,0 +1,27 @@
+Naruto PSP MOV03G FIX1 - Grounded DM dispatcher table decode
+==============================================================================
+
+BOOT size=6170192
+ELF linear bias=84
+Primary PMF recognized paths=24/24
+Resolved dispatcher rows=16
+DM rows in dispatcher=4
+Distinct DM movies reached=2/10: dm001, dm005
+
+Group 13: state0->?(sel=11680,idx=), state1->?(sel=9,idx=), state2->dk201(sel=5,idx=7), state3->dk101(sel=0,idx=3), state4->?(sel=11684,idx=), state5->?(sel=9,idx=), state6->da201(sel=6,idx=13), state7->dk101(sel=0,idx=3)
+Group 14: state0->?(sel=11696,idx=), state1->?(sel=9,idx=), state2->dm005(sel=4,idx=18), state3->dm001(sel=0,idx=14), state4->?(sel=11744,idx=), state5->?(sel=9,idx=), state6->dm005(sel=4,idx=18), state7->dm001(sel=0,idx=14)
+
+Group-number audio candidate files=146
+Ordinary decoded TBL usages of s_a13/s_b13/s_a14/s_b14=143
+
+FIX1 address correction:
+- PT_LOAD is used when the address is file-backed there.
+- Section mappings are used next.
+- High data referenced by MIPS but outside PT_LOAD.p_filesz uses the
+  ELF linear file bias inferred from PT_LOAD (expected +0x54 here).
+- address_mapping_diagnostics.tsv records the chosen mapping per read.
+
+Interpretation:
+- resolved_dispatch.tsv is grounded by the exact MIPS lookup chain.
+- Group-number audio candidates are heuristic only until resource functions
+  or another table proves a link.

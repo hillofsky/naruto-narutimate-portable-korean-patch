@@ -1,0 +1,45 @@
+{
+  "stage": "SUB27",
+  "mode": "READ_ONLY_MANUAL_SEMANTIC_TOPOLOGY_RESOLUTION",
+  "exception_blocks_resolved": 177,
+  "mapping_units": 253,
+  "relation_counts": {
+    "2G_TO_1S": 12,
+    "1G1S": 134,
+    "UNVOICED_1G1S": 16,
+    "1G_TO_2S": 78,
+    "ANCHOR_SPLIT_1G_TO_2S": 10,
+    "1G_TO_3S": 3
+  },
+  "ocr_partial_subtitle_drops": 6,
+  "video_only_subtitles": 1,
+  "anchor_override_units": 10,
+  "stable_base_game_rows": 1417,
+  "mapped_game_rows_total": 1672,
+  "all_game_rows": 1976,
+  "all_unmapped_game_rows": 304,
+  "all_unmapped_voiced": 167,
+  "all_unmapped_unvoiced": 137,
+  "exception_candidate_unmapped": 162,
+  "intentional_speaker_label_corrections": [
+    {
+      "block_id": 144,
+      "subtitle_sequences": [
+        1592
+      ],
+      "game_keys": [
+        "event105.tbl#007"
+      ],
+      "subtitle_speakers": [
+        "카카시"
+      ],
+      "game_speaker_codes": [
+        "JRY"
+      ]
+    }
+  ],
+  "semantic_topology_resolved": true,
+  "per_msg_korean_text_finalized": false,
+  "direct_translation_of_unmapped_rows_completed": false,
+  "game_files_modified": false
+}

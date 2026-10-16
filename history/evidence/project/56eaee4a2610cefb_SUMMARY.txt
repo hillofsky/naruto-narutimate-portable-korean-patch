@@ -1,0 +1,26 @@
+Naruto PSP SUB03 - Final Dialogue Sequence / YouTube Anchors
+
+InputRows=2086
+FinalEntries=1900
+DialogueEntries=1730
+NarrationEntries=170
+ExactDuplicateSourceRowsMerged=1
+UniqueHangul=699
+
+Final visual fixes:
+  g1142=[EMPTY]
+  g1219=[EMPTY]
+  g1816=[EMPTY]
+  g2064=지라이야 / 훗...?
+
+Excluded:
+  USE_NO=116
+  SPEAKER_ONLY=69
+
+Timing policy:
+- observed timestamps are anchors from the YouTube gameplay capture.
+- no synthetic subtitle start/end times are invented here.
+- identical consecutive text is merged only when observations are <=5 sec apart.
+- MOV track can map these anchors to PMF-local time using frame matching.
+
+Shared handoff=PROJECT_ROOT\analysis\shared\youtube_subtitle_anchors.tsv

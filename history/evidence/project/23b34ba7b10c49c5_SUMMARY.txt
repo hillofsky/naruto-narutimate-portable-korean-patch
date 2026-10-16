@@ -1,0 +1,18 @@
+Naruto PSP SUB02 - Visual Review Corrections
+
+Rows=2086
+ManualVisualCorrections=53
+NonKoreanExcluded=18
+UseYES=1969
+UseNO=113
+UseREVIEW=4
+RemainingReview=4
+UniqueHangulYES=697
+
+Remaining indices:
+  1142,1219,1816,2064
+
+Note:
+- g1370/g1372/g1396 are visually verified exclamations; repeated-vowel length was normalized.
+- raw_ocr is preserved unchanged.
+- Japanese-only UI/narration rows are excluded from the Korean subtitle corpus, not translated here.

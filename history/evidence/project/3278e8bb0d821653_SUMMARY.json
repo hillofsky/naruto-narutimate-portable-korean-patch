@@ -1,0 +1,15 @@
+{
+  "stage": "SUB51F_OFFICIAL_KR_UI_DONOR_DISCOVERY",
+  "official_kr_iso_sha256": "6510ad253aed3e4a20c87e36844ce5db8794e4daeca0c2e6ba38081dd26745a7",
+  "sub51d_sha256": "7138f8c35bacaafab85ff50c12daf0620030cb9b44e7b7bf242168c20c91e845",
+  "resources_decoded": 9,
+  "textures_requested": 35,
+  "textures_decoded": 34,
+  "modesel1_textures_decoded": 7,
+  "modesel1_dimensions_compatible": true,
+  "game_data_modified": false,
+  "ppsspp_executed": false,
+  "bc250_used": false,
+  "local_llm_used": false,
+  "next": "Use official KR textures as style/texture donors when compatible; patch into SUB51D only after review."
+}

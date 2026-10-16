@@ -1,0 +1,27 @@
+Naruto PSP SUB15 - Actual Runtime Donor Mapping
+
+CanonicalStandardCodes=3429
+StrictStandardSlots=792
+FixedStage36R=10
+FixedPinnedOriginalCollisions=0
+FixedPinnedNonStrict=5
+UsableStrictAfterFixed=787
+NewAllocations=684
+UnusedStrictAfterAllocation=103
+MappingRows=694
+MappingSHA256=caf832677e92da62cc659a9b9e57922ece478f93babab02936a848a3b48adc21
+RuntimeSelfCheckFailures=0
+SpecialRegionAllocations=0
+New684Policy=STRICT_ACTUAL_RUNTIME_ONLY
+Fixed10Policy=PINNED_STAGE36R_RUNTIME_VERIFIED
+
+Recovered formula validation:
+  81EC -> glyph 171
+  82F7 -> glyph 370
+  889F -> glyph 464
+  88E5 -> glyph 534  (old naive formula said 1480)
+  9872 -> glyph 3428
+
+SharedMapping=PROJECT_ROOT\analysis\shared\event_font_hangul_mapping.tsv
+
+No BOOT/ISO bytes were modified by SUB15.

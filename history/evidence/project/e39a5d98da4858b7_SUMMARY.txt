@@ -1,0 +1,28 @@
+Naruto PSP SUB01 - OCR Cleanup / Triage
+
+SourceRows=2086
+VisualConfirmedEmpty=6
+AutoSpeakerAliasRows=773
+UseYES=1922
+UseNO=93
+UseREVIEW=71
+PrelimUniqueHangul=675
+
+ClassCounts:
+  KOREAN=1973
+  EMPTY=85
+  JAPANESE_ONLY=21
+  OTHER=7
+
+ReviewReasons:
+  LATIN_IN_KOREAN=51
+  JAPANESE_ONLY=18
+  REPETITION_LOOP=7
+  OCR_TAG_LEFTOVER=6
+  LONG_OUTPUT=6
+
+Important:
+- raw_ocr is never overwritten.
+- The six Stage38E visual-review frames are set to [EMPTY].
+- Speaker normalization only changes known first-line/prefix aliases.
+- REVIEW rows are not automatically accepted into the preliminary font corpus.

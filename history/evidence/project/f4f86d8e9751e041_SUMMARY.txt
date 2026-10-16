@@ -1,0 +1,11 @@
+Naruto PSP SUB51O - MenuHintPolish
+
+SourceSUB51N_SHA256=8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081
+FinalISO=PROJECT_ROOT\analysis\sub\sub51o_fix3_hint_only\build\Naruto_KR_MOV06E_SUB51O_MenuHintPolish.iso
+FinalSHA256=93fd948f99f66a64c9e444cd207a6702823308c020b47dc7882ec5319b79b5f5
+Changed=gauge TEX_xpanel only (title TEX_panel* rollback)
+Purpose=Rollback title atlas changes; keep only Korean O/X control hints
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=PENDING
+ExternalPythonPackagesRequired=NO

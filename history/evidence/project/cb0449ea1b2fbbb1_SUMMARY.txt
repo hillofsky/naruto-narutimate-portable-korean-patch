@@ -1,0 +1,16 @@
+Naruto PSP SUB51J - Mugen Safe Style
+
+SourceSUB51I_SHA256=415aded95bc3030ca3deac2550a635e47a99c9d34e34825193c74f4bec469ef7
+FinalISO=PROJECT_ROOT\analysis\sub\sub51j_mugen_safe_style\Naruto_KR_MOV06E_SUB51J_MugenSafeStyled.iso
+FinalSHA256=e8731e1b6eaceae47f765137ab1e40ebced1ad9637e44013b06ad19b17ba3556
+ResourceChanged=mugen.ccs
+TexturesChanged=TEX_white,TEX_red,TEX_mg_title
+ExactRegionsChanged=20
+OutsideRegionIndexedPixelChanges=0
+OutsideTargetTexturePayloadCCSByteChanges=0
+FSTSBundlesRebuilt=2
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=DEFERRED
+BC250Used=NO
+LocalLLMUsed=NO

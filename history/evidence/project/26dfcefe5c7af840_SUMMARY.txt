@@ -1,0 +1,15 @@
+Naruto PSP SUB51N - TitleHomePolish
+
+SourceSUB51D_SHA256=7138f8c35bacaafab85ff50c12daf0620030cb9b44e7b7bf242168c20c91e845
+FinalISO=PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso
+FinalSHA256=8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081
+ResourcesChanged=11
+TexturesChanged=61
+NonTargetPrimaryPreserved=633
+FSTSBundlesRebuilt=7
+PMFsPreserved=24
+IntermediateISODependency=NO
+StaticQA=PASS
+RuntimeQA=DEFERRED
+BC250Used=NO
+LocalLLMUsed=NO

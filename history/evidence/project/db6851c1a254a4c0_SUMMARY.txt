@@ -1,0 +1,20 @@
+Naruto PSP SUB12 - Full 694 Hangul Glyph Build
+
+MappingRows=694
+Font=LOCAL_PATH
+FontSHA256=a541834fb9cdde9bd6d2c3ff1565cb0bb5ccf7a15e4e9daf2cb58d9b1cf282aa
+Renderer=malgunbd.ttf size16 canvas18x18 draw(1,-4)
+Quantize=pixel//17
+Pack=pixel0 low nibble | pixel1 high nibble
+BytesPerGlyph=162
+Fixed10BitmapHashMatch=10/10
+OriginalBOOTSHA256=1083ba42327f187cd81fe6b31c9975857d271373d4a907d1b7f35d38bc7fc4c8
+PatchedBOOTSHA256=7b4d8019dc6bd095b58fa7f307d3429e79af3aa9e6d764c13e0afe4418df2ae3
+MappingSHA256=9c73cdb33eb812a813c78cfb5efcad80838322ab5a4da90c91eb3db6aaca056c
+OffTargetByteChanges=0
+MaxTargetGlyph=2064
+SpecialRegionAllocations=0
+
+PatchedBOOT=PROJECT_ROOT\analysis\sub\sub12_full_glyph_build\BOOT_sub12_full_hangul.bin
+
+No ISO was modified by SUB12.

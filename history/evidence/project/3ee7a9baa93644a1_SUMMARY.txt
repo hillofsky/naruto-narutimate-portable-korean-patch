@@ -1,0 +1,25 @@
+Naruto PSP MOV03E - BOOT/EBOOT movie table static xref analysis
+============================================================================
+
+Selected executable=PROJECT_ROOT\kr_extracted\PSP_GAME\SYSDIR\BOOT.BIN
+Size=6170192
+ELF parsed=YES
+ELF base offset=0x0
+ELF entry=0x2b3520
+DM filenames located=10/10
+Inferred DM stride=40 bytes
+Inferred contiguous movie slots=14
+Address targets built=62
+Raw pointer xrefs=7
+MIPS LUI+ADDIU/ORI xrefs=0
+Anchor MIPS xrefs=2
+Possible x40 indexing code windows=56
+
+Interpretation:
+- movie_path_occurrences.tsv grounds the actual PMF table layout.
+- raw_pointer_xrefs.tsv finds literal pointers to movie table/string addresses.
+- mips_address_xrefs.tsv finds code constructing those addresses.
+- nearby_jal_targets.tsv lists calls surrounding grounded table xrefs.
+- stride40_code_candidates.tsv is heuristic only and must not be treated as proof.
+- If no ELF mapping/xrefs are available, the next pass should use runtime-base
+  inference or PPSSPP debugger traces, but this stage does not require gameplay.

@@ -1,0 +1,6 @@
+Naruto SUB43 Runtime Menu QA
+
+ISO_SHA256=9c565369ac5cf6ccf5fb2898577503a5cac43ab0aec297482ba76698eeba3433
+Captured=6
+GameFilesModified=NO
+VisualReview=PENDING_CHATGPT_REVIEW

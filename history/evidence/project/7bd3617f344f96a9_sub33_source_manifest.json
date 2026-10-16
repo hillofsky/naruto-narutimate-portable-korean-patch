@@ -1,0 +1,86 @@
+{
+  "stage": "SUB33",
+  "font_mapping_sha256": "fb95c0a7388ac75107d3ff46cf7e8324bdc4948085ff3c193520e0cd3ea2d2a5",
+  "stages": [
+    {
+      "stage": 1,
+      "start": 1,
+      "end": 200,
+      "stage_dir": "sub32_1_semantic_review_0001_0200",
+      "filename": "sub32_1_review_0001_0200_completed.tsv",
+      "sha256": "a5174a6fc96f257638eb6dd2e44d430745fd4f11038422450d5b2015144545f6"
+    },
+    {
+      "stage": 2,
+      "start": 201,
+      "end": 400,
+      "stage_dir": "sub32_2_semantic_review_0201_0400",
+      "filename": "sub32_2_review_0201_0400_completed.tsv",
+      "sha256": "65f4e3eb7f220ba9634604d77c3c076267fbfbd25fc8257c40d6a78c0229d819"
+    },
+    {
+      "stage": 3,
+      "start": 401,
+      "end": 600,
+      "stage_dir": "sub32_3_semantic_review_0401_0600",
+      "filename": "sub32_3_review_0401_0600_completed.tsv",
+      "sha256": "46e984b9d130c60a2bd176edf49b6bd03ed55e533a1513e5b679a1c2285e6ad4"
+    },
+    {
+      "stage": 4,
+      "start": 601,
+      "end": 800,
+      "stage_dir": "sub32_4_semantic_review_0601_0800",
+      "filename": "sub32_4_review_0601_0800_completed.tsv",
+      "sha256": "60db8f2a1d63df87fe48fff93865c6feb007b2239f249018916f26e0e5e858c7"
+    },
+    {
+      "stage": 5,
+      "start": 801,
+      "end": 1000,
+      "stage_dir": "sub32_5_semantic_review_0801_1000",
+      "filename": "sub32_5_review_0801_1000_completed.tsv",
+      "sha256": "ef771e75512a7ef65dc33f8752ed2d9e98b41583e9d6456619b2747378dd2b2a"
+    },
+    {
+      "stage": 6,
+      "start": 1001,
+      "end": 1200,
+      "stage_dir": "sub32_6_semantic_review_1001_1200",
+      "filename": "sub32_6_review_1001_1200_completed.tsv",
+      "sha256": "e58885835dbf2083be7a962dacd72b50fefb561aff8fe3a745008878ad30434e"
+    },
+    {
+      "stage": 7,
+      "start": 1201,
+      "end": 1400,
+      "stage_dir": "sub32_7_semantic_review_1201_1400",
+      "filename": "sub32_7_review_1201_1400_completed.tsv",
+      "sha256": "ab17aac9b3b23e5070aa011a60571be535eadcccac1dd40e5e7530d44ecb3799"
+    },
+    {
+      "stage": 8,
+      "start": 1401,
+      "end": 1600,
+      "stage_dir": "sub32_8_semantic_review_1401_1600",
+      "filename": "sub32_8_review_1401_1600_completed.tsv",
+      "sha256": "46417da2b9f86fedd76d65c703663679be9947ebef394b99f9a820ec159141cb"
+    },
+    {
+      "stage": 9,
+      "start": 1601,
+      "end": 1800,
+      "stage_dir": "sub32_9_semantic_review_1601_1800",
+      "filename": "sub32_9_review_1601_1800_completed.tsv",
+      "sha256": "30378b1649c395d3b68c286d36d3765f11250edd60efd7a1c3cdd95da9814a54"
+    },
+    {
+      "stage": 10,
+      "start": 1801,
+      "end": 1976,
+      "stage_dir": "sub32_10_semantic_review_1801_1976",
+      "filename": "sub32_10_review_1801_1976_completed.tsv",
+      "sha256": "dae77f41564b2535715a5453a27e5f7dbd629bd7dd58ea041e7b18bd11cc16be"
+    }
+  ]
+}

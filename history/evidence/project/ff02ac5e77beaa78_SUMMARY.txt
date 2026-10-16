@@ -1,0 +1,14 @@
+Naruto PSP SUB50 - Mugen Atlas Surgical Restore
+
+SourceSUB49SHA256=5ace9a1a17cd978579c79abf141bda7e5448c58fcc3638182c2525453fd9bad9
+FinalISO=PROJECT_ROOT\analysis\sub\sub50_mugen_atlas_surgical_restore\Naruto_KR_MOV06E_SUB50_MugenAtlasRestore.iso
+FinalSHA256=5a750d02fc701c110106711dedfc3e19b34b32f1833ccbef811f3d55441f87b9
+FinalSize=1186813952
+TargetResource=mugen.ccs
+RestoredTextures=TEX_red,TEX_white
+MugenDecodedChangedBytes=22183
+ChangesOutsideTargetPayloads=0
+PreservedPrimaryResources=643
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=REQUIRED

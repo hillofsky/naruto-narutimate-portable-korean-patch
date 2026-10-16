@@ -1,0 +1,18 @@
+SUB51O FIX2 targeted asset collection
+Read-only; no ISO modification.
+Found=9 Missing=3
+
+FOUND PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build_assets\n__TEX_panel_KO_HC.png
+FOUND PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build_assets\n__TEX_panel2_KO_HC.png
+FOUND PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build_assets\n__TEX_panel3_KO_HC.png
+FOUND PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build_assets\l__gauge__TEX_start_KO.png
+FOUND PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build_assets\l__gauge__TEX_xstart_KO.png
+FOUND PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build_assets\l__gauge__TEX_xtext_KO.png
+FOUND PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\orig_dump\title.ccs_TEX_panel.png
+FOUND PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\orig_dump\title.ccs_TEX_panel2.png
+FOUND PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\orig_dump\title.ccs_TEX_panel3.png
+
+MISSING:
+gauge.ccs_TEX_start.png
+gauge.ccs_TEX_xstart.png
+gauge.ccs_TEX_xtext.png

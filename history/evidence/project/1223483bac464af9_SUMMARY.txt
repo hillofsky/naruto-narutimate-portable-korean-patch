@@ -1,0 +1,17 @@
+Naruto PSP MOV05B FIX2 - Stage37 dk101 piecewise reconstruction
+================================================================================
+
+RESULT=PASS
+
+Early offset=+0.700s
+Late offset=+0.250s
+Transition=68.000..82.000s
+Transition correction=1.033210x
+
+Video=Stage37 Koreanized visual (watermark preserved for sample)
+Audio=exact KR Japanese ATRAC3+
+PTS=exact KR audio PTS
+
+Final PMF=PROJECT_ROOT\analysis\mov\mov05b_fix2_dk101_stage37_piecewise\output\dk101_stage37_KOvideo_KRJPaudio_piecewise.pmf
+Smoke ISO=PROJECT_ROOT\analysis\mov\mov05b_fix2_dk101_stage37_piecewise\output\Naruto_KR_MOV05B_FIX2_dk101_stage37_smoketest.iso
+Wrapper auto-launches PPSSPP.

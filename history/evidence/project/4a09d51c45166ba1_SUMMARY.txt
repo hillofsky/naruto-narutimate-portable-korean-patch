@@ -1,0 +1,42 @@
+Naruto Stage38C Persistent30 Exact Workload
+Timestamp: 2026-10-02 19:46:43
+Result: SUCCESS
+
+Source benchmark:
+naruto_persistent30_bc250_upload(3).zip
+BC250 build: 0.5.0-dev build 1 commit fb4b273
+RTX build: version: 0.5.0-dev (build 11342, commit f1cee9941)
+built with Clang 20.1.8 for Windows x86_64
+
+Matched workload:
+same 30 original_sample indices and order
+same exact OCR prompt
+one model load / 30 sequential requests
+threads=8
+parallel slots=4
+ctx total=16384 -> 4096 per slot
+image_max_tokens=512
+full GPU offload requested (-ngl 99)
+
+Important limitation:
+BC250 upload did not record batch/ubatch or the full original server CLI.
+Those are left at llama.cpp defaults. Backend and llama.cpp commit differ.
+
+BC250:
+first=1.4407s
+all_mean=1.8346s
+warm_mean=1.8482s
+warm_median=1.8274s
+warm_p95=2.0014s
+
+RTX3070:
+success=30/30
+first=0.4376s
+all_mean=0.3922s
+warm_mean=0.3906s
+warm_median=0.3449s
+warm_p95=0.5104s
+same_ocr_as_bc250=22/30
+request_wall=12.094s
+
+BC250_warm_mean / RTX_warm_mean = 4.732x

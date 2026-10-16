@@ -1,0 +1,10 @@
+stage=SUB52N_FIX1_REWARD_SAFE
+status=STATIC_PASS_RUNTIME_UNVERIFIED
+source_iso=PROJECT_ROOT\analysis\sub\sub52m_safe_boot_patch\Naruto_KR_MOV06E_SUB52M_SafeBoot.iso
+expected_source_sha256=13a742002f89f9b19c5f6196079b3086b1c68a10c9cec537366e7fcffc9ecdbc
+final_iso=PROJECT_ROOT\analysis\sub\sub52n_reward_safe_fix1\Naruto_KR_MOV06E_SUB52N_FIX1_RewardSafe.iso
+rewards=[{'id': 'SINGLE_PLAYER', 'offset_hex': '0x3039d0', 'bytes': 103, 'lines': [{'original': 'ナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。', 'korean': '나루P 포인트를<BLUE>%dP<BLACK> 획득했습니다.', 'original_bytes': 47, 'translated_bytes': 44, 'padding_bytes': 3}, {'original': '\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<iconCIRCLE>', 'korean': '\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<iconCIRCLE>', 'original_bytes': 52, 'translated_bytes': 52, 'padding_bytes': 0}]}, {'id': 'TWO_PLAYERS', 'offset_hex': '0x303a38', 'bytes': 135, 'lines': [{'original': '<RED>１Ｐ<BLACK>はナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。', 'korean': '<RED>1P<BLACK>는 나루P 포인트를<BLUE>%dP<BLACK> 획득했습니다.', 'original_bytes': 65, 'translated_bytes': 61, 'padding_bytes': 4}, {'original': '<BLUE>２Ｐ<BLACK>はナルＰポイントを<BLUE>%dＰ<BLACK>入手しました。', 'korean': '<BLUE>2P<BLACK>는 나루P 포인트를<BLUE>%dP<BLACK> 획득했습니다.', 'original_bytes': 66, 'translated_bytes': 62, 'padding_bytes': 4}]}]
+patch_count=4
+iso_size_bytes=4285442048
+new_iso_sha256=00bd998359e64e5d3f2af28c4f0d5b0dac7db8b11a35b773ea8a4ee290d58663
+protected_resources=['naruto.dat', 'naruto.idx', 'all CCS in DAT', 'all PMF unchanged']

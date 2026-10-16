@@ -1,0 +1,296 @@
+{
+  "stage": "naruto_sub52r_exact_glyph_audit",
+  "read_only": true,
+  "iso_modified": false,
+  "ppsspp_launched": false,
+  "original_textures_deleted": false,
+  "texture_dir": "LOCAL_PATH",
+  "total_png": 2308,
+  "enumerated_png": 2308,
+  "small_texture_png": 2184,
+  "other_texture_png": 124,
+  "reference_names": [
+    "CURRENT__face_hnt__TEX_n_hnt_s.png",
+    "CURRENT__face_sik__TEX_n_sik_s.png",
+    "OLD__face_hnt__TEX_n_hnt_s.png",
+    "OLD__face_sik__TEX_n_sik_s.png"
+  ],
+  "closest_per_reference": [
+    {
+      "reference": "CURRENT__face_hnt__TEX_n_hnt_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "flip_vertical",
+      "mean_abs_error": 30.28143311,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_hnt__TEX_n_hnt_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "flip_vertical",
+      "mean_abs_error": 32.85192871,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_hnt__TEX_n_hnt_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "none",
+      "mean_abs_error": 36.33825684,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_hnt__TEX_n_hnt_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "none",
+      "mean_abs_error": 38.81890869,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_hnt__TEX_n_hnt_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "rotate180",
+      "mean_abs_error": 78.41290283,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_hnt__TEX_n_hnt_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "flip_horizontal",
+      "mean_abs_error": 80.35980225,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_hnt__TEX_n_hnt_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "rotate180",
+      "mean_abs_error": 82.2355957,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_hnt__TEX_n_hnt_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "flip_horizontal",
+      "mean_abs_error": 82.2956543,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_sik__TEX_n_sik_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "flip_vertical",
+      "mean_abs_error": 0.05639648,
+      "max_rgb_delta": 0,
+      "max_alpha_delta": 1
+    },
+    {
+      "reference": "CURRENT__face_sik__TEX_n_sik_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "none",
+      "mean_abs_error": 38.14318848,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_sik__TEX_n_sik_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "none",
+      "mean_abs_error": 46.77362061,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_sik__TEX_n_sik_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "flip_vertical",
+      "mean_abs_error": 47.12054443,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_sik__TEX_n_sik_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "rotate180",
+      "mean_abs_error": 75.4119873,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_sik__TEX_n_sik_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "rotate180",
+      "mean_abs_error": 77.41973877,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_sik__TEX_n_sik_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "flip_horizontal",
+      "mean_abs_error": 79.3248291,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "CURRENT__face_sik__TEX_n_sik_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "flip_horizontal",
+      "mean_abs_error": 80.24920654,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_hnt__TEX_n_hnt_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "none",
+      "mean_abs_error": 65.42596436,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_hnt__TEX_n_hnt_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "flip_vertical",
+      "mean_abs_error": 66.44073486,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_hnt__TEX_n_hnt_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "none",
+      "mean_abs_error": 73.92675781,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_hnt__TEX_n_hnt_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "flip_vertical",
+      "mean_abs_error": 79.05236816,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_hnt__TEX_n_hnt_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "rotate180",
+      "mean_abs_error": 84.31158447,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_hnt__TEX_n_hnt_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "flip_horizontal",
+      "mean_abs_error": 84.64300537,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_hnt__TEX_n_hnt_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "flip_horizontal",
+      "mean_abs_error": 90.59228516,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_hnt__TEX_n_hnt_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "rotate180",
+      "mean_abs_error": 92.74975586,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_sik__TEX_n_sik_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "rotate180",
+      "mean_abs_error": 82.94897461,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_sik__TEX_n_sik_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "flip_horizontal",
+      "mean_abs_error": 82.97644043,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_sik__TEX_n_sik_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "none",
+      "mean_abs_error": 85.77233887,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_sik__TEX_n_sik_s.png",
+      "filename": "0921c5d09c466de0639c4fc9.png",
+      "transform": "flip_vertical",
+      "mean_abs_error": 88.48986816,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_sik__TEX_n_sik_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "none",
+      "mean_abs_error": 95.1942749,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_sik__TEX_n_sik_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "rotate180",
+      "mean_abs_error": 96.17218018,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_sik__TEX_n_sik_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "flip_horizontal",
+      "mean_abs_error": 97.97247314,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    },
+    {
+      "reference": "OLD__face_sik__TEX_n_sik_s.png",
+      "filename": "09236860925b4647ce544a41.png",
+      "transform": "flip_vertical",
+      "mean_abs_error": 100.66375732,
+      "max_rgb_delta": 255,
+      "max_alpha_delta": 255
+    }
+  ],
+  "mtime_days": {
+    "2026-10-13": 2308
+  },
+  "full_small_contact_pages": [
+    "small_page_01.jpg",
+    "small_page_02.jpg",
+    "small_page_03.jpg",
+    "small_page_04.jpg",
+    "small_page_05.jpg",
+    "small_page_06.jpg",
+    "small_page_07.jpg",
+    "small_page_08.jpg"
+  ],
+  "full_other_contact_pages": [
+    "other_page_01.jpg"
+  ],
+  "copied_name_match_png": [
+    "0921c5d09c466de0639c4fc9.png",
+    "09236860925b4647ce544a41.png"
+  ]
+}

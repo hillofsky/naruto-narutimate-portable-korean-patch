@@ -1,0 +1,49 @@
+{
+  "stage": "SUB39",
+  "source_iso_sha256": "789984d99ee7003e2ddfebaaf1e80236d64459065ef27e29ca9c78e0cd24aa3f",
+  "output_iso": "PROJECT_ROOT\\analysis\\sub\\sub39_speaker_texture\\Naruto_KR_MOV06E_SUB39_SpeakerTexture.iso",
+  "patched_names": 35,
+  "unresolved_special_label": "自／綱",
+  "changed_asset": "mugen.ccs/TEX_name",
+  "changed_decoded_byte_range": [
+    931912,
+    997448
+  ],
+  "fsts_bundles": [
+    {
+      "bundle": "mugen0",
+      "offset": 226443264,
+      "size": 3119104,
+      "members": [
+        {
+          "bundle": "mugen0",
+          "member_index": 2,
+          "member_name": "data/rofs/mugen/mugen.ccs",
+          "basename": "mugen.ccs",
+          "old_size": 1964704,
+          "new_size": 1964704,
+          "old_zsize": 935913,
+          "new_zsize": 1964712
+        }
+      ]
+    },
+    {
+      "bundle": "mugen1",
+      "offset": 229562368,
+      "size": 3106816,
+      "members": [
+        {
+          "bundle": "mugen1",
+          "member_index": 2,
+          "member_name": "data/rofs/mugen/mugen.ccs",
+          "basename": "mugen.ccs",
+          "old_size": 1964704,
+          "new_size": 1964704,
+          "old_zsize": 935913,
+          "new_zsize": 1964712
+        }
+      ]
+    }
+  ],
+  "runtime_verified": false
+}

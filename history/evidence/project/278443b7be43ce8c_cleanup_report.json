@@ -1,0 +1,19 @@
+{
+  "stage": "SUB52N_FIX1_AUTO_CLEANUP",
+  "source_iso": "PROJECT_ROOT\\analysis\\sub\\sub52m_safe_boot_patch\\Naruto_KR_MOV06E_SUB52M_SafeBoot.iso",
+  "source_sha256": "13a742002f89f9b19c5f6196079b3086b1c68a10c9cec537366e7fcffc9ecdbc",
+  "timestamp": "2026-10-08T18:57:38",
+  "required_free_bytes": 4486768640,
+  "free_before_bytes": 7033020416,
+  "free_after_bytes": 7033020416,
+  "reclaimed_bytes": 0,
+  "deleted_count": 0,
+  "sufficient": true,
+  "kept_baselines": [
+    "PROJECT_ROOT\\analysis\\sub\\sub52m_safe_boot_patch\\Naruto_KR_MOV06E_SUB52M_SafeBoot.iso",
+    "PROJECT_ROOT\\analysis\\sub\\sub52j_safe_atlas\\Naruto_KR_MOV06E_SUB52J_SafeAtlas.iso",
+    "PROJECT_ROOT\\analysis\\sub\\sub52k_fix2_compact\\Naruto_KR_MOV06E_SUB52K_FIX2_Compact.iso",
+    "PROJECT_ROOT\\analysis\\sub\\sub52n_reward_safe_fix1\\Naruto_KR_MOV06E_SUB52N_FIX1_RewardSafe.iso"
+  ],
+  "deletion_events": []
+}

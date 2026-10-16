@@ -1,0 +1,20 @@
+{
+  "stage": "SUB51I_SAFE_REMAINING_UI",
+  "source_sub51h_sha256": "eea17dc56d1078c450fa8d61b4f0af6615a140682e15a8d950f586af16873c61",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub51i_safe_remaining_ui\\Naruto_KR_MOV06E_SUB51I_SafeRemainingUI.iso",
+  "final_iso_size": 1224007680,
+  "final_iso_sha256": "415aded95bc3030ca3deac2550a635e47a99c9d34e34825193c74f4bec469ef7",
+  "resources_changed": [
+    "home.ccs",
+    "rpggauge.ccs"
+  ],
+  "texture_regions_changed": 22,
+  "outside_region_indexed_pixel_changes": 0,
+  "non_target_primary_preserved": 642,
+  "fsts_bundles_rebuilt": 1,
+  "pmf_movies_preserved": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "DEFERRED",
+  "bc250_used": false,
+  "local_llm_used": false
+}

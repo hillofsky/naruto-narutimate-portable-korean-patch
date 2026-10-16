@@ -1,0 +1,72 @@
+{
+  "stage": "35R",
+  "status": "ANALYSIS_ONLY",
+  "boot_sha256": "1083ba42327f187cd81fe6b31c9975857d271373d4a907d1b7f35d38bc7fc4c8",
+  "font": {
+    "file_offset": "0x39CD04",
+    "runtime": "0x08BA0CB0",
+    "glyph_count": 3600,
+    "glyph_size": 162,
+    "empty_glyphs": 87
+  },
+  "special_table": {
+    "runtime": "0x08AE2910",
+    "file_offset": "0x2DE964",
+    "entry_count": 163,
+    "entry_size": 2,
+    "byte_order": "big",
+    "glyph_base": 3429,
+    "last_10_codes": [
+      "E1C9",
+      "E5BF",
+      "E7B2",
+      "9DDF",
+      "FBFC",
+      "E290",
+      "9E8A",
+      "E165",
+      "E18F",
+      "9CB1"
+    ],
+    "last_10_glyphs": [
+      3582,
+      3583,
+      3584,
+      3585,
+      3586,
+      3587,
+      3588,
+      3589,
+      3590,
+      3591
+    ],
+    "validation": "PASS"
+  },
+  "preservation_usage": {
+    "kr_stage3_tbl_files": 46,
+    "kr_tbl_unique_codes": 7033,
+    "kr_tbl_used_glyphs": 2273,
+    "ui_sample_unique_codes": 2391,
+    "ui_sample_used_glyphs": 933,
+    "excluded": [
+      "US TBL resources",
+      "Stage9 raw extracted TBL duplicates",
+      "heuristic BOOT.BIN CP932 string scan"
+    ]
+  },
+  "translation_corpus": {
+    "status": "SEED_ONLY",
+    "source_files": 1,
+    "unique_hangul": 10,
+    "occurrences": 10
+  },
+  "capacity": {
+    "strict_safe_slots": 987,
+    "strict_empty_slots": 26,
+    "reclaim_all_tbls_slots": 2667,
+    "reclaim_all_tbls_empty_slots": 84,
+    "needed_chars": 10,
+    "strict_capacity_ok": true,
+    "reclaim_capacity_ok": true
+  }
+}

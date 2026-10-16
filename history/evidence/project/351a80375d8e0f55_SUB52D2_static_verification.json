@@ -1,0 +1,16 @@
+{
+  "stage": "SUB52D2_FIX2_STATIC_TEXT_APPLY",
+  "source_iso": "PROJECT_ROOT\\Naruto_KR_MOV06E_SUB51P_FIX13_FullAtlas.iso",
+  "source_sha256": "1029c34956e23d4eee229a40e995f502fa8a2f249487f16de7fb72869d210cdb",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub52d2_fix2_static_text_apply\\Naruto_KR_MOV06E_SUB52D2_FIX2_StaticText.iso",
+  "final_iso_size": 2018957312,
+  "final_iso_sha256": "46a2e934a4f6fc44585fac31b68735f04e182d4392251db76c89050c0b9de5d0",
+  "translated_rows": 608,
+  "tbl_resources": 5,
+  "existing_mapping_chars": 817,
+  "new_mapping_chars": 32,
+  "combined_mapping_chars": 849,
+  "pmfs_preserved": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "DEFERRED_UNTIL_IMAGE_BATCH_COMPLETE"
+}

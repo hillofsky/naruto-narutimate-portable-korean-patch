@@ -1,0 +1,14 @@
+{
+  "stage": "SUB35_23X2_LAYOUT",
+  "rows": 1976,
+  "layout_changed_rows": 79,
+  "max_visible_chars_per_line": 23,
+  "max_lines": 2,
+  "rows_over_23": 0,
+  "rows_over_2_lines": 0,
+  "new_hangul_required": 0,
+  "non_br_controls_preserved": true,
+  "space_encoding": "A0_NARROW",
+  "a0_visual_status": "validated_by_SUB34_screenshots",
+  "patcher_ready_sha256": "e022763bb3bfe2d72c20d3732f7b61fa1e27e06633d6948f1ff78073913bcca6"
+}

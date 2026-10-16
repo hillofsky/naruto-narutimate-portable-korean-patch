@@ -1,0 +1,14 @@
+stage=SUB52O_UNIFIED_AUDIT
+source_iso=PROJECT_ROOT\analysis\sub\sub52n_reward_safe_fix1\Naruto_KR_MOV06E_SUB52N_FIX1_RewardSafe.iso
+source_sha256=00bd998359e64e5d3f2af28c4f0d5b0dac7db8b11a35b773ea8a4ee290d58663
+iso_size_bytes=4285442048
+resource_total=663
+resource_scanned=556
+texture_total=2623
+extracted_focus_textures=165
+japanese_exact_hits=7
+scan_warnings=0
+runtime_symptoms={'winner_label': 'Japanese in runtime, known TEX_xwinner is already Korean', 'battle_hud_names': 'Japanese in runtime, known face_* small textures already Korean', 'character_select': 'name text overlaps character on screen', 'reward_message': 'SUB52N passed user visual QA'}
+interpretation=Static candidates only: live rendering source not yet confirmed
+iso_modified=False
+ppsspp_controlled=False

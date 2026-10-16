@@ -10,10 +10,16 @@
     "tools/develop.py": "404ba3b972c22a1a752fa37ac7f454b2f9905bba478874edb095b1432a0f1d2c",
     "tools/dev/ccs.py": "b89b7313becd8a7152e409075d8c060ac8e22377a80f4297aabfba1e5b38d594",
     "tools/dev/compact.py": "5d550452ec1caf87f763dcb6fef0fe1aee62010122e6f5955f9f58f15d6507f8",
-    "data/sub52/sub52u_hud_rectangles.json": "8a71eb731e14e80f63fa55beaef15c5567f93fe617b0396d5ac15b3c5ee49a94"
+    "data/sub52/sub52u_hud_rectangles.json": "8a71eb731e14e80f63fa55beaef15c5567f93fe617b0396d5ac15b3c5ee49a94",
+    "tools/check_history.py": "0bd0a81b7386150b17e03892d2ecd41b2eb8d70844b2dfc019e5ec474f5ce97a",
+    "docs/HISTORY_INDEX.md": "fac934a126d38f0fdb168bef47e4990d48a8388c33d94f4c8314a1d50d42f7e8",
+    "docs/KNOWLEDGE_LEDGER.md": "2968650444f4f7c4a73851c5f31c044231f08bfd56d6979adb3d9a72219dcb03",
+    "docs/HISTORY_INVENTORY.json": "4894d6c7c44bf053bfecb1d520e4d683cd691735fee56cd17d80dedd58c3708a",
+    "docs/SOURCE_MAP.json": "912cd7d1d0d17506eed5b32948845bdea0af2910af156a6aca317d4f0f8b4f87"
   },
   "development_review_date": "2026-10-16",
   "initial_review_scope": "Repository file integrity only; no ISO, patch decode or runtime verification",
   "development_validation": "docs/PORTABILITY_VALIDATION.md",
-  "line_endings": "Pinned text files use LF, enforced by .gitattributes; legacy Windows CRLF digests were normalized without content changes."
+  "line_endings": "Pinned text files use LF, enforced by .gitattributes; legacy Windows CRLF digests were normalized without content changes.",
+  "history_review_date": "2026-10-16"
 }

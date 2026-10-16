@@ -1,0 +1,13 @@
+{
+  "stage": "SUB32_1",
+  "rows_reviewed": 200,
+  "changed_rows": 160,
+  "retained_rows": 40,
+  "control_exact_rows": 200,
+  "control_mismatches": 0,
+  "new_hangul_required": 0,
+  "ocr_authoritative": false,
+  "japanese_primary": true,
+  "english_secondary": true,
+  "game_files_modified": false
+}

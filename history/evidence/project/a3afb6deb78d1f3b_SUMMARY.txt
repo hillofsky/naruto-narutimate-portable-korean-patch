@@ -1,0 +1,49 @@
+Naruto PSP MOV06E - user-requested final tail trims
+================================================================================
+
+RESULT=PASS
+
+Requested cutoffs:
+  da101 = 32.265 sec
+  da201 = 48.786 sec
+  dk101 = 1:55.602 = 115.602 sec
+
+Policy:
+  End at the last complete ATRAC3+ frame at or before the requested cutoff.
+  Therefore no video/audio survives past the requested cutoff.
+  Exact leading KR Japanese ATRAC3+ frames and matching leading KR PTS are retained.
+
+da101:
+  requested=32.265 sec
+  ATRAC-safe end=32.229297 sec
+  probed PMF duration=32.165467 sec
+  kept ATRAC frames=694
+  bitrate=975/1500 kbps
+  PMF=4509696 bytes
+  validation=PASS
+
+da201:
+  requested=48.786 sec
+  ATRAC-safe end=48.761905 sec
+  probed PMF duration=48.214833 sec
+  kept ATRAC frames=1050
+  bitrate=1000/1550 kbps
+  PMF=6975488 bytes
+  validation=PASS
+
+dk101:
+  requested=115.602 sec
+  ATRAC-safe end=115.588934 sec
+  probed PMF duration=115.381933 sec
+  kept ATRAC frames=2489
+  bitrate=1000/1550 kbps
+  PMF=16568320 bytes
+  validation=PASS
+
+Only da101 / da201 / dk101 were replaced.
+All other MOV06D translated PMFs are unchanged.
+
+Final ISO=PROJECT_ROOT\analysis\mov\mov06e_tail_trim_final\output\Naruto_KR_MOV06E_AllTranslatedMovies_TrimmedTails.iso
+Updated view folder=PROJECT_ROOT\analysis\mov\FINAL_TRANSLATED_PMFS
+
+Previous dk101 2-3 frame tolerated-tail note is superseded by MOV06E.

@@ -1,0 +1,56 @@
+Naruto PSP MOV06B - full Stage37 visual anchor clustering
+================================================================================
+
+MOV06A audio-only candidates were rejected after manual frame review:
+  da101 = visually wrong
+  da201 = visually wrong
+  dk102 = visually wrong
+  dk202 = visually wrong
+
+MOV06B searches every selected KR visual anchor independently across
+both complete Stage37 videos and clusters source_time - KR_time offsets.
+
+da101:
+  queries=11
+  clusters=12
+  best=source_video.mp4 offset=2270.039
+  support=9 (0.818)
+  avg visual score=0.795647
+  timeline runs=4
+  confidence=VERY_HIGH
+
+da201:
+  queries=10
+  clusters=12
+  best=part2.mp4 offset=2667.271
+  support=9 (0.900)
+  avg visual score=0.781380
+  timeline runs=4
+  confidence=VERY_HIGH
+
+dk102:
+  queries=26
+  clusters=12
+  best=source_video.mp4 offset=7257.314
+  support=26 (1.000)
+  avg visual score=0.843418
+  timeline runs=1
+  confidence=VERY_HIGH
+
+dk202:
+  queries=28
+  clusters=12
+  best=part2.mp4 offset=2880.724
+  support=28 (1.000)
+  avg visual score=0.894769
+  timeline runs=1
+  confidence=VERY_HIGH
+
+Next:
+  Inspect the strongest visual clusters/runs.
+  Then construct each movie from independently approved Stage37 runs,
+  preserving exact KR Japanese ATRAC3+ and exact KR PTS.
+
+Accepted dk101 note remains unchanged:
+  MOV05D accepted with ~2-3 tolerated Stage37 tail frames at the end
+  of the second internal video.

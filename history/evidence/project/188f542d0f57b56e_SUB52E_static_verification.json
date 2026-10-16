@@ -1,0 +1,14 @@
+{
+  "stage": "SUB52E_STATIC_IMAGE_APPLY",
+  "source_iso": "PROJECT_ROOT\\Naruto_KR_MOV06E_SUB52D2_FIX2_StaticText.iso",
+  "source_sha256": "46a2e934a4f6fc44585fac31b68735f04e182d4392251db76c89050c0b9de5d0",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub52e_static_image_apply\\Naruto_KR_MOV06E_SUB52E_StaticImages.iso",
+  "final_iso_size": 2439098368,
+  "final_iso_sha256": "3e58fd4abb76f32c5d4df52e4faf73a5a67189534d671c4d5866331def210254",
+  "resources_changed": 37,
+  "textures_changed": 67,
+  "translated_texture_assets": 67,
+  "pmfs_preserved": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "PENDING_FINAL_QA"
+}

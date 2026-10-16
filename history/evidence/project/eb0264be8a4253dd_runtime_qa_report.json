@@ -1,0 +1,37 @@
+{
+  "stage": "SUB50_RUNTIME_QA",
+  "iso_sha256": "5a750d02fc701c110106711dedfc3e19b34b32f1833ccbef811f3d55441f87b9",
+  "targets": [
+    {
+      "target": "status",
+      "status": "CAPTURED",
+      "file": "01_status.png"
+    },
+    {
+      "target": "item",
+      "status": "CAPTURED",
+      "file": "02_item.png"
+    },
+    {
+      "target": "mugen_map",
+      "status": "CAPTURED",
+      "file": "03_mugen_map.png"
+    },
+    {
+      "target": "narup_help",
+      "status": "CAPTURED",
+      "file": "04_narup_help.png"
+    },
+    {
+      "target": "speaker",
+      "status": "CAPTURED",
+      "file": "05_speaker.png"
+    },
+    {
+      "target": "extra",
+      "status": "CAPTURED",
+      "file": "06_extra.png"
+    }
+  ],
+  "captured": 6
+}

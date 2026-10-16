@@ -1,0 +1,37 @@
+{
+  "stage": "SUB47_RUNTIME_QA",
+  "iso_sha256": "8b04e816bf6d6b15b4ad5e288056e4fbe6261c2d5d882dd2e1b67594fbcb6951",
+  "targets": [
+    {
+      "target": "wireless",
+      "status": "CAPTURED",
+      "file": "01_wireless.png"
+    },
+    {
+      "target": "option",
+      "status": "CAPTURED",
+      "file": "02_option.png"
+    },
+    {
+      "target": "narup_help",
+      "status": "CAPTURED",
+      "file": "03_narup_help.png"
+    },
+    {
+      "target": "home_menu",
+      "status": "CAPTURED",
+      "file": "04_home_menu.png"
+    },
+    {
+      "target": "exit_prompt",
+      "status": "CAPTURED",
+      "file": "05_exit_prompt.png"
+    },
+    {
+      "target": "extra",
+      "status": "CAPTURED",
+      "file": "06_extra.png"
+    }
+  ],
+  "captured": 6
+}

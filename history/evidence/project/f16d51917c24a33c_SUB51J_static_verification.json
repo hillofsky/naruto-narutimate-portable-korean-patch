@@ -1,0 +1,23 @@
+{
+  "stage": "SUB51J_MUGEN_SAFE_STYLE",
+  "source_sub51i_sha256": "415aded95bc3030ca3deac2550a635e47a99c9d34e34825193c74f4bec469ef7",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub51j_mugen_safe_style\\Naruto_KR_MOV06E_SUB51J_MugenSafeStyled.iso",
+  "final_iso_size": 1232244736,
+  "final_iso_sha256": "e8731e1b6eaceae47f765137ab1e40ebced1ad9637e44013b06ad19b17ba3556",
+  "resource_changed": "mugen.ccs",
+  "textures_changed": [
+    "TEX_mg_title",
+    "TEX_red",
+    "TEX_white"
+  ],
+  "exact_regions_changed": 20,
+  "outside_region_indexed_pixel_changes": 0,
+  "outside_target_texture_payload_ccs_byte_changes": 0,
+  "non_target_primary_preserved": 643,
+  "fsts_bundles_rebuilt": 2,
+  "pmf_movies_preserved": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "DEFERRED",
+  "bc250_used": false,
+  "local_llm_used": false
+}

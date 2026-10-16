@@ -1,0 +1,11 @@
+Naruto PSP SUB51P FIX7 - StableUI
+
+SourceSUB51N_SHA256=8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081
+FinalISO=PROJECT_ROOT\analysis\sub\sub51p_fix7_stable_ui\build\Naruto_KR_MOV06E_SUB51P_FIX7_StableUI.iso
+FinalSHA256=2a4dd75345c88e1350e3aca846a210ce6ba92f74a82b691069df2551127411e9
+Changed=gauge TEX_red/TEX_white/TEX_xpanel only; title.ccs intentionally untouched
+Purpose=Clean screenshot-derived Game Mode Select header and O/X labels; restore title screen by leaving title.ccs untouched
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=PENDING
+ExternalPythonPackagesRequired=NO

@@ -1,0 +1,27 @@
+{
+  "stage": "SUB31",
+  "mode": "READ_ONLY_FULL_SEMANTIC_TRANSLATION_REVIEW_BUNDLE",
+  "rows": 1976,
+  "all_rows_require_semantic_review": true,
+  "ocr_is_reference_only": true,
+  "source_counts": {
+    "OCR_REUSE_DRAFT": 1554,
+    "TOPOLOGY_REWRITE_DRAFT": 115,
+    "JP_EN_DIRECT_DRAFT": 304,
+    "OCR_REUSE_TECH_FIX_DRAFT": 3
+  },
+  "packet_size": 200,
+  "packet_files": [
+    "sub31_review_0001_0200.tsv",
+    "sub31_review_0201_0400.tsv",
+    "sub31_review_0401_0600.tsv",
+    "sub31_review_0601_0800.tsv",
+    "sub31_review_0801_1000.tsv",
+    "sub31_review_1001_1200.tsv",
+    "sub31_review_1201_1400.tsv",
+    "sub31_review_1401_1600.tsv",
+    "sub31_review_1601_1800.tsv",
+    "sub31_review_1801_1976.tsv"
+  ],
+  "game_files_modified": false
+}

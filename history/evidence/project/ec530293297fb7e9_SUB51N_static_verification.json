@@ -1,0 +1,34 @@
+{
+  "stage": "SUB51N_TITLEHOMEPOLISH",
+  "source_sub51d_sha256": "7138f8c35bacaafab85ff50c12daf0620030cb9b44e7b7bf242168c20c91e845",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\test_p23orig\\TEST_P23Orig.iso",
+  "final_iso_size": 1247948800,
+  "final_iso_sha256": "38076c17b1b157aeeab80075bbf5e7a25f25ea3e1a082754069961a7238df565",
+  "resources_changed": [
+    "cmnselect.ccs",
+    "gauge.ccs",
+    "home.ccs",
+    "mapsel1.ccs",
+    "mgn_skill.ccs",
+    "mgselect.ccs",
+    "modesel1.ccs",
+    "mugen.ccs",
+    "option.ccs",
+    "rpggauge.ccs",
+    "title.ccs"
+  ],
+  "textures_changed": 61,
+  "non_target_primary_preserved": 633,
+  "fsts_bundles_rebuilt": 7,
+  "pmf_movies_preserved": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "DEFERRED",
+  "rebuilt_from_preserved_sub51d": true,
+  "intermediate_iso_dependency": false,
+  "bc250_used": false,
+  "local_llm_used": false,
+  "intentionally_deferred": [
+    "gauge.ccs shared TEX_red/TEX_white",
+    "mgselect.ccs TEX_mgselect/TEX_mgselect3 small instruction atlases"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stage": "SUB17",
+  "source_iso_sha256": "6510ad253aed3e4a20c87e36844ce5db8794e4daeca0c2e6ba38081dd26745a7",
+  "mapping_sha256": "fb95c0a7388ac75107d3ff46cf7e8324bdc4948085ff3c193520e0cd3ea2d2a5",
+  "boot_sha256": "2fbbf997e679082d97bb5990c78719c3a1ba8993fb568dfb4434af9ad8a7b376",
+  "mapping_rows": 694,
+  "probe_count": 16,
+  "sampled_unique_hangul": 160,
+  "mapping_leads": [
+    "81",
+    "82",
+    "89",
+    "8A",
+    "8B",
+    "8C",
+    "8D",
+    "8E",
+    "8F",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98"
+  ],
+  "all_mapping_leads_covered": true,
+  "probe_tbl": "PROJECT_ROOT\\analysis\\sub\\sub17_runtime_smoke\\event000_sub17_runtime_smoke.tbl",
+  "probe_tbl_sha256": "cd5bb994ef1977bc93aa70e9eeb9bff87207df0708f1c2e94fe51f7601511efd"
+}

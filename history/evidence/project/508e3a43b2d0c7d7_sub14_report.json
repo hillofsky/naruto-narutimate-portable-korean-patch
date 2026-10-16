@@ -1,0 +1,18 @@
+{
+  "boot": "PROJECT_ROOT\\kr_extracted\\PSP_GAME\\SYSDIR\\BOOT.BIN",
+  "boot_sha256": "1083ba42327f187cd81fe6b31c9975857d271373d4a907d1b7f35d38bc7fc4c8",
+  "elf_header": {
+    "e_type": 65440,
+    "e_machine": 8,
+    "e_entry": 2831648,
+    "e_phoff": 52,
+    "e_phentsize": 32,
+    "e_phnum": 1,
+    "e_flags": 279064577
+  },
+  "target_count": 6,
+  "mapped_targets": 6,
+  "disassembly_rows": 651,
+  "stage_evidence_files": 8,
+  "note": "read-only diagnostic; no game files modified"
+}

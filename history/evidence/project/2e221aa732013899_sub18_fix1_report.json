@@ -1,0 +1,28 @@
+{
+  "stage": "SUB18_FIX1",
+  "mode": "READ_ONLY_DECODE_PATH_DISCOVERY",
+  "all_analysis_tbl_files": 951,
+  "decoded_text_tbl_candidates": 681,
+  "stage3_tbl_files": 46,
+  "stage3_textual_tbl_files": 0,
+  "stage3_total_msg_token_hits": 0,
+  "stage3_total_nul_bytes": 836,
+  "known_stage14_event000": {
+    "path": "PROJECT_ROOT\\analysis\\stage14\\test_patch\\event000_original.tbl",
+    "bytes": 7613,
+    "sha256": "b1296a0af8550d8691bf9c031bda8384015ad6514a282a357d094e086c398033",
+    "event_markers": 1,
+    "msg_tokens": 97
+  },
+  "patcher_path": "PROJECT_ROOT\\analysis\\stage14\\naruto_patcher.py",
+  "patcher_sha256": "6b06b849948b12d46ed17e9787c4872ba4271222dbafcbd19e5224cda139bb82",
+  "relevant_patcher_functions": 2,
+  "patcher_snippets": 29,
+  "related_analysis_text_files": 18589,
+  "original_sub18_diagnosis": "Stage3 extracted TBLs are binary resources, not decoded line-oriented event scripts.",
+  "self_output_excluded": true,
+  "walk_mode": "iterative_os_scandir_stack",
+  "windows_reparse_points_skipped": true,
+  "visited_path_deduplication": true,
+  "game_files_modified": false
+}

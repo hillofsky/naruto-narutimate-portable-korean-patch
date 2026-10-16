@@ -1,0 +1,15 @@
+Naruto PSP SUB13 - Full Hangul Runtime Smoke ISO
+
+ProbeCount=17
+SampledUniqueHangul=165
+SampledGlyphRange=87..2037
+ISOSize=864507904
+ISOSHA256=bb5943095c92178b0a6bcffd47de215922ec55af9c79901d91e25e5dd75b226e
+EmbeddedBOOTMatch=YES
+EmbeddedDATMatch=YES
+EmbeddedIDXMatch=YES
+
+ISO=PROJECT_ROOT\Naruto - SUB13 Full Hangul Runtime Smoke.iso
+
+Launch the ISO in PPSSPP from a normal save (not a save state).
+Compare the first probe dialogue windows with sub13_runtime_checklist.txt.

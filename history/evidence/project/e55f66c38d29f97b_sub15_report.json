@@ -1,0 +1,20 @@
+{
+  "stage": "SUB15",
+  "boot_sha256": "1083ba42327f187cd81fe6b31c9975857d271373d4a907d1b7f35d38bc7fc4c8",
+  "special_table_endian": "big",
+  "special_entries": 163,
+  "canonical_standard_codes": 3429,
+  "strict_standard_slots": 792,
+  "fixed_stage36r": 10,
+  "fixed_pinned_original_collisions": 0,
+  "fixed_pinned_non_strict": 5,
+  "usable_strict_after_fixed": 787,
+  "new_allocations": 684,
+  "unused_strict_after_allocation": 103,
+  "mapping_rows": 694,
+  "mapping_sha256": "caf832677e92da62cc659a9b9e57922ece478f93babab02936a848a3b48adc21",
+  "runtime_self_check_failures": 0,
+  "special_region_allocations": 0,
+  "tbl_files": 46,
+  "ui_coverage_sources": 1
+}

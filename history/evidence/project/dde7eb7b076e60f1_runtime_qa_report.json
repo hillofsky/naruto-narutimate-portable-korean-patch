@@ -1,0 +1,37 @@
+{
+  "stage": "SUB48_RUNTIME_QA",
+  "iso_sha256": "7bd72351ac14fc5d7a0774e04290ffaf88b67e1239493938793f037e8530bc92",
+  "targets": [
+    {
+      "target": "option",
+      "status": "CAPTURED",
+      "file": "01_option.png"
+    },
+    {
+      "target": "narup_help",
+      "status": "CAPTURED",
+      "file": "02_narup_help.png"
+    },
+    {
+      "target": "home_menu",
+      "status": "CAPTURED",
+      "file": "03_home_menu.png"
+    },
+    {
+      "target": "gauge_extra",
+      "status": "SKIPPED",
+      "file": ""
+    },
+    {
+      "target": "rpg_menu",
+      "status": "SKIPPED",
+      "file": ""
+    },
+    {
+      "target": "extra",
+      "status": "CAPTURED",
+      "file": "06_extra.png"
+    }
+  ],
+  "captured": 4
+}

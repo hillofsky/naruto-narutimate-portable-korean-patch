@@ -1,0 +1,20 @@
+Naruto PSP MOV03K FIX5 - Per-AU 8-byte header detection
+================================================================================
+
+Validated full-duration WAV=10/10
+
+Average ATRAC3+ stereo frame-start score by transform:
+  strip_head8: 1.000000
+  raw752: 0.000000
+
+Interpretation:
+- FFmpeg's ATRAC3+ decoder requires start bit 0 then channel-unit id.
+- Stereo frames should begin with top 3 bits 001.
+- If strip_head8 scores ~1.0 and decodes, each 752-byte PSMF AU is:
+    8-byte PSMF/MPEG AU header + 744-byte ATRAC3+ frame.
+- If another transform scores/decodes instead, its exact offsets are retained.
+
+Main files:
+  fix5_frame_start_diagnostics.tsv
+  fix5_transform_trials.tsv
+  fix5_results.tsv

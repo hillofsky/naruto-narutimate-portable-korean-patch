@@ -1,0 +1,20 @@
+Naruto PSP MOV03L FIX2 - Whole audio PES transplant
+================================================================================
+
+KR/US audio PES count=432/432
+Whole PES lengths equal=YES
+Packets whose private payload offset/length differs=22
+PTS exactly equal=431/432
+Hybrid file size equals US=YES
+Hybrid whole-audio-PES SHA equals KR=YES
+Hybrid ATRAC3+ SHA equals KR=YES
+Hybrid H264 SHA equals US=YES
+Hybrid WAV decode=OK
+Hybrid WAV duration=53.777415s
+Preview=OK
+LOSSLESS HYBRID RESULT=PASS
+
+Outputs:
+  PROJECT_ROOT\analysis\mov\mov03l_hybrid_pmf_smoke\output\dm001_USvideo_KRaudio_lossless.pmf
+  PROJECT_ROOT\analysis\mov\mov03l_hybrid_pmf_smoke\output\dm001_hybrid_audio.wav
+  PROJECT_ROOT\analysis\mov\mov03l_hybrid_pmf_smoke\output\dm001_USvideo_KRaudio_preview.mp4

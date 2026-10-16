@@ -1,0 +1,14 @@
+Naruto PSP SUB44 - UI Text Cleanup
+
+SourceSHA256=9c565369ac5cf6ccf5fb2898577503a5cac43ab0aec297482ba76698eeba3433
+FinalISO=PROJECT_ROOT\analysis\sub\sub44_ui_cleanup\Naruto_KR_MOV06E_SUB44_UITextCleanup.iso
+FinalSHA256=0aa25f739c76d7143591f38991ff65a026d1d5ceae73075d4402d13664667264
+BOOTUIStringsPatched=32
+OptionChangedPixels=17758
+FSTSChangedBundles=0
+PreservedPrimaryResources=643
+PreservedPMFs=24
+ExistingFontMappingPreserved=694+17
+NewGlyphsAdded=0
+StaticQA=PASS
+RuntimeQA=REQUIRED

@@ -1,0 +1,18 @@
+Naruto PSP MOV03K - Embedded PMF audio extraction
+================================================================================
+
+KR DM PMFs with successful PCM WAV extraction=0/10
+KR DM PMFs with successful bitstream OMA extraction=0/10
+Audio durations matching known PMF duration within 0.5 sec=0/10
+Detected audio codecs=(none)
+Detected sample rates=(none)
+Detected channel counts=(none)
+US counterpart stream rows=0
+
+Interpretation:
+- Successful WAV extraction proves usable embedded audio independently of psmfdump.
+- Successful OMA copy preserves the encoded ATRAC stream for later remuxing.
+- Extracted WAV/OMA files remain under analysis\mov\mov03k_embedded_audio\audio
+  and are intentionally excluded from the compact upload ZIP.
+- If OMA copy fails but WAV succeeds, the final PMF rebuild can re-encode WAV
+  to ATRAC3+ during muxing.

@@ -1,0 +1,13 @@
+{
+  "stage": "SUB52F_FIX1_FINAL_STATIC_RESIDUAL_SWEEP",
+  "source_iso": "PROJECT_ROOT\\Naruto_KR_MOV06E_SUB52E_StaticImages.iso",
+  "source_sha256": "3e58fd4abb76f32c5d4df52e4faf73a5a67189534d671c4d5866331def210254",
+  "residual_japanese_text_rows": 321,
+  "texture_candidates": 327,
+  "residual_unpatched_texture_candidates": 260,
+  "patched_review_texture_candidates": 67,
+  "residual_contact_sheets": 9,
+  "patched_contact_sheets": 3,
+  "gameplay_used": false,
+  "ppsspp_used": false
+}

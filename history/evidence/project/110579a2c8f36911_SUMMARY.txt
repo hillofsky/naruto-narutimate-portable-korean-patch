@@ -1,0 +1,22 @@
+Naruto PSP SUB04 - Rare/Suspicious Hangul OCR Review
+
+SUB03Entries=1900
+UniqueHangul=699
+SingletonHangulChars=132
+RareHangulCharsLE3=248
+ReviewRows=206
+ReviewImagesCopied=206
+ReviewImagesMissing=0
+
+Candidate rules:
+- row contains a Hangul syllable appearing exactly once in SUB03
+- OR row contains at least 2 distinct Hangul syllables appearing <=3 times
+- OR row contains a known suspicious OCR term
+
+Reason counts:
+  SINGLETON_CHAR=120
+  SUSPECT_TERM=77
+  MULTI_RARE_LE3=64
+
+No text is modified in SUB04.
+This stage only builds a focused visual-review queue.

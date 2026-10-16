@@ -1,0 +1,16 @@
+stage=SUB52I_P0_SAFE_ROLLBACK_FIX1
+source_fix3_iso=PROJECT_ROOT\Naruto_KR_MOV06E_SUB52H_FIX3.iso
+source_fix3_sha256=87e1d9ad950e8b2ed9674e3569a139c21a39f93db7cbbd66997ee03f3162f194
+baseline_iso=PROJECT_ROOT\Naruto_KR_MOV06E_SUB52G_FIX1_FinalResidual.iso
+baseline_sha256=f595279862cd1fc0b208d40645b1629abd6af3c9ae4849d0edbc8c09c99516d1
+final_iso=PROJECT_ROOT\analysis\sub\sub52i_p0_rollback_fix1\Naruto_KR_MOV06E_SUB52I_P0_Rollback_FIX1.iso
+final_size=3807690752
+final_sha256=e67cbaca44abe4145a2ba97d52c6eebe32690373394b4925eced0cb486a380b9
+texture_payloads_restored=2
+uv_rows_restored=2
+text_resource_preserved_except_uv=True
+pmfs_preserved=24
+boot_eboot_preserved=True
+static_qa=PASS
+runtime_qa=NOT_TESTED
+remaining=Shikamaru character name duplication, tree-climb start prompt, counter unit glyph, winner reward strings; requires exact source identification

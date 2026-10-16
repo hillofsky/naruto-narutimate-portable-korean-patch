@@ -1,0 +1,21 @@
+Naruto PSP MOV03Q - dm001 Korean subtitle VIDEO smoke test
+================================================================================
+
+Subtitle count=16
+Subtitle timing=MOV03N FIX5 KR timeline
+Visual source=US dm001e clean video
+Preview audio=KR original Japanese audio
+Source video bitrate~1007.4 kbps
+PSP encode avg/max=1000/1550 kbps
+Video-only PMF=PASS
+PMF H264=480x272
+PMF audio PES=0 (expected 0 in MOV03Q)
+
+Local outputs:
+  Preview    : PROJECT_ROOT\analysis\mov\mov03q_dm001_subtitle_video\output\dm001_KOsub_KR-JP-audio_preview.mp4
+  Video PMF  : PROJECT_ROOT\analysis\mov\mov03q_dm001_subtitle_video\output\dm001_KOsub_video_only.pmf
+  Review JPG : PROJECT_ROOT\analysis\mov\mov03q_dm001_subtitle_video\output\dm001_KOsub_review_27s.jpg
+
+Next:
+  Use sector_layout.tsv + KR original 0xBD stream to build the
+  final subtitle-video + original Japanese ATRAC3+ PMF mux.

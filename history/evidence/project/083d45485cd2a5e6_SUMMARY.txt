@@ -1,0 +1,17 @@
+stage=SUB52V_DISK_CLEANUP
+dry_run=False
+source_iso=PROJECT_ROOT\analysis\sub\sub52u_hud_remaining\Naruto_KR_MOV06E_SUB52U_HUDRemaining_Compact.iso
+source_sha256=3192c66bf22f2a21b03346e6549f3c6d01f1d7ac69ec91c645ff7ed6fb503e5f
+protected_stages=['SUB52J_', 'SUB52K_FIX2_', 'SUB52M_', 'SUB52N_FIX1_', 'SUB52T_', 'SUB52U_', 'SUB52D2_', 'SUB52E_']
+target_free_gib=16.0
+free_before_bytes=9153187840
+free_after_bytes=18746617856
+free_delta_bytes=9593430016
+removed_listed_bytes=9593436477
+files_and_dirs_deleted=7
+obsolete_iso_deleted=2
+candidate_count=10
+skipped_or_protected=0
+target_reached=True
+status=PASS
+notes=No source/game ISO, stable SUB52J/KFIX2/M/NFIX1/T/U, assets, scripts or logs are eligible for deletion.

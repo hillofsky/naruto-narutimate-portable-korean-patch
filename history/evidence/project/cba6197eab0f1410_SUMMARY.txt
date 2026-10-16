@@ -1,0 +1,25 @@
+SUB52L Read-only runtime source audit
+stage=SUB52L_RUNTIME_SOURCE_STATIC_AUDIT
+source_iso=PROJECT_ROOT\analysis\sub\sub52k_fix2_compact\Naruto_KR_MOV06E_SUB52K_FIX2_Compact.iso
+source_iso_sha256=a487c2e6deb3701ac2e529e84c4180a06980da32d14eadf91c1242a05df121af
+baseline_iso=PROJECT_ROOT\analysis\sub\sub52j_safe_atlas\Naruto_KR_MOV06E_SUB52J_SafeAtlas.iso
+baseline_iso_sha256=2e6cb2e577ddeebe07453ec56f07f72422a6b3b20001987c253a5468658f5a05
+source_size_bytes=4285442048
+source_below_4gib=True
+resource_count=27
+face_resources=23
+texture_records=49
+fsts_duplicate_members=2
+boot_target_hits=12
+note=Texture changes prove resource data changed, not which screen renders it. Gameplay or renderer tracing required for definitive display linkage.
+iso_modified=False
+ppsspp_launched=False
+
+FOCUS RESOURCES:
+face_hnt.ccs/TEX_n_hnt_l: changed=True
+face_hnt.ccs/TEX_n_hnt_s: changed=True
+face_sik.ccs/TEX_n_sik_l: changed=True
+face_sik.ccs/TEX_n_sik_s: changed=True
+eff3eye.ccs/TEX_xwinner: changed=False
+gauge.ccs/TEX_xwinner: changed=False
+mgselect.ccs/TEX_xwinner: changed=False

@@ -1,0 +1,20 @@
+Naruto PSP MOV05A FIX1 - dk101 Stage37 audio locator
+================================================================================
+
+Parser: proven MOV04C PMF/ATRAC recovery
+Dependency: pure Python, NumPy not required
+
+KR dk101 audio duration=116.982s
+KR ATRAC frames=2519
+KR audio PES=940
+
+Best candidate:
+  source=source_video.mp4
+  offset=0.700 sec
+  correlation=0.602344
+  scale=1.000
+  confidence=HIGH
+
+Paired KR/Stage37 review frames are included.
+If visuals match, MOV05B can cut/retime the Stage37 Korean video
+and remux exact KR Japanese ATRAC/PTS into a PSP PMF.

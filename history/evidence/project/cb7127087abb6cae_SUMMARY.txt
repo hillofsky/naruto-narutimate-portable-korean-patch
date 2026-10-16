@@ -1,0 +1,11 @@
+Naruto PSP SUB51P - ModeSelTitleFix
+
+SourceSUB51N_SHA256=8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081
+FinalISO=PROJECT_ROOT\analysis\sub\sub51p_modesel_title_fix\build\Naruto_KR_MOV06E_SUB51P_ModeSelTitleFix.iso
+FinalSHA256=56f1b9aff2916a9f9a493d5a90a4e09889b3ca86ed25661aada7933acc12e146
+Changed=gauge TEX_red/TEX_white/TEX_xpanel + title TEX_panel targeted pressed-gap region
+Purpose=Korean Game Mode Select header + bottom controls + targeted pressed white-gap fix
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=PENDING
+ExternalPythonPackagesRequired=NO

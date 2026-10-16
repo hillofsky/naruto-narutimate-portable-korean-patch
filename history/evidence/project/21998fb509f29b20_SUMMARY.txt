@@ -1,0 +1,23 @@
+Naruto PSP MOV03K FIX1 - Manual PSMF ATRAC3+ demux
+================================================================================
+
+DM files with Sony-style private substream ID (<0x20)=10/10
+DM files with successful manually wrapped AT3 -> PCM WAV=10/10
+Chosen substream IDs=0x00
+Inferred frame sizes=0x2E8
+
+What this fixes:
+- FFprobe not listing audio no longer blocks extraction.
+- private_stream_1 is parsed directly from MPEG-PS.
+- Sony substream ID + padding bytes are removed before concatenation.
+- ATRAC3+ frame size is inferred from known PSP fixed-frame sizes and movie duration.
+- A WAVE_FORMAT_EXTENSIBLE ATRAC3+ .at3 wrapper is generated and decoded.
+
+Key diagnostics:
+- private_stream_diagnostics.tsv: substream IDs, PES sizes, PTS cadence, payload heads.
+- atrac_frame_size_candidates.tsv: all supported frame-size rankings.
+- manual_atrac_extract_results.tsv: final decode outcome.
+
+Local large files:
+  raw:   PROJECT_ROOT\analysis\mov\mov03k_embedded_audio\raw
+  audio: PROJECT_ROOT\analysis\mov\mov03k_embedded_audio\audio

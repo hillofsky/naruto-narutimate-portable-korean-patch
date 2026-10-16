@@ -1,0 +1,26 @@
+Naruto PSP Stage 38B
+Timestamp: 2026-10-02 18:40:41
+Result: FAILED
+ExitCode: 
+ElapsedSeconds: N/A
+
+Goal:
+RTX 3070에서 Qwen3-VL 단일 이미지 OCR을 끝까지 실행하는 smoke test.
+
+Configuration:
+n_gpu_layers=99
+ctx=2048
+batch=512
+ubatch=512
+image_max_tokens=512
+mmproj_offload=OFF
+
+LLAMA=PROJECT_ROOT\analysis\stage38a_cuda\cuda_runtime\llama-cli.exe
+MODEL=PROJECT_ROOT\analysis\stage38a_cuda\models\Qwen3-VL-2B-Instruct-Q8_0.gguf
+MMPROJ=PROJECT_ROOT\analysis\stage38a_cuda\models\mmproj-Qwen3-VL-2B-Instruct-Q8_0.gguf
+IMAGE=PROJECT_ROOT\analysis\stage38a\naruto_stage38a_payload\images\001_part1_p1_g1.jpg
+
+Transcript=PROJECT_ROOT\logs\naruto_stage38b_20261002_184041.log
+CLI_Output=PROJECT_ROOT\analysis\stage38b\llama_cli_output_20261002_184041.log
+
+Failure=version: 0.5.0-dev (build 11342, commit f1cee9941)

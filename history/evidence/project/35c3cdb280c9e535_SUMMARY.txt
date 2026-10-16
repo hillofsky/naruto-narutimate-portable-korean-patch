@@ -1,0 +1,23 @@
+Naruto PSP SUB21 - Semantic Review Bundle
+
+AmbiguousBlocks=157
+SubtitleRowsToReview=423
+CandidateGameRowsEmitted=576
+CandidateRowsPerBlockMin=1
+CandidateRowsPerBlockMax=25
+CandidateRowsPerBlockMean=3.669
+CrossEventBlocks=19
+CandidateRowsWithUniqueUSVoiceMatch=477
+CandidateRowsWithoutUSVoiceMatch=98
+ReviewPacketFiles=7
+
+Each block contains:
+  previous/next structural-high anchor
+  Korean SUB09 rows to align
+  every KR game dialogue candidate between the two high anchors
+  exact same-event voice-ID US text when available
+  assignments proposed by each of the 3 SUB20 variants
+  SKIP-ALL marker for game rows skipped by all 3 variants
+
+No semantic mapping was decided in SUB21.
+No TBL/DAT/BOOT/ISO files were modified.

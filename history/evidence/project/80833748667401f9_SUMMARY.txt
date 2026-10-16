@@ -1,0 +1,29 @@
+Naruto PSP MOV05D - dk101 independently segmented final
+================================================================================
+
+RESULT=PASS
+
+Visual recipe:
+  segment 1 KR 0.000..6.990     <- Stage37 0.705..7.695
+  segment 2 KR 6.990..67.951    <- Stage37 7.689..68.650
+  segment 3 KR 67.951..72.539   <- generated Korean production credits
+  segment 4 KR 72.539..116.249  <- Stage37 69.545..113.255
+
+Critical behavior:
+  No global/piecewise offset interpolation.
+  No time stretching.
+  No Stage37 pixels after each approved segment end.
+  Stage37 transition/outro pixels between segment 2 and 4 are discarded.
+
+Audio:
+  exact KR Japanese ATRAC3+ frames
+  exact KR audio PES count
+  exact KR PTS sequence
+
+Final PMF=PROJECT_ROOT\analysis\mov\mov05d_dk101_segmented_final\output\dk101_stage37_segmented_KOvideo_KRJPaudio.pmf
+Smoke ISO=PROJECT_ROOT\analysis\mov\mov05d_dk101_segmented_final\output\Naruto_KR_MOV05D_dk101_segmented_smoketest.iso
+Final PMF bytes=16662528
+Original allocation=16867328
+Spare bytes=204800
+
+Wrapper will launch PPSSPP from the user's fixed PPSSPP folder.

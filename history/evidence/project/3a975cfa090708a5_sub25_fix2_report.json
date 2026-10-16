@@ -1,0 +1,39 @@
+{
+  "stage": "SUB25_FIX2",
+  "mode": "READ_ONLY_FULL_VOICE_OBSERVATION_2D_MONOTONIC_RECONSTRUCTION",
+  "checkpoint_source": "PROJECT_ROOT\\analysis\\sub\\sub25_fix1_voice_timeline_reconstruction\\sub25_fix1_search_checkpoint.tsv",
+  "checkpoint_mode": "DIRECT_STAGE_FILE",
+  "game_rows": 1976,
+  "voiced_game_rows": 1823,
+  "top5_covered_voice_rows": 1715,
+  "checkpoint_only_voice_rows": 108,
+  "part1_strong_max_gpos": 1468,
+  "part2_strong_min_gpos": 1470,
+  "chain_counts": {
+    "0.06": 1700,
+    "0.08": 1698,
+    "0.10": 1695
+  },
+  "played_voice_consensus": 1695,
+  "subtitle_dialogue_rows": 1761,
+  "group_count_distribution": {
+    "0": 157,
+    "1": 1528,
+    "2": 64,
+    "3": 9,
+    "4": 3
+  },
+  "speaker_incompatible_groups": 26,
+  "potential_1G_2S_split_rows": 206,
+  "review_groups": 344,
+  "known_merge29": [
+    "event000.tbl#011",
+    "event000.tbl#012"
+  ],
+  "required_anchors": {
+    "SUB09_164": "event003.tbl#047",
+    "SUB09_1883": "event112.tbl#122"
+  },
+  "semantic_final_claim": false,
+  "game_files_modified": false
+}

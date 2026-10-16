@@ -1,0 +1,57 @@
+{
+  "0008__1hakbod1.ccs__TEX_name__64x64.png": {
+    "resource": "1hakbod1.ccs",
+    "texture": "64x64.png",
+    "translation": ""
+  },
+  "0317__mg_kinobori.ccs__TEX_mgtitle01__256x64.png": {
+    "resource": "mg_kinobori.ccs",
+    "texture": "256x64.png",
+    "translation": ""
+  },
+  "0322__slot.ccs__TEX_slot_t01__512x512.png": {
+    "resource": "slot.ccs",
+    "texture": "512x512.png",
+    "translation": ""
+  },
+  "0499__narup.ccs__TEX_narup__512x256.png": {
+    "resource": "narup.ccs",
+    "texture": "512x256.png",
+    "translation": ""
+  },
+  "0316__mg_ki.ccs__TEX_mgtitle01__256x64.png": {
+    "resource": "mg_ki.ccs",
+    "texture": "256x64.png",
+    "translation": ""
+  },
+  "0214__gauge.ccs__TEX_xmenu__256x128.png": {
+    "resource": "gauge.ccs",
+    "texture": "256x128.png",
+    "translation": ""
+  },
+  "0214__gauge.ccs__TEX_xselect5__64x64.png": {
+    "resource": "gauge.ccs",
+    "texture": "64x64.png",
+    "translation": ""
+  },
+  "0320__sik_pose.ccs__TEX_2tyoglb0__64x64.png": {
+    "resource": "sik_pose.ccs",
+    "texture": "64x64.png",
+    "translation": ""
+  },
+  "0183__eff3eye.ccs__026__TEX_xwinner__128x64__0x13.png": {
+    "resource": "eff3eye.ccs",
+    "texture": "TEX_xwinner",
+    "translation": ""
+  },
+  "0319__mgselect.ccs__018__TEX_xwinner__128x64__0x13.png": {
+    "resource": "mgselect.ccs",
+    "texture": "TEX_xwinner",
+    "translation": ""
+  },
+  "0319__mgselect.ccs__016__TEX_mgselect3__512x256__0x13.png": {
+    "resource": "mgselect.ccs",
+    "texture": "TEX_mgselect3",
+    "translation": ""
+  }
+}

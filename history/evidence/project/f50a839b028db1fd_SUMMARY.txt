@@ -1,0 +1,15 @@
+Naruto PSP SUB52G FIX1 - Final Residual Apply
+
+stage=SUB52G_FIX1_FINAL_RESIDUAL_APPLY
+source_iso=PROJECT_ROOT\Naruto_KR_MOV06E_SUB52E_StaticImages.iso
+source_sha256=3e58fd4abb76f32c5d4df52e4faf73a5a67189534d671c4d5866331def210254
+final_iso=PROJECT_ROOT\analysis\sub\sub52g_fix1_final_residual_apply\Naruto_KR_MOV06E_SUB52G_FIX1_FinalResidual.iso
+final_iso_size=2880010240
+final_iso_sha256=f595279862cd1fc0b208d40645b1629abd6af3c9ae4849d0edbc8c09c99516d1
+residual_text_rows_patched=2
+residual_textures_patched=8
+resources_changed=8
+pmfs_preserved=24
+boot_eboot_preserved=True
+static_qa=PASS
+runtime_qa=READY_FOR_MANUAL_MENU_QA

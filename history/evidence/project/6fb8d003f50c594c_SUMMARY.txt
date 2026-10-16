@@ -1,0 +1,26 @@
+Naruto PSP MOV03I - DM resource predicate + full AT3 static scan
+==============================================================================
+
+Grounded DM selector map:
+  0=dm001 1=dm002 2=dm003 3=dm004 4=dm005
+  5=dm006 6=dm007 7=dm008 8=dm009 9=dm010
+
+KR AT3 files scanned=2031
+AT3 duration unresolved=0
+Individual DM/AT3 rows within 2 sec=28
+Bank-total DM rows within 3 sec=49
+US AT3 files indexed=4204
+KR/US counterpart rows=3967
+Audio-related BOOT strings=159
+Grounded audio-string code xrefs=20
+
+g_d candidate totals:
+  g_d25=20.076s/6 files
+  g_d26=22.390s/6 files
+  g_d27=20.878s/6 files
+
+Interpretation rules:
+- Duration similarity is a candidate generator, never proof.
+- Strong evidence requires duration + separate-use path + code/table linkage.
+- resource_function_context.txt is intended to reveal what predicate 0x5F8C0
+  actually tests before a DM selector is inserted into runtime BSS.

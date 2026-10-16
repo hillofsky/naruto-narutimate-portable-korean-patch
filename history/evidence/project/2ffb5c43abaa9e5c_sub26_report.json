@@ -1,0 +1,31 @@
+{
+  "stage": "SUB26",
+  "mode": "READ_ONLY_EXCEPTION_SEMANTIC_REVIEW_BUNDLE",
+  "subtitle_group_rows": 1761,
+  "exception_subtitle_rows": 344,
+  "exception_blocks": 177,
+  "candidate_game_rows": 417,
+  "candidate_game_rows_unique": 417,
+  "unselected_candidate_game_rows": 139,
+  "candidate_rows_per_block": {
+    "min": 0,
+    "max": 23,
+    "mean": 2.3559322033898304
+  },
+  "review_hint_block_counts": {
+    "HAS_MULTI_G_TO_1S": 66,
+    "HAS_0G": 130,
+    "HAS_SPEAKER_MISMATCH": 26,
+    "HAS_POTENTIAL_1G_TO_2S": 83
+  },
+  "packet_files": [
+    "sub26_review_packet_001_030.txt",
+    "sub26_review_packet_031_060.txt",
+    "sub26_review_packet_061_090.txt",
+    "sub26_review_packet_091_120.txt",
+    "sub26_review_packet_121_150.txt",
+    "sub26_review_packet_151_177.txt"
+  ],
+  "semantic_decisions_made": 0,
+  "game_files_modified": false
+}

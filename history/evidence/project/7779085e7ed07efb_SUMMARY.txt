@@ -1,0 +1,18 @@
+Naruto PSP SUB51D - Full Text Apply
+
+SourceSUB50SHA256=5a750d02fc701c110106711dedfc3e19b34b32f1833ccbef811f3d55441f87b9
+FinalISO=PROJECT_ROOT\analysis\sub\sub51d_full_text_apply\Naruto_KR_MOV06E_SUB51D_FullText.iso
+FinalSHA256=7138f8c35bacaafab85ff50c12daf0620030cb9b44e7b7bf242168c20c91e845
+FinalSize=1215064064
+ChatGPTTranslations=1140
+BOOTOccurrencesPatched=1223
+TBLOccurrencesPatched=32
+TBLResourcesRebuilt=18
+ExistingMappingChars=711
+NewMappingChars=106
+CombinedMappingChars=817
+PMFsPreserved=24
+BC250Used=NO
+LocalLLMUsed=NO
+StaticQA=PASS
+RuntimeQA=DEFERRED

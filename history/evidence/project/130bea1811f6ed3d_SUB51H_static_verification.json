@@ -1,0 +1,19 @@
+{
+  "stage": "SUB51H_OPTION_STYLE_REBUILD",
+  "source_sub51g_sha256": "d06152d10691852c9cacd7097a29404f3e0175345b45b5b74d0f66054a6eb85b",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub51h_option_style_rebuild\\Naruto_KR_MOV06E_SUB51H_OptionStyled.iso",
+  "final_iso_size": 1217210368,
+  "final_iso_sha256": "eea17dc56d1078c450fa8d61b4f0af6615a140682e15a8d950f586af16873c61",
+  "resource_changed": "option.ccs",
+  "texture_changed": "TEX_option01",
+  "exact_region_count": 12,
+  "outside_region_indexed_pixel_changes": 0,
+  "changed_indexed_pixels": 27174,
+  "non_target_primary_preserved": 643,
+  "fsts_bundles_rebuilt": 0,
+  "pmf_movies_preserved": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "DEFERRED",
+  "bc250_used": false,
+  "local_llm_used": false
+}

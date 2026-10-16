@@ -1,0 +1,53 @@
+{
+  "stage": "SUB20_FIX1",
+  "mode": "READ_ONLY_3_VARIANT_BIJECTIVE_STRUCTURAL_ALIGNMENT",
+  "input_kr_tsv_sha256": "aad0a83b6b60acc86b107dfde029903dcced86c1fdb198f6c2daa46809531f54",
+  "input_sub09_sha256": "59e376ba446e9e898e52d293b79f3eac13235bc9fb0ef4fc3bb22f6df47d8d4e",
+  "game_dialogue_like_rows": 1976,
+  "subtitle_event_window_dialogue_rows": 1761,
+  "structural_high_anchors": 1338,
+  "needs_semantic_review_rows": 423,
+  "ambiguous_blocks": 157,
+  "sub20_original_false_high_rows_demoted": 152,
+  "high_definition": "3-variant consensus + true bijective 1 game row <-> 1 subtitle row + explicit compatible speaker",
+  "speaker_normalization_alignment_only": {
+    "이도": "이노"
+  },
+  "variant_summaries": [
+    {
+      "variant": "BASELINE",
+      "score": "203.289673",
+      "operations": "{\"1G_1S\": 1452, \"1G_2S\": 69, \"1G_3S\": 8, \"2G_1S\": 135, \"3G_1S\": 11, \"SKIP_GAME\": 144, \"SKIP_SUB\": 1}",
+      "skipped_game_rows": 144,
+      "skipped_subtitle_rows": 1,
+      "skipped_subtitle_sequences": "1337"
+    },
+    {
+      "variant": "CONSERVATIVE",
+      "score": "226.189713",
+      "operations": "{\"1G_1S\": 1453, \"1G_2S\": 72, \"1G_3S\": 6, \"2G_1S\": 135, \"3G_1S\": 10, \"SKIP_GAME\": 145, \"SKIP_SUB\": 1}",
+      "skipped_game_rows": 145,
+      "skipped_subtitle_rows": 1,
+      "skipped_subtitle_sequences": "1337"
+    },
+    {
+      "variant": "MERGE_FRIENDLY",
+      "score": "193.590027",
+      "operations": "{\"1G_1S\": 1446, \"1G_2S\": 71, \"1G_3S\": 8, \"2G_1S\": 137, \"3G_1S\": 11, \"SKIP_GAME\": 144, \"SKIP_SUB\": 1}",
+      "skipped_game_rows": 144,
+      "skipped_subtitle_rows": 1,
+      "skipped_subtitle_sequences": "1337"
+    }
+  ],
+  "game_rows_skipped_by_all_variants": 126,
+  "opening_anchor": "SUB09#19 -> event000.tbl#001",
+  "closing_anchor": "SUB09#1883 -> event112.tbl#122",
+  "sub09_1337": {
+    "speaker": "카카시",
+    "text": "선생님, 여기가… 목적지에요?",
+    "structural_high": "NO",
+    "note": "Located in non-event/movie bridge between event025 and event100; do not force into TBL."
+  },
+  "semantic_verification_performed": false,
+  "game_files_modified": false
+}

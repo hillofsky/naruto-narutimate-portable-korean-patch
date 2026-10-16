@@ -1,0 +1,31 @@
+Naruto PSP SUB25 FIX2 - Full Voice Observation Monotonic Reconstruction
+
+CheckpointMode=DIRECT_STAGE_FILE
+GameRows=1976
+VoicedGameRows=1823
+Top5CoveredVoiceRows=1715
+CheckpointOnlyVoiceRows=108
+
+Threshold0.06Selected=1700
+Threshold0.08Selected=1698
+Threshold0.10Selected=1695
+PlayedVoiceConsensus=1695
+SubtitleDialogueRows=1761
+GroupCounts={"0": 157, "1": 1528, "2": 64, "3": 9, "4": 3}
+SpeakerIncompatibleGroups=26
+Potential1G2SSplitRows=206
+ReviewGroups=344
+
+Known checks:
+  #29  -> event000#011 + event000#012
+  #164 -> event003#047
+  #1883 -> event112#122
+  #38/#39 detected as potential one-game-to-two-subtitle split
+
+Important:
+  SUB24 core rows are NOT fixed truth in FIX2.
+  All available direct audio observations compete under global
+  game-order + audio-time monotonicity.
+
+No audio is decoded again.
+No TBL/DAT/BOOT/ISO files were modified.

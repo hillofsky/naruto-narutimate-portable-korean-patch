@@ -1,0 +1,20 @@
+{
+  "stage": "SUB51P_FIX8_STABLE_UI",
+  "source_sub51n_sha256": "8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub51p_fix8_stable_ui\\build\\Naruto_KR_MOV06E_SUB51P_FIX8_StableUI.iso",
+  "final_iso_size": 1621979136,
+  "final_iso_sha256": "41c5c06942d45ed153fac555f9f2df87e9312e5bdb400ef2840a7913a2769557",
+  "resources_changed": [
+    "gauge.ccs"
+  ],
+  "textures_changed": 3,
+  "textures": [
+    "gauge.ccs/TEX_red",
+    "gauge.ccs/TEX_white",
+    "gauge.ccs/TEX_xpanel"
+  ],
+  "pmf_movies_preserved": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "PENDING",
+  "external_python_packages_required": false
+}

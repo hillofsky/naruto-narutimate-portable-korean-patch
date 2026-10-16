@@ -1,0 +1,22 @@
+{
+  "stage": "SUB51O_FIX2_MENU_HINT_POLISH",
+  "source_sub51n_sha256": "8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub51o_fix2_menu_hint_polish\\build\\Naruto_KR_MOV06E_SUB51O_MenuHintPolish.iso",
+  "final_iso_size": 1624356864,
+  "final_iso_sha256": "91c7bd4b8bcc60172f3dabd36b728a171775893c75f98a268d9824333c386271",
+  "resources_changed": [
+    "gauge.ccs",
+    "title.ccs"
+  ],
+  "textures_changed": 4,
+  "textures": [
+    "title.ccs/TEX_panel",
+    "title.ccs/TEX_panel2",
+    "title.ccs/TEX_panel3",
+    "gauge.ccs/TEX_xpanel"
+  ],
+  "pmf_movies_preserved": 24,
+  "static_qa": "PASS",
+  "runtime_qa": "PENDING",
+  "external_python_packages_required": false
+}

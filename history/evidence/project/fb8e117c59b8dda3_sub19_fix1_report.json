@@ -1,0 +1,35 @@
+{
+  "stage": "SUB19_FIX1",
+  "mode": "READ_ONLY_ACCURATE_MESSAGE_COMMAND_INVENTORY",
+  "kr_event_files": 39,
+  "us_event_files": 39,
+  "kr_command_counts": {
+    "MSG": 1932,
+    "MSG_FORCED": 44,
+    "MSG_SYS": 37
+  },
+  "us_command_counts": {
+    "MSG": 1932,
+    "MSG_FORCED": 44,
+    "MSG_SYS": 50
+  },
+  "kr_display_message_rows": 2013,
+  "us_display_message_rows": 2026,
+  "kr_raw_MSG_space_equals_substring_count": 2958,
+  "kr_wait_nomsg_rows": 1026,
+  "kr_substring_minus_wait": 1932,
+  "us_raw_MSG_space_equals_substring_count": 2965,
+  "us_wait_nomsg_rows": 1033,
+  "us_substring_minus_wait": 1932,
+  "sub09_rows": 1900,
+  "unique_voice_anchors": 1816,
+  "counting_bug_explained": "Old 2958/2965 values counted raw substring 'MSG =' which also occurs inside WAIT_NOMSG =. They are not dialogue counts.",
+  "known_opening_anchor": {
+    "sub09_sequence": 19,
+    "event_file": "event000.tbl",
+    "game_dialogue_index": 1,
+    "speaker_code": "SIK",
+    "voice_id": "s_a01_000"
+  },
+  "game_files_modified": false
+}

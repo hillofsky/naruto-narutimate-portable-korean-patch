@@ -1,0 +1,15 @@
+{
+  "stage": "SUB22",
+  "mode": "READ_ONLY_AUDIO_ALIGNMENT_READINESS",
+  "ffmpeg": "LOCAL_PATH",
+  "ffprobe": "LOCAL_PATH",
+  "media_candidates": 110,
+  "part1_candidate": "PROJECT_ROOT\\analysis\\stage37\\video\\source_video.mp4",
+  "part2_candidate": "PROJECT_ROOT\\analysis\\stage37\\video\\part2.mp4",
+  "voice_samples": 5,
+  "voice_decode_success": 5,
+  "pilot_matches_completed": 3,
+  "drift_true_minus_wrong_raw_ncc": "+0.252190",
+  "readiness": "READY_FOR_FULL_AUDIO_ALIGNMENT",
+  "game_files_modified": false
+}

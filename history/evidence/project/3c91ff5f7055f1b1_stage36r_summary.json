@@ -1,0 +1,157 @@
+{
+  "stage": "36R",
+  "special_glyph_base": 3429,
+  "standard_direct_glyph_range": "0..3428",
+  "stage36_observation": {
+    "working_codes": [
+      "81EF",
+      "8248",
+      "824A",
+      "8241",
+      "82F7",
+      "82F5",
+      "825E",
+      "825C"
+    ],
+    "failed_codes": [
+      "9455",
+      "9457"
+    ],
+    "failed_formula_glyphs": [
+      3593,
+      3595
+    ]
+  },
+  "corrected_capacity": {
+    "strict_low_standard_slots": 980,
+    "strict_low_empty_slots": 24,
+    "reclaim_low_standard_slots": 2591,
+    "reclaim_low_empty_slots": 78
+  },
+  "expected": [
+    "STD1:한글테스트",
+    "STD2:가나다라마"
+  ],
+  "mapping": [
+    {
+      "char": "한",
+      "unicode": "U+D55C",
+      "sjis": "82F7",
+      "sjis_hex": "82 F7",
+      "target_glyph": 370,
+      "target_glyph_hex": "0x172",
+      "target_file_offset": "0x3AB728",
+      "source_stage34_glyph": 3582,
+      "source_stage34_offset": "0x42A7C0",
+      "bitmap_sha256": "e06b2cb1ee3fb4dd21a39387ccbc6d936bec1616e93ea092e0bc4c1e6bbf3ae6"
+    },
+    {
+      "char": "글",
+      "unicode": "U+AE00",
+      "sjis": "82F5",
+      "sjis_hex": "82 F5",
+      "target_glyph": 368,
+      "target_glyph_hex": "0x170",
+      "target_file_offset": "0x3AB5E4",
+      "source_stage34_glyph": 3583,
+      "source_stage34_offset": "0x42A862",
+      "bitmap_sha256": "2741f0ad162dbdc25875ab11472d43b03562b079e4a3b98b53e4610e031c3f79"
+    },
+    {
+      "char": "테",
+      "unicode": "U+D14C",
+      "sjis": "825E",
+      "sjis_hex": "82 5E",
+      "target_glyph": 218,
+      "target_glyph_hex": "0xDA",
+      "target_file_offset": "0x3A56F8",
+      "source_stage34_glyph": 3584,
+      "source_stage34_offset": "0x42A904",
+      "bitmap_sha256": "601cbef3f6fdcd58a4f7f84d5ed1297e89618068f7e8a59413028619b5500e77"
+    },
+    {
+      "char": "스",
+      "unicode": "U+C2A4",
+      "sjis": "825C",
+      "sjis_hex": "82 5C",
+      "target_glyph": 216,
+      "target_glyph_hex": "0xD8",
+      "target_file_offset": "0x3A55B4",
+      "source_stage34_glyph": 3585,
+      "source_stage34_offset": "0x42A9A6",
+      "bitmap_sha256": "46ba031b995bcb44f6e29a91f078c3306e1f0aff60eaa202cd49efc15b36e7e5"
+    },
+    {
+      "char": "트",
+      "unicode": "U+D2B8",
+      "sjis": "824A",
+      "sjis_hex": "82 4A",
+      "target_glyph": 198,
+      "target_glyph_hex": "0xC6",
+      "target_file_offset": "0x3A4A50",
+      "source_stage34_glyph": 3586,
+      "source_stage34_offset": "0x42AA48",
+      "bitmap_sha256": "587581449a8df84c9dd63497f3b2aa3f488c5b4f5a00503176c4284ab358e161"
+    },
+    {
+      "char": "가",
+      "unicode": "U+AC00",
+      "sjis": "8248",
+      "sjis_hex": "82 48",
+      "target_glyph": 196,
+      "target_glyph_hex": "0xC4",
+      "target_file_offset": "0x3A490C",
+      "source_stage34_glyph": 3587,
+      "source_stage34_offset": "0x42AAEA",
+      "bitmap_sha256": "54b5dddd1388a3550196336cb1046c26ee08a2bd72b653109e7fd0516150bdc5"
+    },
+    {
+      "char": "나",
+      "unicode": "U+B098",
+      "sjis": "8241",
+      "sjis_hex": "82 41",
+      "target_glyph": 189,
+      "target_glyph_hex": "0xBD",
+      "target_file_offset": "0x3A449E",
+      "source_stage34_glyph": 3588,
+      "source_stage34_offset": "0x42AB8C",
+      "bitmap_sha256": "918b31eea0fa69ec91fe3fcb64a2780a43f947910bb1f92ae35cd91573938e18"
+    },
+    {
+      "char": "다",
+      "unicode": "U+B2E4",
+      "sjis": "81EF",
+      "sjis_hex": "81 EF",
+      "target_glyph": 174,
+      "target_glyph_hex": "0xAE",
+      "target_file_offset": "0x3A3B20",
+      "source_stage34_glyph": 3589,
+      "source_stage34_offset": "0x42AC2E",
+      "bitmap_sha256": "509db61d402cff8ac67e958af58697fb72f2f0a22bd4bbf9b808f2215c8864a6"
+    },
+    {
+      "char": "라",
+      "unicode": "U+B77C",
+      "sjis": "81EE",
+      "sjis_hex": "81 EE",
+      "target_glyph": 173,
+      "target_glyph_hex": "0xAD",
+      "target_file_offset": "0x3A3A7E",
+      "source_stage34_glyph": 3590,
+      "source_stage34_offset": "0x42ACD0",
+      "bitmap_sha256": "46537b91bda84640a354900287b4a9af458a61e89b0bca61fdc5e7f10ea702ec"
+    },
+    {
+      "char": "마",
+      "unicode": "U+B9C8",
+      "sjis": "81EC",
+      "sjis_hex": "81 EC",
+      "target_glyph": 171,
+      "target_glyph_hex": "0xAB",
+      "target_file_offset": "0x3A393A",
+      "source_stage34_glyph": 3591,
+      "source_stage34_offset": "0x42AD72",
+      "bitmap_sha256": "89a25f1069fe5d45d63ca3fd04a888376283bdb8d215b83862d4fbdb22e5dd12"
+    }
+  ]
+}

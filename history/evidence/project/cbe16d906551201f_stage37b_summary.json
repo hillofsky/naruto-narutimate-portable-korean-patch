@@ -1,0 +1,159 @@
+{
+  "stage": "37B",
+  "status": "MULTIPART_FRAME_EXTRACTION_COMPLETE",
+  "part1": {
+    "source": "PROJECT_ROOT\\analysis\\stage37\\video",
+    "reused": true,
+    "accepted": 1498,
+    "hardlinks_created": 2996,
+    "copies_created": 0,
+    "original_config": {
+      "video": "PROJECT_ROOT\\analysis\\stage37\\video\\source_video.mp4",
+      "video_width": 1920,
+      "video_height": 1080,
+      "video_fps": 59.94005994005994,
+      "video_frames": 452634,
+      "video_duration_seconds": 7551.4439,
+      "video_duration": "02:05:51.444",
+      "sample_stride_frames": 6,
+      "effective_sample_fps": 9.99000999000999,
+      "active_content_normalized": {
+        "x0": 0.0,
+        "y0": 0.0,
+        "x1": 1.0,
+        "y1": 1.0
+      },
+      "dialogue_roi_normalized_to_active": {
+        "x0": 0.035,
+        "y0": 0.68,
+        "x1": 0.965,
+        "y1": 0.98,
+        "score": 0.7187344294967613,
+        "fallback": false
+      },
+      "roi_candidates": [
+        {
+          "x0": 0.035,
+          "y0": 0.68,
+          "x1": 0.965,
+          "y1": 0.98,
+          "score": 0.7187344294967613,
+          "fallback": false
+        },
+        {
+          "x0": 0.035,
+          "y0": 0.64,
+          "x1": 0.965,
+          "y1": 0.94,
+          "score": 0.6803687095166916
+        },
+        {
+          "x0": 0.035,
+          "y0": 0.6,
+          "x1": 0.965,
+          "y1": 0.8999999999999999,
+          "score": 0.5889248740519294
+        },
+        {
+          "x0": 0.035,
+          "y0": 0.56,
+          "x1": 0.965,
+          "y1": 0.8600000000000001,
+          "score": 0.5119858273819411
+        },
+        {
+          "x0": 0.035,
+          "y0": 0.52,
+          "x1": 0.965,
+          "y1": 0.8200000000000001,
+          "score": 0.4319465205115429
+        }
+      ],
+      "thresholds": {
+        "min_active_ink_ratio": 0.00065,
+        "stable_change_ratio": 0.0018,
+        "typing_change_ratio": 0.004,
+        "stable_ink_delta_ratio": 0.0012,
+        "min_stable_seconds": 0.75,
+        "max_stable_wait_seconds": 3.0
+      },
+      "raw_candidates": 1554,
+      "accepted_candidates": 1498,
+      "rejected_candidates": 56,
+      "roi_preview": "PROJECT_ROOT\\analysis\\stage37\\stage37_roi_preview.jpg",
+      "contact_sheet": "PROJECT_ROOT\\analysis\\stage37\\stage37_contact_sheet.jpg"
+    }
+  },
+  "part2": {
+    "video": "PROJECT_ROOT\\analysis\\stage37\\video\\part2.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 59.94005994005994,
+    "frame_count": 190915,
+    "duration_seconds": 3185.0985833333334,
+    "active_content_normalized": {
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 1.0,
+      "y1": 1.0
+    },
+    "dialogue_roi": {
+      "x0": 0.035,
+      "y0": 0.68,
+      "x1": 0.965,
+      "y1": 0.98,
+      "score": 0.7281459336765764,
+      "fallback": false
+    },
+    "roi_candidates": [
+      {
+        "x0": 0.035,
+        "y0": 0.68,
+        "x1": 0.965,
+        "y1": 0.98,
+        "score": 0.7281459336765764,
+        "fallback": false
+      },
+      {
+        "x0": 0.035,
+        "y0": 0.64,
+        "x1": 0.965,
+        "y1": 0.94,
+        "score": 0.7034268947572385
+      },
+      {
+        "x0": 0.035,
+        "y0": 0.6,
+        "x1": 0.965,
+        "y1": 0.8999999999999999,
+        "score": 0.6214360848142613
+      },
+      {
+        "x0": 0.035,
+        "y0": 0.56,
+        "x1": 0.965,
+        "y1": 0.8600000000000001,
+        "score": 0.5329125837347063
+      },
+      {
+        "x0": 0.035,
+        "y0": 0.52,
+        "x1": 0.965,
+        "y1": 0.8200000000000001,
+        "score": 0.46600786137407957
+      }
+    ],
+    "raw_candidates": 601,
+    "accepted": 588,
+    "rejected": 13,
+    "preview": "PROJECT_ROOT\\analysis\\stage37b\\stage37b_part2_roi_preview.jpg",
+    "contact_sheet": "PROJECT_ROOT\\analysis\\stage37b\\stage37b_part2_contact_sheet.jpg"
+  },
+  "merged": {
+    "accepted_total": 2086,
+    "part1": 1498,
+    "part2": 588,
+    "timeline": "PROJECT_ROOT\\analysis\\stage37b\\stage37b_merged.tsv",
+    "contact_sheet": "PROJECT_ROOT\\analysis\\stage37b\\stage37b_merged_contact_sheet.jpg"
+  }
+}

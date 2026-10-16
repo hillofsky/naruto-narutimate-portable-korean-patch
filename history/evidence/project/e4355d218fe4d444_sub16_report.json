@@ -1,0 +1,27 @@
+{
+  "stage": "SUB16",
+  "input_sub15_mapping_sha256": "caf832677e92da62cc659a9b9e57922ece478f93babab02936a848a3b48adc21",
+  "final_mapping_rows": 694,
+  "final_mapping_sha256": "fb95c0a7388ac75107d3ff46cf7e8324bdc4948085ff3c193520e0cd3ea2d2a5",
+  "strict_slots_total": 792,
+  "final_strict_mappings": 694,
+  "unsafe_mappings_remaining": 0,
+  "reassigned_chars": [
+    "글",
+    "나",
+    "마",
+    "스",
+    "한"
+  ],
+  "reassigned_count": 5,
+  "preserved_mapping_rows": 689,
+  "unused_strict_slots": 98,
+  "runtime_self_check_failures": 0,
+  "special_region_allocations": 0,
+  "stage36r_bitmap_hash_matches": 10,
+  "original_boot_sha256": "1083ba42327f187cd81fe6b31c9975857d271373d4a907d1b7f35d38bc7fc4c8",
+  "patched_boot_sha256": "2fbbf997e679082d97bb5990c78719c3a1ba8993fb568dfb4434af9ad8a7b376",
+  "off_target_byte_changes": 0,
+  "font_path": "LOCAL_PATH",
+  "font_sha256": "a541834fb9cdde9bd6d2c3ff1565cb0bb5ccf7a15e4e9daf2cb58d9b1cf282aa"
+}

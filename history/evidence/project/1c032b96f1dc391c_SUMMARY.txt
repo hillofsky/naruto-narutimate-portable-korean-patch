@@ -1,0 +1,16 @@
+SUB51O FIX3 button candidate collection
+Found=6 Missing=5
+
+cmnselect.ccs TEX_button01 -> cmnselect__TEX_button01__0__cmnselect.ccs_TEX_button01.png <- PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\orig_dump\cmnselect.ccs_TEX_button01.png
+cmnselect.ccs TEX_button02 -> cmnselect__TEX_button02__0__cmnselect.ccs_TEX_button02.png <- PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\orig_dump\cmnselect.ccs_TEX_button02.png
+cmnselect.ccs TEX_button03 -> cmnselect__TEX_button03__0__cmnselect.ccs_TEX_button03.png <- PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\orig_dump\cmnselect.ccs_TEX_button03.png
+cmnselect.ccs TEX_button04 -> cmnselect__TEX_button04__0__cmnselect.ccs_TEX_button04.png <- PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\orig_dump\cmnselect.ccs_TEX_button04.png
+cmnselect.ccs TEX_xselect3 -> cmnselect__TEX_xselect3__0__cmnselect.ccs_TEX_xselect3.png <- PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\orig_dump\cmnselect.ccs_TEX_xselect3.png
+cmnselect.ccs TEX_xselect3 -> cmnselect__TEX_xselect3__1__l__cmnselect__TEX_xselect3_KO.png <- PROJECT_ROOT\analysis\sub\sub51n_titlehomepolish\build_assets\l__cmnselect__TEX_xselect3_KO.png
+
+MISSING:
+gauge.ccs TEX_xpad
+gauge.ccs TEX_xselect
+gauge.ccs TEX_xselect2
+gauge.ccs TEX_xselect5
+xselect3.ccs TEX_xselect4

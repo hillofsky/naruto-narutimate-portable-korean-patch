@@ -1,0 +1,34 @@
+Naruto PSP SUB19 FIX1 - Accurate Decoded Event Message Inventory
+
+KREventFiles=39
+USEventFiles=39
+KRDisplayMessageRows=2013
+USDisplayMessageRows=2026
+KRCommands=MSG=1932, MSG_FORCED=44, MSG_SYS=37
+USCommands=MSG=1932, MSG_FORCED=44, MSG_SYS=50
+KRNormalMSG=1932
+USNormalMSG=1932
+KRRawSubstringMSGEquals=2958
+KRWAIT_NOMSG=1026
+KRRawMinusWAIT=1932
+USRawSubstringMSGEquals=2965
+USWAIT_NOMSG=1033
+USRawMinusWAIT=1932
+SUB09Rows=1900
+UniqueVoiceAnchors=1816
+
+Counting bug fixed:
+  2958/2965 were substring counts, not dialogue counts.
+  WAIT_NOMSG rows were included because 'WAIT_NOMSG =' contains 'MSG ='.
+
+Display commands now inventoried separately:
+  MSG / MSG_FORCED / MSG_SYS / any other MSG_*
+
+Confirmed opening anchor remains:
+  SUB09 #19 = event000 dialogue #1 SIK / s_a01_000
+
+Events with KR/US display-row count differences:
+  event025.tbl: KR=197 US=205 delta=+8
+  event112.tbl: KR=122 US=127 delta=+5
+
+No game files were modified.

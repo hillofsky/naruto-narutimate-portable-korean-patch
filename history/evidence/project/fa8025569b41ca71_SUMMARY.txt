@@ -1,0 +1,18 @@
+Naruto PSP SUB47 - Network / Option / Home
+
+SourceSHA256=d3db7466c1bd0df72e093e81f02fcc200a22e23ffc25ab7ce84307e9230d6c07
+FinalISO=PROJECT_ROOT\analysis\sub\sub47_network_option_home\Naruto_KR_MOV06E_SUB47_Network_Option_Home.iso
+FinalSHA256=8b04e816bf6d6b15b4ad5e288056e4fbe6261c2d5d882dd2e1b67594fbcb6951
+FinalSize=1164664832
+TextPatched=36
+TextSkippedUnmapped=3
+TextSkippedTooLong=2
+ChangedResources=network.ccs,option.ccs
+FSTSChangedBundles=1
+PreservedPrimaryResources=642
+PMFsPreserved=24
+FontMappingPreserved=694+17
+NewGlyphsAdded=0
+CompactRebuild=YES
+StaticQA=PASS
+RuntimeQA=REQUIRED

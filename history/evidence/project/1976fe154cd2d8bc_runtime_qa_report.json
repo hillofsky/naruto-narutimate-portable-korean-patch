@@ -1,0 +1,32 @@
+{
+  "stage": "SUB45_RUNTIME_QA",
+  "iso_sha256": "d2d913344aeb83bed9ac16910fdbe2371996eba58f376c981e29e9c1a92dae41",
+  "targets": [
+    {
+      "target": "mugen_map",
+      "status": "CAPTURED",
+      "file": "01_mugen_map.png"
+    },
+    {
+      "target": "wireless",
+      "status": "CAPTURED",
+      "file": "02_wireless.png"
+    },
+    {
+      "target": "exit_prompt",
+      "status": "CAPTURED",
+      "file": "03_exit_prompt.png"
+    },
+    {
+      "target": "option",
+      "status": "CAPTURED",
+      "file": "04_option.png"
+    },
+    {
+      "target": "extra",
+      "status": "CAPTURED",
+      "file": "05_extra.png"
+    }
+  ],
+  "captured": 5
+}

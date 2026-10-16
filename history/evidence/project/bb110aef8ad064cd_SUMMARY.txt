@@ -1,0 +1,16 @@
+Naruto PSP SUB52H FIX3
+
+stage=SUB52H_FIX3
+source_iso=PROJECT_ROOT\Naruto_KR_MOV06E_SUB52G_FIX1_FinalResidual.iso
+source_iso_sha256=f595279862cd1fc0b208d40645b1629abd6af3c9ae4849d0edbc8c09c99516d1
+final_iso=PROJECT_ROOT\analysis\sub\sub52h_residual_fix2\Naruto_KR_MOV06E_SUB52H_FIX3.iso
+final_iso_size=3344435200
+final_iso_sha256=87e1d9ad950e8b2ed9674e3569a139c21a39f93db7cbbd66997ee03f3162f194
+boot_cstring_rows_patched=0
+resource_text_rows_patched=14
+textures_patched=13
+resources_changed=3
+pmfs_preserved=24
+runtime_focus=Check scroll titles, character-select name remnants, battle HUD names, victory labels, NaruP reward line, tree-climb counter/unit
+runtime_qa=READY_FOR_MANUAL_RUNTIME_QA
+note=Historical BOOT offsets are ignored; exact NUL-terminated C strings are searched dynamically.

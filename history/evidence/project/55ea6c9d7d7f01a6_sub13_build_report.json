@@ -1,0 +1,15 @@
+{
+  "mode": "build",
+  "source_iso": "PROJECT_ROOT\\kr\\Naruto - Narutimate Portable - Muhwanseongui Gwon (Korea).iso",
+  "source_iso_sha256": "6510ad253aed3e4a20c87e36844ce5db8794e4daeca0c2e6ba38081dd26745a7",
+  "sub12_boot": "PROJECT_ROOT\\analysis\\sub\\sub12_full_glyph_build\\BOOT_sub12_full_hangul.bin",
+  "sub12_boot_sha256": "7b4d8019dc6bd095b58fa7f307d3429e79af3aa9e6d764c13e0afe4418df2ae3",
+  "mapping_sha256": "9c73cdb33eb812a813c78cfb5efcad80838322ab5a4da90c91eb3db6aaca056c",
+  "mapping_rows": 694,
+  "probe_count": 17,
+  "sampled_unique_hangul": 165,
+  "min_sampled_glyph": 87,
+  "max_sampled_glyph": 2037,
+  "probe_tbl": "PROJECT_ROOT\\analysis\\sub\\sub13_runtime_smoke\\event000_sub13_runtime_smoke.tbl",
+  "probe_tbl_sha256": "dabf42a4f55fa65ad6a18301bc044644725512fc5f2b529b4e0e054b194497a0"
+}

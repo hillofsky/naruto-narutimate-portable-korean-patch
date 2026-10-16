@@ -1,0 +1,24 @@
+Naruto PSP SUB33 - Merge Full Semantic Review + Static QA
+
+RowsMerged=1976
+ReviewIndexExact=1..1976
+ChangedVsSUB29=1163
+RetainedVsSUB29=813
+ControlExactRows=1976
+ControlMismatches=0
+FinalUniqueHangul=640
+NewHangulRequired=0
+JapaneseLettersRemaining=0
+UnicodeReplacementCharsRemaining=0
+CompatibilityJamoRemaining=0
+Commands=MSG:1932 MSG_FORCED:44
+EventFiles=39
+MaxVisibleCharsPerLine=32
+LongLineWarningRowsOver28=10
+FinalMergedTSVSHA256=6cf9a2bab5d2fe18e87a84491ccb1d4fade36adf63dca5a22e23193baa680cff
+PatcherReadyTSVSHA256=cf0e3b89e9b6e84dbe0659d78be31c2b6949438856dd586e15607304542f4a69
+
+StaticQA=PASS
+GameFilesModified=NO
+RuntimeSpaceEncodingValidated=NO
+RuntimeSmokeRequiredBeforeFullPatch=YES

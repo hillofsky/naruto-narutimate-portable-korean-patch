@@ -1,0 +1,138 @@
+{
+  "stage": "SUB52Q_FIX2_EXISTING_TEXTURE_DUMP_AUDIT",
+  "timestamp": "2026-10-13T13:39:14.566615",
+  "game_id": "ULKS46086",
+  "read_only": true,
+  "iso_modified": false,
+  "ppsspp_launched": false,
+  "ppsspp_process_controlled": false,
+  "original_png_deleted": false,
+  "notes": "Similarity scores produce candidates, NOT runtime source proof.",
+  "texture_roots": [
+    {
+      "root": "LOCAL_PATH",
+      "exists": true,
+      "all_png": 2308,
+      "game_png": 2308,
+      "game_new_png": 2308,
+      "top_level_counts": {
+        "ULKS46086": 2308
+      },
+      "error": ""
+    },
+    {
+      "root": "LOCAL_PATH",
+      "exists": false,
+      "all_png": 0,
+      "game_png": 0,
+      "game_new_png": 0,
+      "top_level_counts": {},
+      "error": ""
+    },
+    {
+      "root": "LOCAL_PATH",
+      "exists": false,
+      "all_png": 0,
+      "game_png": 0,
+      "game_new_png": 0,
+      "top_level_counts": {},
+      "error": ""
+    },
+    {
+      "root": "LOCAL_PATH",
+      "exists": false,
+      "all_png": 0,
+      "game_png": 0,
+      "game_new_png": 0,
+      "top_level_counts": {},
+      "error": ""
+    }
+  ],
+  "total_png_across_roots": 2308,
+  "naruto_game_png": 2308,
+  "root_scan_limit_reached": false,
+  "classification": "EXISTING_NARUTO_TEXTURE_CANDIDATES_EXTRACTED",
+  "reference_images": [
+    "CURRENT__face_hnt__TEX_n_hnt_s.png",
+    "CURRENT__face_sik__TEX_n_sik_s.png",
+    "OLD__face_hnt__TEX_n_hnt_s.png",
+    "OLD__face_sik__TEX_n_sik_s.png",
+    "VICTORY_SCREEN_winner_crop.jpg"
+  ],
+  "game_png_processed": 2308,
+  "game_dump_dimensions_top": [
+    [
+      "32x32",
+      1634
+    ],
+    [
+      "16x32",
+      550
+    ],
+    [
+      "64x64",
+      34
+    ],
+    [
+      "128x128",
+      14
+    ],
+    [
+      "64x32",
+      12
+    ],
+    [
+      "256x256",
+      12
+    ],
+    [
+      "512x256",
+      12
+    ],
+    [
+      "256x128",
+      12
+    ],
+    [
+      "512x512",
+      8
+    ],
+    [
+      "128x64",
+      6
+    ],
+    [
+      "16x16",
+      3
+    ],
+    [
+      "256x512",
+      3
+    ],
+    [
+      "32x64",
+      2
+    ],
+    [
+      "32x16",
+      2
+    ],
+    [
+      "128x32",
+      2
+    ],
+    [
+      "256x64",
+      1
+    ],
+    [
+      "128x256",
+      1
+    ]
+  ],
+  "skipped": {},
+  "number_ranked_pairs": 6016,
+  "number_selected_candidates": 60,
+  "copied_png_count": 60,
+  "copied_png_bytes": 1015159
+}

@@ -1,0 +1,21 @@
+Naruto PSP MOV03N FIX5 - Exact-frame KR subtitle detector
+================================================================================
+
+Movies analyzed=10/10
+Detected subtitle segments=159
+Movies with zero detected subtitles=(none)
+Analysis FPS=10.0
+Crop=432x40 at (24,232)
+Bright-pixel luma threshold=96
+Minimum bright glyph pixels=20
+
+Method:
+  decode KR bottom black subtitle bar only
+  threshold bright Japanese glyph pixels directly
+  split on blank intervals and strong glyph-mask replacement
+  representative subtitle PNG = exact detector raw frame (no seeking)
+  representative full frame = exact fps=10 frame index
+
+This avoids KR-US drift and also saves OCR crops from the exact detector frames.
+
+Representatives: PROJECT_ROOT\analysis\mov\mov03n_subtitle_timing\representatives

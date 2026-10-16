@@ -1,0 +1,68 @@
+{
+  "stage": "SUB30_FIX1",
+  "mode": "EVENT000_1_24_KOREAN_RUNTIME_SMOKE_FULLWIDTH_SPACE_FIX",
+  "source_iso": "PROJECT_ROOT\\kr\\Naruto - Narutimate Portable - Muhwanseongui Gwon (Korea).iso",
+  "source_iso_sha256": "6510ad253aed3e4a20c87e36844ce5db8794e4daeca0c2e6ba38081dd26745a7",
+  "mapping_sha256": "fb95c0a7388ac75107d3ff46cf7e8324bdc4948085ff3c193520e0cd3ea2d2a5",
+  "boot_sha256": "2fbbf997e679082d97bb5990c78719c3a1ba8993fb568dfb4434af9ad8a7b376",
+  "sub29_manifest_sha256": "e7376f57f4b475aaaa0ae3707ea297b28b8d0de4bcbf6fafc21e88fd021b1b71",
+  "stage14_patcher_sha256": "6b06b849948b12d46ed17e9787c4872ba4271222dbafcbd19e5224cda139bb82",
+  "stage24_patcher_sha256": "511a632d3f6265193ab3948a8586aea00cd41e0de531793a35dcd24f9070e31c",
+  "decoded_event_source": "PROJECT_ROOT\\analysis\\stage8\\decoded_tbl\\kr\\event000.tbl",
+  "smoke_event": "event000.tbl",
+  "smoke_first_display_index": 1,
+  "smoke_last_display_index": 24,
+  "smoke_rows": 24,
+  "runtime_space_policy": "U+0020 -> U+3000 / SJIS 0x8140",
+  "original_event000_native_8140_count": 16,
+  "encoded_ascii_20_count": 0,
+  "topology_statuses": [
+    "DIRECT_TRANSLATE",
+    "EXCEPTION_1G1S",
+    "EXCEPTION_UNVOICED_1G1S",
+    "MERGE_SUBTITLE_PARTS_TO_1G",
+    "SPLIT_1S_TO_2G",
+    "STABLE_1G1S"
+  ],
+  "stage14_dat_size": 224051200,
+  "stage14_dat_sha256": "c26a1fe222fb66955d0fbc3cff39a15fbf6fad2b14bb5cb11c9801f8f69fca7a",
+  "stage14_idx_size": 28239,
+  "stage14_idx_sha256": "ba51776da388dbdd1953b4450271780c93d18d174cc33697e75eeadd607926ee",
+  "iso_embedded_checks": [
+    {
+      "iso_path": "PSP_GAME/SYSDIR/BOOT.BIN",
+      "iso_lba": 419110,
+      "iso_size": 6170192,
+      "host_path": "PROJECT_ROOT\\analysis\\sub\\sub16_collision_free_boot\\BOOT_sub16_collision_free_hangul.bin",
+      "host_size": 6170192,
+      "host_sha256": "2fbbf997e679082d97bb5990c78719c3a1ba8993fb568dfb4434af9ad8a7b376",
+      "iso_sha256": "2fbbf997e679082d97bb5990c78719c3a1ba8993fb568dfb4434af9ad8a7b376",
+      "match": true
+    },
+    {
+      "iso_path": "PSP_GAME/USRDIR/NARUTO.DAT",
+      "iso_lba": 309696,
+      "iso_size": 224051200,
+      "host_path": "PROJECT_ROOT\\analysis\\sub\\sub30_fix1_translation_runtime_smoke\\stage14_build\\naruto.dat",
+      "host_size": 224051200,
+      "host_sha256": "c26a1fe222fb66955d0fbc3cff39a15fbf6fad2b14bb5cb11c9801f8f69fca7a",
+      "iso_sha256": "c26a1fe222fb66955d0fbc3cff39a15fbf6fad2b14bb5cb11c9801f8f69fca7a",
+      "match": true
+    },
+    {
+      "iso_path": "PSP_GAME/USRDIR/NARUTO.IDX",
+      "iso_lba": 419096,
+      "iso_size": 28239,
+      "host_path": "PROJECT_ROOT\\analysis\\sub\\sub30_fix1_translation_runtime_smoke\\stage14_build\\naruto.idx",
+      "host_size": 28239,
+      "host_sha256": "ba51776da388dbdd1953b4450271780c93d18d174cc33697e75eeadd607926ee",
+      "iso_sha256": "ba51776da388dbdd1953b4450271780c93d18d174cc33697e75eeadd607926ee",
+      "match": true
+    }
+  ],
+  "final_iso": "PROJECT_ROOT\\Naruto - SUB30 FIX1 Korean Translation Runtime Smoke.iso",
+  "final_iso_size": 864507904,
+  "final_iso_sha256": "a6f2b109a698e135ecf2bfa1329f74a9ff74391d95e374a1c87f8c98b6e23ee3",
+  "build_validation_pass": true,
+  "visual_runtime_validation_pending": true
+}

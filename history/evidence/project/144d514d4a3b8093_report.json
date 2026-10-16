@@ -1,0 +1,14 @@
+{
+  "stage": "SUB40",
+  "iso": "PROJECT_ROOT\\analysis\\sub\\sub40_tutorial\\Naruto_KR_MOV06E_SUB40_Names_Tutorial.iso",
+  "tutorial_rows": 44,
+  "new_safe_glyphs": 17,
+  "old_mapping_unchanged": true,
+  "fsts_bundles": [
+    "mugen0",
+    "mugen1"
+  ],
+  "control_tokens_preserved": true,
+  "max_visible_chars_per_line": 23,
+  "runtime_verified": false
+}

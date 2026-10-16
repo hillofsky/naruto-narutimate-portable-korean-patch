@@ -1,0 +1,15 @@
+{
+  "stage": "SUB52P_HISTORICAL_CCS_PROBE",
+  "source_iso_sha256": "2e6cb2e577ddeebe07453ec56f07f72422a6b3b20001987c253a5468658f5a05",
+  "current_iso_sha256": "00bd998359e64e5d3f2af28c4f0d5b0dac7db8b11a35b773ea8a4ee290d58663",
+  "ccs_checked": 10,
+  "legacy_original_blob_still_present": 10,
+  "current_indexed_ccs_changed": 2,
+  "textures_compared": 12,
+  "changed_textures": 4,
+  "fsts_candidates": 4,
+  "warnings": [],
+  "iso_modified": false,
+  "ppsspp_controlled": false,
+  "interpretation": "Legacy blobs remaining on disk does NOT prove runtime reads them; PSP load provenance requires further verification."
+}

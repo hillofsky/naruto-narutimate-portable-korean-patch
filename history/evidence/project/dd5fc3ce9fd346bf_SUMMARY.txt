@@ -1,0 +1,11 @@
+Naruto PSP SUB51P FIX10A - StableUI
+
+SourceSUB51N_SHA256=8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081
+FinalISO=PROJECT_ROOT\analysis\sub\sub51p_fix10_stable_ui\build\Naruto_KR_MOV06E_SUB51P_FIX10_StableUI.iso
+FinalSHA256=0b25ed3581bd25862dcf53b8170be97a0d7a03e4286966849009bee7934440ab
+Changed=gauge TEX_red/TEX_white/TEX_xpanel only; title.ccs intentionally untouched
+Purpose=Use a cleaner transparent cutout of the red '게임 모드 선택' header from the user-provided good screenshot; keep FIX9 O/X labels; leave title.ccs untouched
+PMFsPreserved=24
+StaticQA=PASS
+RuntimeQA=PENDING
+ExternalPythonPackagesRequired=NO

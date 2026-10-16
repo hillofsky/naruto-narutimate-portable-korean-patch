@@ -1,0 +1,15 @@
+Naruto PSP SUB34 - MOV06E + SUB Final Integration
+
+SourceBase=MOV06E exact final ISO
+SourceISOSHA256=dc63288e12d2a49a49cd2dcdc2e09eb5c9880c1755c2b66bd590b0277eed88da
+FinalISO=PROJECT_ROOT\analysis\integrated\sub34_mov06e_sub_integration\output\Naruto_KR_MOV06E_SUB34_AllTranslated_Final.iso
+FinalISOSHA256=ba910fe5b970310eb202b9b537ef8121f7ac66eb716bb365989b4f5c706a0744
+EventFilesPatched=39
+DialogueRowsPatched=1976
+SpaceEncoding=A0_NARROW_PROBE
+ASCII20Remaining=0
+MoviePMFCount=24
+MoviePMFsByteIdentical=YES
+RequiredTranslatedPMFsPreserved=15/15
+StaticIntegrationQA=PASS
+RuntimeVisualValidationRequired=YES

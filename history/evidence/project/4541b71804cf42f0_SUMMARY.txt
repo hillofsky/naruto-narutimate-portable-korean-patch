@@ -1,0 +1,12 @@
+Naruto SUB51F - Official Korean UI Donor Discovery
+
+OfficialKRISO_SHA256=6510ad253aed3e4a20c87e36844ce5db8794e4daeca0c2e6ba38081dd26745a7
+SUB51D_SHA256=7138f8c35bacaafab85ff50c12daf0620030cb9b44e7b7bf242168c20c91e845
+ResourcesDecoded=9
+TexturesDecoded=34/35
+ModeSelDecoded=7/7
+ModeSelDimensionsCompatible=YES
+GameDataModified=NO
+PPSSPPExecuted=NO
+BC250Used=NO
+LocalLLMUsed=NO

@@ -1,0 +1,27 @@
+Naruto PSP SUB23 - Full Dialogue Audio Rescoring Audit
+
+DialogueRows=1761
+GameRows=1976
+CandidateMin=1
+CandidateMax=35
+CandidateMean=21.915
+DecodedUniqueVoiceFiles=1812
+VoiceDecodeErrors=0
+ConfidenceCounts={'VERY_STRONG': 1341, 'WEAK': 166, 'STRONG': 139, 'MEDIUM': 115}
+StrongAudioAnchors=1480
+StrongAudioStructuralDisagreements=223
+StructuralSingleRows=1492
+AudioAgreesStructural=1109
+NoScoreRows=0
+
+Pilot1k #19 s_a01_000=0.611584
+Pilot1k #164 TRUE s_a06_043=0.432397
+Pilot1k #164 WRONG s_a07_013=0.068010
+Pilot1k true-minus-wrong=+0.364387
+
+IMPORTANT:
+  This is an audio evidence audit, not a final patch mapping.
+  Strong audio/structural disagreements are especially valuable for
+  correcting the earlier speaker/order drift.
+
+No TBL/DAT/BOOT/ISO files were modified.

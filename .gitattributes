@@ -6,3 +6,8 @@
 *.md text eol=lf
 *.json text eol=lf
 *.tsv text eol=lf
+history/**/*.ps1 text eol=lf
+history/**/*.txt text eol=lf
+
+# Preserve legacy archive whitespace; active source still uses normal checks.
+history/** -whitespace

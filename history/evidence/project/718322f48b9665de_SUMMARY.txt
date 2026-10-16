@@ -1,0 +1,25 @@
+Naruto PSP SUB09 - Final Speaker-Corrected Subtitle Corpus
+
+Entries=1900
+SpeakerMetadataReparsed=8
+SpeakerTextCorrections=6
+DialogueEntries=1762
+NarrationEntries=138
+StructuralResidualRows=0
+MalformedSpeakerResidualRows=0
+CorpusIncludedEntries=1899
+CorpusExcludedEntries=1
+FinalUniqueHangul=694
+
+Visual speaker corrections:
+  seq325 g374: 김 -> 리
+  seq401 g457: 길 -> 리
+  seq474 g543: 길 -> 리
+  seq494 g565: 길 -> 리
+  seq602 g688: 모르지마족 -> 오로치마루
+  seq1239 g1383: 모로치마우 -> 오로치마루
+
+The 8 SUB08 exact rows were reparsed as DIALOGUE without changing their text.
+g24 remains intentionally excluded from the character corpus.
+
+SharedHandoff=PROJECT_ROOT\analysis\shared\youtube_subtitle_anchors.tsv

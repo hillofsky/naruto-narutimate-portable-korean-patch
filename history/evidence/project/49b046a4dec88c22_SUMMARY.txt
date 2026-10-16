@@ -1,0 +1,7 @@
+Naruto SUB52C static patch source collection
+
+Collected items=4037
+Purpose: build one static residual translation patch without gameplay discovery.
+Target tables: bunshin/nazonazo/quiz1/quiz2/mugen.
+Target images: character TEX_name, winner, minigame, slot, mugen cards/UI.
+Previous SUB51D text encoder/patch sources are included when present.

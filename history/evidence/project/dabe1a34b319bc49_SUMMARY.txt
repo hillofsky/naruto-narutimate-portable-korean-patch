@@ -1,0 +1,14 @@
+Naruto PSP SUB05 - Corrected Subtitle Anchors
+
+InputEntries=1900
+SUB04VisualReviewRows=206
+CorrectedGlobalRows=108
+CorrectedSequenceEntries=108
+UnresolvedRows=1
+ResidualKnownBadPatternRows=10
+UniqueHangulCorrected=692
+
+Unresolved:
+  g24 = title-style text cropped at top; preserved but excluded from character corpus
+
+SharedHandoff=PROJECT_ROOT\analysis\shared\youtube_subtitle_anchors.tsv

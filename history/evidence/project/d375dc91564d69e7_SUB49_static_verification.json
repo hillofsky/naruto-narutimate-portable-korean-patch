@@ -1,0 +1,22 @@
+{
+  "stage": "SUB49_SAFE_ATLAS_ROLLBACK",
+  "source_sub48_sha256": "7bd72351ac14fc5d7a0774e04290ffaf88b67e1239493938793f037e8530bc92",
+  "donor_sub36_sha256": "789984d99ee7003e2ddfebaaf1e80236d64459065ef27e29ca9c78e0cd24aa3f",
+  "final_iso": "PROJECT_ROOT\\analysis\\sub\\sub49_safe_atlas_rollback\\Naruto_KR_MOV06E_SUB49_SafeAtlasRollback.iso",
+  "final_iso_size": 1178576896,
+  "final_iso_sha256": "5ace9a1a17cd978579c79abf141bda7e5448c58fcc3638182c2525453fd9bad9",
+  "restored_resources": [
+    "option.ccs",
+    "gauge.ccs",
+    "rpggauge.ccs"
+  ],
+  "boot_source": "SUB48_UNCHANGED",
+  "safe_sub48_text_improvements_preserved": true,
+  "preserved_non_target_primary_resources": 641,
+  "preserved_non_target_fsts_members": 13,
+  "pmf_movies_preserved": 24,
+  "font_mapping": "UNCHANGED_FROM_SUB48",
+  "static_qa": "PASS",
+  "runtime_qa": "REQUIRED",
+  "note": "Rollback only visually unsafe shared atlases. No new translation applied."
+}

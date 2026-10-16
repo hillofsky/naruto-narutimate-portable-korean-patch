@@ -1,0 +1,43 @@
+{
+  "0008__1hakbod1.ccs__TEX_name__64x64.png": {
+    "resource": "1hakbod1.ccs",
+    "texture": "TEX_name",
+    "translation": "白/하루 오타 -> 하쿠"
+  },
+  "0214__gauge.ccs__TEX_xmenu__256x128.png": {
+    "resource": "gauge.ccs",
+    "texture": "TEX_xmenu",
+    "translation": "操作設定 / SELECT...デフォルトに戻る -> 조작 설정 / SELECT 버튼: 기본값 복원",
+    "source": "historical clean KO candidate"
+  },
+  "0214__gauge.ccs__TEX_xselect5__64x64.png": {
+    "resource": "gauge.ccs",
+    "texture": "TEX_xselect5",
+    "translation": "全勝カウント/連勝カウント/チャレンジモード -> 전승/연승/챌린지 모드"
+  },
+  "0316__mg_ki.ccs__TEX_mgtitle01__256x64.png": {
+    "resource": "mg_ki.ccs",
+    "texture": "TEX_mgtitle01",
+    "translation": "木登り修業! -> 나무타기 수련!"
+  },
+  "0317__mg_kinobori.ccs__TEX_mgtitle01__256x64.png": {
+    "resource": "mg_kinobori.ccs",
+    "texture": "TEX_mgtitle01",
+    "translation": "木登り修業! -> 나무타기 수련!"
+  },
+  "0320__sik_pose.ccs__TEX_2tyoglb0__64x64.png": {
+    "resource": "sik_pose.ccs",
+    "texture": "TEX_2tyoglb0",
+    "translation": "ボタン -> 버튼"
+  },
+  "0322__slot.ccs__TEX_slot_t01__512x512.png": {
+    "resource": "slot.ccs",
+    "texture": "TEX_slot_t01",
+    "translation": "三竦み/当たり!!/大当たり!! -> 삼파전/당첨!!/대박!!"
+  },
+  "0499__narup.ccs__TEX_narup__512x256.png": {
+    "resource": "narup.ccs",
+    "texture": "TEX_narup",
+    "translation": "遊戯終了/散歩開始/散歩終了/パックン -> 게임 종료/산책 시작/산책 종료/팟쿤"
+  }
+}

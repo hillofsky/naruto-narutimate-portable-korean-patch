@@ -1,0 +1,35 @@
+Naruto PSP Stage 38E - Full OCR
+Timestamp: 2026-10-02 20:44:18
+Result: SUCCESS
+
+Source:
+Part1=1498
+Part2=588
+Total=2086
+
+OCR:
+OK=2086
+Failed=0
+ReviewFlag=6
+MeanSec=0.4372
+MinSec=0.2923
+MaxSec=1.3960
+ThisRunWallSec=949.062
+ServerRestarts=1
+
+Preliminary Hangul corpus:
+UniqueHangul=688
+LowFrequencyCountLE2=187
+
+Prompt:
+Stage38D corrected B prompt
+
+Resume:
+Checkpoint=PROJECT_ROOT\analysis\stage38e_full_ocr\ocr_checkpoint.csv
+
+Files:
+Results=PROJECT_ROOT\analysis\stage38e_full_ocr\ocr_2086_results.csv
+Review=PROJECT_ROOT\analysis\stage38e_full_ocr\review_needed.tsv
+CharFrequency=PROJECT_ROOT\analysis\stage38e_full_ocr\char_frequency.tsv
+LowFrequency=PROJECT_ROOT\analysis\stage38e_full_ocr\low_frequency_review.tsv
+UniqueHangul=PROJECT_ROOT\analysis\stage38e_full_ocr\unique_hangul.txt

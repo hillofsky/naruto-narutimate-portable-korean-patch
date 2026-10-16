@@ -1,0 +1,19 @@
+Naruto PSP MOV03B - Static PMF -> external audio reference scan
+============================================================================
+
+Candidate files scanned=13
+Total PMF string hits=22
+Movies with PMF string hits=20/21
+Movies with nearby audio-like tokens=20/21
+DM movies with PMF refs=10/10: dm001, dm002, dm003, dm004, dm005, dm006, dm007, dm008, dm009, dm010
+DM movies with nearby audio tokens=10/10: dm001, dm002, dm003, dm004, dm005, dm006, dm007, dm008, dm009, dm010
+
+Interpretation:
+- VERY_NEAR: audio-like identifier within 4 KiB of PMF reference.
+- NEAR: within 64 KiB.
+- WIDE: only found within 1 MiB; may be unrelated.
+
+Next:
+- If voice IDs cluster near dm001..dm010 refs, decode only those AT3 groups.
+- Match decoded individual voice clips against Stage37 source audio automatically.
+- No PPSSPP gameplay is required.

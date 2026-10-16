@@ -1,0 +1,21 @@
+Naruto PSP MOV03R - dm001 FINAL raw-ATRAC mux smoke test
+================================================================================
+
+Final PMF=PASS
+Final H264 == MOV03Q Korean-subtitle H264: YES
+Final logical 752-byte AU stream == KR: YES
+Final 744-byte ATRAC3+ frames == KR: YES
+KR/final ATRAC frame count=1158/1158
+KR/final audio PES count=432/432
+Audio PTS entries KR/final=432/432
+Same-index exact PTS=431/432
+Max same-index PTS delta=0.046444s
+ATRAC decode=PASS
+Preview=PASS
+
+No at3tool was used.
+No ATRAC frame was re-encoded.
+
+Outputs:
+  Final PMF : PROJECT_ROOT\analysis\mov\mov03r_dm001_final_mux\output\dm001_KOsub_KR-JP-original_FINAL_TEST.pmf
+  Preview   : PROJECT_ROOT\analysis\mov\mov03r_dm001_final_mux\output\dm001_FINAL_KOsub_KR-JP-audio_preview.mp4

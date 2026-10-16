@@ -1,0 +1,33 @@
+Naruto PSP SUB11 - Stage34/36R Glyph Pipeline Recovery
+
+CandidateStageRoots=10
+InventoryFiles=90
+KeywordHitFiles=43
+FontReferencesFound=2
+BOOTLikeCandidates=5
+
+Top likely pipeline files:
+  score=38 analysis\stage35\stage35_font_glyphs.tsv [0x39CD04|0x42A7C0|162|3600|39CD04|42A7C0|81EC|81EE|81EF|8241|8248|824A|825C|825E|82F5|82F7|glyph]
+  score=38 analysis\stage35r\stage35r_slot_inventory.tsv [0x39CD04|0x42A7C0|162|39CD04|42A7C0|81EC|81EE|81EF|8241|8248|824A|825C|825E|82F5|82F7|font_file_offset|glyph]
+  score=35 analysis\stage36r\stage36r_low_standard_donor.py [0x39CD04|162|39CD04|81EF|8241|8248|824A|825C|825E|82F5|82F7|font_file_offset|glyph|stage36r_mapping]
+  score=35 run_stage36r_low_standard_donor.ps1 [0x39CD04|162|39CD04|81EF|8241|8248|824A|825C|825E|82F5|82F7|font_file_offset|glyph|stage36r_mapping]
+  score=34 analysis\stage34\stage34_build_test.py [0x39CD04|162|39CD04|font_file_offset|glyph|ImageFont|truetype]
+  score=29 analysis\stage35\stage35_summary.txt [08BA0CB0|0x08BA0CB0|0x39CD04|162|18x18|3600|39CD04|glyph]
+  score=25 analysis\stage35\stage35_charset_allocator.py [08BA0CB0|0x08BA0CB0|0x39CD04|162|3600|39CD04|font_file_offset|glyph]
+  score=25 analysis\stage35\stage35_summary.json [08BA0CB0|0x08BA0CB0|0x39CD04|162|3600|39CD04|font_file_offset|glyph]
+  score=25 analysis\stage35r\stage35r_analyze.py [08BA0CB0|0x08BA0CB0|0x39CD04|162|3600|39CD04|font_file_offset|glyph]
+  score=25 run_stage35_charset_allocator.ps1 [08BA0CB0|0x08BA0CB0|0x39CD04|162|3600|39CD04|font_file_offset|glyph]
+  score=25 run_stage35r_allocator_fix.ps1 [08BA0CB0|0x08BA0CB0|0x39CD04|162|3600|39CD04|font_file_offset|glyph]
+  score=24 analysis\stage34\stage34_summary.json [0x39CD04|0x42A7C0|162|39CD04|42A7C0|font_file_offset|glyph]
+  score=24 analysis\stage35r\stage35r_summary.json [08BA0CB0|0x08BA0CB0|0x39CD04|162|3600|39CD04|glyph]
+  score=21 analysis\stage36\stage36_standard_donor_smoke.py [0x39CD04|162|39CD04|glyph]
+  score=21 analysis\stage36r\stage36r_mapping.tsv [0x42A7C0|162|42A7C0|81EC|81EE|81EF|8241|8248|824A|825C|825E|82F5|82F7|glyph]
+  score=21 analysis\stage36r\stage36r_summary.json [0x42A7C0|162|42A7C0|81EC|81EE|81EF|8241|8248|824A|825C|825E|82F5|82F7|glyph]
+  score=21 run_stage36_standard_donor_smoke.ps1 [0x39CD04|162|39CD04|glyph]
+  score=19 analysis\stage34\stage34_runtime_hangul.py [08BA0CB0|0x08BA0CB0|162|glyph|ImageFont|truetype]
+  score=19 analysis\stage35\stage35_sjis_slot_inventory.tsv [162|81EC|81EE|81EF|8241|8248|824A|825C|825E|82F5|82F7|glyph]
+  score=17 analysis\stage36\stage36_standard_donor_mapping.tsv [162|81EF|8241|8248|824A|825C|825E|82F5|82F7|glyph]
+
+Font references are recorded as path strings only.
+No TTF/OTF/TTC font files are copied.
+No BOOT/EBOOT/ISO bytes are modified.

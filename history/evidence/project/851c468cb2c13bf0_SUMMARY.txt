@@ -1,0 +1,17 @@
+Naruto PSP SUB43 - Menu Image Translation
+
+SourceISO=PROJECT_ROOT\analysis\sub\sub42_menu_text\Naruto_KR_MOV06E_SUB42_Names_Guides_Menu.iso
+SourceSHA256=027973bbde6d7b1ddccc0e5e407e6ee519b8b9874b5c91ec778eb794bda493c3
+FinalISO=PROJECT_ROOT\analysis\sub\sub43_menu_images\Naruto_KR_MOV06E_SUB43_MenuImages.iso
+FinalSHA256=9c565369ac5cf6ccf5fb2898577503a5cac43ab0aec297482ba76698eeba3433
+PatchedResources=6
+PatchedTextures=14
+FSTSChangedBundles=5
+PreservedPrimaryResources=638
+PreservedPMFs=24
+BOOT_EBOOT_Preserved=YES
+ExistingDialogueNamesGuidesMenuTextPreserved=YES
+ExistingFontMappingPreserved=694+17
+NewGlyphsAdded=0
+StaticQA=PASS
+RuntimeMenuVisualQA=PENDING

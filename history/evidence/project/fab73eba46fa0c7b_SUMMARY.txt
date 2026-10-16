@@ -1,0 +1,19 @@
+Naruto PSP SUB14 - Actual Event SJIS -> Glyph Mapping Recovery
+
+BOOTSHA256=1083ba42327f187cd81fe6b31c9975857d271373d4a907d1b7f35d38bc7fc4c8
+MappedTargets=6/6
+DisassemblyRows=651
+StageEvidenceFiles=8
+
+Targets:
+  sjis_classify_088D5640 runtime=0x088D5640 mapped=YES file=0xD1694
+  sjis_to_glyph_088D56EC runtime=0x088D56EC mapped=YES file=0xD1740
+  renderer_1byte_088D64E0 runtime=0x088D64E0 mapped=YES file=0xD2534
+  renderer_2byte_088D65CC runtime=0x088D65CC mapped=YES file=0xD2620
+  control_parser_088D675C runtime=0x088D675C mapped=YES file=0xD27B0
+  event_loop_088D752C runtime=0x088D752C mapped=YES file=0xD3580
+
+Purpose:
+- replace the incorrect Stage35R theoretical JIS-grid mapping
+  with the actual runtime conversion used by 0x088D56EC.
+- no BOOT/EBOOT/ISO bytes are modified.

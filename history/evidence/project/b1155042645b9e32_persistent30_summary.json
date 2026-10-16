@@ -1,0 +1,21 @@
+{
+  "backend": "llama.cpp Vulkan persistent server",
+  "device": "AMD BC-250 RADV",
+  "server_url": "httLOCAL_PATH",
+  "model_id": "/home/lhs/naruto_stage38a_cache/models/Qwen3-VL-2B-Instruct-Q8_0.gguf",
+  "samples": 30,
+  "server_startup_seconds": 5.17,
+  "first_request_seconds": 1.4406653159999792,
+  "warm_requests": 29,
+  "warm_mean_seconds": 1.848191054206897,
+  "warm_median_seconds": 1.8273534369999993,
+  "warm_p95_seconds": 2.001355785599992,
+  "warm_images_per_second": 0.5410696030173806,
+  "all_mean_seconds": 1.8346068629333332,
+  "gpu_sampling": {
+    "gpu_util_mean_percent": null,
+    "gpu_util_peak_percent": null,
+    "vram_peak_mib": null
+  },
+  "prompt": "이 이미지는 게임 영상에서 잘라낸 자막/대사 영역이다.\n화면에 실제로 보이는 글자만 정확히 전사하라.\n\n규칙:\n- 한국어, 일본어, 영어, 숫자, 문장부호를 보이는 그대로 적는다.\n- 번역, 의역, 요약, 추측, 설명을 하지 않는다.\n- 줄바꿈은 화면에 보이는 대로 최대한 유지한다.\n- 글자가 전혀 없으면 [EMPTY]라고 적는다.\n- 판독할 수 없는 글자만 [불명]으로 표시한다.\n- 이미지에 없는 문장을 만들어내지 않는다.\n\n반드시 아래 형식만 출력한다.\n<OCR>\n화면의 실제 텍스트\n</OCR>"
+}

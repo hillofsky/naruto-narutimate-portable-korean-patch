@@ -1,0 +1,19 @@
+Naruto PSP SUB07 - Final OCR-cleaned Subtitle Corpus
+
+Entries=1900
+SUB06VisualReviewRows=69
+VisualCorrectionsApplied=67
+VisualConfirmedUnchanged=2
+ResidualKnownBadPatternRows=0
+CorpusIncludedEntries=1899
+CorpusExcludedEntries=1
+FinalUniqueHangul=694
+
+Visually confirmed unchanged:
+  seq420: 앞으로 라니 — source image really says this
+  seq486: 혹시건 뭐건 — source image really says this
+
+Remaining intentional exclusion:
+  g24 title-style text is cropped at the top and remains excluded from character corpus.
+
+SharedHandoff=PROJECT_ROOT\analysis\shared\youtube_subtitle_anchors.tsv

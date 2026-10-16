@@ -1,0 +1,39 @@
+{
+  "stage": "SUB28",
+  "mode": "READ_ONLY_FULL_TRANSLATION_WORKLIST_AND_PATCHER_AUDIT",
+  "game_rows": 1976,
+  "status_counts": {
+    "STABLE_1G1S": 1407,
+    "SPLIT_1S_TO_2G": 24,
+    "EXCEPTION_1G1S": 134,
+    "EXCEPTION_UNVOICED_1G1S": 16,
+    "DIRECT_TRANSLATE": 304,
+    "MERGE_SUBTITLE_PARTS_TO_1G": 91
+  },
+  "ready_reuse_rows": 1557,
+  "manual_task_rows": 419,
+  "direct_translation_rows": 304,
+  "split_merge_rows": 115,
+  "translation_task_units": 407,
+  "original_payload_bytes": {
+    "min": 2,
+    "p50": 30,
+    "p95": 76,
+    "max": 108
+  },
+  "font_mapping_status": "OK",
+  "font_detected_hangul": 694,
+  "existing_draft_unique_hangul": 678,
+  "existing_draft_missing_hangul": 0,
+  "patcher_audit": {
+    "patcher_found": true,
+    "patcher_sha256": "6b06b849948b12d46ed17e9787c4872ba4271222dbafcbd19e5224cda139bb82",
+    "line_count": 2578,
+    "explicit_max_bytes_token": false,
+    "size_guard_snippet_count": 120,
+    "policy": "NOT_ASSUMED"
+  },
+  "per_message_max_bytes_assumed": false,
+  "final_translation_completed": false,
+  "game_files_modified": false
+}

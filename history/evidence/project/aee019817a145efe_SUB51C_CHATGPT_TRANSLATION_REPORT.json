@@ -1,0 +1,17 @@
+{
+  "candidate_rows": 1334,
+  "translated_chatgpt": 1140,
+  "skip_internal_data": 178,
+  "skip_false_positive": 16,
+  "unique_hangul_used": 534,
+  "japanese_residual_in_translated": 0,
+  "control_token_mismatches": 0,
+  "approx_boot_byte_overages": 0,
+  "source_fingerprint_sha256": "f5003873e57c2352311346c647111e2904527f1e9a89ed75ad02a6d56a763237",
+  "original_candidate_tsv_sha256": "64aa72374b27a81b0ab57b608e734c33bde9e785a3ed3f15cb2ced8d6702145a",
+  "occurrence_tsv_sha256": "9cc35f507b24654972a5da182412a905ccb382f08f37c1e3fe3a5e6ff32155b2",
+  "translation_engine": "ChatGPT",
+  "bc250_used": false,
+  "local_llm_used": false,
+  "note": "Internal/debug/resource identifiers and binary false positives are intentionally not translated to avoid breaking references."
+}

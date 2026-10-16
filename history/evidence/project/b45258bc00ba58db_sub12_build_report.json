@@ -1,0 +1,29 @@
+{
+  "stage": "SUB12",
+  "renderer": {
+    "font_path": "LOCAL_PATH",
+    "font_sha256": "a541834fb9cdde9bd6d2c3ff1565cb0bb5ccf7a15e4e9daf2cb58d9b1cf282aa",
+    "font_size": 16,
+    "canvas": [
+      18,
+      18
+    ],
+    "draw_xy": [
+      1,
+      -4
+    ],
+    "fill": 255,
+    "quantize": "pixel // 17",
+    "pack": "pixel0 low nibble | pixel1 high nibble",
+    "bytes_per_glyph": 162
+  },
+  "mapping_rows": 694,
+  "fixed10_hash_matches": 10,
+  "original_boot_sha256": "1083ba42327f187cd81fe6b31c9975857d271373d4a907d1b7f35d38bc7fc4c8",
+  "patched_boot_sha256": "7b4d8019dc6bd095b58fa7f307d3429e79af3aa9e6d764c13e0afe4418df2ae3",
+  "mapping_sha256": "9c73cdb33eb812a813c78cfb5efcad80838322ab5a4da90c91eb3db6aaca056c",
+  "off_target_byte_changes": 0,
+  "font_file_offset": "0x39CD04",
+  "max_target_glyph": 2064,
+  "special_region_allocations": 0
+}

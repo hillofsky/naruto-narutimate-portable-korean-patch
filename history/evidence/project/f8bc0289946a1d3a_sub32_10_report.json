@@ -1,0 +1,14 @@
+{
+  "stage": "SUB32_10",
+  "rows_reviewed": 176,
+  "changed_rows": 92,
+  "retained_rows": 84,
+  "control_exact_rows": 176,
+  "control_mismatches": 0,
+  "new_hangul_required": 0,
+  "ocr_authoritative": false,
+  "japanese_primary": true,
+  "english_secondary": true,
+  "game_files_modified": false,
+  "full_review_progress": "1976/1976"
+}

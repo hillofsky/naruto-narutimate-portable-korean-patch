@@ -1,0 +1,24 @@
+Naruto PSP MOV03K FIX3 - Robust ATRAC3+ wrapper trials
+================================================================================
+
+Corrected raw-length GCD=752 (0x2F0)
+Expected frame size=752 (0x2F0)
+DM files with validated full-duration WAV=0/10
+
+Wrapper variants tried:
+  ext22_s0_fact4
+  ext22_s2048_fact4
+  ext34_s0_fact4
+  ext34_s2048_fact4
+  ext34_s2048_fact8
+  ext22_s0_nofact
+
+FIX3 specifically fixes the prior crash:
+- None durations are printed as N/A, never formatted with :.3f.
+- A failed decoder does not stop the remaining DM files.
+- Every ffprobe/ffmpeg result and stderr excerpt is captured.
+
+If 0/10 still decode:
+- the demux/frame evidence remains preserved separately from RIFF wrapper success;
+- fix3_wrapper_trials.tsv will show whether FFmpeg recognizes the ATRAC3+ GUID
+  and the exact decoder error for each header variant.

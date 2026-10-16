@@ -1,0 +1,31 @@
+Naruto PSP SUB24 - Global Monotonic Audio Ensemble
+
+DialogueRows=1761
+GameRows=1976
+
+RAWSelectedRows=1569
+RANK_LIGHTSelectedRows=1569
+RANK_MEDSelectedRows=1568
+SQUAREDSelectedRows=1569
+THRESHSelectedRows=1569
+
+FiveVariantExactConsensus=1565
+ConsensusRankDistribution={"1": 1318, "2": 162, "3": 46, "4": 25, "5": 14}
+AudioMonotonicCore=1368
+ReviewRows=393
+ReviewBlocks=302
+AudioTimeOrderWarningPairs=5
+AudioTimeOrderWarningRows=10
+
+Required anchors:
+  SUB09 #19   -> event000.tbl#001 / s_a01_000
+  SUB09 #164  -> event003.tbl#047 / s_a06_043
+  SUB09 #1883 -> event112.tbl#122 / s_b15_079
+
+Important:
+  SUB23 local top1 is NOT used as final truth.
+  Five global monotonic variants correct cases such as #1883,
+  where local top1 repeats the previous voice and rank2 is the correct next row.
+
+  AUDIO_MONOTONIC_CORE is strong evidence, not semantic-final proof.
+  No TBL/DAT/BOOT/ISO files were modified.

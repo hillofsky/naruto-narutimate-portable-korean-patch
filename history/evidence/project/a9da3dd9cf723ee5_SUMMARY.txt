@@ -1,0 +1,22 @@
+Naruto PSP MOV03K FIX4 - Exact OMA/EA3 ATRAC3+ wrapper
+================================================================================
+
+Corrected raw-length GCD=752 (0x2F0)
+ATRAC3+ frame size=752 (0x2F0)
+OMA codec params=0x00285D
+Validated full-duration WAV=0/10
+
+OMA construction:
+  ea3 ID3v2.3 header (empty metadata)
+  EA3 header size = 96
+  codec id = 1 (ATRAC3+)
+  sample rate index = 1 (44100 Hz)
+  channel id = 2 (stereo)
+  size code = 93 (frame = size_code*8+8 = 752)
+
+Two variants are tested:
+  oma_ea3_id3    : normal OMA with minimal ea3 ID3 header
+  oma_ea3_noid3  : diagnostic EA3-only form
+
+FFmpeg is invoked with -f oma for decoding.
+See fix4_oma_trials.tsv for exact codec recognition and stderr.

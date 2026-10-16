@@ -1,0 +1,43 @@
+Naruto PSP SUB06 - Common/Systematic OCR Residual Review
+
+InputEntries=1900
+ReviewRows=69
+ImagesCopied=69
+ImagesMissing=0
+
+Purpose:
+- Catch recurring OCR errors that rare-character review cannot detect.
+- Do not auto-correct based on language/context alone.
+- Every candidate is visually reviewed against its source frame.
+
+Patterns:
+  나두토=13
+  니루토=1
+  나우토=1
+  나못잎=10
+  나못없=5
+  오로치마족=1
+  모로치마루=1
+  시카마우=1
+  담자=2
+  애기=13
+  종오=3
+  희안하=1
+  시터=1
+  쓰려졌다=1
+  니자를=1
+  거짓장소의 솔=3
+  솔이 걸려=1
+  겹이 다른=1
+  척도=1
+  둘기=2
+  패나 강력=1
+  이단 거=1
+  혹시건=1
+  앞으로 라니=1
+  나지 않겠어=1
+  잠아=1
+  공지 있는=1
+  군게=1
+  달혀=1
+  합락=1

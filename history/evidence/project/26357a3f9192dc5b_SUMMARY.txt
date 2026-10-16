@@ -1,0 +1,4 @@
+SUB51P discovery
+Goal: fix remaining Mode Select JP header / bottom button hints / title pressed white gap.
+No ISO modification. No PPSSPP launch.
+Collected files=116

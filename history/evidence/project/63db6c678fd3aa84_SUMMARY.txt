@@ -1,0 +1,12 @@
+Naruto PSP SUB37 FIX1 - Speaker Name Probe
+
+SpeakerNamesPatched=23
+NamePoolBytes=196
+XrefPatches=46
+StaticUIJapaneseStrings=237
+SaveStatesFound=0
+Slot1Hints=0
+TextureAssetsFound=0
+MoviePMFsPreserved=24
+StaticBuildQA=PASS
+RuntimeSpeakerNameVisualCheck=REQUIRED

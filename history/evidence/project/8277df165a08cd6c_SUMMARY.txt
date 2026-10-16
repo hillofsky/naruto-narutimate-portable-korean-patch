@@ -1,0 +1,24 @@
+Naruto PSP MOV04C - FINAL batch DA/DK translated movies
+================================================================================
+
+PASS=5/5
+FAIL=0/5
+Exact KR audio PTS=5/5
+
+Final architecture:
+  visual = US localized clean movie + Korean burned subtitle
+  subtitle timing = MOV04B reviewed KR timeline
+  audio = KR original Japanese ATRAC3+ frames
+  audio PTS = KR original exact values
+
+Validation required per movie:
+  final H264 == generated Korean-subtitle PSP H264
+  final 752-byte AU stream == KR
+  final 744-byte ATRAC3+ frames == KR
+  final audio PES count == KR
+  final audio PTS sequence == KR
+  ATRAC decode PASS
+  H264 480x272 PASS
+
+FINAL BATCH RESULT=PASS
+Output folder: PROJECT_ROOT\analysis\mov\mov04c_final_batch\output

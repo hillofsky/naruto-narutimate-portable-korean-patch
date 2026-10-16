@@ -1,0 +1,24 @@
+{
+  "stage": "SUB51N_FIX6_PRESSED_RUNTIME_QA",
+  "iso": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\Naruto_KR_MOV06E_SUB51N_TitleHomePolish.iso",
+  "actual_sha256": "8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081",
+  "summary_sha256": "8a4ddc795e6f5287f6ed54018bd48c3c881a4e7343fb7ca31d60e0e8afa32081",
+  "summary_path": "PROJECT_ROOT\\analysis\\sub\\sub51n_titlehomepolish\\build\\SUMMARY.txt",
+  "summary_sha_match": true,
+  "normal_boot": true,
+  "save_state_used": false,
+  "game_modified": false,
+  "bc250_used": false,
+  "local_llm_used": false,
+  "fix6": "resume from debugger entry; each screenshot uses pause/stepping -> GPU capture -> resume; stable-scene gate + bidirectional DOWN/UP localized menu proof; gated START; no START spam",
+  "ko_pressed_frames": 32,
+  "jp_iso": null,
+  "jp_pressed_frames": 0,
+  "runtime_qa_status": "CAPTURE_COMPLETE_NEEDS_VISUAL_JUDGEMENT",
+  "required_judgement": [
+    "Korean pressed state has no white block",
+    "green scroll/roll remains visible",
+    "left side is not clipped",
+    "compare KO and JP pressed frames"
+  ]
+}

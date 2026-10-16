@@ -1,0 +1,25 @@
+Naruto PSP MOV05B FIX5 - overlap reset inside black transition
+================================================================================
+
+RESULT=PASS
+
+Early mapping=+0.700s
+Late mapping=+0.250s
+Source rewind at edit=0.450s
+Black interval=67.768..70.103s
+KR reset time=68.461s
+Repeated source interval=68.711..69.161s
+
+No video stretching.
+No inserted black frame.
+No frame hold.
+Only a short source overlap, completely inside the existing black transition.
+
+Video=Stage37 Koreanized visual
+Audio=exact KR Japanese ATRAC3+
+PTS=exact KR audio PTS
+Watermark=preserved for sync test
+
+Final PMF=PROJECT_ROOT\analysis\mov\mov05b_fix5_dk101_overlap_reset\output\dk101_stage37_KOvideo_KRJPaudio_overlapreset.pmf
+Smoke ISO=PROJECT_ROOT\analysis\mov\mov05b_fix5_dk101_overlap_reset\output\Naruto_KR_MOV05B_FIX5_dk101_stage37_smoketest.iso
+Wrapper auto-launches PPSSPP.

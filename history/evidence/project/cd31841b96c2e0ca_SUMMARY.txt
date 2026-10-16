@@ -1,0 +1,30 @@
+Naruto PSP Stage 38B
+ScriptRevision: FIX2
+Timestamp: 2026-10-02 19:15:38
+Result: FAILED
+ExitCode: 
+ElapsedSeconds: N/A
+
+Goal:
+RTX 3070에서 Qwen3-VL 단일 이미지 OCR을 끝까지 실행하는 smoke test.
+
+PowerShell 5.1 workaround:
+Native executables are wrapped by cmd.exe and stderr is redirected before PowerShell sees it.
+
+Configuration:
+n_gpu_layers=99
+ctx=2048
+batch=512
+ubatch=512
+image_max_tokens=512
+mmproj_offload=OFF
+
+LLAMA=PROJECT_ROOT\analysis\stage38a_cuda\cuda_runtime\llama-cli.exe
+MODEL=PROJECT_ROOT\analysis\stage38a_cuda\models\Qwen3-VL-2B-Instruct-Q8_0.gguf
+MMPROJ=PROJECT_ROOT\analysis\stage38a_cuda\models\mmproj-Qwen3-VL-2B-Instruct-Q8_0.gguf
+IMAGE=PROJECT_ROOT\analysis\stage38a\naruto_stage38a_payload\images\001_part1_p1_g1.jpg
+
+Transcript=PROJECT_ROOT\logs\naruto_stage38b_20261002_191538.log
+CLI_Output=PROJECT_ROOT\analysis\stage38b\llama_cli_output_20261002_191538.log
+
+Failure=nvidia-smi 실행 실패. Exit code=Fri Oct  2 19:15:38 2026        +-----------------------------------------------------------------------------------------+ | NVIDIA-SMI 591.74                 Driver Version: 591.74         CUDA Version: 13.1     | +-----------------------------------------+------------------------+----------------------+ | GPU  Name                  Driver-Model | Bus-Id          Disp.A | Volatile Uncorr. ECC | | Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. | |                                         |                        |               MIG M. | |=========================================+========================+======================| |   0  NVIDIA GeForce RTX 3070 ...  WDDM  |   00000000:01:00.0  On |                  N/A | | N/A   43C    P8             14W /  130W |     523MiB /   8192MiB |     21%      Default | |                                         |                        |                  N/A | +-----------------------------------------+------------------------+----------------------+  +-----------------------------------------------------------------------------------------+ | Processes:                                                                              | |  GPU   GI   CI              PID   Type   Process name                        GPU Memory | |        ID   ID                                                               Usage      | |=========================================================================================| |    0   N/A  N/A            1804    C+G   ...App_cw5n1h2txyewy\LockApp.exe      N/A      | |    0   N/A  N/A            1980    C+G   ...2p2nqsd0c76g0\app\ChatGPT.exe      N/A      | |    0   N/A  N/A            4152    C+G   ...\codex-computer-use-swift.exe      N/A      | |    0   N/A  N/A           18196    C+G   ...h_cw5n1h2txyewy\SearchApp.exe      N/A      | |    0   N/A  N/A           18616    C+G   ...(x86)\Notepad++\notepad++.exe      N/A      | |    0   N/A  N/A           19020    C+G   ...ekyb3d8bbwe\CalculatorApp.exe      N/A      | |    0   N/A  N/A           20072    C+G   ...\NearbyShare\nearby_share.exe      N/A      | |    0   N/A  N/A           24064    C+G   ...5n1h2txyewy\TextInputHost.exe      N/A      | |    0   N/A  N/A           24756    C+G   ...8bbwe\PhoneExperienceHost.exe      N/A      | |    0   N/A  N/A           27436    C+G   ...4__3c1yjt4zspk6g\SAClient.exe      N/A      | +-----------------------------------------------------------------------------------------+ 0

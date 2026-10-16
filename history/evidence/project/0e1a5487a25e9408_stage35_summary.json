@@ -1,0 +1,44 @@
+{
+  "stage": 35,
+  "status": "ANALYSIS_ONLY",
+  "boot": {
+    "path": "PROJECT_ROOT\\kr_extracted\\PSP_GAME\\SYSDIR\\BOOT.BIN",
+    "sha256": "1083ba42327f187cd81fe6b31c9975857d271373d4a907d1b7f35d38bc7fc4c8",
+    "font_file_offset": "0x39CD04",
+    "font_runtime": "0x08BA0CB0",
+    "glyph_count": 3600,
+    "glyph_size": 162,
+    "empty_glyphs": 87
+  },
+  "special_table": {
+    "expected_file_offset": "0x2DE964",
+    "detected": false,
+    "detected_file_offset": null,
+    "layout": null,
+    "score": null,
+    "entry_count": 0
+  },
+  "original_usage": {
+    "coverage_grade": "HIGH",
+    "decoded_tbl_files": 184,
+    "have_stage9_event_report": true,
+    "have_ccs_scan_report": true,
+    "distinct_sjis_pairs": 10002,
+    "total_sjis_pair_occurrences": 176553
+  },
+  "translation_corpus": {
+    "status": "SEED_ONLY",
+    "source_files": 1,
+    "unique_hangul": 10,
+    "hangul_occurrences": 10
+  },
+  "allocation": {
+    "safe_candidate_slots": 309,
+    "empty_unused_slots": 11,
+    "nonempty_unused_slots": 298,
+    "needed_chars": 10,
+    "allocated_chars": 10,
+    "capacity_ok": true,
+    "validation_errors": []
+  }
+}

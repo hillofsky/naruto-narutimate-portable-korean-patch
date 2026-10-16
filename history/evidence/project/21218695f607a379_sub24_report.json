@@ -1,0 +1,39 @@
+{
+  "stage": "SUB24",
+  "mode": "READ_ONLY_GLOBAL_MONOTONIC_AUDIO_ENSEMBLE",
+  "dialogue_rows": 1761,
+  "game_rows": 1976,
+  "variant_selected_rows": {
+    "RAW": 1569,
+    "RANK_LIGHT": 1569,
+    "RANK_MED": 1568,
+    "SQUARED": 1569,
+    "THRESH": 1569
+  },
+  "five_variant_exact_consensus": 1565,
+  "consensus_rank_distribution": {
+    "1": 1318,
+    "2": 162,
+    "3": 46,
+    "4": 25,
+    "5": 14
+  },
+  "audio_monotonic_core": 1368,
+  "review_rows": 393,
+  "review_blocks": 302,
+  "review_reason_counts": {
+    "AUDIO_CONFIDENCE_WEAK": 104,
+    "NO_5_VARIANT_MONOTONIC_CONSENSUS": 196,
+    "AUDIO_CONFIDENCE_MEDIUM": 84,
+    "AUDIO_TIME_ORDER_WARNING": 10
+  },
+  "audio_time_order_warning_pairs": 5,
+  "audio_time_order_warning_rows": 10,
+  "required_anchors": {
+    "19": "event000.tbl#001 / s_a01_000",
+    "164": "event003.tbl#047 / s_a06_043",
+    "1883": "event112.tbl#122 / s_b15_079"
+  },
+  "semantic_final_claim": false,
+  "game_files_modified": false
+}

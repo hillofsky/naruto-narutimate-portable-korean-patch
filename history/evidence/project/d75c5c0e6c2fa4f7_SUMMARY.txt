@@ -1,0 +1,19 @@
+Naruto PSP SUB48 - Menu Atlas Cleanup
+
+SourceSHA256=8b04e816bf6d6b15b4ad5e288056e4fbe6261c2d5d882dd2e1b67594fbcb6951
+FinalISO=PROJECT_ROOT\analysis\sub\sub48_menu_atlas_cleanup\Naruto_KR_MOV06E_SUB48_MenuAtlasCleanup.iso
+FinalSHA256=7bd72351ac14fc5d7a0774e04290ffaf88b67e1239493938793f037e8530bc92
+FinalSize=1174906880
+TextPatched=6
+TextSkippedUnmapped=0
+TextSkippedTooLong=0
+TextNotFound=3
+ChangedResources=gauge.ccs,home.ccs,option.ccs,rpggauge.ccs
+FSTSChangedBundles=2
+PreservedPrimaryResources=640
+PMFsPreserved=24
+FontMappingPreserved=694+17
+NewGlyphsAdded=0
+CompactRebuild=YES
+StaticQA=PASS
+RuntimeQA=REQUIRED

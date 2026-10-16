@@ -1,0 +1,32 @@
+{
+  "stage": "SUB44_RUNTIME_QA",
+  "iso_sha256": "0aa25f739c76d7143591f38991ff65a026d1d5ceae73075d4402d13664667264",
+  "targets": [
+    {
+      "target": "mode_select",
+      "status": "CAPTURED",
+      "file": "01_mode_select.png"
+    },
+    {
+      "target": "option",
+      "status": "CAPTURED",
+      "file": "02_option.png"
+    },
+    {
+      "target": "wireless",
+      "status": "CAPTURED",
+      "file": "03_wireless.png"
+    },
+    {
+      "target": "exit_prompt",
+      "status": "CAPTURED",
+      "file": "04_exit_prompt.png"
+    },
+    {
+      "target": "extra_problem",
+      "status": "CAPTURED",
+      "file": "05_extra_problem.png"
+    }
+  ],
+  "captured": 5
+}

@@ -1,0 +1,16 @@
+{
+  "stage": 36,
+  "purpose": "verify arbitrary unused standard SJIS donor slots",
+  "stage34_iso_sha256": "3796AA67AB347545C38E431CA84A2A6ECF4E7DF789CA0D90B499A50A4B2395AD",
+  "stage34_iso_boot_lba": 419110,
+  "stage34_iso_boot_size": 6170192,
+  "original_boot_sha256": "1083BA42327F187CD81FE6B31C9975857D271373D4A907D1B7F35D38BC7FC4C8",
+  "patched_boot_sha256": "058D6FCF75422F26476D2FBA8B8DA13C809D31D2826B6255A39D95161BC02BD3",
+  "font_source": "verified Stage34 glyph bitmaps 3582..3591",
+  "allocation_source": "PROJECT_ROOT\\analysis\\stage35r\\stage35r_allocation_strict.tsv",
+  "probe_tbl": "PROJECT_ROOT\\analysis\\stage36\\event000_stage36.tbl",
+  "expected": [
+    "STD1:한글테스트",
+    "STD2:가나다라마"
+  ]
+}
