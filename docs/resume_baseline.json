@@ -1,12 +1,19 @@
 {
   "schema_version": 1,
   "inspected_commit": "c9282611741fa55963fae36697168c1e3202ad08",
-  "verified_this_session": "Repository file integrity only; no ISO, patch decode or runtime verification",
   "files": {
-    "patch/manifest.json": "5785e329aa62c3fbab0ba3338a160775628d3d1ab4c771c2ec7780cf77ba0873",
-    "patch/sub52/manifest.json": "9564e30f4f54fea44741fe99af9797978191d19245649b4b2dd02eba960da173",
-    "docs/AI_HANDOFF.md": "951d854456877fdfc5520d8658296b2f1e3768eb2e88c6cb5dd7fdba3ba3f12b",
-    "docs/SUB52_PROGRESS.md": "13e70da486da5c22d98542ad5668ccf494be3fd0ae312d31963204c0f632f5bd",
-    "work/apply_patch.py": "930b660f60df82e826e4412a01389005dee6bdce576b84c6992d4e003adb69ee"
-  }
+    "patch/manifest.json": "c8773e401e82975f2021964587ee468d4c2825688e2f91a410f4c36c0d59294f",
+    "patch/sub52/manifest.json": "81531b9789030d573c2283206809c8eea48396354247669e92cbadec7fc9d7b0",
+    "docs/AI_HANDOFF.md": "8fd991d20b3c4671946236d975ccd9f9689c650df724b3ceba43e786c3f00658",
+    "docs/SUB52_PROGRESS.md": "f81177345ceb192a6bcd3e2c65437326fa864893d22b8934ab316b1e1d97bcaa",
+    "work/apply_patch.py": "6d9c3fc3256b7fa556baa07f0ed1578b4c47b26d3b03a728683995d6f61c5b8b",
+    "tools/develop.py": "404ba3b972c22a1a752fa37ac7f454b2f9905bba478874edb095b1432a0f1d2c",
+    "tools/dev/ccs.py": "b89b7313becd8a7152e409075d8c060ac8e22377a80f4297aabfba1e5b38d594",
+    "tools/dev/compact.py": "5d550452ec1caf87f763dcb6fef0fe1aee62010122e6f5955f9f58f15d6507f8",
+    "data/sub52/sub52u_hud_rectangles.json": "8a71eb731e14e80f63fa55beaef15c5567f93fe617b0396d5ac15b3c5ee49a94"
+  },
+  "development_review_date": "2026-10-16",
+  "initial_review_scope": "Repository file integrity only; no ISO, patch decode or runtime verification",
+  "development_validation": "docs/PORTABILITY_VALIDATION.md",
+  "line_endings": "Pinned text files use LF, enforced by .gitattributes; legacy Windows CRLF digests were normalized without content changes."
 }

@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-16",
+  "results": {
+    "naruto_isolated_changed_build": {
+      "output_sha256": "f42712c76567ecbfc603fcab8586b0b55d62d21039eec0dcc10cb4754410d9b5",
+      "static_readback": "PASS",
+      "runtime_qa": "PENDING",
+      "resource_changed": true,
+      "non_target_live_files": "PRESERVED"
+    },
+    "naruto_output_overwrite_rejected": true,
+    "naruto_wrong_baseline_rejected": true
+  },
+  "runtime_qa": "NOT_RUN"
+}

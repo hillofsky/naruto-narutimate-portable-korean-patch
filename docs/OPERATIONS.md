@@ -31,3 +31,5 @@ python work/apply_patch.py --manifest patch/sub52/manifest.json --source "SOURCE
 결과 해시 일치 → PPSSPP normal boot → 알려진 화면 재현 → 일반 저장/불러오기 및 추가 플레이 순서로 범위를 늘린다. 이전 세이브스테이트는 신규 빌드 QA 근거로 사용하지 않는다. 각 항목의 날짜·환경·결과·근거와 미검증 범위를 별도로 남긴다.
 
 공개 전 git diff --stat, git diff --check, git status --short로 변경과 신규 파일을 검토한다. ISO·원본 자산·비밀정보를 stage하지 않는다. 사용자가 commit/push를 명시적으로 승인한 뒤 연결과 대상 원격/브랜치를 확인하고 문서·스크립트만 명시적으로 stage한다. 이번 인계 구조는 사용자 승인 후 main에 커밋/푸시했다.
+
+개발 재개 도구와 지원 범위는 [개발 안내](DEVELOPMENT.md)를 참고하세요.

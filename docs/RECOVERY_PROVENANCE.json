@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-16",
+  "source_files": {
+    "sub52g_patch_helpers.py": "f7c8447e24ec566300654417709cdde1629b8f314f492e3d5c8599115299b485",
+    "sub52k_fix2_iso_helpers.py": "be3042ed723dd93dce9e2f271d5b26e32c9266e9f0585a601685cddbd5b57282",
+    "gauge_remaining_manifest.json": "8a71eb731e14e80f63fa55beaef15c5567f93fe617b0396d5ac15b3c5ee49a94"
+  },
+  "method": "Recovered pure file-format definitions; excluded runtime code and game assets. Translation tables retain historical statuses, not current application proof."
+}
